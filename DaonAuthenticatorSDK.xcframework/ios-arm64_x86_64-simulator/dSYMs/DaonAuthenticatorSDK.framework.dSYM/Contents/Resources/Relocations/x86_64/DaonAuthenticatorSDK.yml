@@ -1,0 +1,550 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/jonny/Library/Developer/Xcode/DerivedData/DaonAuthenticatorSDK-bdcskrvxmgwaragxurkijoxugqvl/Build/Intermediates.noindex/ArchiveIntermediates/Simulator/InstallationBuildProductsLocation/Library/Frameworks/DaonAuthenticatorSDK.framework/DaonAuthenticatorSDK'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x6F159, size: 0x8, addend: 0x0, symName: _DaonAuthenticatorSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x23980, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x6F18E, size: 0x8, addend: 0x0, symName: _DaonAuthenticatorSDKVersionNumber, symObjAddr: 0x48, symBinAddr: 0x239C8, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x6F1CB, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController initWithContext:reportErrorOnLACancel:sdkWillDetermineLockEvents:sdkWillHandleLockEvents:]', symObjAddr: 0x0, symBinAddr: 0x31E0, symSize: 0x11C }
+  - { offsetInCU: 0x260, offset: 0x6F404, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController initWithContext:reportErrorOnLACancel:sdkWillDetermineLockEvents:sdkWillHandleLockEvents:]', symObjAddr: 0x0, symBinAddr: 0x31E0, symSize: 0x11C }
+  - { offsetInCU: 0x32B, offset: 0x6F4CF, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController performAuthenticationWithReason:completionHandler:]', symObjAddr: 0x11C, symBinAddr: 0x32FC, symSize: 0x19 }
+  - { offsetInCU: 0x384, offset: 0x6F528, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController performAuthenticationWithReason:completionHandler:fallback:]', symObjAddr: 0x135, symBinAddr: 0x3315, symSize: 0x18 }
+  - { offsetInCU: 0x3EB, offset: 0x6F58F, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController performAuthenticationWithReason:completionHandler:fallback:terminateOnFallback:]', symObjAddr: 0x14D, symBinAddr: 0x332D, symSize: 0x509 }
+  - { offsetInCU: 0x6F0, offset: 0x6F894, size: 0x8, addend: 0x0, symName: '___117-[DASDefaultAppleBiometricController performAuthenticationWithReason:completionHandler:fallback:terminateOnFallback:]_block_invoke', symObjAddr: 0x656, symBinAddr: 0x3836, symSize: 0x16B }
+  - { offsetInCU: 0x81E, offset: 0x6F9C2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x7C1, symBinAddr: 0x39A1, symSize: 0xF }
+  - { offsetInCU: 0x851, offset: 0x6F9F5, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x7D0, symBinAddr: 0x39B0, symSize: 0xF }
+  - { offsetInCU: 0x87C, offset: 0x6FA20, size: 0x8, addend: 0x0, symName: '___117-[DASDefaultAppleBiometricController performAuthenticationWithReason:completionHandler:fallback:terminateOnFallback:]_block_invoke.375', symObjAddr: 0x7DF, symBinAddr: 0x39BF, symSize: 0x17C }
+  - { offsetInCU: 0x9DA, offset: 0x6FB7E, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x95B, symBinAddr: 0x3B3B, symSize: 0x2C }
+  - { offsetInCU: 0xA27, offset: 0x6FBCB, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x987, symBinAddr: 0x3B67, symSize: 0x2C }
+  - { offsetInCU: 0xA6A, offset: 0x6FC0E, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController fixTouchIDFreeze]', symObjAddr: 0x9B3, symBinAddr: 0x3B93, symSize: 0x202 }
+  - { offsetInCU: 0xC39, offset: 0x6FDDD, size: 0x8, addend: 0x0, symName: '___54-[DASDefaultAppleBiometricController fixTouchIDFreeze]_block_invoke', symObjAddr: 0xBB5, symBinAddr: 0x3D95, symSize: 0x6 }
+  - { offsetInCU: 0xC78, offset: 0x6FE1C, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController reportBackErrorIfRequired:]', symObjAddr: 0xBBB, symBinAddr: 0x3D9B, symSize: 0x120 }
+  - { offsetInCU: 0xD53, offset: 0x6FEF7, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController cancel]', symObjAddr: 0xCDB, symBinAddr: 0x3EBB, symSize: 0x63 }
+  - { offsetInCU: 0xDB6, offset: 0x6FF5A, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController handleCompletion]', symObjAddr: 0xD3E, symBinAddr: 0x3F1E, symSize: 0x62 }
+  - { offsetInCU: 0xE1D, offset: 0x6FFC1, size: 0x8, addend: 0x0, symName: '___54-[DASDefaultAppleBiometricController handleCompletion]_block_invoke', symObjAddr: 0xDA0, symBinAddr: 0x3F80, symSize: 0x41 }
+  - { offsetInCU: 0xE77, offset: 0x7001B, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController handleError:]', symObjAddr: 0xDE1, symBinAddr: 0x3FC1, symSize: 0xE6 }
+  - { offsetInCU: 0xF1E, offset: 0x700C2, size: 0x8, addend: 0x0, symName: '___50-[DASDefaultAppleBiometricController handleError:]_block_invoke', symObjAddr: 0xEC7, symBinAddr: 0x40A7, symSize: 0x1EB }
+  - { offsetInCU: 0x1065, offset: 0x70209, size: 0x8, addend: 0x0, symName: '___50-[DASDefaultAppleBiometricController handleError:]_block_invoke_2', symObjAddr: 0x10B2, symBinAddr: 0x4292, symSize: 0x58 }
+  - { offsetInCU: 0x1115, offset: 0x702B9, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x110A, symBinAddr: 0x42EA, symSize: 0x25 }
+  - { offsetInCU: 0x1156, offset: 0x702FA, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x112F, symBinAddr: 0x430F, symSize: 0x25 }
+  - { offsetInCU: 0x118D, offset: 0x70331, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController checkForTooManyAttempts:]', symObjAddr: 0x1154, symBinAddr: 0x4334, symSize: 0x15E }
+  - { offsetInCU: 0x1272, offset: 0x70416, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController shouldCancelOnBackgrounding]', symObjAddr: 0x12B2, symBinAddr: 0x4492, symSize: 0x43 }
+  - { offsetInCU: 0x12C2, offset: 0x70466, size: 0x8, addend: 0x0, symName: '-[DASDefaultAppleBiometricController .cxx_destruct]', symObjAddr: 0x12F5, symBinAddr: 0x44D5, symSize: 0x3C }
+  - { offsetInCU: 0x27, offset: 0x707E5, size: 0x8, addend: 0x0, symName: '-[DASLockInfo initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x4511, symSize: 0x1AD }
+  - { offsetInCU: 0x146, offset: 0x70904, size: 0x8, addend: 0x0, symName: '-[DASLockInfo initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x4511, symSize: 0x1AD }
+  - { offsetInCU: 0x2A0, offset: 0x70A5E, size: 0x8, addend: 0x0, symName: '-[DASLockInfo encodeWithCoder:]', symObjAddr: 0x1AD, symBinAddr: 0x46BE, symSize: 0x158 }
+  - { offsetInCU: 0x3BB, offset: 0x70B79, size: 0x8, addend: 0x0, symName: '-[DASLockInfo incrementAttempts]', symObjAddr: 0x305, symBinAddr: 0x4816, symSize: 0x32 }
+  - { offsetInCU: 0x406, offset: 0x70BC4, size: 0x8, addend: 0x0, symName: '-[DASLockInfo suspendWithInterval:]', symObjAddr: 0x337, symBinAddr: 0x4848, symSize: 0x82 }
+  - { offsetInCU: 0x491, offset: 0x70C4F, size: 0x8, addend: 0x0, symName: '-[DASLockInfo hasSuspensionExpired]', symObjAddr: 0x3B9, symBinAddr: 0x48CA, symSize: 0xC6 }
+  - { offsetInCU: 0x51C, offset: 0x70CDA, size: 0x8, addend: 0x0, symName: '-[DASLockInfo removeSuspension]', symObjAddr: 0x47F, symBinAddr: 0x4990, symSize: 0x41 }
+  - { offsetInCU: 0x573, offset: 0x70D31, size: 0x8, addend: 0x0, symName: '-[DASLockInfo permanentlyLock]', symObjAddr: 0x4C0, symBinAddr: 0x49D1, symSize: 0x70 }
+  - { offsetInCU: 0x5E2, offset: 0x70DA0, size: 0x8, addend: 0x0, symName: '-[DASLockInfo unlockWithId:]', symObjAddr: 0x530, symBinAddr: 0x4A41, symSize: 0x90 }
+  - { offsetInCU: 0x685, offset: 0x70E43, size: 0x8, addend: 0x0, symName: '-[DASLockInfo reset]', symObjAddr: 0x5C0, symBinAddr: 0x4AD1, symSize: 0x3F }
+  - { offsetInCU: 0x6DC, offset: 0x70E9A, size: 0x8, addend: 0x0, symName: '-[DASLockInfo description]', symObjAddr: 0x5FF, symBinAddr: 0x4B10, symSize: 0xF8 }
+  - { offsetInCU: 0x77F, offset: 0x70F3D, size: 0x8, addend: 0x0, symName: '-[DASLockInfo attempts]', symObjAddr: 0x6F7, symBinAddr: 0x4C08, symSize: 0xA }
+  - { offsetInCU: 0x7B4, offset: 0x70F72, size: 0x8, addend: 0x0, symName: '-[DASLockInfo setAttempts:]', symObjAddr: 0x701, symBinAddr: 0x4C12, symSize: 0xA }
+  - { offsetInCU: 0x7F1, offset: 0x70FAF, size: 0x8, addend: 0x0, symName: '-[DASLockInfo suspensionCount]', symObjAddr: 0x70B, symBinAddr: 0x4C1C, symSize: 0xA }
+  - { offsetInCU: 0x826, offset: 0x70FE4, size: 0x8, addend: 0x0, symName: '-[DASLockInfo setSuspensionCount:]', symObjAddr: 0x715, symBinAddr: 0x4C26, symSize: 0xA }
+  - { offsetInCU: 0x863, offset: 0x71021, size: 0x8, addend: 0x0, symName: '-[DASLockInfo lastLock]', symObjAddr: 0x71F, symBinAddr: 0x4C30, symSize: 0xA }
+  - { offsetInCU: 0x898, offset: 0x71056, size: 0x8, addend: 0x0, symName: '-[DASLockInfo setLastLock:]', symObjAddr: 0x729, symBinAddr: 0x4C3A, symSize: 0x11 }
+  - { offsetInCU: 0x8D7, offset: 0x71095, size: 0x8, addend: 0x0, symName: '-[DASLockInfo lastLockInterval]', symObjAddr: 0x73A, symBinAddr: 0x4C4B, symSize: 0xA }
+  - { offsetInCU: 0x90C, offset: 0x710CA, size: 0x8, addend: 0x0, symName: '-[DASLockInfo setLastLockInterval:]', symObjAddr: 0x744, symBinAddr: 0x4C55, symSize: 0xA }
+  - { offsetInCU: 0x949, offset: 0x71107, size: 0x8, addend: 0x0, symName: '-[DASLockInfo unlockCount]', symObjAddr: 0x74E, symBinAddr: 0x4C5F, symSize: 0xA }
+  - { offsetInCU: 0x97E, offset: 0x7113C, size: 0x8, addend: 0x0, symName: '-[DASLockInfo setUnlockCount:]', symObjAddr: 0x758, symBinAddr: 0x4C69, symSize: 0xA }
+  - { offsetInCU: 0x9BB, offset: 0x71179, size: 0x8, addend: 0x0, symName: '-[DASLockInfo lastUnlockRequestId]', symObjAddr: 0x762, symBinAddr: 0x4C73, symSize: 0xA }
+  - { offsetInCU: 0x9F0, offset: 0x711AE, size: 0x8, addend: 0x0, symName: '-[DASLockInfo setLastUnlockRequestId:]', symObjAddr: 0x76C, symBinAddr: 0x4C7D, symSize: 0x11 }
+  - { offsetInCU: 0xA2F, offset: 0x711ED, size: 0x8, addend: 0x0, symName: '-[DASLockInfo .cxx_destruct]', symObjAddr: 0x77D, symBinAddr: 0x4C8E, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0x712A0, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo initWithFactor:name:description:icon:lockState:lockedUntil:algorithm:id:version:extensions:invalidated:]', symObjAddr: 0x0, symBinAddr: 0x4CB6, symSize: 0x13A }
+  - { offsetInCU: 0x27A, offset: 0x714F3, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo initWithFactor:name:description:icon:lockState:lockedUntil:algorithm:id:version:extensions:invalidated:]', symObjAddr: 0x0, symBinAddr: 0x4CB6, symSize: 0x13A }
+  - { offsetInCU: 0x3D3, offset: 0x7164C, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo description]', symObjAddr: 0x13A, symBinAddr: 0x4DF0, symSize: 0xF4 }
+  - { offsetInCU: 0x476, offset: 0x716EF, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorFactor]', symObjAddr: 0x22E, symBinAddr: 0x4EE4, symSize: 0xA }
+  - { offsetInCU: 0x4AB, offset: 0x71724, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorName]', symObjAddr: 0x238, symBinAddr: 0x4EEE, symSize: 0xA }
+  - { offsetInCU: 0x4E0, offset: 0x71759, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorDescription]', symObjAddr: 0x242, symBinAddr: 0x4EF8, symSize: 0xA }
+  - { offsetInCU: 0x515, offset: 0x7178E, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorIcon]', symObjAddr: 0x24C, symBinAddr: 0x4F02, symSize: 0xA }
+  - { offsetInCU: 0x54A, offset: 0x717C3, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorLockState]', symObjAddr: 0x256, symBinAddr: 0x4F0C, symSize: 0xA }
+  - { offsetInCU: 0x57F, offset: 0x717F8, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorLockedUntil]', symObjAddr: 0x260, symBinAddr: 0x4F16, symSize: 0xA }
+  - { offsetInCU: 0x5B4, offset: 0x7182D, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorSigningAlgorithm]', symObjAddr: 0x26A, symBinAddr: 0x4F20, symSize: 0xA }
+  - { offsetInCU: 0x5E9, offset: 0x71862, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorId]', symObjAddr: 0x274, symBinAddr: 0x4F2A, symSize: 0xA }
+  - { offsetInCU: 0x61E, offset: 0x71897, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorVersion]', symObjAddr: 0x27E, symBinAddr: 0x4F34, symSize: 0xA }
+  - { offsetInCU: 0x653, offset: 0x718CC, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorExtensions]', symObjAddr: 0x288, symBinAddr: 0x4F3E, symSize: 0xA }
+  - { offsetInCU: 0x688, offset: 0x71901, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo authenticatorInvalidated]', symObjAddr: 0x292, symBinAddr: 0x4F48, symSize: 0x9 }
+  - { offsetInCU: 0x6BD, offset: 0x71936, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorInfo .cxx_destruct]', symObjAddr: 0x29B, symBinAddr: 0x4F51, symSize: 0x49 }
+  - { offsetInCU: 0x27, offset: 0x719D6, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0x4F9A, symSize: 0xD }
+  - { offsetInCU: 0x2B6, offset: 0x71C65, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0x4F9A, symSize: 0xD }
+  - { offsetInCU: 0x2E9, offset: 0x71C98, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getName]', symObjAddr: 0xD, symBinAddr: 0x4FA7, symSize: 0xD }
+  - { offsetInCU: 0x31C, offset: 0x71CCB, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getDescription]', symObjAddr: 0x1A, symBinAddr: 0x4FB4, symSize: 0xD }
+  - { offsetInCU: 0x34F, offset: 0x71CFE, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getVersionCode]', symObjAddr: 0x27, symBinAddr: 0x4FC1, symSize: 0xB }
+  - { offsetInCU: 0x382, offset: 0x71D31, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getVersionName]', symObjAddr: 0x32, symBinAddr: 0x4FCC, symSize: 0xD }
+  - { offsetInCU: 0x3B5, offset: 0x71D64, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getIcon]', symObjAddr: 0x3F, symBinAddr: 0x4FD9, symSize: 0x45 }
+  - { offsetInCU: 0x3EC, offset: 0x71D9B, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getFactorType]', symObjAddr: 0x84, symBinAddr: 0x501E, symSize: 0xB }
+  - { offsetInCU: 0x41F, offset: 0x71DCE, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator getMatcherProtection]', symObjAddr: 0x8F, symBinAddr: 0x5029, symSize: 0x8 }
+  - { offsetInCU: 0x452, offset: 0x71E01, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator isSupported]', symObjAddr: 0x97, symBinAddr: 0x5031, symSize: 0x19 }
+  - { offsetInCU: 0x491, offset: 0x71E40, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator reenroll:]', symObjAddr: 0xB0, symBinAddr: 0x504A, symSize: 0x81 }
+  - { offsetInCU: 0x4FC, offset: 0x71EAB, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator reenrollingOnNextAuth]', symObjAddr: 0x131, symBinAddr: 0x50CB, symSize: 0x8D }
+  - { offsetInCU: 0x56F, offset: 0x71F1E, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator weakSuperOnCollectionCompletion]', symObjAddr: 0x1BE, symBinAddr: 0x5158, symSize: 0x2F }
+  - { offsetInCU: 0x5A2, offset: 0x71F51, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator weakSuperOnCollectionFailure:]', symObjAddr: 0x1ED, symBinAddr: 0x5187, symSize: 0x2F }
+  - { offsetInCU: 0x5E5, offset: 0x71F94, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator presentCollectionUIWithRegistration:extensions:keys:]', symObjAddr: 0x21C, symBinAddr: 0x51B6, symSize: 0x406 }
+  - { offsetInCU: 0x854, offset: 0x72203, size: 0x8, addend: 0x0, symName: '___83-[DASFingerprintAuthenticator presentCollectionUIWithRegistration:extensions:keys:]_block_invoke', symObjAddr: 0x622, symBinAddr: 0x55BC, symSize: 0x71 }
+  - { offsetInCU: 0x906, offset: 0x722B5, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w, symObjAddr: 0x693, symBinAddr: 0x562D, symSize: 0x12 }
+  - { offsetInCU: 0x92F, offset: 0x722DE, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w, symObjAddr: 0x6A5, symBinAddr: 0x563F, symSize: 0xE }
+  - { offsetInCU: 0x94E, offset: 0x722FD, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator presentLocalAuthenticationDirectlyWithReason:]', symObjAddr: 0x6B3, symBinAddr: 0x564D, symSize: 0x1D1 }
+  - { offsetInCU: 0xA49, offset: 0x723F8, size: 0x8, addend: 0x0, symName: '___76-[DASFingerprintAuthenticator presentLocalAuthenticationDirectlyWithReason:]_block_invoke', symObjAddr: 0x884, symBinAddr: 0x581E, symSize: 0xAD }
+  - { offsetInCU: 0xB27, offset: 0x724D6, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40w, symObjAddr: 0x931, symBinAddr: 0x58CB, symSize: 0x2E }
+  - { offsetInCU: 0xB5C, offset: 0x7250B, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40w, symObjAddr: 0x95F, symBinAddr: 0x58F9, symSize: 0x22 }
+  - { offsetInCU: 0xB87, offset: 0x72536, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator handleEnteredBackground:]', symObjAddr: 0x981, symBinAddr: 0x591B, symSize: 0x6D }
+  - { offsetInCU: 0xBF6, offset: 0x725A5, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator performSilentRegistrationWithExtensions:isRegistration:]', symObjAddr: 0x9EE, symBinAddr: 0x5988, symSize: 0x114 }
+  - { offsetInCU: 0xCE5, offset: 0x72694, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator defaultUIClassName]', symObjAddr: 0xB02, symBinAddr: 0x5A9C, symSize: 0xD }
+  - { offsetInCU: 0xD18, offset: 0x726C7, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator createController]', symObjAddr: 0xB0F, symBinAddr: 0x5AA9, symSize: 0x25 }
+  - { offsetInCU: 0xD5B, offset: 0x7270A, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator registrationReason]', symObjAddr: 0xB34, symBinAddr: 0x5ACE, symSize: 0x27 }
+  - { offsetInCU: 0xD9F, offset: 0x7274E, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator authenticationReason]', symObjAddr: 0xB5B, symBinAddr: 0x5AF5, symSize: 0x27 }
+  - { offsetInCU: 0xDE3, offset: 0x72792, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator shouldCancelOnBackgrounding]', symObjAddr: 0xB82, symBinAddr: 0x5B1C, symSize: 0x2C }
+  - { offsetInCU: 0xE27, offset: 0x727D6, size: 0x8, addend: 0x0, symName: '-[DASFingerprintAuthenticator .cxx_destruct]', symObjAddr: 0xBAE, symBinAddr: 0x5B48, symSize: 0x13 }
+  - { offsetInCU: 0x27, offset: 0x729B5, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator initWithFactor:completionHandler:failureHandler:]', symObjAddr: 0x0, symBinAddr: 0x5B5B, symSize: 0xD5 }
+  - { offsetInCU: 0x1F3, offset: 0x72B81, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator initWithFactor:completionHandler:failureHandler:]', symObjAddr: 0x0, symBinAddr: 0x5B5B, symSize: 0xD5 }
+  - { offsetInCU: 0x2BA, offset: 0x72C48, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator onRegisterComplete:extensions:keys:]', symObjAddr: 0xD5, symBinAddr: 0x5C30, symSize: 0x83 }
+  - { offsetInCU: 0x379, offset: 0x72D07, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator onAuthenticateComplete:keys:]', symObjAddr: 0x158, symBinAddr: 0x5CB3, symSize: 0x83 }
+  - { offsetInCU: 0x42C, offset: 0x72DBA, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator onFailed:code:message:]', symObjAddr: 0x1DB, symBinAddr: 0x5D36, symSize: 0x65 }
+  - { offsetInCU: 0x4D7, offset: 0x72E65, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator onAttemptFailed:info:]', symObjAddr: 0x240, symBinAddr: 0x5D9B, symSize: 0x8 }
+  - { offsetInCU: 0x522, offset: 0x72EB0, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator onDataCollectionCompleteForFactor:collectedData:extensions:keys:onAnalysisComplete:]', symObjAddr: 0x248, symBinAddr: 0x5DA3, symSize: 0x6 }
+  - { offsetInCU: 0x58D, offset: 0x72F1B, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorDelegateToBlockInator .cxx_destruct]', symObjAddr: 0x24E, symBinAddr: 0x5DA9, symSize: 0x33 }
+  - { offsetInCU: 0x27, offset: 0x7302E, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController initWithDelegate:previewView:metadataTypes:]', symObjAddr: 0x0, symBinAddr: 0x5DDC, symSize: 0x101 }
+  - { offsetInCU: 0x1BF, offset: 0x731C6, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController initWithDelegate:previewView:metadataTypes:]', symObjAddr: 0x0, symBinAddr: 0x5DDC, symSize: 0x101 }
+  - { offsetInCU: 0x292, offset: 0x73299, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController cancel]', symObjAddr: 0x101, symBinAddr: 0x5EDD, symSize: 0x12 }
+  - { offsetInCU: 0x2CF, offset: 0x732D6, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController start]', symObjAddr: 0x113, symBinAddr: 0x5EEF, symSize: 0xE3 }
+  - { offsetInCU: 0x32A, offset: 0x73331, size: 0x8, addend: 0x0, symName: '___37-[DASDefaultMetadataController start]_block_invoke', symObjAddr: 0x1F6, symBinAddr: 0x5FD2, symSize: 0x6C }
+  - { offsetInCU: 0x3AA, offset: 0x733B1, size: 0x8, addend: 0x0, symName: '___37-[DASDefaultMetadataController start]_block_invoke_2', symObjAddr: 0x262, symBinAddr: 0x603E, symSize: 0xA5 }
+  - { offsetInCU: 0x46A, offset: 0x73471, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController startMetadataScanning]', symObjAddr: 0x327, symBinAddr: 0x60E3, symSize: 0x7F1 }
+  - { offsetInCU: 0x7E2, offset: 0x737E9, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController stopMetadataScanning]', symObjAddr: 0xB18, symBinAddr: 0x68D4, symSize: 0x6D }
+  - { offsetInCU: 0x851, offset: 0x73858, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController captureOutput:didOutputMetadataObjects:fromConnection:]', symObjAddr: 0xB85, symBinAddr: 0x6941, symSize: 0x4B4 }
+  - { offsetInCU: 0xA74, offset: 0x73A7B, size: 0x8, addend: 0x0, symName: '___86-[DASDefaultMetadataController captureOutput:didOutputMetadataObjects:fromConnection:]_block_invoke', symObjAddr: 0x1039, symBinAddr: 0x6DF5, symSize: 0x10E }
+  - { offsetInCU: 0xBA1, offset: 0x73BA8, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController handleStarted]', symObjAddr: 0x1197, symBinAddr: 0x6F03, symSize: 0x7C }
+  - { offsetInCU: 0xBF1, offset: 0x73BF8, size: 0x8, addend: 0x0, symName: '___45-[DASDefaultMetadataController handleStarted]_block_invoke', symObjAddr: 0x1213, symBinAddr: 0x6F7F, symSize: 0x51 }
+  - { offsetInCU: 0xC6F, offset: 0x73C76, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController handleSuccessWithImage:contents:]', symObjAddr: 0x1264, symBinAddr: 0x6FD0, symSize: 0x11A }
+  - { offsetInCU: 0xD4B, offset: 0x73D52, size: 0x8, addend: 0x0, symName: '___64-[DASDefaultMetadataController handleSuccessWithImage:contents:]_block_invoke', symObjAddr: 0x137E, symBinAddr: 0x70EA, symSize: 0x5B }
+  - { offsetInCU: 0xDE9, offset: 0x73DF0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48w, symObjAddr: 0x13D9, symBinAddr: 0x7145, symSize: 0x42 }
+  - { offsetInCU: 0xE2A, offset: 0x73E31, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48w, symObjAddr: 0x141B, symBinAddr: 0x7187, symSize: 0x2E }
+  - { offsetInCU: 0xE61, offset: 0x73E68, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController handleFailureWithError:]', symObjAddr: 0x1449, symBinAddr: 0x71B5, symSize: 0xBC }
+  - { offsetInCU: 0xEF4, offset: 0x73EFB, size: 0x8, addend: 0x0, symName: '___55-[DASDefaultMetadataController handleFailureWithError:]_block_invoke', symObjAddr: 0x1505, symBinAddr: 0x7271, symSize: 0x57 }
+  - { offsetInCU: 0xF87, offset: 0x73F8E, size: 0x8, addend: 0x0, symName: '-[DASDefaultMetadataController .cxx_destruct]', symObjAddr: 0x155C, symBinAddr: 0x72C8, symSize: 0x87 }
+  - { offsetInCU: 0x27, offset: 0x74313, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0x734F, symSize: 0xD }
+  - { offsetInCU: 0x26A, offset: 0x74556, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0x734F, symSize: 0xD }
+  - { offsetInCU: 0x29D, offset: 0x74589, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getName]', symObjAddr: 0xD, symBinAddr: 0x735C, symSize: 0xD }
+  - { offsetInCU: 0x2D0, offset: 0x745BC, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getDescription]', symObjAddr: 0x1A, symBinAddr: 0x7369, symSize: 0xD }
+  - { offsetInCU: 0x303, offset: 0x745EF, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getVersionCode]', symObjAddr: 0x27, symBinAddr: 0x7376, symSize: 0xB }
+  - { offsetInCU: 0x336, offset: 0x74622, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getVersionName]', symObjAddr: 0x32, symBinAddr: 0x7381, symSize: 0xD }
+  - { offsetInCU: 0x369, offset: 0x74655, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getIcon]', symObjAddr: 0x3F, symBinAddr: 0x738E, symSize: 0x45 }
+  - { offsetInCU: 0x3A0, offset: 0x7468C, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getFactorType]', symObjAddr: 0x84, symBinAddr: 0x73D3, symSize: 0xB }
+  - { offsetInCU: 0x3D3, offset: 0x746BF, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getMatcherProtection]', symObjAddr: 0x8F, symBinAddr: 0x73DE, symSize: 0xB }
+  - { offsetInCU: 0x406, offset: 0x746F2, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator getDataStoreType]', symObjAddr: 0x9A, symBinAddr: 0x73E9, symSize: 0xB }
+  - { offsetInCU: 0x439, offset: 0x74725, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator hasUICollection]', symObjAddr: 0xA5, symBinAddr: 0x73F4, symSize: 0x8 }
+  - { offsetInCU: 0x46C, offset: 0x74758, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator isSupported]', symObjAddr: 0xAD, symBinAddr: 0x73FC, symSize: 0x8 }
+  - { offsetInCU: 0x49F, offset: 0x7478B, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator defaultUIClassName]', symObjAddr: 0xB5, symBinAddr: 0x7404, symSize: 0xD }
+  - { offsetInCU: 0x4D2, offset: 0x747BE, size: 0x8, addend: 0x0, symName: '-[DASSilentAuthenticator presentCollectionUIWithRegistration:extensions:keys:]', symObjAddr: 0xC2, symBinAddr: 0x7411, symSize: 0x12 }
+  - { offsetInCU: 0x27, offset: 0x7488E, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo initWithViewController:clientWillPresent:]', symObjAddr: 0x0, symBinAddr: 0x7423, symSize: 0x88 }
+  - { offsetInCU: 0x9D, offset: 0x74904, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo initWithViewController:clientWillPresent:]', symObjAddr: 0x0, symBinAddr: 0x7423, symSize: 0x88 }
+  - { offsetInCU: 0x124, offset: 0x7498B, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo collectionViewController]', symObjAddr: 0x88, symBinAddr: 0x74AB, symSize: 0xA }
+  - { offsetInCU: 0x159, offset: 0x749C0, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo setCollectionViewController:]', symObjAddr: 0x92, symBinAddr: 0x74B5, symSize: 0x11 }
+  - { offsetInCU: 0x198, offset: 0x749FF, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo clientIsResponsibleForPresentation]', symObjAddr: 0xA3, symBinAddr: 0x74C6, symSize: 0x9 }
+  - { offsetInCU: 0x1CD, offset: 0x74A34, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo setClientIsResponsibleForPresentation:]', symObjAddr: 0xAC, symBinAddr: 0x74CF, symSize: 0x9 }
+  - { offsetInCU: 0x20A, offset: 0x74A71, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorCollectorInfo .cxx_destruct]', symObjAddr: 0xB5, symBinAddr: 0x74D8, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0x74B11, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext init]', symObjAddr: 0x0, symBinAddr: 0x74E8, symSize: 0x77 }
+  - { offsetInCU: 0x7A2, offset: 0x7528C, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext init]', symObjAddr: 0x0, symBinAddr: 0x74E8, symSize: 0x77 }
+  - { offsetInCU: 0x7FD, offset: 0x752E7, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext initWithAuthenticator:isRegistration:isADoS:requestExtensions:requestKeys:dismissUIOnCompletion:completionHandler:]', symObjAddr: 0x77, symBinAddr: 0x755F, symSize: 0x262 }
+  - { offsetInCU: 0x9CA, offset: 0x754B4, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext tempDataDirectory]', symObjAddr: 0x2D9, symBinAddr: 0x77C1, symSize: 0xE }
+  - { offsetInCU: 0xA01, offset: 0x754EB, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext isRegistration]', symObjAddr: 0x2E7, symBinAddr: 0x77CF, symSize: 0x9 }
+  - { offsetInCU: 0xA36, offset: 0x75520, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext isADoSRequired]', symObjAddr: 0x2F0, symBinAddr: 0x77D8, symSize: 0x9 }
+  - { offsetInCU: 0xA6B, offset: 0x75555, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext isCaptureComplete]', symObjAddr: 0x2F9, symBinAddr: 0x77E1, symSize: 0x9 }
+  - { offsetInCU: 0xAA0, offset: 0x7558A, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext setActiveViewController:]', symObjAddr: 0x302, symBinAddr: 0x77EA, symSize: 0x11 }
+  - { offsetInCU: 0xAE1, offset: 0x755CB, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext activeViewController]', symObjAddr: 0x313, symBinAddr: 0x77FB, symSize: 0x16 }
+  - { offsetInCU: 0xB18, offset: 0x75602, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext authenticatorInfo]', symObjAddr: 0x329, symBinAddr: 0x7811, symSize: 0x260 }
+  - { offsetInCU: 0xC7B, offset: 0x75765, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext dismissViewControllerOnCompletion]', symObjAddr: 0x589, symBinAddr: 0x7A71, symSize: 0x9 }
+  - { offsetInCU: 0xCB0, offset: 0x7579A, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext setDismissViewControllerOnCompletion:]', symObjAddr: 0x592, symBinAddr: 0x7A7A, symSize: 0x9 }
+  - { offsetInCU: 0xCEF, offset: 0x757D9, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext setupTempDataDirectory]', symObjAddr: 0x59B, symBinAddr: 0x7A83, symSize: 0xAB }
+  - { offsetInCU: 0xD90, offset: 0x7587A, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext removeTempDataDirectory]', symObjAddr: 0x646, symBinAddr: 0x7B2E, symSize: 0xAA }
+  - { offsetInCU: 0xE0B, offset: 0x758F5, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext cancelCapture]', symObjAddr: 0x6F0, symBinAddr: 0x7BD8, symSize: 0xB8 }
+  - { offsetInCU: 0xE92, offset: 0x7597C, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext completeCapture]', symObjAddr: 0x7A8, symBinAddr: 0x7C90, symSize: 0x14 }
+  - { offsetInCU: 0xECF, offset: 0x759B9, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext completeCaptureWithTemporaryData:]', symObjAddr: 0x7BC, symBinAddr: 0x7CA4, symSize: 0x39F }
+  - { offsetInCU: 0x10EC, offset: 0x75BD6, size: 0x8, addend: 0x0, symName: '___54-[DASDefaultContext completeCaptureWithTemporaryData:]_block_invoke', symObjAddr: 0xB5B, symBinAddr: 0x8043, symSize: 0x59 }
+  - { offsetInCU: 0x117A, offset: 0x75C64, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext completeCaptureWithError:]', symObjAddr: 0xC04, symBinAddr: 0x809C, symSize: 0x53 }
+  - { offsetInCU: 0x11E1, offset: 0x75CCB, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext completeCaptureWithErrorObject:]', symObjAddr: 0xC57, symBinAddr: 0x80EF, symSize: 0x2FE }
+  - { offsetInCU: 0x1380, offset: 0x75E6A, size: 0x8, addend: 0x0, symName: '___52-[DASDefaultContext completeCaptureWithErrorObject:]_block_invoke', symObjAddr: 0xF55, symBinAddr: 0x83ED, symSize: 0x59 }
+  - { offsetInCU: 0x1412, offset: 0x75EFC, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext reset]', symObjAddr: 0xFAE, symBinAddr: 0x8446, symSize: 0xA0 }
+  - { offsetInCU: 0x1482, offset: 0x75F6C, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext incrementFailuresAndCheckForLockWithErrorCode:score:responseHandler:]', symObjAddr: 0x104E, symBinAddr: 0x84E6, symSize: 0xD6 }
+  - { offsetInCU: 0x156E, offset: 0x76058, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext incrementFailuresAndCheckForLockWithErrorCode:score:]', symObjAddr: 0x1124, symBinAddr: 0x85BC, symSize: 0x95 }
+  - { offsetInCU: 0x161D, offset: 0x76107, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext internalIncrementFailuresAndCheckForLockWithErrorCode:score:]', symObjAddr: 0x11B9, symBinAddr: 0x8651, symSize: 0x619 }
+  - { offsetInCU: 0x19BF, offset: 0x764A9, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext internalIncrementADoSFailuresWithErrorCode:score:]', symObjAddr: 0x17D2, symBinAddr: 0x8C6A, symSize: 0x375 }
+  - { offsetInCU: 0x1C1D, offset: 0x76707, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext incrementFailuresAndCheckForLockWithError:delegate:]', symObjAddr: 0x1B47, symBinAddr: 0x8FDF, symSize: 0x445 }
+  - { offsetInCU: 0x1ECA, offset: 0x769B4, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext resetLock]', symObjAddr: 0x1F8C, symBinAddr: 0x9424, symSize: 0x66 }
+  - { offsetInCU: 0x1F3B, offset: 0x76A25, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext showLockError:]', symObjAddr: 0x1FF2, symBinAddr: 0x948A, symSize: 0x1BC }
+  - { offsetInCU: 0x2072, offset: 0x76B5C, size: 0x8, addend: 0x0, symName: '___35-[DASDefaultContext showLockError:]_block_invoke', symObjAddr: 0x21AE, symBinAddr: 0x9646, symSize: 0x1D }
+  - { offsetInCU: 0x20DE, offset: 0x76BC8, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext haveEnoughFailedAttemptsForWarning]', symObjAddr: 0x2215, symBinAddr: 0x9663, symSize: 0xB9 }
+  - { offsetInCU: 0x2177, offset: 0x76C61, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext reportAttemptWithErrorCode:score:]', symObjAddr: 0x22CE, symBinAddr: 0x971C, symSize: 0x95 }
+  - { offsetInCU: 0x2219, offset: 0x76D03, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext reportAttemptWithErrorCode:score:delegate:]', symObjAddr: 0x2363, symBinAddr: 0x97B1, symSize: 0x315 }
+  - { offsetInCU: 0x247C, offset: 0x76F66, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext registerController:]', symObjAddr: 0x2678, symBinAddr: 0x9AC6, symSize: 0x16 }
+  - { offsetInCU: 0x24CB, offset: 0x76FB5, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext isControllerRegistered:]', symObjAddr: 0x268E, symBinAddr: 0x9ADC, symSize: 0x16 }
+  - { offsetInCU: 0x251E, offset: 0x77008, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createStandardADoSController]', symObjAddr: 0x26A4, symBinAddr: 0x9AF2, symSize: 0xA9 }
+  - { offsetInCU: 0x2593, offset: 0x7707D, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createSrpADoSController]', symObjAddr: 0x274D, symBinAddr: 0x9B9B, symSize: 0xA9 }
+  - { offsetInCU: 0x2608, offset: 0x770F2, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createFingerprintController]', symObjAddr: 0x27F6, symBinAddr: 0x9C44, symSize: 0x75 }
+  - { offsetInCU: 0x2671, offset: 0x7715B, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createFingerprintControllerWrapperWithSDKHandlingLockEvents:]', symObjAddr: 0x286B, symBinAddr: 0x9CB9, symSize: 0x77 }
+  - { offsetInCU: 0x26EB, offset: 0x771D5, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createFaceIdController]', symObjAddr: 0x28E2, symBinAddr: 0x9D30, symSize: 0x96 }
+  - { offsetInCU: 0x2760, offset: 0x7724A, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createFaceIdControllerWrapperWithSDKHandlingLockEvents:]', symObjAddr: 0x2978, symBinAddr: 0x9DC6, symSize: 0xA5 }
+  - { offsetInCU: 0x27E6, offset: 0x772D0, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext createMetadataControllerWithDelegate:previewView:metadataTypes:]', symObjAddr: 0x2A1D, symBinAddr: 0x9E6B, symSize: 0xF8 }
+  - { offsetInCU: 0x28D6, offset: 0x773C0, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext cancelControllers]', symObjAddr: 0x2B15, symBinAddr: 0x9F63, symSize: 0x19C }
+  - { offsetInCU: 0x298A, offset: 0x77474, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext maxAttemptsBeforeSuspension]', symObjAddr: 0x2CB1, symBinAddr: 0xA0FF, symSize: 0x7B }
+  - { offsetInCU: 0x29FF, offset: 0x774E9, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext maxSuspensionsBeforeLock]', symObjAddr: 0x2D2C, symBinAddr: 0xA17A, symSize: 0x1E }
+  - { offsetInCU: 0x2A41, offset: 0x7752B, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext initialSuspensionMilliseconds]', symObjAddr: 0x2D4A, symBinAddr: 0xA198, symSize: 0x1E }
+  - { offsetInCU: 0x2A83, offset: 0x7756D, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext incrementalSuspensionMilliseconds]', symObjAddr: 0x2D68, symBinAddr: 0xA1B6, symSize: 0x1E }
+  - { offsetInCU: 0x2AC5, offset: 0x775AF, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext extensionsFloatForKey:defaultValue:]', symObjAddr: 0x2D86, symBinAddr: 0xA1D4, symSize: 0x8E }
+  - { offsetInCU: 0x2B94, offset: 0x7767E, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext extensionsIntForKey:defaultValue:]', symObjAddr: 0x2E14, symBinAddr: 0xA262, symSize: 0x89 }
+  - { offsetInCU: 0x2C63, offset: 0x7774D, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext extensionsStringForKey:]', symObjAddr: 0x2E9D, symBinAddr: 0xA2EB, symSize: 0x65 }
+  - { offsetInCU: 0x2CED, offset: 0x777D7, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext extensionsBoolForKey:defaultValue:]', symObjAddr: 0x2F02, symBinAddr: 0xA350, symSize: 0x8D }
+  - { offsetInCU: 0x2DB8, offset: 0x778A2, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext responseExtensions]', symObjAddr: 0x2F8F, symBinAddr: 0xA3DD, symSize: 0x43 }
+  - { offsetInCU: 0x2E08, offset: 0x778F2, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext setResponseExtensions:]', symObjAddr: 0x2FD2, symBinAddr: 0xA420, symSize: 0x5A }
+  - { offsetInCU: 0x2E7D, offset: 0x77967, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext errorForCode:]', symObjAddr: 0x302C, symBinAddr: 0xA47A, symSize: 0x19 }
+  - { offsetInCU: 0x2ECC, offset: 0x779B6, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext localise:]', symObjAddr: 0x3045, symBinAddr: 0xA493, symSize: 0x19 }
+  - { offsetInCU: 0x2F1B, offset: 0x77A05, size: 0x8, addend: 0x0, symName: '-[DASDefaultContext .cxx_destruct]', symObjAddr: 0x305E, symBinAddr: 0xA4AC, symSize: 0x7C }
+  - { offsetInCU: 0x27, offset: 0x77DDC, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider hasKey:]', symObjAddr: 0x0, symBinAddr: 0xA528, symSize: 0x19 }
+  - { offsetInCU: 0x4B, offset: 0x77E00, size: 0x8, addend: 0x0, symName: _KDASStorageKeyDaonExtensions, symObjAddr: 0x29F0, symBinAddr: 0x30628, symSize: 0x0 }
+  - { offsetInCU: 0x61, offset: 0x77E16, size: 0x8, addend: 0x0, symName: _KDASStorageKeyLocalDataKey, symObjAddr: 0x29F8, symBinAddr: 0x30630, symSize: 0x0 }
+  - { offsetInCU: 0x77, offset: 0x77E2C, size: 0x8, addend: 0x0, symName: _KDASStorageKeyLocalBackgroundDataKey, symObjAddr: 0x2A00, symBinAddr: 0x30638, symSize: 0x0 }
+  - { offsetInCU: 0x8D, offset: 0x77E42, size: 0x8, addend: 0x0, symName: _KDASAccessControlBiometry, symObjAddr: 0x2A08, symBinAddr: 0x30640, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0x77E58, size: 0x8, addend: 0x0, symName: _KDASCurrentEnrollmentOnly, symObjAddr: 0x2A10, symBinAddr: 0x30648, symSize: 0x0 }
+  - { offsetInCU: 0x194, offset: 0x77F49, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider hasKey:]', symObjAddr: 0x0, symBinAddr: 0xA528, symSize: 0x19 }
+  - { offsetInCU: 0x1E1, offset: 0x77F96, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider createKeys:authenticator:]', symObjAddr: 0x19, symBinAddr: 0xA541, symSize: 0x82 }
+  - { offsetInCU: 0x280, offset: 0x78035, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider createKeys:authenticator:algorithm:]', symObjAddr: 0x9B, symBinAddr: 0xA5C3, symSize: 0x29E }
+  - { offsetInCU: 0x48E, offset: 0x78243, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider factorWithKey:algorithm:]', symObjAddr: 0x339, symBinAddr: 0xA861, symSize: 0x67 }
+  - { offsetInCU: 0x505, offset: 0x782BA, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider removeKeys:algorithm:]', symObjAddr: 0x3A0, symBinAddr: 0xA8C8, symSize: 0x44 }
+  - { offsetInCU: 0x580, offset: 0x78335, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider getPublicKey:algorithm:]', symObjAddr: 0x3E4, symBinAddr: 0xA90C, symSize: 0x50 }
+  - { offsetInCU: 0x5FB, offset: 0x783B0, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider hasEnrollmentChangedForKey:algorithm:]', symObjAddr: 0x434, symBinAddr: 0xA95C, symSize: 0x44 }
+  - { offsetInCU: 0x676, offset: 0x7842B, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider setString:value:inKeychain:]', symObjAddr: 0x478, symBinAddr: 0xA9A0, symSize: 0xCD }
+  - { offsetInCU: 0x74D, offset: 0x78502, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider getString:inKeychain:]', symObjAddr: 0x545, symBinAddr: 0xAA6D, symSize: 0xBE }
+  - { offsetInCU: 0x800, offset: 0x785B5, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider hasString:inKeychain:]', symObjAddr: 0x603, symBinAddr: 0xAB2B, symSize: 0xFA }
+  - { offsetInCU: 0x8DB, offset: 0x78690, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider removeString:inKeychain:]', symObjAddr: 0x6FD, symBinAddr: 0xAC25, symSize: 0x96 }
+  - { offsetInCU: 0x97E, offset: 0x78733, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider setDictionary:value:]', symObjAddr: 0x793, symBinAddr: 0xACBB, symSize: 0x9C }
+  - { offsetInCU: 0xA39, offset: 0x787EE, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider getDictionary:]', symObjAddr: 0x82F, symBinAddr: 0xAD57, symSize: 0x7E }
+  - { offsetInCU: 0xAD4, offset: 0x78889, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider removeDictionary:]', symObjAddr: 0x8AD, symBinAddr: 0xADD5, symSize: 0x7A }
+  - { offsetInCU: 0xB67, offset: 0x7891C, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider setData:value:]', symObjAddr: 0x927, symBinAddr: 0xAE4F, symSize: 0x19 }
+  - { offsetInCU: 0xBBE, offset: 0x78973, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider getData:]', symObjAddr: 0x940, symBinAddr: 0xAE68, symSize: 0x19 }
+  - { offsetInCU: 0xC0B, offset: 0x789C0, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider removeData:]', symObjAddr: 0x959, symBinAddr: 0xAE81, symSize: 0x19 }
+  - { offsetInCU: 0xC54, offset: 0x78A09, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider generateLockInfoKeyForAuthenticatorId:]', symObjAddr: 0x972, symBinAddr: 0xAE9A, symSize: 0x2C }
+  - { offsetInCU: 0xCA3, offset: 0x78A58, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider legacyGenerateLockKeyForAuthenticatorId:]', symObjAddr: 0x99E, symBinAddr: 0xAEC6, symSize: 0x2C }
+  - { offsetInCU: 0xCF2, offset: 0x78AA7, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider legacyIsLocked:]', symObjAddr: 0x9CA, symBinAddr: 0xAEF2, symSize: 0x97 }
+  - { offsetInCU: 0xDBD, offset: 0x78B72, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider lockInfoForAuthenticator:]', symObjAddr: 0xA61, symBinAddr: 0xAF89, symSize: 0x19C }
+  - { offsetInCU: 0xF18, offset: 0x78CCD, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider updateLockInfo:forAuthenticator:]', symObjAddr: 0xBFD, symBinAddr: 0xB125, symSize: 0xEB }
+  - { offsetInCU: 0x100C, offset: 0x78DC1, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider unlock:randomId:]', symObjAddr: 0xCE8, symBinAddr: 0xB210, symSize: 0x11F }
+  - { offsetInCU: 0x110F, offset: 0x78EC4, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider lockStateForAuthenticator:]', symObjAddr: 0xE07, symBinAddr: 0xB32F, symSize: 0xE4 }
+  - { offsetInCU: 0x11EE, offset: 0x78FA3, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider deleteLockInfoForAuthenticator:]', symObjAddr: 0xEEB, symBinAddr: 0xB413, symSize: 0x44 }
+  - { offsetInCU: 0x1264, offset: 0x79019, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider reenroll:randomId:]', symObjAddr: 0xF2F, symBinAddr: 0xB457, symSize: 0x1E7 }
+  - { offsetInCU: 0x1403, offset: 0x791B8, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider getDataIdForAuthenticator:]', symObjAddr: 0x1116, symBinAddr: 0xB63E, symSize: 0x2F7 }
+  - { offsetInCU: 0x163B, offset: 0x793F0, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider getLocalStorageKeyWithBackgroundApplicationOption:]', symObjAddr: 0x140D, symBinAddr: 0xB935, symSize: 0x24A }
+  - { offsetInCU: 0x183B, offset: 0x795F0, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider pathForStoredDataWithId:]', symObjAddr: 0x1657, symBinAddr: 0xBB7F, symSize: 0xDB }
+  - { offsetInCU: 0x193D, offset: 0x796F2, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider addSkipBackupAttributeToItemAtPath:]', symObjAddr: 0x1732, symBinAddr: 0xBC5A, symSize: 0x1B6 }
+  - { offsetInCU: 0x1A9F, offset: 0x79854, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider addSkipBackupAttributeToItemAtPath:].cold.1', symObjAddr: 0x2586, symBinAddr: 0x2345D, symSize: 0x23 }
+  - { offsetInCU: 0x1AB7, offset: 0x7986C, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider isDataAvailable:]', symObjAddr: 0x18E8, symBinAddr: 0xBE10, symSize: 0x75 }
+  - { offsetInCU: 0x1B49, offset: 0x798FE, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider storeData:withId:withBackgroundOption:completionBlock:]', symObjAddr: 0x195D, symBinAddr: 0xBE85, symSize: 0x135 }
+  - { offsetInCU: 0x1CBC, offset: 0x79A71, size: 0x8, addend: 0x0, symName: '___83-[DASDefaultStorageProvider storeData:withId:withBackgroundOption:completionBlock:]_block_invoke', symObjAddr: 0x1A92, symBinAddr: 0xBFBA, symSize: 0x186 }
+  - { offsetInCU: 0x1E7F, offset: 0x79C34, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64b, symObjAddr: 0x1C18, symBinAddr: 0xC140, symSize: 0x52 }
+  - { offsetInCU: 0x1ED8, offset: 0x79C8D, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s, symObjAddr: 0x1C6A, symBinAddr: 0xC192, symSize: 0x3A }
+  - { offsetInCU: 0x1F33, offset: 0x79CE8, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider retrieveDataWithId:withBackgroundOption:completionBlock:]', symObjAddr: 0x1CA4, symBinAddr: 0xC1CC, symSize: 0xBE }
+  - { offsetInCU: 0x2008, offset: 0x79DBD, size: 0x8, addend: 0x0, symName: '___85-[DASDefaultStorageProvider retrieveDataWithId:withBackgroundOption:completionBlock:]_block_invoke', symObjAddr: 0x1D62, symBinAddr: 0xC28A, symSize: 0x74 }
+  - { offsetInCU: 0x20E6, offset: 0x79E9B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x1DD6, symBinAddr: 0xC2FE, symSize: 0x44 }
+  - { offsetInCU: 0x2127, offset: 0x79EDC, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider retrieveDataWithId:withBackgroundOption:error:]', symObjAddr: 0x1E46, symBinAddr: 0xC342, symSize: 0x21E }
+  - { offsetInCU: 0x22A0, offset: 0x7A055, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider deleteDataWithId:]', symObjAddr: 0x2064, symBinAddr: 0xC560, symSize: 0xB4 }
+  - { offsetInCU: 0x2352, offset: 0x7A107, size: 0x8, addend: 0x0, symName: '-[DASDefaultStorageProvider reset]', symObjAddr: 0x2118, symBinAddr: 0xC614, symSize: 0x46E }
+  - { offsetInCU: 0x27, offset: 0x7A6C5, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0xCA82, symSize: 0xD }
+  - { offsetInCU: 0x25A, offset: 0x7A8F8, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0xCA82, symSize: 0xD }
+  - { offsetInCU: 0x28D, offset: 0x7A92B, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getName]', symObjAddr: 0xD, symBinAddr: 0xCA8F, symSize: 0xD }
+  - { offsetInCU: 0x2C0, offset: 0x7A95E, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getDescription]', symObjAddr: 0x1A, symBinAddr: 0xCA9C, symSize: 0xD }
+  - { offsetInCU: 0x2F3, offset: 0x7A991, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getVersionCode]', symObjAddr: 0x27, symBinAddr: 0xCAA9, symSize: 0xB }
+  - { offsetInCU: 0x326, offset: 0x7A9C4, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getVersionName]', symObjAddr: 0x32, symBinAddr: 0xCAB4, symSize: 0xD }
+  - { offsetInCU: 0x359, offset: 0x7A9F7, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getIcon]', symObjAddr: 0x3F, symBinAddr: 0xCAC1, symSize: 0x45 }
+  - { offsetInCU: 0x390, offset: 0x7AA2E, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator getFactorType]', symObjAddr: 0x84, symBinAddr: 0xCB06, symSize: 0x27 }
+  - { offsetInCU: 0x3CF, offset: 0x7AA6D, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator isSupported]', symObjAddr: 0xAB, symBinAddr: 0xCB2D, symSize: 0x19 }
+  - { offsetInCU: 0x40E, offset: 0x7AAAC, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator defaultUIClassName]', symObjAddr: 0xC4, symBinAddr: 0xCB46, symSize: 0xD }
+  - { offsetInCU: 0x441, offset: 0x7AADF, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator createController]', symObjAddr: 0xD1, symBinAddr: 0xCB53, symSize: 0x22 }
+  - { offsetInCU: 0x484, offset: 0x7AB22, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator registrationReason]', symObjAddr: 0xF3, symBinAddr: 0xCB75, symSize: 0x27 }
+  - { offsetInCU: 0x4C7, offset: 0x7AB65, size: 0x8, addend: 0x0, symName: '-[DASFaceIdAuthenticator authenticationReason]', symObjAddr: 0x11A, symBinAddr: 0xCB9C, symSize: 0x27 }
+  - { offsetInCU: 0x27, offset: 0x7ABFC, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator init]', symObjAddr: 0x0, symBinAddr: 0xCBC3, symSize: 0x46 }
+  - { offsetInCU: 0x22B, offset: 0x7AE00, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator init]', symObjAddr: 0x0, symBinAddr: 0xCBC3, symSize: 0x46 }
+  - { offsetInCU: 0x262, offset: 0x7AE37, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator initWithAlgorithm:]', symObjAddr: 0x46, symBinAddr: 0xCC09, symSize: 0x46 }
+  - { offsetInCU: 0x2A5, offset: 0x7AE7A, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator getID]', symObjAddr: 0x8C, symBinAddr: 0xCC4F, symSize: 0xD }
+  - { offsetInCU: 0x2D8, offset: 0x7AEAD, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator getName]', symObjAddr: 0x99, symBinAddr: 0xCC5C, symSize: 0xD }
+  - { offsetInCU: 0x30B, offset: 0x7AEE0, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator getDescription]', symObjAddr: 0xA6, symBinAddr: 0xCC69, symSize: 0xD }
+  - { offsetInCU: 0x33E, offset: 0x7AF13, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator getIcon]', symObjAddr: 0xB3, symBinAddr: 0xCC76, symSize: 0x45 }
+  - { offsetInCU: 0x375, offset: 0x7AF4A, size: 0x8, addend: 0x0, symName: '-[DASSilentAccessibilityAuthenticator getFactorType]', symObjAddr: 0xF8, symBinAddr: 0xCCBB, symSize: 0xB }
+  - { offsetInCU: 0x27, offset: 0x7AFD1, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getSupportedAuthenticators]', symObjAddr: 0x0, symBinAddr: 0xCCC8, symSize: 0x14 }
+  - { offsetInCU: 0x85, offset: 0x7B02F, size: 0x8, addend: 0x0, symName: _sEmbeddedFaceEnabled, symObjAddr: 0x25140, symBinAddr: 0x3B9A8, symSize: 0x0 }
+  - { offsetInCU: 0xA2, offset: 0x7B04C, size: 0x8, addend: 0x0, symName: _sADoSFaceEnabled, symObjAddr: 0x25151, symBinAddr: 0x3B9B9, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0x7B069, size: 0x8, addend: 0x0, symName: _sFilterNonUIAuthenticators, symObjAddr: 0x25150, symBinAddr: 0x3B9B8, symSize: 0x0 }
+  - { offsetInCU: 0xDC, offset: 0x7B086, size: 0x8, addend: 0x0, symName: _sAvailableAuthenticators, symObjAddr: 0x25158, symBinAddr: 0x3B9C0, symSize: 0x0 }
+  - { offsetInCU: 0xF7, offset: 0x7B0A1, size: 0x8, addend: 0x0, symName: _sAuthenticatorPrecedence, symObjAddr: 0x25148, symBinAddr: 0x3B9B0, symSize: 0x0 }
+  - { offsetInCU: 0x112, offset: 0x7B0BC, size: 0x8, addend: 0x0, symName: _sStorageProvider, symObjAddr: 0x25160, symBinAddr: 0x3B9C8, symSize: 0x0 }
+  - { offsetInCU: 0x6D2, offset: 0x7B67C, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getSupportedAuthenticators]', symObjAddr: 0x0, symBinAddr: 0xCCC8, symSize: 0x14 }
+  - { offsetInCU: 0x713, offset: 0x7B6BD, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getAvailableAuthenticatorFrameworks:]', symObjAddr: 0x14, symBinAddr: 0xCCDC, symSize: 0x3C4 }
+  - { offsetInCU: 0x8DF, offset: 0x7B889, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory convertPrecedenceString:]', symObjAddr: 0x3D8, symBinAddr: 0xD0A0, symSize: 0x2A5 }
+  - { offsetInCU: 0xA57, offset: 0x7BA01, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getSupportedAuthenticatorsWithExtensions:]', symObjAddr: 0x67D, symBinAddr: 0xD345, symSize: 0xDF6 }
+  - { offsetInCU: 0x11B9, offset: 0x7C163, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getAuthenticator:]', symObjAddr: 0x1473, symBinAddr: 0xE13B, symSize: 0x17 }
+  - { offsetInCU: 0x1208, offset: 0x7C1B2, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getAuthenticator:usingAlgorithm:]', symObjAddr: 0x148A, symBinAddr: 0xE152, symSize: 0x1EA }
+  - { offsetInCU: 0x131D, offset: 0x7C2C7, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getMultiAuthenticatorForPolicyType:]', symObjAddr: 0x1674, symBinAddr: 0xE33C, symSize: 0x43 }
+  - { offsetInCU: 0x137F, offset: 0x7C329, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getMultiAuthenticatorForPolicyType:usingAlgorithm:]', symObjAddr: 0x16B7, symBinAddr: 0xE37F, symSize: 0xA7 }
+  - { offsetInCU: 0x1416, offset: 0x7C3C0, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getAuthenticatorContextForAuthenticator:isRegistration:isADoS:requestExtensions:requestKeys:dismissUIOnCompletion:completionHandler:]', symObjAddr: 0x175E, symBinAddr: 0xE426, symSize: 0xD4 }
+  - { offsetInCU: 0x1527, offset: 0x7C4D1, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getSimpleContext]', symObjAddr: 0x1832, symBinAddr: 0xE4FA, symSize: 0x49 }
+  - { offsetInCU: 0x1573, offset: 0x7C51D, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getMultiAuthenticatorContextForAuthenticators:policy:factorsAndKeys:requestExtensions:uiCustomizationDelegate:isRegistration:signingAlgorithm:filterNonUIAuthenticators:onCompletion:onFailure:]', symObjAddr: 0x187B, symBinAddr: 0xE543, symSize: 0x122 }
+  - { offsetInCU: 0x16E1, offset: 0x7C68B, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getStandardADoSControllerWithContext:authenticator:requestExtensions:requestKeys:startTime:]', symObjAddr: 0x199D, symBinAddr: 0xE665, symSize: 0x114 }
+  - { offsetInCU: 0x1805, offset: 0x7C7AF, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getSrpADoSControllerWithContext:authenticator:requestExtensions:requestKeys:startTime:]', symObjAddr: 0x1AB1, symBinAddr: 0xE779, symSize: 0x114 }
+  - { offsetInCU: 0x1929, offset: 0x7C8D3, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getFingerprintControllerWithContext:]', symObjAddr: 0x1BC5, symBinAddr: 0xE88D, symSize: 0x83 }
+  - { offsetInCU: 0x199E, offset: 0x7C948, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getFingerprintControllerWrapperWithContext:sdkHandlingLockEvents:]', symObjAddr: 0x1C48, symBinAddr: 0xE910, symSize: 0xB8 }
+  - { offsetInCU: 0x1A4D, offset: 0x7C9F7, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getFaceIdControllerWithContext:]', symObjAddr: 0x1D00, symBinAddr: 0xE9C8, symSize: 0x86 }
+  - { offsetInCU: 0x1AC2, offset: 0x7CA6C, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getFaceIdControllerWrapperWithContext:sdkHandlingLockEvents:]', symObjAddr: 0x1D86, symBinAddr: 0xEA4E, symSize: 0xBB }
+  - { offsetInCU: 0x1B71, offset: 0x7CB1B, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getMetadataControllerWithDelegate:previewView:metadataTypes:]', symObjAddr: 0x1E41, symBinAddr: 0xEB09, symSize: 0xB3 }
+  - { offsetInCU: 0x1C38, offset: 0x7CBE2, size: 0x8, addend: 0x0, symName: '+[DASAuthenticatorFactory getStorageProvider]', symObjAddr: 0x1EF4, symBinAddr: 0xEBBC, symSize: 0x6D }
+  - { offsetInCU: 0x27, offset: 0x7CDF7, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess setKey:toValue:]', symObjAddr: 0x0, symBinAddr: 0xEC29, symSize: 0x90 }
+  - { offsetInCU: 0x60, offset: 0x7CE30, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess setKey:toValue:]', symObjAddr: 0x0, symBinAddr: 0xEC29, symSize: 0x90 }
+  - { offsetInCU: 0x126, offset: 0x7CEF6, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess setKey:toDataValue:]', symObjAddr: 0x90, symBinAddr: 0xECB9, symSize: 0x120 }
+  - { offsetInCU: 0x24F, offset: 0x7D01F, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess getStringForKey:]', symObjAddr: 0x1B0, symBinAddr: 0xEDD9, symSize: 0x76 }
+  - { offsetInCU: 0x2E2, offset: 0x7D0B2, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess getDataForKey:]', symObjAddr: 0x226, symBinAddr: 0xEE4F, symSize: 0xF7 }
+  - { offsetInCU: 0x3DB, offset: 0x7D1AB, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess deleteForKey:]', symObjAddr: 0x31D, symBinAddr: 0xEF46, symSize: 0xA2 }
+  - { offsetInCU: 0x4A7, offset: 0x7D277, size: 0x8, addend: 0x0, symName: '+[DASKeychainAccess deleteKeysWithString:]', symObjAddr: 0x3BF, symBinAddr: 0xEFE8, symSize: 0x138 }
+  - { offsetInCU: 0x27, offset: 0x7D380, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0xF120, symSize: 0xD }
+  - { offsetInCU: 0x2B4, offset: 0x7D60D, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getID]', symObjAddr: 0x0, symBinAddr: 0xF120, symSize: 0xD }
+  - { offsetInCU: 0x2E7, offset: 0x7D640, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getName]', symObjAddr: 0xD, symBinAddr: 0xF12D, symSize: 0xD }
+  - { offsetInCU: 0x31A, offset: 0x7D673, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getDescription]', symObjAddr: 0x1A, symBinAddr: 0xF13A, symSize: 0xD }
+  - { offsetInCU: 0x34D, offset: 0x7D6A6, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getVersionCode]', symObjAddr: 0x27, symBinAddr: 0xF147, symSize: 0xB }
+  - { offsetInCU: 0x380, offset: 0x7D6D9, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getVersionName]', symObjAddr: 0x32, symBinAddr: 0xF152, symSize: 0xD }
+  - { offsetInCU: 0x3B3, offset: 0x7D70C, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getIcon]', symObjAddr: 0x3F, symBinAddr: 0xF15F, symSize: 0x45 }
+  - { offsetInCU: 0x3EA, offset: 0x7D743, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getFactorType]', symObjAddr: 0x84, symBinAddr: 0xF1A4, symSize: 0xB }
+  - { offsetInCU: 0x41D, offset: 0x7D776, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getMatcherProtection]', symObjAddr: 0x8F, symBinAddr: 0xF1AF, symSize: 0xB }
+  - { offsetInCU: 0x450, offset: 0x7D7A9, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator getDataStoreType]', symObjAddr: 0x9A, symBinAddr: 0xF1BA, symSize: 0xB }
+  - { offsetInCU: 0x483, offset: 0x7D7DC, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator setExtensions:]', symObjAddr: 0xA5, symBinAddr: 0xF1C5, symSize: 0xAD }
+  - { offsetInCU: 0x50E, offset: 0x7D867, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator hasUICollection]', symObjAddr: 0x152, symBinAddr: 0xF272, symSize: 0x10 }
+  - { offsetInCU: 0x543, offset: 0x7D89C, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator isSupported]', symObjAddr: 0x162, symBinAddr: 0xF282, symSize: 0x8 }
+  - { offsetInCU: 0x576, offset: 0x7D8CF, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator defaultUIClassName]', symObjAddr: 0x16A, symBinAddr: 0xF28A, symSize: 0xD }
+  - { offsetInCU: 0x5A9, offset: 0x7D902, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator weakSuperOnCollectionCompletion]', symObjAddr: 0x177, symBinAddr: 0xF297, symSize: 0x2F }
+  - { offsetInCU: 0x5DC, offset: 0x7D935, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator weakSuperOnCollectionFailure:]', symObjAddr: 0x1A6, symBinAddr: 0xF2C6, symSize: 0x2F }
+  - { offsetInCU: 0x61F, offset: 0x7D978, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator presentCollectionUIWithRegistration:extensions:keys:]', symObjAddr: 0x1D5, symBinAddr: 0xF2F5, symSize: 0x70E }
+  - { offsetInCU: 0x9FE, offset: 0x7DD57, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x8E3, symBinAddr: 0xFA03, symSize: 0x16 }
+  - { offsetInCU: 0xA23, offset: 0x7DD7C, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x8F9, symBinAddr: 0xFA19, symSize: 0xF }
+  - { offsetInCU: 0xA4E, offset: 0x7DDA7, size: 0x8, addend: 0x0, symName: '___82-[DASOfflineOTPAuthenticator presentCollectionUIWithRegistration:extensions:keys:]_block_invoke', symObjAddr: 0x908, symBinAddr: 0xFA28, symSize: 0x1B9 }
+  - { offsetInCU: 0xBBC, offset: 0x7DF15, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r48r56w, symObjAddr: 0xAC1, symBinAddr: 0xFBE1, symSize: 0x52 }
+  - { offsetInCU: 0xBF1, offset: 0x7DF4A, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r48r56w, symObjAddr: 0xB13, symBinAddr: 0xFC33, symSize: 0x3E }
+  - { offsetInCU: 0xC1C, offset: 0x7DF75, size: 0x8, addend: 0x0, symName: '___82-[DASOfflineOTPAuthenticator presentCollectionUIWithRegistration:extensions:keys:]_block_invoke.353', symObjAddr: 0xB51, symBinAddr: 0xFC71, symSize: 0x1BA }
+  - { offsetInCU: 0xDC2, offset: 0x7E11B, size: 0x8, addend: 0x0, symName: '___82-[DASOfflineOTPAuthenticator presentCollectionUIWithRegistration:extensions:keys:]_block_invoke_2', symObjAddr: 0xD0B, symBinAddr: 0xFE2B, symSize: 0xA5 }
+  - { offsetInCU: 0xE81, offset: 0x7E1DA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48r, symObjAddr: 0xDB0, symBinAddr: 0xFED0, symSize: 0x42 }
+  - { offsetInCU: 0xEB6, offset: 0x7E20F, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48r, symObjAddr: 0xDF2, symBinAddr: 0xFF12, symSize: 0x33 }
+  - { offsetInCU: 0xEED, offset: 0x7E246, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b64r72r80w, symObjAddr: 0xE25, symBinAddr: 0xFF45, symSize: 0x7F }
+  - { offsetInCU: 0xF3A, offset: 0x7E293, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64r72r80w, symObjAddr: 0xEA4, symBinAddr: 0xFFC4, symSize: 0x58 }
+  - { offsetInCU: 0xF89, offset: 0x7E2E2, size: 0x8, addend: 0x0, symName: '___82-[DASOfflineOTPAuthenticator presentCollectionUIWithRegistration:extensions:keys:]_block_invoke.367', symObjAddr: 0xEFC, symBinAddr: 0x1001C, symSize: 0xB9 }
+  - { offsetInCU: 0x1073, offset: 0x7E3CC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40r48w, symObjAddr: 0xFB5, symBinAddr: 0x100D5, symSize: 0x48 }
+  - { offsetInCU: 0x109C, offset: 0x7E3F5, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r48w, symObjAddr: 0xFFD, symBinAddr: 0x1011D, symSize: 0x30 }
+  - { offsetInCU: 0x10C7, offset: 0x7E420, size: 0x8, addend: 0x0, symName: '-[DASOfflineOTPAuthenticator deregister:removeAllData:]', symObjAddr: 0x102D, symBinAddr: 0x1014D, symSize: 0x9C }
+  - { offsetInCU: 0x27, offset: 0x7E8B9, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController isReenrollRequired]', symObjAddr: 0x0, symBinAddr: 0x101E9, symSize: 0x60 }
+  - { offsetInCU: 0x180, offset: 0x7EA12, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController isReenrollRequired]', symObjAddr: 0x0, symBinAddr: 0x101E9, symSize: 0x60 }
+  - { offsetInCU: 0x1E7, offset: 0x7EA79, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController deliverData:completionHandler:]', symObjAddr: 0x60, symBinAddr: 0x10249, symSize: 0xB59 }
+  - { offsetInCU: 0x7B3, offset: 0x7F045, size: 0x8, addend: 0x0, symName: '___57-[DASDefaultSRPController deliverData:completionHandler:]_block_invoke', symObjAddr: 0xBB9, symBinAddr: 0x10DA2, symSize: 0x3C6 }
+  - { offsetInCU: 0xAA0, offset: 0x7F332, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48w, symObjAddr: 0xF7F, symBinAddr: 0x11168, symSize: 0x40 }
+  - { offsetInCU: 0xAD5, offset: 0x7F367, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController encodeAuthenticationData:srp:B:error:]', symObjAddr: 0xFED, symBinAddr: 0x111A8, symSize: 0x1F4 }
+  - { offsetInCU: 0xC7A, offset: 0x7F50C, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController encodeRegistrationData:srp:error:]', symObjAddr: 0x11E1, symBinAddr: 0x1139C, symSize: 0x1AF }
+  - { offsetInCU: 0xDAC, offset: 0x7F63E, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController checkPassword:withRestrictions:]', symObjAddr: 0x1390, symBinAddr: 0x1154B, symSize: 0x436 }
+  - { offsetInCU: 0x10DD, offset: 0x7F96F, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController matchPassword:withRequiredPatternExtensions:]', symObjAddr: 0x17C6, symBinAddr: 0x11981, symSize: 0x25A }
+  - { offsetInCU: 0x1228, offset: 0x7FABA, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController matchPassword:withAllowedPatternExtensions:]', symObjAddr: 0x1A20, symBinAddr: 0x11BDB, symSize: 0x2AC }
+  - { offsetInCU: 0x138C, offset: 0x7FC1E, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController matchPassword:withDisallowedPatternExtensions:]', symObjAddr: 0x1CCC, symBinAddr: 0x11E87, symSize: 0x25A }
+  - { offsetInCU: 0x14DB, offset: 0x7FD6D, size: 0x8, addend: 0x0, symName: '-[DASDefaultSRPController patternsWithExtension:extensions:]', symObjAddr: 0x1F26, symBinAddr: 0x120E1, symSize: 0x2BE }
+  - { offsetInCU: 0x27, offset: 0x800D6, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase init]', symObjAddr: 0x0, symBinAddr: 0x1239F, symSize: 0x6E }
+  - { offsetInCU: 0x2FF, offset: 0x803AE, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase init]', symObjAddr: 0x0, symBinAddr: 0x1239F, symSize: 0x6E }
+  - { offsetInCU: 0x34E, offset: 0x803FD, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase initWithAlgorithm:]', symObjAddr: 0x6E, symBinAddr: 0x1240D, symSize: 0x71 }
+  - { offsetInCU: 0x3AD, offset: 0x8045C, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase initWithNibName:bundle:context:]', symObjAddr: 0xDF, symBinAddr: 0x1247E, symSize: 0xE }
+  - { offsetInCU: 0x414, offset: 0x804C3, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getID]', symObjAddr: 0xED, symBinAddr: 0x1248C, symSize: 0xD }
+  - { offsetInCU: 0x447, offset: 0x804F6, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getName]', symObjAddr: 0xFA, symBinAddr: 0x12499, symSize: 0xD }
+  - { offsetInCU: 0x47A, offset: 0x80529, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getDescription]', symObjAddr: 0x107, symBinAddr: 0x124A6, symSize: 0xD }
+  - { offsetInCU: 0x4AD, offset: 0x8055C, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getVersionCode]', symObjAddr: 0x114, symBinAddr: 0x124B3, symSize: 0x8 }
+  - { offsetInCU: 0x4E0, offset: 0x8058F, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getVersionName]', symObjAddr: 0x11C, symBinAddr: 0x124BB, symSize: 0xD }
+  - { offsetInCU: 0x513, offset: 0x805C2, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase loadIconWithName:]', symObjAddr: 0x129, symBinAddr: 0x124C8, symSize: 0x51 }
+  - { offsetInCU: 0x57E, offset: 0x8062D, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getIcon]', symObjAddr: 0x17A, symBinAddr: 0x12519, symSize: 0x19 }
+  - { offsetInCU: 0x5BF, offset: 0x8066E, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getFactorType]', symObjAddr: 0x193, symBinAddr: 0x12532, symSize: 0xB }
+  - { offsetInCU: 0x5F2, offset: 0x806A1, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getMatcherProtection]', symObjAddr: 0x19E, symBinAddr: 0x1253D, symSize: 0xB }
+  - { offsetInCU: 0x625, offset: 0x806D4, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getExtensions]', symObjAddr: 0x1A9, symBinAddr: 0x12548, symSize: 0x20 }
+  - { offsetInCU: 0x668, offset: 0x80717, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase setExtensions:]', symObjAddr: 0x1C9, symBinAddr: 0x12568, symSize: 0x23 }
+  - { offsetInCU: 0x6B7, offset: 0x80766, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase removeExtensions]', symObjAddr: 0x1EC, symBinAddr: 0x1258B, symSize: 0x20 }
+  - { offsetInCU: 0x6F6, offset: 0x807A5, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase generateAuthToken]', symObjAddr: 0x20C, symBinAddr: 0x125AB, symSize: 0x19 }
+  - { offsetInCU: 0x735, offset: 0x807E4, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getDataStoreType]', symObjAddr: 0x225, symBinAddr: 0x125C4, symSize: 0x8 }
+  - { offsetInCU: 0x768, offset: 0x80817, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getClientDelegate]', symObjAddr: 0x22D, symBinAddr: 0x125CC, symSize: 0xE }
+  - { offsetInCU: 0x79F, offset: 0x8084E, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase setClientDelegate:]', symObjAddr: 0x23B, symBinAddr: 0x125DA, symSize: 0x11 }
+  - { offsetInCU: 0x7E0, offset: 0x8088F, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getSigningAlgorithm]', symObjAddr: 0x24C, symBinAddr: 0x125EB, symSize: 0xA }
+  - { offsetInCU: 0x815, offset: 0x808C4, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase setSigningAlgorithm:]', symObjAddr: 0x256, symBinAddr: 0x125F5, symSize: 0xA }
+  - { offsetInCU: 0x854, offset: 0x80903, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase hasUICollection]', symObjAddr: 0x260, symBinAddr: 0x125FF, symSize: 0x8 }
+  - { offsetInCU: 0x887, offset: 0x80936, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase isSupported]', symObjAddr: 0x268, symBinAddr: 0x12607, symSize: 0x8 }
+  - { offsetInCU: 0x8BA, offset: 0x80969, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase isRegistered:]', symObjAddr: 0x270, symBinAddr: 0x1260F, symSize: 0x16 }
+  - { offsetInCU: 0x90B, offset: 0x809BA, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase isDataStored]', symObjAddr: 0x286, symBinAddr: 0x12625, symSize: 0x8 }
+  - { offsetInCU: 0x93E, offset: 0x809ED, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase lockState]', symObjAddr: 0x28E, symBinAddr: 0x1262D, symSize: 0x54 }
+  - { offsetInCU: 0x999, offset: 0x80A48, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase lockEndTime]', symObjAddr: 0x2E2, symBinAddr: 0x12681, symSize: 0xED }
+  - { offsetInCU: 0xA57, offset: 0x80B06, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase unlock:]', symObjAddr: 0x3CF, symBinAddr: 0x1276E, symSize: 0xF0 }
+  - { offsetInCU: 0xB16, offset: 0x80BC5, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase resetState]', symObjAddr: 0x4BF, symBinAddr: 0x1285E, symSize: 0x46 }
+  - { offsetInCU: 0xB6D, offset: 0x80C1C, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase clearEnrolledData]', symObjAddr: 0x505, symBinAddr: 0x128A4, symSize: 0x6 }
+  - { offsetInCU: 0xB9C, offset: 0x80C4B, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase isInvalidated]', symObjAddr: 0x50B, symBinAddr: 0x128AA, symSize: 0x9 }
+  - { offsetInCU: 0xBD1, offset: 0x80C80, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase invalidate]', symObjAddr: 0x514, symBinAddr: 0x128B3, symSize: 0xA }
+  - { offsetInCU: 0xC02, offset: 0x80CB1, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase reenroll:]', symObjAddr: 0x51E, symBinAddr: 0x128BD, symSize: 0x11E }
+  - { offsetInCU: 0xCE5, offset: 0x80D94, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase isEnrollAllowed]', symObjAddr: 0x63C, symBinAddr: 0x129DB, symSize: 0x36 }
+  - { offsetInCU: 0xD44, offset: 0x80DF3, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase writeReenrollFlag]', symObjAddr: 0x672, symBinAddr: 0x12A11, symSize: 0x96 }
+  - { offsetInCU: 0xDC1, offset: 0x80E70, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase removeReenrollFlag]', symObjAddr: 0x708, symBinAddr: 0x12AA7, symSize: 0x97 }
+  - { offsetInCU: 0xE3E, offset: 0x80EED, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase isReenrollFlagPresent]', symObjAddr: 0x79F, symBinAddr: 0x12B3E, symSize: 0x96 }
+  - { offsetInCU: 0xEBF, offset: 0x80F6E, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getPublicKey:]', symObjAddr: 0x835, symBinAddr: 0x12BD4, symSize: 0x1D }
+  - { offsetInCU: 0xF1F, offset: 0x80FCE, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getPublicKeyFormat]', symObjAddr: 0x852, symBinAddr: 0x12BF1, symSize: 0x23 }
+  - { offsetInCU: 0xF55, offset: 0x81004, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getPublicKeyType]', symObjAddr: 0x875, symBinAddr: 0x12C14, symSize: 0x23 }
+  - { offsetInCU: 0xF8B, offset: 0x8103A, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getKeyProtection]', symObjAddr: 0x898, symBinAddr: 0x12C37, symSize: 0x56 }
+  - { offsetInCU: 0xFDB, offset: 0x8108A, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getAlgorithm]', symObjAddr: 0x8EE, symBinAddr: 0x12C8D, symSize: 0x23 }
+  - { offsetInCU: 0x1011, offset: 0x810C0, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase setCurrentKey:]', symObjAddr: 0x911, symBinAddr: 0x12CB0, symSize: 0x38 }
+  - { offsetInCU: 0x107A, offset: 0x81129, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase setCurrentKeys:]', symObjAddr: 0x949, symBinAddr: 0x12CE8, symSize: 0x38 }
+  - { offsetInCU: 0x10E3, offset: 0x81192, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase resetCurrentKeyOrKeys]', symObjAddr: 0x981, symBinAddr: 0x12D20, symSize: 0x39 }
+  - { offsetInCU: 0x112F, offset: 0x811DE, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase defaultUIClassName]', symObjAddr: 0x9BA, symBinAddr: 0x12D59, symSize: 0x8 }
+  - { offsetInCU: 0x1163, offset: 0x81212, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase createCollectionUIWithContext:delegate:]', symObjAddr: 0x9C2, symBinAddr: 0x12D61, symSize: 0x53A }
+  - { offsetInCU: 0x1491, offset: 0x81540, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase attemptUIPresentation]', symObjAddr: 0xEFC, symBinAddr: 0x1329B, symSize: 0x14B }
+  - { offsetInCU: 0x1582, offset: 0x81631, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase presentCollectionUIWithRegistration:extensions:keys:]', symObjAddr: 0x1047, symBinAddr: 0x133E6, symSize: 0x6 }
+  - { offsetInCU: 0x15D9, offset: 0x81688, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase onCollectionCompletion]', symObjAddr: 0x104D, symBinAddr: 0x133EC, symSize: 0x2E3 }
+  - { offsetInCU: 0x1756, offset: 0x81805, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase onCollectionFailureWithErrorObject:]', symObjAddr: 0x1330, symBinAddr: 0x136CF, symSize: 0x333 }
+  - { offsetInCU: 0x1903, offset: 0x819B2, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase register:extensions:delegate:]', symObjAddr: 0x1663, symBinAddr: 0x13A02, symSize: 0x5D2 }
+  - { offsetInCU: 0x1C48, offset: 0x81CF7, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase deregister:removeAllData:]', symObjAddr: 0x1C35, symBinAddr: 0x13FD4, symSize: 0xFF }
+  - { offsetInCU: 0x1D22, offset: 0x81DD1, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase authenticate:extensions:delegate:]', symObjAddr: 0x1D34, symBinAddr: 0x140D3, symSize: 0xE9A }
+  - { offsetInCU: 0x2507, offset: 0x825B6, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase getADoSMode:]', symObjAddr: 0x2BCE, symBinAddr: 0x14F6D, symSize: 0xA8 }
+  - { offsetInCU: 0x25BA, offset: 0x82669, size: 0x8, addend: 0x0, symName: '-[DASAuthenticatorBase .cxx_destruct]', symObjAddr: 0x2C76, symBinAddr: 0x15015, symSize: 0x5F }
+  - { offsetInCU: 0x27, offset: 0x827D7, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator initWithPolicyType:algorithm:filterNonUIAuthenticators:]', symObjAddr: 0x0, symBinAddr: 0x15074, symSize: 0xC9 }
+  - { offsetInCU: 0x749, offset: 0x82EF9, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator initWithPolicyType:algorithm:filterNonUIAuthenticators:]', symObjAddr: 0x0, symBinAddr: 0x15074, symSize: 0xC9 }
+  - { offsetInCU: 0x7F8, offset: 0x82FA8, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator initWithNibName:bundle:multiAuthenticatorContext:]', symObjAddr: 0xC9, symBinAddr: 0x1513D, symSize: 0xE }
+  - { offsetInCU: 0x85F, offset: 0x8300F, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator initWithNibName:bundle:context:cancelOnBackgrounding:]', symObjAddr: 0xD7, symBinAddr: 0x1514B, symSize: 0xE }
+  - { offsetInCU: 0x8D2, offset: 0x83082, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator createAuthenticators]', symObjAddr: 0xE5, symBinAddr: 0x15159, symSize: 0x716 }
+  - { offsetInCU: 0xBE7, offset: 0x83397, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator activeFactor]', symObjAddr: 0x7FB, symBinAddr: 0x1586F, symSize: 0x22 }
+  - { offsetInCU: 0xC2A, offset: 0x833DA, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator executeSingleAuthenticator:delegate:]', symObjAddr: 0x81D, symBinAddr: 0x15891, symSize: 0x14F }
+  - { offsetInCU: 0xD3D, offset: 0x834ED, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator collectDataForFactorsAndKeys:factorsAndExtensions:registerChosenKeys:delegate:]', symObjAddr: 0x96C, symBinAddr: 0x159E0, symSize: 0x1233 }
+  - { offsetInCU: 0x15FE, offset: 0x83DAE, size: 0x8, addend: 0x0, symName: '___110-[DASDefaultMultiAuthenticator collectDataForFactorsAndKeys:factorsAndExtensions:registerChosenKeys:delegate:]_block_invoke', symObjAddr: 0x1B9F, symBinAddr: 0x16C13, symSize: 0x22 }
+  - { offsetInCU: 0x165D, offset: 0x83E0D, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator configureContext]', symObjAddr: 0x1C0B, symBinAddr: 0x16C35, symSize: 0x1F0 }
+  - { offsetInCU: 0x1706, offset: 0x83EB6, size: 0x8, addend: 0x0, symName: '___48-[DASDefaultMultiAuthenticator configureContext]_block_invoke', symObjAddr: 0x1DFB, symBinAddr: 0x16E25, symSize: 0xEA }
+  - { offsetInCU: 0x1816, offset: 0x83FC6, size: 0x8, addend: 0x0, symName: '___48-[DASDefaultMultiAuthenticator configureContext]_block_invoke.447', symObjAddr: 0x1F05, symBinAddr: 0x16F0F, symSize: 0x5F }
+  - { offsetInCU: 0x18C6, offset: 0x84076, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator startCollection]', symObjAddr: 0x1F64, symBinAddr: 0x16F6E, symSize: 0x3A7 }
+  - { offsetInCU: 0x1AC2, offset: 0x84272, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator createAndPolicyViewController]', symObjAddr: 0x230B, symBinAddr: 0x17315, symSize: 0xF5 }
+  - { offsetInCU: 0x1B9F, offset: 0x8434F, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator createOrPolicyViewController]', symObjAddr: 0x2400, symBinAddr: 0x1740A, symSize: 0x113 }
+  - { offsetInCU: 0x1C60, offset: 0x84410, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator createMultipleChoicePolicyViewController]', symObjAddr: 0x2513, symBinAddr: 0x1751D, symSize: 0x113 }
+  - { offsetInCU: 0x1D21, offset: 0x844D1, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator presentViewController:context:]', symObjAddr: 0x2626, symBinAddr: 0x17630, symSize: 0x159 }
+  - { offsetInCU: 0x1E2C, offset: 0x845DC, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator onRegisterComplete:extensions:keys:]', symObjAddr: 0x277F, symBinAddr: 0x17789, symSize: 0x196 }
+  - { offsetInCU: 0x1F6B, offset: 0x8471B, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator onAuthenticateComplete:keys:]', symObjAddr: 0x2915, symBinAddr: 0x1791F, symSize: 0x12F }
+  - { offsetInCU: 0x2076, offset: 0x84826, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator onFailed:code:message:]', symObjAddr: 0x2A44, symBinAddr: 0x17A4E, symSize: 0xD7 }
+  - { offsetInCU: 0x2139, offset: 0x848E9, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator onAttemptFailed:info:]', symObjAddr: 0x2B1B, symBinAddr: 0x17B25, symSize: 0xFA }
+  - { offsetInCU: 0x2217, offset: 0x849C7, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator onDataCollectionCompleteForFactor:collectedData:extensions:keys:onAnalysisComplete:]', symObjAddr: 0x2C15, symBinAddr: 0x17C1F, symSize: 0x12C }
+  - { offsetInCU: 0x233B, offset: 0x84AEB, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator handleContextCompletionWithExtensions:keys:]', symObjAddr: 0x2D41, symBinAddr: 0x17D4B, symSize: 0xEC4 }
+  - { offsetInCU: 0x2A90, offset: 0x85240, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator handleContextFailureForAuthenticator:error:]', symObjAddr: 0x3C05, symBinAddr: 0x18C0F, symSize: 0x5E8 }
+  - { offsetInCU: 0x2D1F, offset: 0x854CF, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator registerOfflineAuthenticator:withFactorKeyPairs:returnExtensions:returnKeys:]', symObjAddr: 0x41ED, symBinAddr: 0x191F7, symSize: 0x2AF }
+  - { offsetInCU: 0x2F12, offset: 0x856C2, size: 0x8, addend: 0x0, symName: '___108-[DASDefaultMultiAuthenticator registerOfflineAuthenticator:withFactorKeyPairs:returnExtensions:returnKeys:]_block_invoke', symObjAddr: 0x449C, symBinAddr: 0x194A6, symSize: 0xFA }
+  - { offsetInCU: 0x305A, offset: 0x8580A, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64w, symObjAddr: 0x4596, symBinAddr: 0x195A0, symSize: 0x50 }
+  - { offsetInCU: 0x30B3, offset: 0x85863, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64w, symObjAddr: 0x45E6, symBinAddr: 0x195F0, symSize: 0x3C }
+  - { offsetInCU: 0x3102, offset: 0x858B2, size: 0x8, addend: 0x0, symName: '___108-[DASDefaultMultiAuthenticator registerOfflineAuthenticator:withFactorKeyPairs:returnExtensions:returnKeys:]_block_invoke.583', symObjAddr: 0x4622, symBinAddr: 0x1962C, symSize: 0x7C }
+  - { offsetInCU: 0x31CF, offset: 0x8597F, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator authenticateOfflineAuthenticator:returnExtensions:returnKeys:]', symObjAddr: 0x46EE, symBinAddr: 0x196A8, symSize: 0x284 }
+  - { offsetInCU: 0x339A, offset: 0x85B4A, size: 0x8, addend: 0x0, symName: '___93-[DASDefaultMultiAuthenticator authenticateOfflineAuthenticator:returnExtensions:returnKeys:]_block_invoke', symObjAddr: 0x4972, symBinAddr: 0x1992C, symSize: 0xF6 }
+  - { offsetInCU: 0x34D1, offset: 0x85C81, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56w, symObjAddr: 0x4A68, symBinAddr: 0x19A22, symSize: 0x49 }
+  - { offsetInCU: 0x351E, offset: 0x85CCE, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56w, symObjAddr: 0x4AB1, symBinAddr: 0x19A6B, symSize: 0x35 }
+  - { offsetInCU: 0x3561, offset: 0x85D11, size: 0x8, addend: 0x0, symName: '___93-[DASDefaultMultiAuthenticator authenticateOfflineAuthenticator:returnExtensions:returnKeys:]_block_invoke.587', symObjAddr: 0x4AE6, symBinAddr: 0x19AA0, symSize: 0x7C }
+  - { offsetInCU: 0x362E, offset: 0x85DDE, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator createCompletionExtensionsForNonUIAuthenticator:]', symObjAddr: 0x4B62, symBinAddr: 0x19B1C, symSize: 0x2F }
+  - { offsetInCU: 0x367F, offset: 0x85E2F, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator keysForFactor:]', symObjAddr: 0x4B91, symBinAddr: 0x19B4B, symSize: 0x1AE }
+  - { offsetInCU: 0x374D, offset: 0x85EFD, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator registeredKeysByFactor:]', symObjAddr: 0x4D3F, symBinAddr: 0x19CF9, symSize: 0x242 }
+  - { offsetInCU: 0x386B, offset: 0x8601B, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator validAuthKeysForFactor:]', symObjAddr: 0x4F81, symBinAddr: 0x19F3B, symSize: 0x1B1 }
+  - { offsetInCU: 0x395E, offset: 0x8610E, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator extensionsForFactor:]', symObjAddr: 0x5132, symBinAddr: 0x1A0EC, symSize: 0x67 }
+  - { offsetInCU: 0x39D8, offset: 0x86188, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator shouldCancelOnBackgrounding]', symObjAddr: 0x5199, symBinAddr: 0x1A153, symSize: 0x1DC }
+  - { offsetInCU: 0x3AB9, offset: 0x86269, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticator .cxx_destruct]', symObjAddr: 0x5375, symBinAddr: 0x1A32F, symSize: 0x97 }
+  - { offsetInCU: 0x5E, offset: 0x8680B, size: 0x8, addend: 0x0, symName: _sAllAvailableBundles, symObjAddr: 0x342E8, symBinAddr: 0x3B9D0, symSize: 0x0 }
+  - { offsetInCU: 0x79, offset: 0x86826, size: 0x8, addend: 0x0, symName: _sCustomHostViewController, symObjAddr: 0x342F0, symBinAddr: 0x3B9D8, symSize: 0x0 }
+  - { offsetInCU: 0x5FE, offset: 0x86DAB, size: 0x8, addend: 0x0, symName: '+[DASUtils getAvailableAuthenticatorBundleAndFrameworkPaths:]', symObjAddr: 0x0, symBinAddr: 0x1A3D0, symSize: 0x2FE }
+  - { offsetInCU: 0x773, offset: 0x86F20, size: 0x8, addend: 0x0, symName: '+[DASUtils allBundles]', symObjAddr: 0x2FE, symBinAddr: 0x1A6CE, symSize: 0x346 }
+  - { offsetInCU: 0x97A, offset: 0x87127, size: 0x8, addend: 0x0, symName: '+[DASUtils getPathInAllBundlesForResource:ofType:]', symObjAddr: 0x644, symBinAddr: 0x1AA14, symSize: 0x1EC }
+  - { offsetInCU: 0xA7C, offset: 0x87229, size: 0x8, addend: 0x0, symName: '+[DASUtils bundleForResource:ofType:]', symObjAddr: 0x830, symBinAddr: 0x1AC00, symSize: 0x1FB }
+  - { offsetInCU: 0xBA9, offset: 0x87356, size: 0x8, addend: 0x0, symName: '+[DASUtils localise:]', symObjAddr: 0xA2B, symBinAddr: 0x1ADFB, symSize: 0x19 }
+  - { offsetInCU: 0xBF8, offset: 0x873A5, size: 0x8, addend: 0x0, symName: '+[DASUtils localisedStringForKey:fromTable:]', symObjAddr: 0xA44, symBinAddr: 0x1AE14, symSize: 0x1F1 }
+  - { offsetInCU: 0xD19, offset: 0x874C6, size: 0x8, addend: 0x0, symName: '+[DASUtils stringForError:]', symObjAddr: 0xC35, symBinAddr: 0x1B005, symSize: 0x98 }
+  - { offsetInCU: 0xDB4, offset: 0x87561, size: 0x8, addend: 0x0, symName: '+[DASUtils errorForError:integerArgument:]', symObjAddr: 0xCCD, symBinAddr: 0x1B09D, symSize: 0x117 }
+  - { offsetInCU: 0xE77, offset: 0x87624, size: 0x8, addend: 0x0, symName: '+[DASUtils errorForError:]', symObjAddr: 0xDE4, symBinAddr: 0x1B1B4, symSize: 0xE2 }
+  - { offsetInCU: 0xF06, offset: 0x876B3, size: 0x8, addend: 0x0, symName: '+[DASUtils errorForError:description:]', symObjAddr: 0xEC6, symBinAddr: 0x1B296, symSize: 0x12B }
+  - { offsetInCU: 0xFBD, offset: 0x8776A, size: 0x8, addend: 0x0, symName: '+[DASUtils errorForLocalAuthError:]', symObjAddr: 0xFF1, symBinAddr: 0x1B3C1, symSize: 0x142 }
+  - { offsetInCU: 0x10BC, offset: 0x87869, size: 0x8, addend: 0x0, symName: '+[DASUtils underlyingErrorForError:]', symObjAddr: 0x1133, symBinAddr: 0x1B503, symSize: 0x92 }
+  - { offsetInCU: 0x1156, offset: 0x87903, size: 0x8, addend: 0x0, symName: '+[DASUtils reportADoSErrorToServer:]', symObjAddr: 0x11C5, symBinAddr: 0x1B595, symSize: 0x9D }
+  - { offsetInCU: 0x11EF, offset: 0x8799C, size: 0x8, addend: 0x0, symName: '+[DASUtils loadImageNamed:]', symObjAddr: 0x1262, symBinAddr: 0x1B632, symSize: 0x1FF }
+  - { offsetInCU: 0x12D9, offset: 0x87A86, size: 0x8, addend: 0x0, symName: '+[DASUtils loadImageNamed:fromBundle:]', symObjAddr: 0x1461, symBinAddr: 0x1B831, symSize: 0x1C }
+  - { offsetInCU: 0x1337, offset: 0x87AE4, size: 0x8, addend: 0x0, symName: '+[DASUtils base64DecodeImage:]', symObjAddr: 0x147D, symBinAddr: 0x1B84D, symSize: 0xB1 }
+  - { offsetInCU: 0x141A, offset: 0x87BC7, size: 0x8, addend: 0x0, symName: '+[DASUtils rotateImage:toOrientation:]', symObjAddr: 0x152E, symBinAddr: 0x1B8FE, symSize: 0x452 }
+  - { offsetInCU: 0x1746, offset: 0x87EF3, size: 0x8, addend: 0x0, symName: '+[DASUtils rotateImage:toOrientation:].cold.1', symObjAddr: 0x2CDA, symBinAddr: 0x2348A, symSize: 0x23 }
+  - { offsetInCU: 0x17AE, offset: 0x87F5B, size: 0x8, addend: 0x0, symName: '+[DASUtils resizeImage:toSize:]', symObjAddr: 0x1980, symBinAddr: 0x1BD50, symSize: 0x96 }
+  - { offsetInCU: 0x18A5, offset: 0x88052, size: 0x8, addend: 0x0, symName: '+[DASUtils videoOrientation]', symObjAddr: 0x1A16, symBinAddr: 0x1BDE6, symSize: 0x2B }
+  - { offsetInCU: 0x18E5, offset: 0x88092, size: 0x8, addend: 0x0, symName: '+[DASUtils isIos9AndAbove]', symObjAddr: 0x1A41, symBinAddr: 0x1BE11, symSize: 0x7D }
+  - { offsetInCU: 0x1955, offset: 0x88102, size: 0x8, addend: 0x0, symName: '+[DASUtils isIos11AndAbove]', symObjAddr: 0x1ABE, symBinAddr: 0x1BE8E, symSize: 0x7D }
+  - { offsetInCU: 0x19C5, offset: 0x88172, size: 0x8, addend: 0x0, symName: '+[DASUtils isTouchIDSupported]', symObjAddr: 0x1B3B, symBinAddr: 0x1BF0B, symSize: 0x85 }
+  - { offsetInCU: 0x1A57, offset: 0x88204, size: 0x8, addend: 0x0, symName: '+[DASUtils isTouchIDEnabled]', symObjAddr: 0x1BC0, symBinAddr: 0x1BF90, symSize: 0x8F }
+  - { offsetInCU: 0x1B01, offset: 0x882AE, size: 0x8, addend: 0x0, symName: '+[DASUtils isPlatformVersionOrBetter:forDevice:]', symObjAddr: 0x1C4F, symBinAddr: 0x1C01F, symSize: 0x13B }
+  - { offsetInCU: 0x1C88, offset: 0x88435, size: 0x8, addend: 0x0, symName: '+[DASUtils isFaceIDSupported]', symObjAddr: 0x1D8A, symBinAddr: 0x1C15A, symSize: 0x64 }
+  - { offsetInCU: 0x1D0C, offset: 0x884B9, size: 0x8, addend: 0x0, symName: '+[DASUtils isFaceIDEnabled]', symObjAddr: 0x1DEE, symBinAddr: 0x1C1BE, symSize: 0x96 }
+  - { offsetInCU: 0x1DA9, offset: 0x88556, size: 0x8, addend: 0x0, symName: '+[DASUtils devicePlatform]', symObjAddr: 0x1E84, symBinAddr: 0x1C254, symSize: 0x81 }
+  - { offsetInCU: 0x1E6C, offset: 0x88619, size: 0x8, addend: 0x0, symName: '+[DASUtils deviceSupportsSecureEnclave]', symObjAddr: 0x1F05, symBinAddr: 0x1C2D5, symSize: 0xAC }
+  - { offsetInCU: 0x1EFE, offset: 0x886AB, size: 0x8, addend: 0x0, symName: '+[DASUtils isDarkModeEnabled]', symObjAddr: 0x1FB1, symBinAddr: 0x1C381, symSize: 0x65 }
+  - { offsetInCU: 0x1F56, offset: 0x88703, size: 0x8, addend: 0x0, symName: '+[DASUtils determineHostViewController]', symObjAddr: 0x2016, symBinAddr: 0x1C3E6, symSize: 0x238 }
+  - { offsetInCU: 0x20FA, offset: 0x888A7, size: 0x8, addend: 0x0, symName: '+[DASUtils findTopMostViewControllerOn:]', symObjAddr: 0x224E, symBinAddr: 0x1C61E, symSize: 0x19C }
+  - { offsetInCU: 0x2244, offset: 0x889F1, size: 0x8, addend: 0x0, symName: '+[DASUtils setHostViewController:]', symObjAddr: 0x23EA, symBinAddr: 0x1C7BA, symSize: 0x14 }
+  - { offsetInCU: 0x2283, offset: 0x88A30, size: 0x8, addend: 0x0, symName: '+[DASUtils presentNavigationControllerWithRoot:fromHost:]', symObjAddr: 0x23FE, symBinAddr: 0x1C7CE, symSize: 0xC3 }
+  - { offsetInCU: 0x235E, offset: 0x88B0B, size: 0x8, addend: 0x0, symName: '+[DASUtils currentTimeMilliseconds]', symObjAddr: 0x24C1, symBinAddr: 0x1C891, symSize: 0x42 }
+  - { offsetInCU: 0x23D8, offset: 0x88B85, size: 0x8, addend: 0x0, symName: '+[DASUtils generateAuthToken]', symObjAddr: 0x2503, symBinAddr: 0x1C8D3, symSize: 0x3F }
+  - { offsetInCU: 0x2428, offset: 0x88BD5, size: 0x8, addend: 0x0, symName: '+[DASUtils buildReturnExtensionsWithStartTime:currentExtensions:authenticator:addAuthToken:addLockInfo:addErrorInfo:]', symObjAddr: 0x2542, symBinAddr: 0x1C912, symSize: 0x3C9 }
+  - { offsetInCU: 0x26DE, offset: 0x88E8B, size: 0x8, addend: 0x0, symName: '+[DASUtils extensionForKeyStoreType:]', symObjAddr: 0x290B, symBinAddr: 0x1CCDB, symSize: 0x1B }
+  - { offsetInCU: 0x2721, offset: 0x88ECE, size: 0x8, addend: 0x0, symName: '+[DASUtils extensionForDataStoreType:]', symObjAddr: 0x2926, symBinAddr: 0x1CCF6, symSize: 0x2A }
+  - { offsetInCU: 0x2775, offset: 0x88F22, size: 0x8, addend: 0x0, symName: '+[DASUtils extensionForLockState:]', symObjAddr: 0x2950, symBinAddr: 0x1CD20, symSize: 0x2B }
+  - { offsetInCU: 0x27C9, offset: 0x88F76, size: 0x8, addend: 0x0, symName: '+[DASUtils isADoSFactor:]', symObjAddr: 0x297B, symBinAddr: 0x1CD4B, symSize: 0x1D }
+  - { offsetInCU: 0x280C, offset: 0x88FB9, size: 0x8, addend: 0x0, symName: '+[DASUtils isLocalAuthenticatorFactor:version:]', symObjAddr: 0x2998, symBinAddr: 0x1CD68, symSize: 0x21 }
+  - { offsetInCU: 0x2860, offset: 0x8900D, size: 0x8, addend: 0x0, symName: '+[DASUtils setIdleTimerDisabled:]', symObjAddr: 0x29B9, symBinAddr: 0x1CD89, symSize: 0x82 }
+  - { offsetInCU: 0x28ED, offset: 0x8909A, size: 0x8, addend: 0x0, symName: '+[DASUtils statusBarOrientation]', symObjAddr: 0x2A3B, symBinAddr: 0x1CE0B, symSize: 0x74 }
+  - { offsetInCU: 0x296D, offset: 0x8911A, size: 0x8, addend: 0x0, symName: '+[DASUtils addConstrainEqualConstraintToView:containerView:childView:]', symObjAddr: 0x2AAF, symBinAddr: 0x1CE7F, symSize: 0x221 }
+  - { offsetInCU: 0x27, offset: 0x8937E, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext initWithAuthenticators:policy:factorsAndKeys:requestExtensions:uiCustomizationDelegate:registerChosenKeys:signingAlgorithm:authenticatorPrecedence:filterNonUIAuthenticators:onCompletion:onFailure:]', symObjAddr: 0x0, symBinAddr: 0x1D0A0, symSize: 0x5C8 }
+  - { offsetInCU: 0x8A6, offset: 0x89BFD, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext initWithAuthenticators:policy:factorsAndKeys:requestExtensions:uiCustomizationDelegate:registerChosenKeys:signingAlgorithm:authenticatorPrecedence:filterNonUIAuthenticators:onCompletion:onFailure:]', symObjAddr: 0x0, symBinAddr: 0x1D0A0, symSize: 0x5C8 }
+  - { offsetInCU: 0xBF0, offset: 0x89F47, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext checkForAndDeleteInvalidKeys]', symObjAddr: 0x5C8, symBinAddr: 0x1D668, symSize: 0x736 }
+  - { offsetInCU: 0xE9A, offset: 0x8A1F1, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext addNonUIAuthenticatorKeysForReturn:inFactorsAndKeys:]', symObjAddr: 0xCFE, symBinAddr: 0x1DD9E, symSize: 0x325 }
+  - { offsetInCU: 0x1047, offset: 0x8A39E, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext filterOutNonUIAuthenticators:]', symObjAddr: 0x1023, symBinAddr: 0x1E0C3, symSize: 0x643 }
+  - { offsetInCU: 0x12E8, offset: 0x8A63F, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext addReturnExtensionsForFactor:]', symObjAddr: 0x1666, symBinAddr: 0x1E706, symSize: 0x15A }
+  - { offsetInCU: 0x13D3, offset: 0x8A72A, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext addReturnKeysForFactor:]', symObjAddr: 0x17C0, symBinAddr: 0x1E860, symSize: 0xC3 }
+  - { offsetInCU: 0x1476, offset: 0x8A7CD, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext keysForFactor:]', symObjAddr: 0x1883, symBinAddr: 0x1E923, symSize: 0x4D8 }
+  - { offsetInCU: 0x16AA, offset: 0x8AA01, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext setActiveViewController:]', symObjAddr: 0x1D5B, symBinAddr: 0x1EDFB, symSize: 0x11 }
+  - { offsetInCU: 0x16ED, offset: 0x8AA44, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext activeViewController]', symObjAddr: 0x1D6C, symBinAddr: 0x1EE0C, symSize: 0x16 }
+  - { offsetInCU: 0x1725, offset: 0x8AA7C, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext setActiveFactor:]', symObjAddr: 0x1D82, symBinAddr: 0x1EE22, symSize: 0xD }
+  - { offsetInCU: 0x1766, offset: 0x8AABD, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext activeFactor]', symObjAddr: 0x1D8F, symBinAddr: 0x1EE2F, symSize: 0xD }
+  - { offsetInCU: 0x179C, offset: 0x8AAF3, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext authenticatorPrecedence]', symObjAddr: 0x1D9C, symBinAddr: 0x1EE3C, symSize: 0xE }
+  - { offsetInCU: 0x17D4, offset: 0x8AB2B, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext isCaptureComplete]', symObjAddr: 0x1DAA, symBinAddr: 0x1EE4A, symSize: 0xC }
+  - { offsetInCU: 0x180A, offset: 0x8AB61, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext cancelCapture]', symObjAddr: 0x1DB6, symBinAddr: 0x1EE56, symSize: 0x80 }
+  - { offsetInCU: 0x186E, offset: 0x8ABC5, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext completeCapture]', symObjAddr: 0x1E36, symBinAddr: 0x1EED6, symSize: 0x1FD }
+  - { offsetInCU: 0x196E, offset: 0x8ACC5, size: 0x8, addend: 0x0, symName: '___54-[DASDefaultMultiAuthenticatorContext completeCapture]_block_invoke', symObjAddr: 0x2033, symBinAddr: 0x1F0D3, symSize: 0x49 }
+  - { offsetInCU: 0x1A05, offset: 0x8AD5C, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext completeCaptureWithError:]', symObjAddr: 0x20CC, symBinAddr: 0x1F11C, symSize: 0x295 }
+  - { offsetInCU: 0x1B72, offset: 0x8AEC9, size: 0x8, addend: 0x0, symName: '___64-[DASDefaultMultiAuthenticatorContext completeCaptureWithError:]_block_invoke', symObjAddr: 0x2361, symBinAddr: 0x1F3B1, symSize: 0x43 }
+  - { offsetInCU: 0x1C2B, offset: 0x8AF82, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext cleanup]', symObjAddr: 0x2414, symBinAddr: 0x1F3F4, symSize: 0xC7 }
+  - { offsetInCU: 0x1CEF, offset: 0x8B046, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext requestedAuthenticatorGroups]', symObjAddr: 0x24DB, symBinAddr: 0x1F4BB, symSize: 0x82D }
+  - { offsetInCU: 0x206F, offset: 0x8B3C6, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext authenticatorViewControllerForFactor:completionHandler:failureHandler:]', symObjAddr: 0x2D08, symBinAddr: 0x1FCE8, symSize: 0x223 }
+  - { offsetInCU: 0x2216, offset: 0x8B56D, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext authenticatorContextForFactor:completionHandler:failureHandler:]', symObjAddr: 0x2F2B, symBinAddr: 0x1FF0B, symSize: 0x6B2 }
+  - { offsetInCU: 0x25CB, offset: 0x8B922, size: 0x8, addend: 0x0, symName: '___102-[DASDefaultMultiAuthenticatorContext authenticatorContextForFactor:completionHandler:failureHandler:]_block_invoke', symObjAddr: 0x35DD, symBinAddr: 0x205BD, symSize: 0x408 }
+  - { offsetInCU: 0x296C, offset: 0x8BCC3, size: 0x8, addend: 0x0, symName: '___102-[DASDefaultMultiAuthenticatorContext authenticatorContextForFactor:completionHandler:failureHandler:]_block_invoke_2', symObjAddr: 0x39E5, symBinAddr: 0x209C5, symSize: 0x1F1 }
+  - { offsetInCU: 0x2BBD, offset: 0x8BF14, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64s72b80b88w, symObjAddr: 0x3BD6, symBinAddr: 0x20BB6, symSize: 0x7B }
+  - { offsetInCU: 0x2C22, offset: 0x8BF79, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s72s80s88w, symObjAddr: 0x3C51, symBinAddr: 0x20C31, symSize: 0x51 }
+  - { offsetInCU: 0x2C95, offset: 0x8BFEC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b64b72w, symObjAddr: 0x3CA2, symBinAddr: 0x20C82, symSize: 0x6D }
+  - { offsetInCU: 0x2CE2, offset: 0x8C039, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s72w, symObjAddr: 0x3D0F, symBinAddr: 0x20CEF, symSize: 0x43 }
+  - { offsetInCU: 0x2D3D, offset: 0x8C094, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext hasInvalidatedFactors]', symObjAddr: 0x3D52, symBinAddr: 0x20D32, symSize: 0x20 }
+  - { offsetInCU: 0x2D81, offset: 0x8C0D8, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext resetActiveFactorContext]', symObjAddr: 0x3D72, symBinAddr: 0x20D52, symSize: 0x81 }
+  - { offsetInCU: 0x2DFE, offset: 0x8C155, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext errorForCode:]', symObjAddr: 0x3DF3, symBinAddr: 0x20DD3, symSize: 0x19 }
+  - { offsetInCU: 0x2E4D, offset: 0x8C1A4, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext localise:]', symObjAddr: 0x3E0C, symBinAddr: 0x20DEC, symSize: 0x19 }
+  - { offsetInCU: 0x2E9C, offset: 0x8C1F3, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext getADoSMode:]', symObjAddr: 0x3E25, symBinAddr: 0x20E05, symSize: 0xA8 }
+  - { offsetInCU: 0x2F4F, offset: 0x8C2A6, size: 0x8, addend: 0x0, symName: '-[DASDefaultMultiAuthenticatorContext .cxx_destruct]', symObjAddr: 0x3ECD, symBinAddr: 0x20EAD, symSize: 0xCC }
+  - { offsetInCU: 0x27, offset: 0x8C88A, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController initWithAuthenticator:extensions:keys:captureStartTime:registration:]', symObjAddr: 0x0, symBinAddr: 0x20F7C, symSize: 0x19D }
+  - { offsetInCU: 0x18B, offset: 0x8C9EE, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController initWithAuthenticator:extensions:keys:captureStartTime:registration:]', symObjAddr: 0x0, symBinAddr: 0x20F7C, symSize: 0x19D }
+  - { offsetInCU: 0x2C2, offset: 0x8CB25, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController isReenrollRequired]', symObjAddr: 0x19D, symBinAddr: 0x21119, symSize: 0x8 }
+  - { offsetInCU: 0x2F5, offset: 0x8CB58, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController dataForPasswordV:M1:A:]', symObjAddr: 0x1A5, symBinAddr: 0x21121, symSize: 0x205 }
+  - { offsetInCU: 0x48E, offset: 0x8CCF1, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController dataForImage:]', symObjAddr: 0x3AA, symBinAddr: 0x21326, symSize: 0x21 }
+  - { offsetInCU: 0x4DD, offset: 0x8CD40, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController dataForImage:quality:format:]', symObjAddr: 0x3CB, symBinAddr: 0x21347, symSize: 0x2F8 }
+  - { offsetInCU: 0x712, offset: 0x8CF75, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController dataForTemplate:]', symObjAddr: 0x6C3, symBinAddr: 0x2163F, symSize: 0x13D }
+  - { offsetInCU: 0x7C1, offset: 0x8D024, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController dataForVoiceSamples:]', symObjAddr: 0x800, symBinAddr: 0x2177C, symSize: 0x2CE }
+  - { offsetInCU: 0x935, offset: 0x8D198, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController dataForDataArray:]', symObjAddr: 0xACE, symBinAddr: 0x21A4A, symSize: 0x7B }
+  - { offsetInCU: 0x9A8, offset: 0x8D20B, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController cancel]', symObjAddr: 0xB49, symBinAddr: 0x21AC5, symSize: 0x32 }
+  - { offsetInCU: 0x9F3, offset: 0x8D256, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController deliverData:completionHandler:]', symObjAddr: 0xB7B, symBinAddr: 0x21AF7, symSize: 0x50F }
+  - { offsetInCU: 0xC6D, offset: 0x8D4D0, size: 0x8, addend: 0x0, symName: '___58-[DASDefaultADoSController deliverData:completionHandler:]_block_invoke', symObjAddr: 0x108A, symBinAddr: 0x22006, symSize: 0x7F }
+  - { offsetInCU: 0xD3F, offset: 0x8D5A2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40w, symObjAddr: 0x1109, symBinAddr: 0x22085, symSize: 0x36 }
+  - { offsetInCU: 0xD68, offset: 0x8D5CB, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController handleServerError:data:completionHandler:]', symObjAddr: 0x1161, symBinAddr: 0x220BD, symSize: 0x3BC }
+  - { offsetInCU: 0xF5D, offset: 0x8D7C0, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController completeWithError:handler:]', symObjAddr: 0x151D, symBinAddr: 0x22479, symSize: 0x114 }
+  - { offsetInCU: 0x1037, offset: 0x8D89A, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController errorForServerADoSModifiedError:originalError:responseData:]', symObjAddr: 0x1631, symBinAddr: 0x2258D, symSize: 0x47E }
+  - { offsetInCU: 0x12A0, offset: 0x8DB03, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController compressData:]', symObjAddr: 0x1AAF, symBinAddr: 0x22A0B, symSize: 0x2AD }
+  - { offsetInCU: 0x14CF, offset: 0x8DD32, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController rotateImage:degrees:]', symObjAddr: 0x1D5C, symBinAddr: 0x22CB8, symSize: 0x27C }
+  - { offsetInCU: 0x1785, offset: 0x8DFE8, size: 0x8, addend: 0x0, symName: '-[DASDefaultADoSController .cxx_destruct]', symObjAddr: 0x1FD8, symBinAddr: 0x22F34, symSize: 0x47 }
+...

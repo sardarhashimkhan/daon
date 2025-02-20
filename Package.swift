@@ -1,25 +1,24 @@
 // swift-tools-version: 6.0
+// The swift-tools-version declares the minimum version of Swift required to build this package.
+
 import PackageDescription
 
 let package = Package(
     name: "DaonFrameworks",
-    platforms: [
-        .iOS(.v13)
-    ],
     products: [
+        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "DaonFrameworks",
-            targets: ["DaonFrameworks"]
-        ),
-    ],
-    dependencies: [
-        // Add any dependencies if required
+            targets: ["DaonFrameworks"]),
     ],
     targets: [
-        .binaryTarget(
-            name: "DaonFrameworks",
-            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFrameworks.zip",
-            checksum: "ccd0a38db8e143cda18adcbb0a7c57007b7d79d23e72a2c178aa5d3441a0b9de", branch: "SPM/BBYN_SPM")
-        )
+        // Targets are the basic building blocks of a package, defining a module or a test suite.
+        // Targets can depend on other targets in this package and products from dependencies.
+        .target(
+            name: "DaonFrameworks"),
+        .testTarget(
+            name: "DaonFrameworksTests",
+            dependencies: ["DaonFrameworks"]
+        ),
     ]
 )

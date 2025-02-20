@@ -1,0 +1,910 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Library/TeamCity/buildAgent/work/a78d8cab31cc4d50/build/Release-iphonesimulator/DaonDocument.framework/DaonDocument'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2FFA7, size: 0x8, addend: 0x0, symName: _DaonDocumentVersionString, symObjAddr: 0x0, symBinAddr: 0x15550, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2FFDC, size: 0x8, addend: 0x0, symName: _DaonDocumentVersionNumber, symObjAddr: 0x38, symBinAddr: 0x15588, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x30019, size: 0x8, addend: 0x0, symName: '-[DMDSMetadataProvider documentQualityInfoDelegate]', symObjAddr: 0x0, symBinAddr: 0x1468, symSize: 0x16 }
+  - { offsetInCU: 0x140, offset: 0x30132, size: 0x8, addend: 0x0, symName: '-[DMDSMetadataProvider documentQualityInfoDelegate]', symObjAddr: 0x0, symBinAddr: 0x1468, symSize: 0x16 }
+  - { offsetInCU: 0x177, offset: 0x30169, size: 0x8, addend: 0x0, symName: '-[DMDSMetadataProvider setDocumentQualityInfoDelegate:]', symObjAddr: 0x16, symBinAddr: 0x147E, symSize: 0x11 }
+  - { offsetInCU: 0x1B6, offset: 0x301A8, size: 0x8, addend: 0x0, symName: '-[DMDSMetadataProvider faceQualityInfoDelegate]', symObjAddr: 0x27, symBinAddr: 0x148F, symSize: 0x16 }
+  - { offsetInCU: 0x1ED, offset: 0x301DF, size: 0x8, addend: 0x0, symName: '-[DMDSMetadataProvider setFaceQualityInfoDelegate:]', symObjAddr: 0x3D, symBinAddr: 0x14A5, symSize: 0x11 }
+  - { offsetInCU: 0x22C, offset: 0x3021E, size: 0x8, addend: 0x0, symName: '-[DMDSMetadataProvider .cxx_destruct]', symObjAddr: 0x4E, symBinAddr: 0x14B6, symSize: 0x24 }
+  - { offsetInCU: 0x27, offset: 0x30295, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC initWithNibName:bundle:]', symObjAddr: 0x0, symBinAddr: 0x14DA, symSize: 0x2F }
+  - { offsetInCU: 0x197, offset: 0x30405, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC initWithNibName:bundle:]', symObjAddr: 0x0, symBinAddr: 0x14DA, symSize: 0x2F }
+  - { offsetInCU: 0x1EE, offset: 0x3045C, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC viewDidLoad]', symObjAddr: 0x2F, symBinAddr: 0x1509, symSize: 0x6B5 }
+  - { offsetInCU: 0x591, offset: 0x307FF, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC cancelButton:]', symObjAddr: 0x6E4, symBinAddr: 0x1BBE, symSize: 0x9F }
+  - { offsetInCU: 0x618, offset: 0x30886, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC grantAccess:]', symObjAddr: 0x783, symBinAddr: 0x1C5D, symSize: 0xE2 }
+  - { offsetInCU: 0x6CF, offset: 0x3093D, size: 0x8, addend: 0x0, symName: '+[CameraAccessDeniedVC viewControllerFromXib]', symObjAddr: 0x865, symBinAddr: 0x1D3F, symSize: 0x83 }
+  - { offsetInCU: 0x726, offset: 0x30994, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC headerLabel]', symObjAddr: 0x8E8, symBinAddr: 0x1DC2, symSize: 0x19 }
+  - { offsetInCU: 0x75D, offset: 0x309CB, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC setHeaderLabel:]', symObjAddr: 0x901, symBinAddr: 0x1DDB, symSize: 0x14 }
+  - { offsetInCU: 0x79C, offset: 0x30A0A, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC goToSettingsLabel]', symObjAddr: 0x915, symBinAddr: 0x1DEF, symSize: 0x19 }
+  - { offsetInCU: 0x7D3, offset: 0x30A41, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC setGoToSettingsLabel:]', symObjAddr: 0x92E, symBinAddr: 0x1E08, symSize: 0x14 }
+  - { offsetInCU: 0x812, offset: 0x30A80, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC selectAppLabel]', symObjAddr: 0x942, symBinAddr: 0x1E1C, symSize: 0x19 }
+  - { offsetInCU: 0x849, offset: 0x30AB7, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC setSelectAppLabel:]', symObjAddr: 0x95B, symBinAddr: 0x1E35, symSize: 0x14 }
+  - { offsetInCU: 0x888, offset: 0x30AF6, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC cameraEnabledLabel]', symObjAddr: 0x96F, symBinAddr: 0x1E49, symSize: 0x19 }
+  - { offsetInCU: 0x8BF, offset: 0x30B2D, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC setCameraEnabledLabel:]', symObjAddr: 0x988, symBinAddr: 0x1E62, symSize: 0x14 }
+  - { offsetInCU: 0x8FE, offset: 0x30B6C, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC grantButton]', symObjAddr: 0x99C, symBinAddr: 0x1E76, symSize: 0x19 }
+  - { offsetInCU: 0x935, offset: 0x30BA3, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC setGrantButton:]', symObjAddr: 0x9B5, symBinAddr: 0x1E8F, symSize: 0x14 }
+  - { offsetInCU: 0x974, offset: 0x30BE2, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC cancelButton]', symObjAddr: 0x9C9, symBinAddr: 0x1EA3, symSize: 0x19 }
+  - { offsetInCU: 0x9AB, offset: 0x30C19, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC setCancelButton:]', symObjAddr: 0x9E2, symBinAddr: 0x1EBC, symSize: 0x14 }
+  - { offsetInCU: 0x9EA, offset: 0x30C58, size: 0x8, addend: 0x0, symName: '-[CameraAccessDeniedVC .cxx_destruct]', symObjAddr: 0x9F6, symBinAddr: 0x1ED0, symSize: 0x69 }
+  - { offsetInCU: 0x27, offset: 0x30D1F, size: 0x8, addend: 0x0, symName: '+[DMDSError errorForCode:]', symObjAddr: 0x0, symBinAddr: 0x1F3C, symSize: 0xAAC }
+  - { offsetInCU: 0x35, offset: 0x30D2D, size: 0x8, addend: 0x0, symName: '+[DMDSError errorForCode:]', symObjAddr: 0x0, symBinAddr: 0x1F3C, symSize: 0xAAC }
+  - { offsetInCU: 0x27, offset: 0x3126A, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState init]', symObjAddr: 0x0, symBinAddr: 0x29E8, symSize: 0x3F }
+  - { offsetInCU: 0x895, offset: 0x31AD8, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState init]', symObjAddr: 0x0, symBinAddr: 0x29E8, symSize: 0x3F }
+  - { offsetInCU: 0x8CC, offset: 0x31B0F, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState getImageToQualityCheck:]', symObjAddr: 0x3F, symBinAddr: 0x2A27, symSize: 0x8 }
+  - { offsetInCU: 0x918, offset: 0x31B5B, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState getCurrentOptions]', symObjAddr: 0x47, symBinAddr: 0x2A2F, symSize: 0x3E }
+  - { offsetInCU: 0x94F, offset: 0x31B92, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState isEdgeDetection]', symObjAddr: 0x85, symBinAddr: 0x2A6D, symSize: 0x8 }
+  - { offsetInCU: 0x982, offset: 0x31BC5, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState startedScanning]', symObjAddr: 0x8D, symBinAddr: 0x2A75, symSize: 0x3E }
+  - { offsetInCU: 0x9B5, offset: 0x31BF8, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState stoppedScanning]', symObjAddr: 0xCB, symBinAddr: 0x2AB3, symSize: 0x11 }
+  - { offsetInCU: 0x9E6, offset: 0x31C29, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState isScanning]', symObjAddr: 0xDC, symBinAddr: 0x2AC4, symSize: 0x10 }
+  - { offsetInCU: 0xA1B, offset: 0x31C5E, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState isLastStep]', symObjAddr: 0xEC, symBinAddr: 0x2AD4, symSize: 0x8 }
+  - { offsetInCU: 0xA4E, offset: 0x31C91, size: 0x8, addend: 0x0, symName: '-[EdgeDetectionState description]', symObjAddr: 0xF4, symBinAddr: 0x2ADC, symSize: 0x88 }
+  - { offsetInCU: 0x27, offset: 0x31DA6, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage initWithImage:quadrangle:]', symObjAddr: 0x0, symBinAddr: 0x2B64, symSize: 0x9E }
+  - { offsetInCU: 0xF7, offset: 0x31E76, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage initWithImage:quadrangle:]', symObjAddr: 0x0, symBinAddr: 0x2B64, symSize: 0x9E }
+  - { offsetInCU: 0x196, offset: 0x31F15, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage image]', symObjAddr: 0x9E, symBinAddr: 0x2C02, symSize: 0xA }
+  - { offsetInCU: 0x1CB, offset: 0x31F4A, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage setImage:]', symObjAddr: 0xA8, symBinAddr: 0x2C0C, symSize: 0x11 }
+  - { offsetInCU: 0x20A, offset: 0x31F89, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage quadrangle]', symObjAddr: 0xB9, symBinAddr: 0x2C1D, symSize: 0xA }
+  - { offsetInCU: 0x23F, offset: 0x31FBE, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage setQuadrangle:]', symObjAddr: 0xC3, symBinAddr: 0x2C27, symSize: 0x11 }
+  - { offsetInCU: 0x27E, offset: 0x31FFD, size: 0x8, addend: 0x0, symName: '-[DMDSQualityCheckImage .cxx_destruct]', symObjAddr: 0xD4, symBinAddr: 0x2C38, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0x3209D, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x2C60, symSize: 0x4C }
+  - { offsetInCU: 0x320, offset: 0x32396, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x2C60, symSize: 0x4C }
+  - { offsetInCU: 0x373, offset: 0x323E9, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView initWithFrame:]', symObjAddr: 0x4C, symBinAddr: 0x2CAC, symSize: 0x5D }
+  - { offsetInCU: 0x3C5, offset: 0x3243B, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView commonInit]', symObjAddr: 0xA9, symBinAddr: 0x2D09, symSize: 0x1BD }
+  - { offsetInCU: 0x4E8, offset: 0x3255E, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView updateViewConstraints]', symObjAddr: 0x266, symBinAddr: 0x2EC6, symSize: 0x695 }
+  - { offsetInCU: 0x75B, offset: 0x327D1, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView addSingleImageViewConstraints:]', symObjAddr: 0x8FB, symBinAddr: 0x355B, symSize: 0x196 }
+  - { offsetInCU: 0x846, offset: 0x328BC, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView addDoubleImageViewConstraints:imageViewBack:]', symObjAddr: 0xA91, symBinAddr: 0x36F1, symSize: 0x307 }
+  - { offsetInCU: 0x9E9, offset: 0x32A5F, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setImage:imageBack:]', symObjAddr: 0xD98, symBinAddr: 0x39F8, symSize: 0x1D6 }
+  - { offsetInCU: 0xB7F, offset: 0x32BF5, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setDocumentBorderOverlay:overlayColor:]', symObjAddr: 0xF6E, symBinAddr: 0x3BCE, symSize: 0x579 }
+  - { offsetInCU: 0xE2C, offset: 0x32EA2, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setMRTZOverlay:overlayColor:]', symObjAddr: 0x14E7, symBinAddr: 0x4147, symSize: 0x43C }
+  - { offsetInCU: 0x1047, offset: 0x330BD, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView removeDocumentBorderLayer:]', symObjAddr: 0x1923, symBinAddr: 0x4583, symSize: 0x5F }
+  - { offsetInCU: 0x10AA, offset: 0x33120, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView removeMRTZBorderLayer:]', symObjAddr: 0x1982, symBinAddr: 0x45E2, symSize: 0x5F }
+  - { offsetInCU: 0x110D, offset: 0x33183, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView removeLayerWithAnimation:]', symObjAddr: 0x19E1, symBinAddr: 0x4641, symSize: 0x13E }
+  - { offsetInCU: 0x120C, offset: 0x33282, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView removeCornerViews]', symObjAddr: 0x1B1F, symBinAddr: 0x477F, symSize: 0x6B }
+  - { offsetInCU: 0x126F, offset: 0x332E5, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView changeCornerColor:]', symObjAddr: 0x1B8A, symBinAddr: 0x47EA, symSize: 0x95 }
+  - { offsetInCU: 0x12FA, offset: 0x33370, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView changeCornerThickness:]', symObjAddr: 0x1C1F, symBinAddr: 0x487F, symSize: 0x72 }
+  - { offsetInCU: 0x136F, offset: 0x333E5, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView changeCornerLenght:]', symObjAddr: 0x1C91, symBinAddr: 0x48F1, symSize: 0xDB }
+  - { offsetInCU: 0x1414, offset: 0x3348A, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView topLeftLeadingConstraint]', symObjAddr: 0x1D6C, symBinAddr: 0x49CC, symSize: 0x11 }
+  - { offsetInCU: 0x1449, offset: 0x334BF, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setTopLeftLeadingConstraint:]', symObjAddr: 0x1D7D, symBinAddr: 0x49DD, symSize: 0x14 }
+  - { offsetInCU: 0x1488, offset: 0x334FE, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView topLeftTopConstraint]', symObjAddr: 0x1D91, symBinAddr: 0x49F1, symSize: 0x11 }
+  - { offsetInCU: 0x14BD, offset: 0x33533, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setTopLeftTopConstraint:]', symObjAddr: 0x1DA2, symBinAddr: 0x4A02, symSize: 0x14 }
+  - { offsetInCU: 0x14FC, offset: 0x33572, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView topRightTrailingConstraint]', symObjAddr: 0x1DB6, symBinAddr: 0x4A16, symSize: 0x11 }
+  - { offsetInCU: 0x1531, offset: 0x335A7, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setTopRightTrailingConstraint:]', symObjAddr: 0x1DC7, symBinAddr: 0x4A27, symSize: 0x14 }
+  - { offsetInCU: 0x1570, offset: 0x335E6, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView topRightTopConstraint]', symObjAddr: 0x1DDB, symBinAddr: 0x4A3B, symSize: 0x11 }
+  - { offsetInCU: 0x15A5, offset: 0x3361B, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setTopRightTopConstraint:]', symObjAddr: 0x1DEC, symBinAddr: 0x4A4C, symSize: 0x14 }
+  - { offsetInCU: 0x15E4, offset: 0x3365A, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView lowerRightTrailingConstraint]', symObjAddr: 0x1E00, symBinAddr: 0x4A60, symSize: 0x11 }
+  - { offsetInCU: 0x1619, offset: 0x3368F, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setLowerRightTrailingConstraint:]', symObjAddr: 0x1E11, symBinAddr: 0x4A71, symSize: 0x14 }
+  - { offsetInCU: 0x1658, offset: 0x336CE, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView lowerRightBottomConstraint]', symObjAddr: 0x1E25, symBinAddr: 0x4A85, symSize: 0x11 }
+  - { offsetInCU: 0x168D, offset: 0x33703, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setLowerRightBottomConstraint:]', symObjAddr: 0x1E36, symBinAddr: 0x4A96, symSize: 0x14 }
+  - { offsetInCU: 0x16CC, offset: 0x33742, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView lowerLeftLeadingConstraint]', symObjAddr: 0x1E4A, symBinAddr: 0x4AAA, symSize: 0x11 }
+  - { offsetInCU: 0x1701, offset: 0x33777, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setLowerLeftLeadingConstraint:]', symObjAddr: 0x1E5B, symBinAddr: 0x4ABB, symSize: 0x14 }
+  - { offsetInCU: 0x1740, offset: 0x337B6, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView lowerLeftBottomConstraint]', symObjAddr: 0x1E6F, symBinAddr: 0x4ACF, symSize: 0x11 }
+  - { offsetInCU: 0x1775, offset: 0x337EB, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setLowerLeftBottomConstraint:]', symObjAddr: 0x1E80, symBinAddr: 0x4AE0, symSize: 0x14 }
+  - { offsetInCU: 0x17B4, offset: 0x3382A, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView documentShapeLayer]', symObjAddr: 0x1E94, symBinAddr: 0x4AF4, symSize: 0x11 }
+  - { offsetInCU: 0x17E9, offset: 0x3385F, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setDocumentShapeLayer:]', symObjAddr: 0x1EA5, symBinAddr: 0x4B05, symSize: 0x14 }
+  - { offsetInCU: 0x1828, offset: 0x3389E, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView mrtzShapeLayer]', symObjAddr: 0x1EB9, symBinAddr: 0x4B19, symSize: 0x11 }
+  - { offsetInCU: 0x185D, offset: 0x338D3, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView setMrtzShapeLayer:]', symObjAddr: 0x1ECA, symBinAddr: 0x4B2A, symSize: 0x14 }
+  - { offsetInCU: 0x189C, offset: 0x33912, size: 0x8, addend: 0x0, symName: '-[ScanningRegionView .cxx_destruct]', symObjAddr: 0x1EDE, symBinAddr: 0x4B3E, symSize: 0x1A7 }
+  - { offsetInCU: 0x27, offset: 0x339FB, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager defaultCaptureWithDelegate:cameraOptions:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0x4CE5, symSize: 0x69 }
+  - { offsetInCU: 0x4FE, offset: 0x33ED2, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager defaultCaptureWithDelegate:cameraOptions:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0x4CE5, symSize: 0x69 }
+  - { offsetInCU: 0x591, offset: 0x33F65, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager customCaptureWithOverlay:cameraOptions:completionHandler:]', symObjAddr: 0x69, symBinAddr: 0x4D4E, symSize: 0x69 }
+  - { offsetInCU: 0x624, offset: 0x33FF8, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager configureWithDelegate:options:overlay:]', symObjAddr: 0xD2, symBinAddr: 0x4DB7, symSize: 0x8 }
+  - { offsetInCU: 0x688, offset: 0x3405C, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager setMetadataProvider:]', symObjAddr: 0xDA, symBinAddr: 0x4DBF, symSize: 0x6 }
+  - { offsetInCU: 0x6C3, offset: 0x34097, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager setScanningRegion:]', symObjAddr: 0xE0, symBinAddr: 0x4DC5, symSize: 0x4A }
+  - { offsetInCU: 0x72D, offset: 0x34101, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager updateDocumentTypes:]', symObjAddr: 0x12A, symBinAddr: 0x4E0F, symSize: 0x1D2 }
+  - { offsetInCU: 0x81F, offset: 0x341F3, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager areValidOptions:]', symObjAddr: 0x2FC, symBinAddr: 0x4FE1, symSize: 0x36 }
+  - { offsetInCU: 0x87E, offset: 0x34252, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager cameraViewController]', symObjAddr: 0x332, symBinAddr: 0x5017, symSize: 0xE }
+  - { offsetInCU: 0x8B5, offset: 0x34289, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager stopScanning]', symObjAddr: 0x340, symBinAddr: 0x5025, symSize: 0x14 }
+  - { offsetInCU: 0x8E4, offset: 0x342B8, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager restartScanning]', symObjAddr: 0x354, symBinAddr: 0x5039, symSize: 0x6 }
+  - { offsetInCU: 0x913, offset: 0x342E7, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager startScanning]', symObjAddr: 0x35A, symBinAddr: 0x503F, symSize: 0x1A }
+  - { offsetInCU: 0x946, offset: 0x3431A, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager description]', symObjAddr: 0x374, symBinAddr: 0x5059, symSize: 0x75 }
+  - { offsetInCU: 0x9BF, offset: 0x34393, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager getImageFromData:]', symObjAddr: 0x3E9, symBinAddr: 0x50CE, symSize: 0x8 }
+  - { offsetInCU: 0x9FE, offset: 0x343D2, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager options]', symObjAddr: 0x3F1, symBinAddr: 0x50D6, symSize: 0xA }
+  - { offsetInCU: 0xA33, offset: 0x34407, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager setOptions:]', symObjAddr: 0x3FB, symBinAddr: 0x50E0, symSize: 0x11 }
+  - { offsetInCU: 0xA72, offset: 0x34446, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager delegate]', symObjAddr: 0x40C, symBinAddr: 0x50F1, symSize: 0x16 }
+  - { offsetInCU: 0xAA9, offset: 0x3447D, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager setDelegate:]', symObjAddr: 0x422, symBinAddr: 0x5107, symSize: 0x11 }
+  - { offsetInCU: 0xAE8, offset: 0x344BC, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager metadataProvider]', symObjAddr: 0x433, symBinAddr: 0x5118, symSize: 0x16 }
+  - { offsetInCU: 0xB1F, offset: 0x344F3, size: 0x8, addend: 0x0, symName: '-[DMDSCaptureManager .cxx_destruct]', symObjAddr: 0x449, symBinAddr: 0x512E, symSize: 0x45 }
+  - { offsetInCU: 0x27, offset: 0x345EC, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x5173, symSize: 0x2F }
+  - { offsetInCU: 0x41, offset: 0x34606, size: 0x8, addend: 0x0, symName: _debugCallback, symObjAddr: 0xEAF0, symBinAddr: 0x2F508, symSize: 0x0 }
+  - { offsetInCU: 0x2B4, offset: 0x34879, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x5173, symSize: 0x2F }
+  - { offsetInCU: 0x2EB, offset: 0x348B0, size: 0x8, addend: 0x0, symName: '+[DMDSQualityAnalyzer isAvailable]', symObjAddr: 0x2F, symBinAddr: 0x51A2, symSize: 0x18 }
+  - { offsetInCU: 0x35D, offset: 0x34922, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer initScanning:]', symObjAddr: 0x47, symBinAddr: 0x51BA, symSize: 0x6 }
+  - { offsetInCU: 0x398, offset: 0x3495D, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer getIdCaptureScanOptions:]', symObjAddr: 0x4D, symBinAddr: 0x51C0, symSize: 0x358 }
+  - { offsetInCU: 0x5C1, offset: 0x34B86, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer isGoodImage:idCaptureImage:idQualityCheckResult:captureOrientation:detectionQuadrangle:useSearchBox:debugDelegate:scanningState:]', symObjAddr: 0x3A5, symBinAddr: 0x5518, symSize: 0x18 }
+  - { offsetInCU: 0x657, offset: 0x34C1C, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer calculateImageQuality:idCaptureImage:useSearchBox:captureOrientation:pixelDetectionQuadrangle:]', symObjAddr: 0x3BD, symBinAddr: 0x5530, symSize: 0x8 }
+  - { offsetInCU: 0x6C6, offset: 0x34C8B, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer mapQualityInfo:]', symObjAddr: 0x3C5, symBinAddr: 0x5538, symSize: 0x8 }
+  - { offsetInCU: 0x705, offset: 0x34CCA, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer getMinPositiveValue:]', symObjAddr: 0x3CD, symBinAddr: 0x5540, symSize: 0x17E }
+  - { offsetInCU: 0x7C1, offset: 0x34D86, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer getMaxPositiveValue:]', symObjAddr: 0x54B, symBinAddr: 0x56BE, symSize: 0x170 }
+  - { offsetInCU: 0x87D, offset: 0x34E42, size: 0x8, addend: 0x0, symName: '-[DMDSQualityAnalyzer constructDebugMessage:success:scanningState:captureOrientation:quality:]', symObjAddr: 0x6BB, symBinAddr: 0x582E, symSize: 0x8 }
+  - { offsetInCU: 0x27, offset: 0x3576D, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback init]', symObjAddr: 0x0, symBinAddr: 0x5836, symSize: 0x54 }
+  - { offsetInCU: 0x8C3, offset: 0x36009, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback init]', symObjAddr: 0x0, symBinAddr: 0x5836, symSize: 0x54 }
+  - { offsetInCU: 0x8FA, offset: 0x36040, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback getImageToQualityCheck:]', symObjAddr: 0x54, symBinAddr: 0x588A, symSize: 0x8 }
+  - { offsetInCU: 0x946, offset: 0x3608C, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback getCurrentOptions]', symObjAddr: 0x5C, symBinAddr: 0x5892, symSize: 0x74 }
+  - { offsetInCU: 0x989, offset: 0x360CF, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback shouldFallbackToEdgeDetection]', symObjAddr: 0xD0, symBinAddr: 0x5906, symSize: 0x5F }
+  - { offsetInCU: 0x9D8, offset: 0x3611E, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback isEdgeDetection]', symObjAddr: 0x12F, symBinAddr: 0x5965, symSize: 0x23 }
+  - { offsetInCU: 0xA0D, offset: 0x36153, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback startedScanning]', symObjAddr: 0x152, symBinAddr: 0x5988, symSize: 0x49 }
+  - { offsetInCU: 0xA40, offset: 0x36186, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback stoppedScanning]', symObjAddr: 0x19B, symBinAddr: 0x59D1, symSize: 0x1C }
+  - { offsetInCU: 0xA71, offset: 0x361B7, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback goToSecondStep]', symObjAddr: 0x1B7, symBinAddr: 0x59ED, symSize: 0x28C }
+  - { offsetInCU: 0xBA8, offset: 0x362EE, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback isScanning]', symObjAddr: 0x443, symBinAddr: 0x5C79, symSize: 0x10 }
+  - { offsetInCU: 0xBDD, offset: 0x36323, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback isLastStep]', symObjAddr: 0x453, symBinAddr: 0x5C89, symSize: 0x23 }
+  - { offsetInCU: 0xC12, offset: 0x36358, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback fellBackToEdgeDetection]', symObjAddr: 0x476, symBinAddr: 0x5CAC, symSize: 0x1E1 }
+  - { offsetInCU: 0xD29, offset: 0x3646F, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback hasFellBackToEdgeDetection]', symObjAddr: 0x657, symBinAddr: 0x5E8D, symSize: 0x10 }
+  - { offsetInCU: 0xD5E, offset: 0x364A4, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback description]', symObjAddr: 0x667, symBinAddr: 0x5E9D, symSize: 0x88 }
+  - { offsetInCU: 0xDE1, offset: 0x36527, size: 0x8, addend: 0x0, symName: '-[ScanThenEdgeDetectionStateWithFallback .cxx_destruct]', symObjAddr: 0x6EF, symBinAddr: 0x5F25, symSize: 0x31 }
+  - { offsetInCU: 0x27, offset: 0x365F1, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata description]', symObjAddr: 0x0, symBinAddr: 0x5F56, symSize: 0x75 }
+  - { offsetInCU: 0x173, offset: 0x3673D, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata description]', symObjAddr: 0x0, symBinAddr: 0x5F56, symSize: 0x75 }
+  - { offsetInCU: 0x1FB, offset: 0x367C5, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata detectionLocation]', symObjAddr: 0x75, symBinAddr: 0x5FCB, symSize: 0xA }
+  - { offsetInCU: 0x230, offset: 0x367FA, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setDetectionLocation:]', symObjAddr: 0x7F, symBinAddr: 0x5FD5, symSize: 0x11 }
+  - { offsetInCU: 0x26F, offset: 0x36839, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata inImageDetectionLocation]', symObjAddr: 0x90, symBinAddr: 0x5FE6, symSize: 0xA }
+  - { offsetInCU: 0x2A4, offset: 0x3686E, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setInImageDetectionLocation:]', symObjAddr: 0x9A, symBinAddr: 0x5FF0, symSize: 0x11 }
+  - { offsetInCU: 0x2E3, offset: 0x368AD, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata documentFillsScanningArea]', symObjAddr: 0xAB, symBinAddr: 0x6001, symSize: 0x9 }
+  - { offsetInCU: 0x318, offset: 0x368E2, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setDocumentFillsScanningArea:]', symObjAddr: 0xB4, symBinAddr: 0x600A, symSize: 0x9 }
+  - { offsetInCU: 0x355, offset: 0x3691F, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata documentTilted]', symObjAddr: 0xBD, symBinAddr: 0x6013, symSize: 0x9 }
+  - { offsetInCU: 0x38A, offset: 0x36954, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setDocumentTilted:]', symObjAddr: 0xC6, symBinAddr: 0x601C, symSize: 0x9 }
+  - { offsetInCU: 0x3C7, offset: 0x36991, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata documentTooCloseToEdge]', symObjAddr: 0xCF, symBinAddr: 0x6025, symSize: 0x9 }
+  - { offsetInCU: 0x3FC, offset: 0x369C6, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setDocumentTooCloseToEdge:]', symObjAddr: 0xD8, symBinAddr: 0x602E, symSize: 0x9 }
+  - { offsetInCU: 0x439, offset: 0x36A03, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata documentTooCloseToCamera]', symObjAddr: 0xE1, symBinAddr: 0x6037, symSize: 0x9 }
+  - { offsetInCU: 0x46E, offset: 0x36A38, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setDocumentTooCloseToCamera:]', symObjAddr: 0xEA, symBinAddr: 0x6040, symSize: 0x9 }
+  - { offsetInCU: 0x4AB, offset: 0x36A75, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata documentWrongSideDetected]', symObjAddr: 0xF3, symBinAddr: 0x6049, symSize: 0x9 }
+  - { offsetInCU: 0x4E0, offset: 0x36AAA, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setDocumentWrongSideDetected:]', symObjAddr: 0xFC, symBinAddr: 0x6052, symSize: 0x9 }
+  - { offsetInCU: 0x51D, offset: 0x36AE7, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata faceNotFound]', symObjAddr: 0x105, symBinAddr: 0x605B, symSize: 0x9 }
+  - { offsetInCU: 0x552, offset: 0x36B1C, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setFaceNotFound:]', symObjAddr: 0x10E, symBinAddr: 0x6064, symSize: 0x9 }
+  - { offsetInCU: 0x58F, offset: 0x36B59, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata glareDetected]', symObjAddr: 0x117, symBinAddr: 0x606D, symSize: 0x9 }
+  - { offsetInCU: 0x5C4, offset: 0x36B8E, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setGlareDetected:]', symObjAddr: 0x120, symBinAddr: 0x6076, symSize: 0x9 }
+  - { offsetInCU: 0x601, offset: 0x36BCB, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata blurDetected]', symObjAddr: 0x129, symBinAddr: 0x607F, symSize: 0x9 }
+  - { offsetInCU: 0x636, offset: 0x36C00, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata setBlurDetected:]', symObjAddr: 0x132, symBinAddr: 0x6088, symSize: 0x9 }
+  - { offsetInCU: 0x673, offset: 0x36C3D, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentDetectionMetadata .cxx_destruct]', symObjAddr: 0x13B, symBinAddr: 0x6091, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0x36CB4, size: 0x8, addend: 0x0, symName: '-[DMDSFace initWithImage:qualityData:]', symObjAddr: 0x0, symBinAddr: 0x60B9, symSize: 0x99 }
+  - { offsetInCU: 0x169, offset: 0x36DF6, size: 0x8, addend: 0x0, symName: '-[DMDSFace initWithImage:qualityData:]', symObjAddr: 0x0, symBinAddr: 0x60B9, symSize: 0x99 }
+  - { offsetInCU: 0x1F0, offset: 0x36E7D, size: 0x8, addend: 0x0, symName: '-[DMDSFace description]', symObjAddr: 0x99, symBinAddr: 0x6152, symSize: 0x7D }
+  - { offsetInCU: 0x278, offset: 0x36F05, size: 0x8, addend: 0x0, symName: '-[DMDSFace faceImage]', symObjAddr: 0x116, symBinAddr: 0x61CF, symSize: 0xA }
+  - { offsetInCU: 0x2AD, offset: 0x36F3A, size: 0x8, addend: 0x0, symName: '-[DMDSFace setFaceImage:]', symObjAddr: 0x120, symBinAddr: 0x61D9, symSize: 0x11 }
+  - { offsetInCU: 0x2EC, offset: 0x36F79, size: 0x8, addend: 0x0, symName: '-[DMDSFace qualityData]', symObjAddr: 0x131, symBinAddr: 0x61EA, symSize: 0xA }
+  - { offsetInCU: 0x321, offset: 0x36FAE, size: 0x8, addend: 0x0, symName: '-[DMDSFace setQualityData:]', symObjAddr: 0x13B, symBinAddr: 0x61F4, symSize: 0x11 }
+  - { offsetInCU: 0x360, offset: 0x36FED, size: 0x8, addend: 0x0, symName: '-[DMDSFace .cxx_destruct]', symObjAddr: 0x14C, symBinAddr: 0x6205, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0x37083, size: 0x8, addend: 0x0, symName: '-[DMDSFaceQualityInfo analyzeStatus]', symObjAddr: 0x0, symBinAddr: 0x622D, symSize: 0xA }
+  - { offsetInCU: 0x171, offset: 0x371CD, size: 0x8, addend: 0x0, symName: '-[DMDSFaceQualityInfo analyzeStatus]', symObjAddr: 0x0, symBinAddr: 0x622D, symSize: 0xA }
+  - { offsetInCU: 0x1A6, offset: 0x37202, size: 0x8, addend: 0x0, symName: '-[DMDSFaceQualityInfo setAnalyzeStatus:]', symObjAddr: 0xA, symBinAddr: 0x6237, symSize: 0xA }
+  - { offsetInCU: 0x1E3, offset: 0x3723F, size: 0x8, addend: 0x0, symName: '-[DMDSFaceQualityInfo faceResultQuality]', symObjAddr: 0x14, symBinAddr: 0x6241, symSize: 0xA }
+  - { offsetInCU: 0x218, offset: 0x37274, size: 0x8, addend: 0x0, symName: '-[DMDSFaceQualityInfo setFaceResultQuality:]', symObjAddr: 0x1E, symBinAddr: 0x624B, symSize: 0x11 }
+  - { offsetInCU: 0x257, offset: 0x372B3, size: 0x8, addend: 0x0, symName: '-[DMDSFaceQualityInfo .cxx_destruct]', symObjAddr: 0x2F, symBinAddr: 0x625C, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0x3732A, size: 0x8, addend: 0x0, symName: '-[DMDSOptions init]', symObjAddr: 0x0, symBinAddr: 0x626C, symSize: 0x3CE }
+  - { offsetInCU: 0x7E5, offset: 0x37AE8, size: 0x8, addend: 0x0, symName: '-[DMDSOptions init]', symObjAddr: 0x0, symBinAddr: 0x626C, symSize: 0x3CE }
+  - { offsetInCU: 0xA50, offset: 0x37D53, size: 0x8, addend: 0x0, symName: '-[DMDSOptions copyWithZone:]', symObjAddr: 0x3CE, symBinAddr: 0x663A, symSize: 0x5C9 }
+  - { offsetInCU: 0xF7B, offset: 0x3827E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setPaddingEdge:]', symObjAddr: 0x997, symBinAddr: 0x6C03, symSize: 0x42 }
+  - { offsetInCU: 0xFBA, offset: 0x382BD, size: 0x8, addend: 0x0, symName: '-[DMDSOptions description]', symObjAddr: 0x9D9, symBinAddr: 0x6C45, symSize: 0x1A8 }
+  - { offsetInCU: 0x103D, offset: 0x38340, size: 0x8, addend: 0x0, symName: '-[DMDSOptions licenseKey]', symObjAddr: 0xB81, symBinAddr: 0x6DED, symSize: 0xA }
+  - { offsetInCU: 0x1072, offset: 0x38375, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setLicenseKey:]', symObjAddr: 0xB8B, symBinAddr: 0x6DF7, symSize: 0x11 }
+  - { offsetInCU: 0x10B1, offset: 0x383B4, size: 0x8, addend: 0x0, symName: '-[DMDSOptions licenseeAppId]', symObjAddr: 0xB9C, symBinAddr: 0x6E08, symSize: 0xA }
+  - { offsetInCU: 0x10E6, offset: 0x383E9, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setLicenseeAppId:]', symObjAddr: 0xBA6, symBinAddr: 0x6E12, symSize: 0x11 }
+  - { offsetInCU: 0x1125, offset: 0x38428, size: 0x8, addend: 0x0, symName: '-[DMDSOptions documentTypes]', symObjAddr: 0xBB7, symBinAddr: 0x6E23, symSize: 0xA }
+  - { offsetInCU: 0x115A, offset: 0x3845D, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setDocumentTypes:]', symObjAddr: 0xBC1, symBinAddr: 0x6E2D, symSize: 0x11 }
+  - { offsetInCU: 0x1199, offset: 0x3849C, size: 0x8, addend: 0x0, symName: '-[DMDSOptions lockScanningAspect]', symObjAddr: 0xBD2, symBinAddr: 0x6E3E, symSize: 0x9 }
+  - { offsetInCU: 0x11CE, offset: 0x384D1, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setLockScanningAspect:]', symObjAddr: 0xBDB, symBinAddr: 0x6E47, symSize: 0x9 }
+  - { offsetInCU: 0x120B, offset: 0x3850E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions scanningDuration]', symObjAddr: 0xBE4, symBinAddr: 0x6E50, symSize: 0x9 }
+  - { offsetInCU: 0x1240, offset: 0x38543, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setScanningDuration:]', symObjAddr: 0xBED, symBinAddr: 0x6E59, symSize: 0x9 }
+  - { offsetInCU: 0x127D, offset: 0x38580, size: 0x8, addend: 0x0, symName: '-[DMDSOptions faceDetection]', symObjAddr: 0xBF6, symBinAddr: 0x6E62, symSize: 0x9 }
+  - { offsetInCU: 0x12B2, offset: 0x385B5, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFaceDetection:]', symObjAddr: 0xBFF, symBinAddr: 0x6E6B, symSize: 0x9 }
+  - { offsetInCU: 0x12EF, offset: 0x385F2, size: 0x8, addend: 0x0, symName: '-[DMDSOptions faceQualityScoreThreshold]', symObjAddr: 0xC08, symBinAddr: 0x6E74, symSize: 0xB }
+  - { offsetInCU: 0x1324, offset: 0x38627, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFaceQualityScoreThreshold:]', symObjAddr: 0xC13, symBinAddr: 0x6E7F, symSize: 0xB }
+  - { offsetInCU: 0x1361, offset: 0x38664, size: 0x8, addend: 0x0, symName: '-[DMDSOptions fallbackToEdgeDetection]', symObjAddr: 0xC1E, symBinAddr: 0x6E8A, symSize: 0x9 }
+  - { offsetInCU: 0x1396, offset: 0x38699, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFallbackToEdgeDetection:]', symObjAddr: 0xC27, symBinAddr: 0x6E93, symSize: 0x9 }
+  - { offsetInCU: 0x13D3, offset: 0x386D6, size: 0x8, addend: 0x0, symName: '-[DMDSOptions fallbackToEdgeDetectionDuration]', symObjAddr: 0xC30, symBinAddr: 0x6E9C, symSize: 0x9 }
+  - { offsetInCU: 0x1408, offset: 0x3870B, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFallbackToEdgeDetectionDuration:]', symObjAddr: 0xC39, symBinAddr: 0x6EA5, symSize: 0x9 }
+  - { offsetInCU: 0x1445, offset: 0x38748, size: 0x8, addend: 0x0, symName: '-[DMDSOptions fallbackToEdgeDetectionDocumentType]', symObjAddr: 0xC42, symBinAddr: 0x6EAE, symSize: 0xA }
+  - { offsetInCU: 0x147A, offset: 0x3877D, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFallbackToEdgeDetectionDocumentType:]', symObjAddr: 0xC4C, symBinAddr: 0x6EB8, symSize: 0x11 }
+  - { offsetInCU: 0x14B9, offset: 0x387BC, size: 0x8, addend: 0x0, symName: '-[DMDSOptions stableEdgeDetectionsNumber]', symObjAddr: 0xC5D, symBinAddr: 0x6EC9, symSize: 0x9 }
+  - { offsetInCU: 0x14EE, offset: 0x387F1, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setStableEdgeDetectionsNumber:]', symObjAddr: 0xC66, symBinAddr: 0x6ED2, symSize: 0x9 }
+  - { offsetInCU: 0x152B, offset: 0x3882E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions autoStartScanning]', symObjAddr: 0xC6F, symBinAddr: 0x6EDB, symSize: 0x9 }
+  - { offsetInCU: 0x1560, offset: 0x38863, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setAutoStartScanning:]', symObjAddr: 0xC78, symBinAddr: 0x6EE4, symSize: 0x9 }
+  - { offsetInCU: 0x159D, offset: 0x388A0, size: 0x8, addend: 0x0, symName: '-[DMDSOptions defaultUIOptions]', symObjAddr: 0xC81, symBinAddr: 0x6EED, symSize: 0xA }
+  - { offsetInCU: 0x15D2, offset: 0x388D5, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setDefaultUIOptions:]', symObjAddr: 0xC8B, symBinAddr: 0x6EF7, symSize: 0x11 }
+  - { offsetInCU: 0x1611, offset: 0x38914, size: 0x8, addend: 0x0, symName: '-[DMDSOptions defaultProcessedImageDPI]', symObjAddr: 0xC9C, symBinAddr: 0x6F08, symSize: 0xB }
+  - { offsetInCU: 0x1646, offset: 0x38949, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setDefaultProcessedImageDPI:]', symObjAddr: 0xCA7, symBinAddr: 0x6F13, symSize: 0xB }
+  - { offsetInCU: 0x1683, offset: 0x38986, size: 0x8, addend: 0x0, symName: '-[DMDSOptions scanningRegionFillPercent]', symObjAddr: 0xCB2, symBinAddr: 0x6F1E, symSize: 0xB }
+  - { offsetInCU: 0x16B8, offset: 0x389BB, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setScanningRegionFillPercent:]', symObjAddr: 0xCBD, symBinAddr: 0x6F29, symSize: 0xB }
+  - { offsetInCU: 0x16F5, offset: 0x389F8, size: 0x8, addend: 0x0, symName: '-[DMDSOptions glareDetection]', symObjAddr: 0xCC8, symBinAddr: 0x6F34, symSize: 0x9 }
+  - { offsetInCU: 0x172A, offset: 0x38A2D, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setGlareDetection:]', symObjAddr: 0xCD1, symBinAddr: 0x6F3D, symSize: 0x9 }
+  - { offsetInCU: 0x1767, offset: 0x38A6A, size: 0x8, addend: 0x0, symName: '-[DMDSOptions glareCallbackFiltering]', symObjAddr: 0xCDA, symBinAddr: 0x6F46, symSize: 0x9 }
+  - { offsetInCU: 0x179C, offset: 0x38A9F, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setGlareCallbackFiltering:]', symObjAddr: 0xCE3, symBinAddr: 0x6F4F, symSize: 0x9 }
+  - { offsetInCU: 0x17D9, offset: 0x38ADC, size: 0x8, addend: 0x0, symName: '-[DMDSOptions customEdgeDetectionAspectRatio]', symObjAddr: 0xCEC, symBinAddr: 0x6F58, symSize: 0xB }
+  - { offsetInCU: 0x180E, offset: 0x38B11, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setCustomEdgeDetectionAspectRatio:]', symObjAddr: 0xCF7, symBinAddr: 0x6F63, symSize: 0xB }
+  - { offsetInCU: 0x184B, offset: 0x38B4E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions customEdgeDetectionPhysicalSizeInInches]', symObjAddr: 0xD02, symBinAddr: 0x6F6E, symSize: 0xB }
+  - { offsetInCU: 0x1880, offset: 0x38B83, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setCustomEdgeDetectionPhysicalSizeInInches:]', symObjAddr: 0xD0D, symBinAddr: 0x6F79, symSize: 0xB }
+  - { offsetInCU: 0x18BD, offset: 0x38BC0, size: 0x8, addend: 0x0, symName: '-[DMDSOptions edgeDetectionLandscapeScaleTolerance]', symObjAddr: 0xD18, symBinAddr: 0x6F84, symSize: 0xB }
+  - { offsetInCU: 0x18F2, offset: 0x38BF5, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setEdgeDetectionLandscapeScaleTolerance:]', symObjAddr: 0xD23, symBinAddr: 0x6F8F, symSize: 0xB }
+  - { offsetInCU: 0x192F, offset: 0x38C32, size: 0x8, addend: 0x0, symName: '-[DMDSOptions edgeDetectionPortraitScaleTolerance]', symObjAddr: 0xD2E, symBinAddr: 0x6F9A, symSize: 0xB }
+  - { offsetInCU: 0x1964, offset: 0x38C67, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setEdgeDetectionPortraitScaleTolerance:]', symObjAddr: 0xD39, symBinAddr: 0x6FA5, symSize: 0xB }
+  - { offsetInCU: 0x19A1, offset: 0x38CA4, size: 0x8, addend: 0x0, symName: '-[DMDSOptions edgeDetectionVerticalCardScan]', symObjAddr: 0xD44, symBinAddr: 0x6FB0, symSize: 0x9 }
+  - { offsetInCU: 0x19D6, offset: 0x38CD9, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setEdgeDetectionVerticalCardScan:]', symObjAddr: 0xD4D, symBinAddr: 0x6FB9, symSize: 0x9 }
+  - { offsetInCU: 0x1A13, offset: 0x38D16, size: 0x8, addend: 0x0, symName: '-[DMDSOptions faceSDKLicenseKey]', symObjAddr: 0xD56, symBinAddr: 0x6FC2, symSize: 0xA }
+  - { offsetInCU: 0x1A48, offset: 0x38D4B, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFaceSDKLicenseKey:]', symObjAddr: 0xD60, symBinAddr: 0x6FCC, symSize: 0x11 }
+  - { offsetInCU: 0x1A87, offset: 0x38D8A, size: 0x8, addend: 0x0, symName: '-[DMDSOptions extensionFactors]', symObjAddr: 0xD71, symBinAddr: 0x6FDD, symSize: 0xD }
+  - { offsetInCU: 0x1ABC, offset: 0x38DBF, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setExtensionFactors:]', symObjAddr: 0xD7E, symBinAddr: 0x6FEA, symSize: 0x11 }
+  - { offsetInCU: 0x1AFB, offset: 0x38DFE, size: 0x8, addend: 0x0, symName: '-[DMDSOptions fastScan]', symObjAddr: 0xD8F, symBinAddr: 0x6FFB, symSize: 0x9 }
+  - { offsetInCU: 0x1B30, offset: 0x38E33, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setFastScan:]', symObjAddr: 0xD98, symBinAddr: 0x7004, symSize: 0x9 }
+  - { offsetInCU: 0x1B6D, offset: 0x38E70, size: 0x8, addend: 0x0, symName: '-[DMDSOptions allowUnverifiedMrzResults]', symObjAddr: 0xDA1, symBinAddr: 0x700D, symSize: 0x9 }
+  - { offsetInCU: 0x1BA2, offset: 0x38EA5, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setAllowUnverifiedMrzResults:]', symObjAddr: 0xDAA, symBinAddr: 0x7016, symSize: 0x9 }
+  - { offsetInCU: 0x1BDF, offset: 0x38EE2, size: 0x8, addend: 0x0, symName: '-[DMDSOptions anonymizeResults]', symObjAddr: 0xDB3, symBinAddr: 0x701F, symSize: 0x9 }
+  - { offsetInCU: 0x1C14, offset: 0x38F17, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setAnonymizeResults:]', symObjAddr: 0xDBC, symBinAddr: 0x7028, symSize: 0x9 }
+  - { offsetInCU: 0x1C51, offset: 0x38F54, size: 0x8, addend: 0x0, symName: '-[DMDSOptions documentBorderWidth]', symObjAddr: 0xDC5, symBinAddr: 0x7031, symSize: 0x9 }
+  - { offsetInCU: 0x1C86, offset: 0x38F89, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setDocumentBorderWidth:]', symObjAddr: 0xDCE, symBinAddr: 0x703A, symSize: 0x9 }
+  - { offsetInCU: 0x1CC3, offset: 0x38FC6, size: 0x8, addend: 0x0, symName: '-[DMDSOptions qualityFilter]', symObjAddr: 0xDD7, symBinAddr: 0x7043, symSize: 0x9 }
+  - { offsetInCU: 0x1CF9, offset: 0x38FFC, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setQualityFilter:]', symObjAddr: 0xDE0, symBinAddr: 0x704C, symSize: 0x9 }
+  - { offsetInCU: 0x1D37, offset: 0x3903A, size: 0x8, addend: 0x0, symName: '-[DMDSOptions minLocalBlur]', symObjAddr: 0xDE9, symBinAddr: 0x7055, symSize: 0xB }
+  - { offsetInCU: 0x1D6D, offset: 0x39070, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setMinLocalBlur:]', symObjAddr: 0xDF4, symBinAddr: 0x7060, symSize: 0xB }
+  - { offsetInCU: 0x1DAB, offset: 0x390AE, size: 0x8, addend: 0x0, symName: '-[DMDSOptions maxGlareFixed]', symObjAddr: 0xDFF, symBinAddr: 0x706B, symSize: 0xB }
+  - { offsetInCU: 0x1DE1, offset: 0x390E4, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setMaxGlareFixed:]', symObjAddr: 0xE0A, symBinAddr: 0x7076, symSize: 0xB }
+  - { offsetInCU: 0x1E1F, offset: 0x39122, size: 0x8, addend: 0x0, symName: '-[DMDSOptions videoResolution]', symObjAddr: 0xE15, symBinAddr: 0x7081, symSize: 0xD }
+  - { offsetInCU: 0x1E55, offset: 0x39158, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setVideoResolution:]', symObjAddr: 0xE22, symBinAddr: 0x708E, symSize: 0xD }
+  - { offsetInCU: 0x1E93, offset: 0x39196, size: 0x8, addend: 0x0, symName: '-[DMDSOptions requireMrzIdRecognition]', symObjAddr: 0xE2F, symBinAddr: 0x709B, symSize: 0x9 }
+  - { offsetInCU: 0x1EC9, offset: 0x391CC, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setRequireMrzIdRecognition:]', symObjAddr: 0xE38, symBinAddr: 0x70A4, symSize: 0x9 }
+  - { offsetInCU: 0x1F07, offset: 0x3920A, size: 0x8, addend: 0x0, symName: '-[DMDSOptions requireMrzVisaRecognition]', symObjAddr: 0xE41, symBinAddr: 0x70AD, symSize: 0x9 }
+  - { offsetInCU: 0x1F3D, offset: 0x39240, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setRequireMrzVisaRecognition:]', symObjAddr: 0xE4A, symBinAddr: 0x70B6, symSize: 0x9 }
+  - { offsetInCU: 0x1F7B, offset: 0x3927E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions requireMrzPassportRecognition]', symObjAddr: 0xE53, symBinAddr: 0x70BF, symSize: 0x9 }
+  - { offsetInCU: 0x1FB1, offset: 0x392B4, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setRequireMrzPassportRecognition:]', symObjAddr: 0xE5C, symBinAddr: 0x70C8, symSize: 0x9 }
+  - { offsetInCU: 0x1FEF, offset: 0x392F2, size: 0x8, addend: 0x0, symName: '-[DMDSOptions requirePhotoIdRecognition]', symObjAddr: 0xE65, symBinAddr: 0x70D1, symSize: 0x9 }
+  - { offsetInCU: 0x2025, offset: 0x39328, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setRequirePhotoIdRecognition:]', symObjAddr: 0xE6E, symBinAddr: 0x70DA, symSize: 0x9 }
+  - { offsetInCU: 0x2063, offset: 0x39366, size: 0x8, addend: 0x0, symName: '-[DMDSOptions requireBarcodeIdRecognition]', symObjAddr: 0xE77, symBinAddr: 0x70E3, symSize: 0x9 }
+  - { offsetInCU: 0x2099, offset: 0x3939C, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setRequireBarcodeIdRecognition:]', symObjAddr: 0xE80, symBinAddr: 0x70EC, symSize: 0x9 }
+  - { offsetInCU: 0x20D7, offset: 0x393DA, size: 0x8, addend: 0x0, symName: '-[DMDSOptions requireFullRecognition]', symObjAddr: 0xE89, symBinAddr: 0x70F5, symSize: 0x9 }
+  - { offsetInCU: 0x210D, offset: 0x39410, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setRequireFullRecognition:]', symObjAddr: 0xE92, symBinAddr: 0x70FE, symSize: 0x9 }
+  - { offsetInCU: 0x214B, offset: 0x3944E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions singleFrameMode]', symObjAddr: 0xE9B, symBinAddr: 0x7107, symSize: 0x9 }
+  - { offsetInCU: 0x2181, offset: 0x39484, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setSingleFrameMode:]', symObjAddr: 0xEA4, symBinAddr: 0x7110, symSize: 0x9 }
+  - { offsetInCU: 0x21BF, offset: 0x394C2, size: 0x8, addend: 0x0, symName: '-[DMDSOptions dewarpPolicy]', symObjAddr: 0xEAD, symBinAddr: 0x7119, symSize: 0xD }
+  - { offsetInCU: 0x21F5, offset: 0x394F8, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setDewarpPolicy:]', symObjAddr: 0xEBA, symBinAddr: 0x7126, symSize: 0xD }
+  - { offsetInCU: 0x2233, offset: 0x39536, size: 0x8, addend: 0x0, symName: '-[DMDSOptions minTiltAngle]', symObjAddr: 0xEC7, symBinAddr: 0x7133, symSize: 0xE }
+  - { offsetInCU: 0x2269, offset: 0x3956C, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setMinTiltAngle:]', symObjAddr: 0xED5, symBinAddr: 0x7141, symSize: 0xE }
+  - { offsetInCU: 0x22A7, offset: 0x395AA, size: 0x8, addend: 0x0, symName: '-[DMDSOptions maxTiltAngle]', symObjAddr: 0xEE3, symBinAddr: 0x714F, symSize: 0xE }
+  - { offsetInCU: 0x22DD, offset: 0x395E0, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setMaxTiltAngle:]', symObjAddr: 0xEF1, symBinAddr: 0x715D, symSize: 0xE }
+  - { offsetInCU: 0x231B, offset: 0x3961E, size: 0x8, addend: 0x0, symName: '-[DMDSOptions paddingEdge]', symObjAddr: 0xEFF, symBinAddr: 0x716B, symSize: 0xE }
+  - { offsetInCU: 0x2351, offset: 0x39654, size: 0x8, addend: 0x0, symName: '-[DMDSOptions aggregateDetectionStatusUpdates]', symObjAddr: 0xF0D, symBinAddr: 0x7179, symSize: 0x9 }
+  - { offsetInCU: 0x2387, offset: 0x3968A, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setAggregateDetectionStatusUpdates:]', symObjAddr: 0xF16, symBinAddr: 0x7182, symSize: 0x9 }
+  - { offsetInCU: 0x23C5, offset: 0x396C8, size: 0x8, addend: 0x0, symName: '-[DMDSOptions blurStrictnessLevel]', symObjAddr: 0xF1F, symBinAddr: 0x718B, symSize: 0xD }
+  - { offsetInCU: 0x23FB, offset: 0x396FE, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setBlurStrictnessLevel:]', symObjAddr: 0xF2C, symBinAddr: 0x7198, symSize: 0xD }
+  - { offsetInCU: 0x2439, offset: 0x3973C, size: 0x8, addend: 0x0, symName: '-[DMDSOptions glareStrictnessLevel]', symObjAddr: 0xF39, symBinAddr: 0x71A5, symSize: 0xD }
+  - { offsetInCU: 0x246F, offset: 0x39772, size: 0x8, addend: 0x0, symName: '-[DMDSOptions setGlareStrictnessLevel:]', symObjAddr: 0xF46, symBinAddr: 0x71B2, symSize: 0xD }
+  - { offsetInCU: 0x24AD, offset: 0x397B0, size: 0x8, addend: 0x0, symName: '-[DMDSOptions .cxx_destruct]', symObjAddr: 0xF53, symBinAddr: 0x71BF, symSize: 0x62 }
+  - { offsetInCU: 0x35, offset: 0x39862, size: 0x8, addend: 0x0, symName: _kIdDocument, symObjAddr: 0x290, symBinAddr: 0x20098, symSize: 0x0 }
+  - { offsetInCU: 0x55, offset: 0x39882, size: 0x8, addend: 0x0, symName: _kIdDocumentCombined, symObjAddr: 0x298, symBinAddr: 0x200A0, symSize: 0x0 }
+  - { offsetInCU: 0x6B, offset: 0x39898, size: 0x8, addend: 0x0, symName: _kEdgeDetection, symObjAddr: 0x2A0, symBinAddr: 0x200A8, symSize: 0x0 }
+  - { offsetInCU: 0x81, offset: 0x398AE, size: 0x8, addend: 0x0, symName: _kEdgeDetection_A4, symObjAddr: 0x2A8, symBinAddr: 0x200B0, symSize: 0x0 }
+  - { offsetInCU: 0x97, offset: 0x398C4, size: 0x8, addend: 0x0, symName: _kEdgeDetection_A4_Landscape, symObjAddr: 0x2B0, symBinAddr: 0x200B8, symSize: 0x0 }
+  - { offsetInCU: 0xAD, offset: 0x398DA, size: 0x8, addend: 0x0, symName: _kEdgeDetection_A4_Portrait, symObjAddr: 0x2B8, symBinAddr: 0x200C0, symSize: 0x0 }
+  - { offsetInCU: 0xC3, offset: 0x398F0, size: 0x8, addend: 0x0, symName: _kEdgeDetection_ID1, symObjAddr: 0x2C0, symBinAddr: 0x200C8, symSize: 0x0 }
+  - { offsetInCU: 0xD9, offset: 0x39906, size: 0x8, addend: 0x0, symName: _kEdgeDetection_ID2, symObjAddr: 0x2C8, symBinAddr: 0x200D0, symSize: 0x0 }
+  - { offsetInCU: 0xEF, offset: 0x3991C, size: 0x8, addend: 0x0, symName: _kEdgeDetection_ID3, symObjAddr: 0x2D0, symBinAddr: 0x200D8, symSize: 0x0 }
+  - { offsetInCU: 0x105, offset: 0x39932, size: 0x8, addend: 0x0, symName: _kEdgeDetection_Custom, symObjAddr: 0x2D8, symBinAddr: 0x200E0, symSize: 0x0 }
+  - { offsetInCU: 0x11B, offset: 0x39948, size: 0x8, addend: 0x0, symName: _kPassport, symObjAddr: 0x2E0, symBinAddr: 0x200E8, symSize: 0x0 }
+  - { offsetInCU: 0x131, offset: 0x3995E, size: 0x8, addend: 0x0, symName: _kMrz, symObjAddr: 0x2E8, symBinAddr: 0x200F0, symSize: 0x0 }
+  - { offsetInCU: 0x147, offset: 0x39974, size: 0x8, addend: 0x0, symName: _kIdBarcodeDocument, symObjAddr: 0x2F0, symBinAddr: 0x200F8, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x399AC, size: 0x8, addend: 0x0, symName: '-[ScanningState init]', symObjAddr: 0x0, symBinAddr: 0x7221, symSize: 0x7E }
+  - { offsetInCU: 0x41, offset: 0x399C6, size: 0x8, addend: 0x0, symName: _qualityAnalyzerStatic, symObjAddr: 0x1A198, symBinAddr: 0x2F510, symSize: 0x0 }
+  - { offsetInCU: 0x960, offset: 0x3A2E5, size: 0x8, addend: 0x0, symName: '-[ScanningState init]', symObjAddr: 0x0, symBinAddr: 0x7221, symSize: 0x7E }
+  - { offsetInCU: 0x9B3, offset: 0x3A338, size: 0x8, addend: 0x0, symName: '+[ScanningState createScanningState:isCustomOverlay:]', symObjAddr: 0x7E, symBinAddr: 0x729F, symSize: 0x115 }
+  - { offsetInCU: 0xABE, offset: 0x3A443, size: 0x8, addend: 0x0, symName: '+[ScanningState createScanningStateObject:]', symObjAddr: 0x193, symBinAddr: 0x73B4, symSize: 0x8 }
+  - { offsetInCU: 0xAFD, offset: 0x3A482, size: 0x8, addend: 0x0, symName: '+[ScanningState qualityAnalyzer]', symObjAddr: 0x19B, symBinAddr: 0x73BC, symSize: 0x3D }
+  - { offsetInCU: 0xB3C, offset: 0x3A4C1, size: 0x8, addend: 0x0, symName: '-[ScanningState getImageToQualityCheck:]', symObjAddr: 0x1D8, symBinAddr: 0x73F9, symSize: 0x18 }
+  - { offsetInCU: 0xB8F, offset: 0x3A514, size: 0x8, addend: 0x0, symName: '-[ScanningState initFaceAnalyzer]', symObjAddr: 0x1F0, symBinAddr: 0x7411, symSize: 0xB3 }
+  - { offsetInCU: 0xC0A, offset: 0x3A58F, size: 0x8, addend: 0x0, symName: '-[ScanningState stopFaceAnalyzer]', symObjAddr: 0x2A3, symBinAddr: 0x74C4, symSize: 0x73 }
+  - { offsetInCU: 0xC6D, offset: 0x3A5F2, size: 0x8, addend: 0x0, symName: '-[ScanningState setCurrentSuccessfulDetectionQuadrangle:]', symObjAddr: 0x316, symBinAddr: 0x7537, symSize: 0x19 }
+  - { offsetInCU: 0xCAE, offset: 0x3A633, size: 0x8, addend: 0x0, symName: '-[ScanningState currentSuccessfulDetectionQuadrangle]', symObjAddr: 0x32F, symBinAddr: 0x7550, symSize: 0x13 }
+  - { offsetInCU: 0xCE5, offset: 0x3A66A, size: 0x8, addend: 0x0, symName: '-[ScanningState getCurrentOptions]', symObjAddr: 0x342, symBinAddr: 0x7563, symSize: 0x18 }
+  - { offsetInCU: 0xD2C, offset: 0x3A6B1, size: 0x8, addend: 0x0, symName: '-[ScanningState shouldFallbackToEdgeDetection]', symObjAddr: 0x35A, symBinAddr: 0x757B, symSize: 0x8 }
+  - { offsetInCU: 0xD5F, offset: 0x3A6E4, size: 0x8, addend: 0x0, symName: '-[ScanningState isEdgeDetection]', symObjAddr: 0x362, symBinAddr: 0x7583, symSize: 0x18 }
+  - { offsetInCU: 0xDA6, offset: 0x3A72B, size: 0x8, addend: 0x0, symName: '-[ScanningState startedScanning]', symObjAddr: 0x37A, symBinAddr: 0x759B, symSize: 0x15 }
+  - { offsetInCU: 0xDE7, offset: 0x3A76C, size: 0x8, addend: 0x0, symName: '-[ScanningState resumeScanning]', symObjAddr: 0x38F, symBinAddr: 0x75B0, symSize: 0x15 }
+  - { offsetInCU: 0xE28, offset: 0x3A7AD, size: 0x8, addend: 0x0, symName: '-[ScanningState stoppedScanning]', symObjAddr: 0x3A4, symBinAddr: 0x75C5, symSize: 0x15 }
+  - { offsetInCU: 0xE69, offset: 0x3A7EE, size: 0x8, addend: 0x0, symName: '-[ScanningState goToSecondStep]', symObjAddr: 0x3B9, symBinAddr: 0x75DA, symSize: 0x1E }
+  - { offsetInCU: 0xEA8, offset: 0x3A82D, size: 0x8, addend: 0x0, symName: '-[ScanningState isScanning]', symObjAddr: 0x3D7, symBinAddr: 0x75F8, symSize: 0x18 }
+  - { offsetInCU: 0xEEF, offset: 0x3A874, size: 0x8, addend: 0x0, symName: '-[ScanningState isLastStep]', symObjAddr: 0x3EF, symBinAddr: 0x7610, symSize: 0x18 }
+  - { offsetInCU: 0xF36, offset: 0x3A8BB, size: 0x8, addend: 0x0, symName: '-[ScanningState resetProcessingData]', symObjAddr: 0x407, symBinAddr: 0x7628, symSize: 0x8D }
+  - { offsetInCU: 0xFB1, offset: 0x3A936, size: 0x8, addend: 0x0, symName: '-[ScanningState isCustomOverlay]', symObjAddr: 0x494, symBinAddr: 0x76B5, symSize: 0xB }
+  - { offsetInCU: 0xFE6, offset: 0x3A96B, size: 0x8, addend: 0x0, symName: '-[ScanningState setIsCustomOverlay:]', symObjAddr: 0x49F, symBinAddr: 0x76C0, symSize: 0x9 }
+  - { offsetInCU: 0x1023, offset: 0x3A9A8, size: 0x8, addend: 0x0, symName: '-[ScanningState isFaceDetection]', symObjAddr: 0x4A8, symBinAddr: 0x76C9, symSize: 0xB }
+  - { offsetInCU: 0x1058, offset: 0x3A9DD, size: 0x8, addend: 0x0, symName: '-[ScanningState setIsFaceDetection:]', symObjAddr: 0x4B3, symBinAddr: 0x76D4, symSize: 0x9 }
+  - { offsetInCU: 0x1095, offset: 0x3AA1A, size: 0x8, addend: 0x0, symName: '-[ScanningState parsingResultsInProgress]', symObjAddr: 0x4BC, symBinAddr: 0x76DD, symSize: 0xB }
+  - { offsetInCU: 0x10CA, offset: 0x3AA4F, size: 0x8, addend: 0x0, symName: '-[ScanningState setParsingResultsInProgress:]', symObjAddr: 0x4C7, symBinAddr: 0x76E8, symSize: 0x9 }
+  - { offsetInCU: 0x1107, offset: 0x3AA8C, size: 0x8, addend: 0x0, symName: '-[ScanningState lastGlareState]', symObjAddr: 0x4D0, symBinAddr: 0x76F1, symSize: 0xB }
+  - { offsetInCU: 0x113C, offset: 0x3AAC1, size: 0x8, addend: 0x0, symName: '-[ScanningState setLastGlareState:]', symObjAddr: 0x4DB, symBinAddr: 0x76FC, symSize: 0x9 }
+  - { offsetInCU: 0x1179, offset: 0x3AAFE, size: 0x8, addend: 0x0, symName: '-[ScanningState isCombinedDetection]', symObjAddr: 0x4E4, symBinAddr: 0x7705, symSize: 0xB }
+  - { offsetInCU: 0x11AE, offset: 0x3AB33, size: 0x8, addend: 0x0, symName: '-[ScanningState setIsCombinedDetection:]', symObjAddr: 0x4EF, symBinAddr: 0x7710, symSize: 0x9 }
+  - { offsetInCU: 0x11EB, offset: 0x3AB70, size: 0x8, addend: 0x0, symName: '-[ScanningState processingData]', symObjAddr: 0x4F8, symBinAddr: 0x7719, symSize: 0x14 }
+  - { offsetInCU: 0x1222, offset: 0x3ABA7, size: 0x8, addend: 0x0, symName: '-[ScanningState setProcessingData:]', symObjAddr: 0x50C, symBinAddr: 0x772D, symSize: 0xF }
+  - { offsetInCU: 0x1261, offset: 0x3ABE6, size: 0x8, addend: 0x0, symName: '-[ScanningState originalOptions]', symObjAddr: 0x51B, symBinAddr: 0x773C, symSize: 0x14 }
+  - { offsetInCU: 0x1298, offset: 0x3AC1D, size: 0x8, addend: 0x0, symName: '-[ScanningState setOriginalOptions:]', symObjAddr: 0x52F, symBinAddr: 0x7750, symSize: 0xF }
+  - { offsetInCU: 0x12D7, offset: 0x3AC5C, size: 0x8, addend: 0x0, symName: '-[ScanningState didFinishFrontSide]', symObjAddr: 0x53E, symBinAddr: 0x775F, symSize: 0xB }
+  - { offsetInCU: 0x130C, offset: 0x3AC91, size: 0x8, addend: 0x0, symName: '-[ScanningState setDidFinishFrontSide:]', symObjAddr: 0x549, symBinAddr: 0x776A, symSize: 0x9 }
+  - { offsetInCU: 0x1349, offset: 0x3ACCE, size: 0x8, addend: 0x0, symName: '-[ScanningState faceRotation]', symObjAddr: 0x552, symBinAddr: 0x7773, symSize: 0x9 }
+  - { offsetInCU: 0x137E, offset: 0x3AD03, size: 0x8, addend: 0x0, symName: '-[ScanningState setFaceRotation:]', symObjAddr: 0x55B, symBinAddr: 0x777C, symSize: 0x9 }
+  - { offsetInCU: 0x13BB, offset: 0x3AD40, size: 0x8, addend: 0x0, symName: '-[ScanningState faceAnalyzer]', symObjAddr: 0x564, symBinAddr: 0x7785, symSize: 0x14 }
+  - { offsetInCU: 0x13F2, offset: 0x3AD77, size: 0x8, addend: 0x0, symName: '-[ScanningState setFaceAnalyzer:]', symObjAddr: 0x578, symBinAddr: 0x7799, symSize: 0xF }
+  - { offsetInCU: 0x1431, offset: 0x3ADB6, size: 0x8, addend: 0x0, symName: '-[ScanningState timeoutTriggered]', symObjAddr: 0x587, symBinAddr: 0x77A8, symSize: 0xB }
+  - { offsetInCU: 0x1466, offset: 0x3ADEB, size: 0x8, addend: 0x0, symName: '-[ScanningState setTimeoutTriggered:]', symObjAddr: 0x592, symBinAddr: 0x77B3, symSize: 0x9 }
+  - { offsetInCU: 0x14A3, offset: 0x3AE28, size: 0x8, addend: 0x0, symName: '-[ScanningState stopScanningCalled]', symObjAddr: 0x59B, symBinAddr: 0x77BC, symSize: 0xB }
+  - { offsetInCU: 0x14D8, offset: 0x3AE5D, size: 0x8, addend: 0x0, symName: '-[ScanningState setStopScanningCalled:]', symObjAddr: 0x5A6, symBinAddr: 0x77C7, symSize: 0x9 }
+  - { offsetInCU: 0x1515, offset: 0x3AE9A, size: 0x8, addend: 0x0, symName: '-[ScanningState faceQualityStatus]', symObjAddr: 0x5AF, symBinAddr: 0x77D0, symSize: 0xA }
+  - { offsetInCU: 0x154A, offset: 0x3AECF, size: 0x8, addend: 0x0, symName: '-[ScanningState setFaceQualityStatus:]', symObjAddr: 0x5B9, symBinAddr: 0x77DA, symSize: 0xA }
+  - { offsetInCU: 0x1587, offset: 0x3AF0C, size: 0x8, addend: 0x0, symName: '-[ScanningState faceQualityResult]', symObjAddr: 0x5C3, symBinAddr: 0x77E4, symSize: 0x14 }
+  - { offsetInCU: 0x15BE, offset: 0x3AF43, size: 0x8, addend: 0x0, symName: '-[ScanningState setFaceQualityResult:]', symObjAddr: 0x5D7, symBinAddr: 0x77F8, symSize: 0xF }
+  - { offsetInCU: 0x15FD, offset: 0x3AF82, size: 0x8, addend: 0x0, symName: '-[ScanningState successfulDetectionQuadrangle]', symObjAddr: 0x5E6, symBinAddr: 0x7807, symSize: 0x14 }
+  - { offsetInCU: 0x1634, offset: 0x3AFB9, size: 0x8, addend: 0x0, symName: '-[ScanningState setSuccessfulDetectionQuadrangle:]', symObjAddr: 0x5FA, symBinAddr: 0x781B, symSize: 0xF }
+  - { offsetInCU: 0x1673, offset: 0x3AFF8, size: 0x8, addend: 0x0, symName: '-[ScanningState successfulDetectionQuadrangleBack]', symObjAddr: 0x609, symBinAddr: 0x782A, symSize: 0x14 }
+  - { offsetInCU: 0x16AA, offset: 0x3B02F, size: 0x8, addend: 0x0, symName: '-[ScanningState setSuccessfulDetectionQuadrangleBack:]', symObjAddr: 0x61D, symBinAddr: 0x783E, symSize: 0xF }
+  - { offsetInCU: 0x16E9, offset: 0x3B06E, size: 0x8, addend: 0x0, symName: '-[ScanningState usingScanningRegion]', symObjAddr: 0x62C, symBinAddr: 0x784D, symSize: 0xB }
+  - { offsetInCU: 0x171E, offset: 0x3B0A3, size: 0x8, addend: 0x0, symName: '-[ScanningState setUsingScanningRegion:]', symObjAddr: 0x637, symBinAddr: 0x7858, symSize: 0x9 }
+  - { offsetInCU: 0x175B, offset: 0x3B0E0, size: 0x8, addend: 0x0, symName: '-[ScanningState .cxx_destruct]', symObjAddr: 0x640, symBinAddr: 0x7861, symSize: 0x54 }
+  - { offsetInCU: 0x27, offset: 0x3B1C2, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities cropImage:withCoordinates:]', symObjAddr: 0x0, symBinAddr: 0x78B5, symSize: 0x3E6 }
+  - { offsetInCU: 0x4B, offset: 0x3B1E6, size: 0x8, addend: 0x0, symName: _sAllAvailableBundles, symObjAddr: 0x25FE0, symBinAddr: 0x2F518, symSize: 0x0 }
+  - { offsetInCU: 0x206, offset: 0x3B3A1, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities cropImage:withCoordinates:]', symObjAddr: 0x0, symBinAddr: 0x78B5, symSize: 0x3E6 }
+  - { offsetInCU: 0x542, offset: 0x3B6DD, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities cropImageWithFourCoordinates:topLeft:topRight:bottomRight:bottomLeft:percentage:]', symObjAddr: 0x3E6, symBinAddr: 0x7C9B, symSize: 0x2EF }
+  - { offsetInCU: 0x870, offset: 0x3BA0B, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities increaseRectWithCoordinates:topRight:bottomRight:bottomLeft:percentage:]', symObjAddr: 0x6D5, symBinAddr: 0x7F8A, symSize: 0x29F }
+  - { offsetInCU: 0xB00, offset: 0x3BC9B, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities padImageForServerProcessing:forDocumentType:paddingSize:]', symObjAddr: 0x974, symBinAddr: 0x8229, symSize: 0x181 }
+  - { offsetInCU: 0xCE1, offset: 0x3BE7C, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities rotateImage:degrees:]', symObjAddr: 0xAF5, symBinAddr: 0x83AA, symSize: 0x20A }
+  - { offsetInCU: 0xEE8, offset: 0x3C083, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities adjustDocumentOrientation:withFace:orientation:]', symObjAddr: 0xCFF, symBinAddr: 0x85B4, symSize: 0xCE }
+  - { offsetInCU: 0xF93, offset: 0x3C12E, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities faceExtractionProvider:result:]', symObjAddr: 0xDCD, symBinAddr: 0x8682, symSize: 0x8 }
+  - { offsetInCU: 0xFDE, offset: 0x3C179, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities getAvailableDocumentTypes]', symObjAddr: 0xDD5, symBinAddr: 0x868A, symSize: 0x1F1 }
+  - { offsetInCU: 0x11CF, offset: 0x3C36A, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities containsEdgeDetection:]', symObjAddr: 0xFC6, symBinAddr: 0x887B, symSize: 0x23D }
+  - { offsetInCU: 0x134C, offset: 0x3C4E7, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities requiresPortraitScanRegion:]', symObjAddr: 0x1203, symBinAddr: 0x8AB8, symSize: 0x51 }
+  - { offsetInCU: 0x13B5, offset: 0x3C550, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities isCombinedScanDocument:]', symObjAddr: 0x1254, symBinAddr: 0x8B09, symSize: 0x51 }
+  - { offsetInCU: 0x141E, offset: 0x3C5B9, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities includesFaceImage:]', symObjAddr: 0x12A5, symBinAddr: 0x8B5A, symSize: 0x19A }
+  - { offsetInCU: 0x153F, offset: 0x3C6DA, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities ignoreDocumentFaceExtraction:]', symObjAddr: 0x143F, symBinAddr: 0x8CF4, symSize: 0xF0 }
+  - { offsetInCU: 0x1608, offset: 0x3C7A3, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities mapToDMDSRecognitionMode:]', symObjAddr: 0x152F, symBinAddr: 0x8DE4, symSize: 0x8 }
+  - { offsetInCU: 0x1649, offset: 0x3C7E4, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities localise:]', symObjAddr: 0x1537, symBinAddr: 0x8DEC, symSize: 0x1D9 }
+  - { offsetInCU: 0x1748, offset: 0x3C8E3, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities availableBundles]', symObjAddr: 0x1710, symBinAddr: 0x8FC5, symSize: 0x250 }
+  - { offsetInCU: 0x18AD, offset: 0x3CA48, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities getBundlesInPath:]', symObjAddr: 0x1960, symBinAddr: 0x9215, symSize: 0x2DF }
+  - { offsetInCU: 0x1A1D, offset: 0x3CBB8, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities getSizeInMBForImage:withName:]', symObjAddr: 0x1C3F, symBinAddr: 0x94F4, symSize: 0x7C }
+  - { offsetInCU: 0x1ADF, offset: 0x3CC7A, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities getSizeInMBForData:withName:]', symObjAddr: 0x1CBB, symBinAddr: 0x9570, symSize: 0xC0 }
+  - { offsetInCU: 0x1BBF, offset: 0x3CD5A, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities getMaxFloatFromArray:]', symObjAddr: 0x1D7B, symBinAddr: 0x9630, symSize: 0x1CA }
+  - { offsetInCU: 0x1CB9, offset: 0x3CE54, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities logDocumentSize:]', symObjAddr: 0x1F45, symBinAddr: 0x97FA, symSize: 0x411 }
+  - { offsetInCU: 0x1F3F, offset: 0x3D0DA, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities logMetaDataFromImage:]', symObjAddr: 0x2356, symBinAddr: 0x9C0B, symSize: 0xBB }
+  - { offsetInCU: 0x208F, offset: 0x3D22A, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities writeUImageToDocuments:]', symObjAddr: 0x2411, symBinAddr: 0x9CC6, symSize: 0x12 }
+  - { offsetInCU: 0x20DC, offset: 0x3D277, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities writeImageToDocumentsPNG:]', symObjAddr: 0x2423, symBinAddr: 0x9CD8, symSize: 0x120 }
+  - { offsetInCU: 0x2208, offset: 0x3D3A3, size: 0x8, addend: 0x0, symName: '+[DMDSUtilities writeImageToDocuments:]', symObjAddr: 0x2543, symBinAddr: 0x9DF8, symSize: 0xDA }
+  - { offsetInCU: 0x27, offset: 0x3DBC5, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors initWithTop:right:bottom:left:]', symObjAddr: 0x0, symBinAddr: 0x9ED2, symSize: 0xA3 }
+  - { offsetInCU: 0xDF, offset: 0x3DC7D, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors initWithTop:right:bottom:left:]', symObjAddr: 0x0, symBinAddr: 0x9ED2, symSize: 0xA3 }
+  - { offsetInCU: 0x186, offset: 0x3DD24, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors init]', symObjAddr: 0xA3, symBinAddr: 0x9F75, symSize: 0x9B }
+  - { offsetInCU: 0x1ED, offset: 0x3DD8B, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors copyWithZone:]', symObjAddr: 0x13E, symBinAddr: 0xA010, symSize: 0x99 }
+  - { offsetInCU: 0x2A0, offset: 0x3DE3E, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors description]', symObjAddr: 0x1D7, symBinAddr: 0xA0A9, symSize: 0x85 }
+  - { offsetInCU: 0x328, offset: 0x3DEC6, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors extensionFactorTop]', symObjAddr: 0x25C, symBinAddr: 0xA12E, symSize: 0xB }
+  - { offsetInCU: 0x35D, offset: 0x3DEFB, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors setExtensionFactorTop:]', symObjAddr: 0x267, symBinAddr: 0xA139, symSize: 0xB }
+  - { offsetInCU: 0x39A, offset: 0x3DF38, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors extensionFactorRight]', symObjAddr: 0x272, symBinAddr: 0xA144, symSize: 0xB }
+  - { offsetInCU: 0x3CF, offset: 0x3DF6D, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors setExtensionFactorRight:]', symObjAddr: 0x27D, symBinAddr: 0xA14F, symSize: 0xB }
+  - { offsetInCU: 0x40C, offset: 0x3DFAA, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors extensionFactorBottom]', symObjAddr: 0x288, symBinAddr: 0xA15A, symSize: 0xB }
+  - { offsetInCU: 0x441, offset: 0x3DFDF, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors setExtensionFactorBottom:]', symObjAddr: 0x293, symBinAddr: 0xA165, symSize: 0xB }
+  - { offsetInCU: 0x47E, offset: 0x3E01C, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors extensionFactorLeft]', symObjAddr: 0x29E, symBinAddr: 0xA170, symSize: 0xB }
+  - { offsetInCU: 0x4B3, offset: 0x3E051, size: 0x8, addend: 0x0, symName: '-[DMDSExtensionFactors setExtensionFactorLeft:]', symObjAddr: 0x2A9, symBinAddr: 0xA17B, symSize: 0xB }
+  - { offsetInCU: 0x27, offset: 0x3E0FF, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData unprocessedImage]', symObjAddr: 0x0, symBinAddr: 0xA186, symSize: 0x14 }
+  - { offsetInCU: 0x3AD, offset: 0x3E485, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData unprocessedImage]', symObjAddr: 0x0, symBinAddr: 0xA186, symSize: 0x14 }
+  - { offsetInCU: 0x3E4, offset: 0x3E4BC, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setUnprocessedImage:]', symObjAddr: 0x14, symBinAddr: 0xA19A, symSize: 0xF }
+  - { offsetInCU: 0x423, offset: 0x3E4FB, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData processedImage]', symObjAddr: 0x23, symBinAddr: 0xA1A9, symSize: 0x14 }
+  - { offsetInCU: 0x45A, offset: 0x3E532, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setProcessedImage:]', symObjAddr: 0x37, symBinAddr: 0xA1BD, symSize: 0xF }
+  - { offsetInCU: 0x499, offset: 0x3E571, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData processedImageBack]', symObjAddr: 0x46, symBinAddr: 0xA1CC, symSize: 0x14 }
+  - { offsetInCU: 0x4D0, offset: 0x3E5A8, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setProcessedImageBack:]', symObjAddr: 0x5A, symBinAddr: 0xA1E0, symSize: 0xF }
+  - { offsetInCU: 0x50F, offset: 0x3E5E7, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData unprocessedImageBack]', symObjAddr: 0x69, symBinAddr: 0xA1EF, symSize: 0x14 }
+  - { offsetInCU: 0x546, offset: 0x3E61E, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setUnprocessedImageBack:]', symObjAddr: 0x7D, symBinAddr: 0xA203, symSize: 0xF }
+  - { offsetInCU: 0x585, offset: 0x3E65D, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData qualityImage]', symObjAddr: 0x8C, symBinAddr: 0xA212, symSize: 0x14 }
+  - { offsetInCU: 0x5BC, offset: 0x3E694, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setQualityImage:]', symObjAddr: 0xA0, symBinAddr: 0xA226, symSize: 0xF }
+  - { offsetInCU: 0x5FB, offset: 0x3E6D3, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData qualityImageBack]', symObjAddr: 0xAF, symBinAddr: 0xA235, symSize: 0x14 }
+  - { offsetInCU: 0x632, offset: 0x3E70A, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setQualityImageBack:]', symObjAddr: 0xC3, symBinAddr: 0xA249, symSize: 0xF }
+  - { offsetInCU: 0x671, offset: 0x3E749, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData qualityData]', symObjAddr: 0xD2, symBinAddr: 0xA258, symSize: 0x14 }
+  - { offsetInCU: 0x6A8, offset: 0x3E780, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setQualityData:]', symObjAddr: 0xE6, symBinAddr: 0xA26C, symSize: 0xF }
+  - { offsetInCU: 0x6E7, offset: 0x3E7BF, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData qualityDataBack]', symObjAddr: 0xF5, symBinAddr: 0xA27B, symSize: 0x14 }
+  - { offsetInCU: 0x71E, offset: 0x3E7F6, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setQualityDataBack:]', symObjAddr: 0x109, symBinAddr: 0xA28F, symSize: 0xF }
+  - { offsetInCU: 0x75D, offset: 0x3E835, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData extractedFace]', symObjAddr: 0x118, symBinAddr: 0xA29E, symSize: 0x14 }
+  - { offsetInCU: 0x794, offset: 0x3E86C, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setExtractedFace:]', symObjAddr: 0x12C, symBinAddr: 0xA2B2, symSize: 0xF }
+  - { offsetInCU: 0x7D3, offset: 0x3E8AB, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData unwrappedResult]', symObjAddr: 0x13B, symBinAddr: 0xA2C1, symSize: 0x14 }
+  - { offsetInCU: 0x80A, offset: 0x3E8E2, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setUnwrappedResult:]', symObjAddr: 0x14F, symBinAddr: 0xA2D5, symSize: 0xF }
+  - { offsetInCU: 0x849, offset: 0x3E921, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData rotation]', symObjAddr: 0x15E, symBinAddr: 0xA2E4, symSize: 0xA }
+  - { offsetInCU: 0x87E, offset: 0x3E956, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setRotation:]', symObjAddr: 0x168, symBinAddr: 0xA2EE, symSize: 0xA }
+  - { offsetInCU: 0x8BB, offset: 0x3E993, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData rotationBack]', symObjAddr: 0x172, symBinAddr: 0xA2F8, symSize: 0xA }
+  - { offsetInCU: 0x8F0, offset: 0x3E9C8, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData setRotationBack:]', symObjAddr: 0x17C, symBinAddr: 0xA302, symSize: 0xA }
+  - { offsetInCU: 0x92D, offset: 0x3EA05, size: 0x8, addend: 0x0, symName: '-[DMDSProcessingData .cxx_destruct]', symObjAddr: 0x186, symBinAddr: 0xA30C, symSize: 0x80 }
+  - { offsetInCU: 0x27, offset: 0x3EA7C, size: 0x8, addend: 0x0, symName: '+[DaonDocument version]', symObjAddr: 0x0, symBinAddr: 0xA38C, symSize: 0xD1 }
+  - { offsetInCU: 0x190, offset: 0x3EBE5, size: 0x8, addend: 0x0, symName: '+[DaonDocument version]', symObjAddr: 0x0, symBinAddr: 0xA38C, symSize: 0xD1 }
+  - { offsetInCU: 0x27, offset: 0x3ECCF, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass init]', symObjAddr: 0x0, symBinAddr: 0xA45D, symSize: 0x42 }
+  - { offsetInCU: 0x18F, offset: 0x3EE37, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass init]', symObjAddr: 0x0, symBinAddr: 0xA45D, symSize: 0x42 }
+  - { offsetInCU: 0x22D, offset: 0x3EED5, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass initWithFrame:]', symObjAddr: 0x42, symBinAddr: 0xA49F, symSize: 0x1CC }
+  - { offsetInCU: 0x357, offset: 0x3EFFF, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass setFrame:]', symObjAddr: 0x20E, symBinAddr: 0xA66B, symSize: 0x92 }
+  - { offsetInCU: 0x3BD, offset: 0x3F065, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass drawRect:]', symObjAddr: 0x2A0, symBinAddr: 0xA6FD, symSize: 0x16D }
+  - { offsetInCU: 0x4F8, offset: 0x3F1A0, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass viewToMagnify]', symObjAddr: 0x40D, symBinAddr: 0xA86A, symSize: 0x11 }
+  - { offsetInCU: 0x52D, offset: 0x3F1D5, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass setViewToMagnify:]', symObjAddr: 0x41E, symBinAddr: 0xA87B, symSize: 0x14 }
+  - { offsetInCU: 0x56C, offset: 0x3F214, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass touchPoint]', symObjAddr: 0x432, symBinAddr: 0xA88F, symSize: 0x18 }
+  - { offsetInCU: 0x5A1, offset: 0x3F249, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass setTouchPoint:]', symObjAddr: 0x44A, symBinAddr: 0xA8A7, symSize: 0x18 }
+  - { offsetInCU: 0x5E0, offset: 0x3F288, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass touchPointOffset]', symObjAddr: 0x462, symBinAddr: 0xA8BF, symSize: 0x18 }
+  - { offsetInCU: 0x615, offset: 0x3F2BD, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass setTouchPointOffset:]', symObjAddr: 0x47A, symBinAddr: 0xA8D7, symSize: 0x18 }
+  - { offsetInCU: 0x654, offset: 0x3F2FC, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass scale]', symObjAddr: 0x492, symBinAddr: 0xA8EF, symSize: 0x12 }
+  - { offsetInCU: 0x689, offset: 0x3F331, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass setScale:]', symObjAddr: 0x4A4, symBinAddr: 0xA901, symSize: 0x12 }
+  - { offsetInCU: 0x6C6, offset: 0x3F36E, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass scaleAtTouchPoint]', symObjAddr: 0x4B6, symBinAddr: 0xA913, symSize: 0x10 }
+  - { offsetInCU: 0x6FB, offset: 0x3F3A3, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass setScaleAtTouchPoint:]', symObjAddr: 0x4C6, symBinAddr: 0xA923, symSize: 0x10 }
+  - { offsetInCU: 0x738, offset: 0x3F3E0, size: 0x8, addend: 0x0, symName: '-[ACMagnifyingGlass .cxx_destruct]', symObjAddr: 0x4D6, symBinAddr: 0xA933, symSize: 0x13 }
+  - { offsetInCU: 0x27, offset: 0x3F480, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController initWithNibName:bundle:cameraOptions:]', symObjAddr: 0x0, symBinAddr: 0xA946, symSize: 0x82 }
+  - { offsetInCU: 0xA1C, offset: 0x3FE75, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController initWithNibName:bundle:cameraOptions:]', symObjAddr: 0x0, symBinAddr: 0xA946, symSize: 0x82 }
+  - { offsetInCU: 0xA9B, offset: 0x3FEF4, size: 0x8, addend: 0x0, symName: '+[DMDSCroppingViewController viewControllerFromXibWithOptions:]', symObjAddr: 0x82, symBinAddr: 0xA9C8, symSize: 0xA6 }
+  - { offsetInCU: 0xB1E, offset: 0x3FF77, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController viewDidLoad]', symObjAddr: 0x128, symBinAddr: 0xAA6E, symSize: 0x586 }
+  - { offsetInCU: 0xE6D, offset: 0x402C6, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController viewWillTransitionToSize:withTransitionCoordinator:]', symObjAddr: 0x6AE, symBinAddr: 0xAFF4, symSize: 0x11 }
+  - { offsetInCU: 0xEB6, offset: 0x4030F, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController viewDidLayoutSubviews]', symObjAddr: 0x6BF, symBinAddr: 0xB005, symSize: 0xC44 }
+  - { offsetInCU: 0x121C, offset: 0x40675, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController convertImagePointToViewPoint:imageSize:imageView:]', symObjAddr: 0x1303, symBinAddr: 0xBC49, symSize: 0x206 }
+  - { offsetInCU: 0x12D3, offset: 0x4072C, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setUIFromOptions]', symObjAddr: 0x1509, symBinAddr: 0xBE4F, symSize: 0x4AE }
+  - { offsetInCU: 0x15B2, offset: 0x40A0B, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController isUnderLine:secondLinePoint:pointForCheck:]', symObjAddr: 0x19B7, symBinAddr: 0xC2FD, symSize: 0x47 }
+  - { offsetInCU: 0x1635, offset: 0x40A8E, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController isUnderLine1:secondLinePoint:pointForCheck:isUnderLine:isGrowing:]', symObjAddr: 0x19FE, symBinAddr: 0xC344, symSize: 0x63 }
+  - { offsetInCU: 0x173C, offset: 0x40B95, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController handleTopLeftGesture:]', symObjAddr: 0x1A61, symBinAddr: 0xC3A7, symSize: 0x916 }
+  - { offsetInCU: 0x1A93, offset: 0x40EEC, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController handleTopRightGesture:]', symObjAddr: 0x2377, symBinAddr: 0xCCBD, symSize: 0x959 }
+  - { offsetInCU: 0x1DDF, offset: 0x41238, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController handleLowerLeftHoldGesture:]', symObjAddr: 0x2CD0, symBinAddr: 0xD616, symSize: 0x993 }
+  - { offsetInCU: 0x212E, offset: 0x41587, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController handleLowerRightGesture:]', symObjAddr: 0x3663, symBinAddr: 0xDFA9, symSize: 0x9B6 }
+  - { offsetInCU: 0x2486, offset: 0x418DF, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController dismiss:]', symObjAddr: 0x4019, symBinAddr: 0xE95F, symSize: 0x9F }
+  - { offsetInCU: 0x250F, offset: 0x41968, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController rescan:]', symObjAddr: 0x40B8, symBinAddr: 0xE9FE, symSize: 0x3C }
+  - { offsetInCU: 0x2568, offset: 0x419C1, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController cropImage:]', symObjAddr: 0x40F4, symBinAddr: 0xEA3A, symSize: 0x99C }
+  - { offsetInCU: 0x2989, offset: 0x41DE2, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController addMagnifyingGlassAtPoint:]', symObjAddr: 0x4A90, symBinAddr: 0xF3D6, symSize: 0x267 }
+  - { offsetInCU: 0x2A90, offset: 0x41EE9, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController removeMagnifyingGlass]', symObjAddr: 0x4CF7, symBinAddr: 0xF63D, symSize: 0x1D }
+  - { offsetInCU: 0x2AD0, offset: 0x41F29, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController updateMagnifyingGlassAtPoint:]', symObjAddr: 0x4D14, symBinAddr: 0xF65A, symSize: 0xE9 }
+  - { offsetInCU: 0x2B47, offset: 0x41FA0, size: 0x8, addend: 0x0, symName: '___59-[DMDSCroppingViewController updateMagnifyingGlassAtPoint:]_block_invoke', symObjAddr: 0x4DFD, symBinAddr: 0xF743, symSize: 0x10F }
+  - { offsetInCU: 0x2BCC, offset: 0x42025, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x4F0C, symBinAddr: 0xF852, symSize: 0xF }
+  - { offsetInCU: 0x2BFF, offset: 0x42058, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x4F1B, symBinAddr: 0xF861, symSize: 0xF }
+  - { offsetInCU: 0x2C2A, offset: 0x42083, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController delegate]', symObjAddr: 0x4F2A, symBinAddr: 0xF870, symSize: 0x19 }
+  - { offsetInCU: 0x2C61, offset: 0x420BA, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setDelegate:]', symObjAddr: 0x4F43, symBinAddr: 0xF889, symSize: 0x14 }
+  - { offsetInCU: 0x2CA0, offset: 0x420F9, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController scannedImageFront]', symObjAddr: 0x4F57, symBinAddr: 0xF89D, symSize: 0x19 }
+  - { offsetInCU: 0x2CD7, offset: 0x42130, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setScannedImageFront:]', symObjAddr: 0x4F70, symBinAddr: 0xF8B6, symSize: 0x14 }
+  - { offsetInCU: 0x2D16, offset: 0x4216F, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController successfulImage]', symObjAddr: 0x4F84, symBinAddr: 0xF8CA, symSize: 0x11 }
+  - { offsetInCU: 0x2D4B, offset: 0x421A4, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setSuccessfulImage:]', symObjAddr: 0x4F95, symBinAddr: 0xF8DB, symSize: 0x14 }
+  - { offsetInCU: 0x2D8A, offset: 0x421E3, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController quadrangle]', symObjAddr: 0x4FA9, symBinAddr: 0xF8EF, symSize: 0x11 }
+  - { offsetInCU: 0x2DBF, offset: 0x42218, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setQuadrangle:]', symObjAddr: 0x4FBA, symBinAddr: 0xF900, symSize: 0x14 }
+  - { offsetInCU: 0x2DFE, offset: 0x42257, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController captureOrientation]', symObjAddr: 0x4FCE, symBinAddr: 0xF914, symSize: 0x11 }
+  - { offsetInCU: 0x2E33, offset: 0x4228C, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setCaptureOrientation:]', symObjAddr: 0x4FDF, symBinAddr: 0xF925, symSize: 0x11 }
+  - { offsetInCU: 0x2E70, offset: 0x422C9, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController successfullImageBack]', symObjAddr: 0x4FF0, symBinAddr: 0xF936, symSize: 0x19 }
+  - { offsetInCU: 0x2EA7, offset: 0x42300, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setSuccessfullImageBack:]', symObjAddr: 0x5009, symBinAddr: 0xF94F, symSize: 0x14 }
+  - { offsetInCU: 0x2EE6, offset: 0x4233F, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController scannedImageBack]', symObjAddr: 0x501D, symBinAddr: 0xF963, symSize: 0x19 }
+  - { offsetInCU: 0x2F1D, offset: 0x42376, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setScannedImageBack:]', symObjAddr: 0x5036, symBinAddr: 0xF97C, symSize: 0x14 }
+  - { offsetInCU: 0x2F5C, offset: 0x423B5, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController isEdgeDetection]', symObjAddr: 0x504A, symBinAddr: 0xF990, symSize: 0x10 }
+  - { offsetInCU: 0x2F91, offset: 0x423EA, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setIsEdgeDetection:]', symObjAddr: 0x505A, symBinAddr: 0xF9A0, symSize: 0x10 }
+  - { offsetInCU: 0x2FCE, offset: 0x42427, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController upperLeft]', symObjAddr: 0x506A, symBinAddr: 0xF9B0, symSize: 0x19 }
+  - { offsetInCU: 0x3005, offset: 0x4245E, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setUpperLeft:]', symObjAddr: 0x5083, symBinAddr: 0xF9C9, symSize: 0x14 }
+  - { offsetInCU: 0x3044, offset: 0x4249D, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController upperRight]', symObjAddr: 0x5097, symBinAddr: 0xF9DD, symSize: 0x19 }
+  - { offsetInCU: 0x307B, offset: 0x424D4, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setUpperRight:]', symObjAddr: 0x50B0, symBinAddr: 0xF9F6, symSize: 0x14 }
+  - { offsetInCU: 0x30BA, offset: 0x42513, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController lowerLeft]', symObjAddr: 0x50C4, symBinAddr: 0xFA0A, symSize: 0x19 }
+  - { offsetInCU: 0x30F1, offset: 0x4254A, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setLowerLeft:]', symObjAddr: 0x50DD, symBinAddr: 0xFA23, symSize: 0x14 }
+  - { offsetInCU: 0x3130, offset: 0x42589, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController lowerRight]', symObjAddr: 0x50F1, symBinAddr: 0xFA37, symSize: 0x19 }
+  - { offsetInCU: 0x3167, offset: 0x425C0, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setLowerRight:]', symObjAddr: 0x510A, symBinAddr: 0xFA50, symSize: 0x14 }
+  - { offsetInCU: 0x31A6, offset: 0x425FF, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController bottomBar]', symObjAddr: 0x511E, symBinAddr: 0xFA64, symSize: 0x19 }
+  - { offsetInCU: 0x31DD, offset: 0x42636, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setBottomBar:]', symObjAddr: 0x5137, symBinAddr: 0xFA7D, symSize: 0x14 }
+  - { offsetInCU: 0x321C, offset: 0x42675, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController cancelButton]', symObjAddr: 0x514B, symBinAddr: 0xFA91, symSize: 0x19 }
+  - { offsetInCU: 0x3253, offset: 0x426AC, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setCancelButton:]', symObjAddr: 0x5164, symBinAddr: 0xFAAA, symSize: 0x14 }
+  - { offsetInCU: 0x3292, offset: 0x426EB, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController retakeButton]', symObjAddr: 0x5178, symBinAddr: 0xFABE, symSize: 0x19 }
+  - { offsetInCU: 0x32C9, offset: 0x42722, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setRetakeButton:]', symObjAddr: 0x5191, symBinAddr: 0xFAD7, symSize: 0x14 }
+  - { offsetInCU: 0x3308, offset: 0x42761, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController acceptButton]', symObjAddr: 0x51A5, symBinAddr: 0xFAEB, symSize: 0x19 }
+  - { offsetInCU: 0x333F, offset: 0x42798, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setAcceptButton:]', symObjAddr: 0x51BE, symBinAddr: 0xFB04, symSize: 0x14 }
+  - { offsetInCU: 0x337E, offset: 0x427D7, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController documentShapeLayer]', symObjAddr: 0x51D2, symBinAddr: 0xFB18, symSize: 0x11 }
+  - { offsetInCU: 0x33B3, offset: 0x4280C, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setDocumentShapeLayer:]', symObjAddr: 0x51E3, symBinAddr: 0xFB29, symSize: 0x14 }
+  - { offsetInCU: 0x33F2, offset: 0x4284B, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController magnifyingGlass]', symObjAddr: 0x51F7, symBinAddr: 0xFB3D, symSize: 0x11 }
+  - { offsetInCU: 0x3427, offset: 0x42880, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setMagnifyingGlass:]', symObjAddr: 0x5208, symBinAddr: 0xFB4E, symSize: 0x14 }
+  - { offsetInCU: 0x3466, offset: 0x428BF, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController imageViewBackHeight]', symObjAddr: 0x521C, symBinAddr: 0xFB62, symSize: 0x19 }
+  - { offsetInCU: 0x349D, offset: 0x428F6, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setImageViewBackHeight:]', symObjAddr: 0x5235, symBinAddr: 0xFB7B, symSize: 0x14 }
+  - { offsetInCU: 0x34DC, offset: 0x42935, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController scannedImageSingle]', symObjAddr: 0x5249, symBinAddr: 0xFB8F, symSize: 0x19 }
+  - { offsetInCU: 0x3513, offset: 0x4296C, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController setScannedImageSingle:]', symObjAddr: 0x5262, symBinAddr: 0xFBA8, symSize: 0x14 }
+  - { offsetInCU: 0x3552, offset: 0x429AB, size: 0x8, addend: 0x0, symName: '-[DMDSCroppingViewController .cxx_destruct]', symObjAddr: 0x5276, symBinAddr: 0xFBBC, symSize: 0x147 }
+  - { offsetInCU: 0x35, offset: 0x42B3E, size: 0x8, addend: 0x0, symName: _kDateOfIssue, symObjAddr: 0xDC8, symBinAddr: 0x20130, symSize: 0x0 }
+  - { offsetInCU: 0x55, offset: 0x42B5E, size: 0x8, addend: 0x0, symName: _kDateOfExpiry, symObjAddr: 0xDD0, symBinAddr: 0x20138, symSize: 0x0 }
+  - { offsetInCU: 0x6B, offset: 0x42B74, size: 0x8, addend: 0x0, symName: _kPlaceOfBirth, symObjAddr: 0xDD8, symBinAddr: 0x20140, symSize: 0x0 }
+  - { offsetInCU: 0x81, offset: 0x42B8A, size: 0x8, addend: 0x0, symName: _kDateOfBirth, symObjAddr: 0xDE0, symBinAddr: 0x20148, symSize: 0x0 }
+  - { offsetInCU: 0x97, offset: 0x42BA0, size: 0x8, addend: 0x0, symName: _kDocumentNumber, symObjAddr: 0xDE8, symBinAddr: 0x20150, symSize: 0x0 }
+  - { offsetInCU: 0xAD, offset: 0x42BB6, size: 0x8, addend: 0x0, symName: _kNationality, symObjAddr: 0xDF0, symBinAddr: 0x20158, symSize: 0x0 }
+  - { offsetInCU: 0xC3, offset: 0x42BCC, size: 0x8, addend: 0x0, symName: _kNationalityCode, symObjAddr: 0xDF8, symBinAddr: 0x20160, symSize: 0x0 }
+  - { offsetInCU: 0xD9, offset: 0x42BE2, size: 0x8, addend: 0x0, symName: _kSex, symObjAddr: 0xE00, symBinAddr: 0x20168, symSize: 0x0 }
+  - { offsetInCU: 0xEF, offset: 0x42BF8, size: 0x8, addend: 0x0, symName: _kGivenNames, symObjAddr: 0xE08, symBinAddr: 0x20170, symSize: 0x0 }
+  - { offsetInCU: 0x105, offset: 0x42C0E, size: 0x8, addend: 0x0, symName: _kSurname, symObjAddr: 0xE10, symBinAddr: 0x20178, symSize: 0x0 }
+  - { offsetInCU: 0x11B, offset: 0x42C24, size: 0x8, addend: 0x0, symName: _kMiddleName, symObjAddr: 0xE18, symBinAddr: 0x20180, symSize: 0x0 }
+  - { offsetInCU: 0x131, offset: 0x42C3A, size: 0x8, addend: 0x0, symName: _kAddressStreet, symObjAddr: 0xE20, symBinAddr: 0x20188, symSize: 0x0 }
+  - { offsetInCU: 0x147, offset: 0x42C50, size: 0x8, addend: 0x0, symName: _kAddressZipcode, symObjAddr: 0xE28, symBinAddr: 0x20190, symSize: 0x0 }
+  - { offsetInCU: 0x15D, offset: 0x42C66, size: 0x8, addend: 0x0, symName: _kAddressCity, symObjAddr: 0xE30, symBinAddr: 0x20198, symSize: 0x0 }
+  - { offsetInCU: 0x173, offset: 0x42C7C, size: 0x8, addend: 0x0, symName: _kAddress, symObjAddr: 0xE38, symBinAddr: 0x201A0, symSize: 0x0 }
+  - { offsetInCU: 0x189, offset: 0x42C92, size: 0x8, addend: 0x0, symName: _kCountry, symObjAddr: 0xE40, symBinAddr: 0x201A8, symSize: 0x0 }
+  - { offsetInCU: 0x19F, offset: 0x42CA8, size: 0x8, addend: 0x0, symName: _kDLClass, symObjAddr: 0xE48, symBinAddr: 0x201B0, symSize: 0x0 }
+  - { offsetInCU: 0x1B5, offset: 0x42CBE, size: 0x8, addend: 0x0, symName: _kSurnameAndGivenNames, symObjAddr: 0xE50, symBinAddr: 0x201B8, symSize: 0x0 }
+  - { offsetInCU: 0x1CB, offset: 0x42CD4, size: 0x8, addend: 0x0, symName: _kHeight, symObjAddr: 0xE58, symBinAddr: 0x201C0, symSize: 0x0 }
+  - { offsetInCU: 0x1E1, offset: 0x42CEA, size: 0x8, addend: 0x0, symName: _kIssuingAuthority, symObjAddr: 0xE60, symBinAddr: 0x201C8, symSize: 0x0 }
+  - { offsetInCU: 0x1F7, offset: 0x42D00, size: 0x8, addend: 0x0, symName: _kReligion, symObjAddr: 0xE68, symBinAddr: 0x201D0, symSize: 0x0 }
+  - { offsetInCU: 0x20D, offset: 0x42D16, size: 0x8, addend: 0x0, symName: _kIssuingStateCode, symObjAddr: 0xE70, symBinAddr: 0x201D8, symSize: 0x0 }
+  - { offsetInCU: 0x223, offset: 0x42D2C, size: 0x8, addend: 0x0, symName: _kDocumentClassCode, symObjAddr: 0xE78, symBinAddr: 0x201E0, symSize: 0x0 }
+  - { offsetInCU: 0x239, offset: 0x42D42, size: 0x8, addend: 0x0, symName: _kMRZStrings, symObjAddr: 0xE80, symBinAddr: 0x201E8, symSize: 0x0 }
+  - { offsetInCU: 0x24F, offset: 0x42D58, size: 0x8, addend: 0x0, symName: _kMaritalStatus, symObjAddr: 0xE88, symBinAddr: 0x201F0, symSize: 0x0 }
+  - { offsetInCU: 0x265, offset: 0x42D6E, size: 0x8, addend: 0x0, symName: _kJSVehicleClass, symObjAddr: 0xE90, symBinAddr: 0x201F8, symSize: 0x0 }
+  - { offsetInCU: 0x27B, offset: 0x42D84, size: 0x8, addend: 0x0, symName: _kDLRestrictionCode, symObjAddr: 0xE98, symBinAddr: 0x20200, symSize: 0x0 }
+  - { offsetInCU: 0x291, offset: 0x42D9A, size: 0x8, addend: 0x0, symName: _kDLEndorsed, symObjAddr: 0xEA0, symBinAddr: 0x20208, symSize: 0x0 }
+  - { offsetInCU: 0x2A7, offset: 0x42DB0, size: 0x8, addend: 0x0, symName: _kBarcodeFormat, symObjAddr: 0xEA8, symBinAddr: 0x20210, symSize: 0x0 }
+  - { offsetInCU: 0x2BD, offset: 0x42DC6, size: 0x8, addend: 0x0, symName: _kBarcodeData, symObjAddr: 0xEB0, symBinAddr: 0x20218, symSize: 0x0 }
+  - { offsetInCU: 0x2D3, offset: 0x42DDC, size: 0x8, addend: 0x0, symName: _kBarcodeRawData, symObjAddr: 0xEB8, symBinAddr: 0x20220, symSize: 0x0 }
+  - { offsetInCU: 0x2E9, offset: 0x42DF2, size: 0x8, addend: 0x0, symName: _kBarcodeUncertainData, symObjAddr: 0xEC0, symBinAddr: 0x20228, symSize: 0x0 }
+  - { offsetInCU: 0x2FF, offset: 0x42E08, size: 0x8, addend: 0x0, symName: _kPersonalNumber, symObjAddr: 0xEC8, symBinAddr: 0x20230, symSize: 0x0 }
+  - { offsetInCU: 0x315, offset: 0x42E1E, size: 0x8, addend: 0x0, symName: _kOpt1, symObjAddr: 0xED0, symBinAddr: 0x20238, symSize: 0x0 }
+  - { offsetInCU: 0x32B, offset: 0x42E34, size: 0x8, addend: 0x0, symName: _kOpt2, symObjAddr: 0xED8, symBinAddr: 0x20240, symSize: 0x0 }
+  - { offsetInCU: 0x341, offset: 0x42E4A, size: 0x8, addend: 0x0, symName: _kOptionalData, symObjAddr: 0xEE0, symBinAddr: 0x20248, symSize: 0x0 }
+  - { offsetInCU: 0x357, offset: 0x42E60, size: 0x8, addend: 0x0, symName: _kEmployer, symObjAddr: 0xEE8, symBinAddr: 0x20250, symSize: 0x0 }
+  - { offsetInCU: 0x36D, offset: 0x42E76, size: 0x8, addend: 0x0, symName: _kClassInfoCountry, symObjAddr: 0xEF0, symBinAddr: 0x20258, symSize: 0x0 }
+  - { offsetInCU: 0x383, offset: 0x42E8C, size: 0x8, addend: 0x0, symName: _kClassInfoRegion, symObjAddr: 0xEF8, symBinAddr: 0x20260, symSize: 0x0 }
+  - { offsetInCU: 0x399, offset: 0x42EA2, size: 0x8, addend: 0x0, symName: _kClassInfoType, symObjAddr: 0xF00, symBinAddr: 0x20268, symSize: 0x0 }
+  - { offsetInCU: 0x3AF, offset: 0x42EB8, size: 0x8, addend: 0x0, symName: _kAdditionalNameInformation, symObjAddr: 0xF08, symBinAddr: 0x20270, symSize: 0x0 }
+  - { offsetInCU: 0x3C5, offset: 0x42ECE, size: 0x8, addend: 0x0, symName: _kConditions, symObjAddr: 0xF10, symBinAddr: 0x20278, symSize: 0x0 }
+  - { offsetInCU: 0x3DB, offset: 0x42EE4, size: 0x8, addend: 0x0, symName: _kResidentialStatus, symObjAddr: 0xF18, symBinAddr: 0x20280, symSize: 0x0 }
+  - { offsetInCU: 0x3F1, offset: 0x42EFA, size: 0x8, addend: 0x0, symName: _kProfession, symObjAddr: 0xF20, symBinAddr: 0x20288, symSize: 0x0 }
+  - { offsetInCU: 0x407, offset: 0x42F10, size: 0x8, addend: 0x0, symName: _kPersonalIdNumber, symObjAddr: 0xF28, symBinAddr: 0x20290, symSize: 0x0 }
+  - { offsetInCU: 0x41D, offset: 0x42F26, size: 0x8, addend: 0x0, symName: _kLocalizedName, symObjAddr: 0xF30, symBinAddr: 0x20298, symSize: 0x0 }
+  - { offsetInCU: 0x433, offset: 0x42F3C, size: 0x8, addend: 0x0, symName: _kDocumentAdditionalNumber, symObjAddr: 0xF38, symBinAddr: 0x202A0, symSize: 0x0 }
+  - { offsetInCU: 0x449, offset: 0x42F52, size: 0x8, addend: 0x0, symName: _kDocumentOptionalAdditionalNumber, symObjAddr: 0xF40, symBinAddr: 0x202A8, symSize: 0x0 }
+  - { offsetInCU: 0x45F, offset: 0x42F68, size: 0x8, addend: 0x0, symName: _kPersonalAdditionalNumber, symObjAddr: 0xF48, symBinAddr: 0x202B0, symSize: 0x0 }
+  - { offsetInCU: 0x475, offset: 0x42F7E, size: 0x8, addend: 0x0, symName: _kAge, symObjAddr: 0xF50, symBinAddr: 0x202B8, symSize: 0x0 }
+  - { offsetInCU: 0x48B, offset: 0x42F94, size: 0x8, addend: 0x0, symName: _kAdditionalAddressInformation, symObjAddr: 0xF58, symBinAddr: 0x202C0, symSize: 0x0 }
+  - { offsetInCU: 0x4A1, offset: 0x42FAA, size: 0x8, addend: 0x0, symName: _kRace, symObjAddr: 0xF60, symBinAddr: 0x202C8, symSize: 0x0 }
+  - { offsetInCU: 0x4B7, offset: 0x42FC0, size: 0x8, addend: 0x0, symName: _kResidentalStatus, symObjAddr: 0xF68, symBinAddr: 0x202D0, symSize: 0x0 }
+  - { offsetInCU: 0x4CD, offset: 0x42FD6, size: 0x8, addend: 0x0, symName: _kDocumentDataMatch, symObjAddr: 0xF70, symBinAddr: 0x202D8, symSize: 0x0 }
+  - { offsetInCU: 0x4E3, offset: 0x42FEC, size: 0x8, addend: 0x0, symName: _kJurisdiction, symObjAddr: 0xF78, symBinAddr: 0x202E0, symSize: 0x0 }
+  - { offsetInCU: 0x4F9, offset: 0x43002, size: 0x8, addend: 0x0, symName: _kRestrictions, symObjAddr: 0xF80, symBinAddr: 0x202E8, symSize: 0x0 }
+  - { offsetInCU: 0x50F, offset: 0x43018, size: 0x8, addend: 0x0, symName: _kVehicleClass, symObjAddr: 0xF88, symBinAddr: 0x202F0, symSize: 0x0 }
+  - { offsetInCU: 0x525, offset: 0x4302E, size: 0x8, addend: 0x0, symName: _kLicenceType, symObjAddr: 0xF90, symBinAddr: 0x202F8, symSize: 0x0 }
+  - { offsetInCU: 0x53B, offset: 0x43044, size: 0x8, addend: 0x0, symName: _kEffectiveDate, symObjAddr: 0xF98, symBinAddr: 0x20300, symSize: 0x0 }
+  - { offsetInCU: 0x551, offset: 0x4305A, size: 0x8, addend: 0x0, symName: _kFathersName, symObjAddr: 0xFA0, symBinAddr: 0x20308, symSize: 0x0 }
+  - { offsetInCU: 0x567, offset: 0x43070, size: 0x8, addend: 0x0, symName: _kMothersName, symObjAddr: 0xFA8, symBinAddr: 0x20310, symSize: 0x0 }
+  - { offsetInCU: 0x57D, offset: 0x43086, size: 0x8, addend: 0x0, symName: _kdocumentOptionalAdditionalNumber, symObjAddr: 0xFB0, symBinAddr: 0x20318, symSize: 0x0 }
+  - { offsetInCU: 0x593, offset: 0x4309C, size: 0x8, addend: 0x0, symName: _kAdditionalOptionalAddressInformation, symObjAddr: 0xFB8, symBinAddr: 0x20320, symSize: 0x0 }
+  - { offsetInCU: 0x5A9, offset: 0x430B2, size: 0x8, addend: 0x0, symName: _kIssuerName, symObjAddr: 0xFC0, symBinAddr: 0x20328, symSize: 0x0 }
+  - { offsetInCU: 0x5BF, offset: 0x430C8, size: 0x8, addend: 0x0, symName: _kAlienNumber, symObjAddr: 0xFC8, symBinAddr: 0x20330, symSize: 0x0 }
+  - { offsetInCU: 0x5D5, offset: 0x430DE, size: 0x8, addend: 0x0, symName: _kApplicationReceiptNumber, symObjAddr: 0xFD0, symBinAddr: 0x20338, symSize: 0x0 }
+  - { offsetInCU: 0x5EB, offset: 0x430F4, size: 0x8, addend: 0x0, symName: _kImmigrantCaseNumber, symObjAddr: 0xFD8, symBinAddr: 0x20340, symSize: 0x0 }
+  - { offsetInCU: 0x601, offset: 0x4310A, size: 0x8, addend: 0x0, symName: _kSanitizedOpt1, symObjAddr: 0xFE0, symBinAddr: 0x20348, symSize: 0x0 }
+  - { offsetInCU: 0x617, offset: 0x43120, size: 0x8, addend: 0x0, symName: _kSanitizedOpt2, symObjAddr: 0xFE8, symBinAddr: 0x20350, symSize: 0x0 }
+  - { offsetInCU: 0x62D, offset: 0x43136, size: 0x8, addend: 0x0, symName: _kSanitizedNationality, symObjAddr: 0xFF0, symBinAddr: 0x20358, symSize: 0x0 }
+  - { offsetInCU: 0x643, offset: 0x4314C, size: 0x8, addend: 0x0, symName: _kSanitizedIssuer, symObjAddr: 0xFF8, symBinAddr: 0x20360, symSize: 0x0 }
+  - { offsetInCU: 0x659, offset: 0x43162, size: 0x8, addend: 0x0, symName: _kSanitizedDocumentCode, symObjAddr: 0x1000, symBinAddr: 0x20368, symSize: 0x0 }
+  - { offsetInCU: 0x66F, offset: 0x43178, size: 0x8, addend: 0x0, symName: _kSanitizedDocumentNumber, symObjAddr: 0x1008, symBinAddr: 0x20370, symSize: 0x0 }
+  - { offsetInCU: 0x685, offset: 0x4318E, size: 0x8, addend: 0x0, symName: _kNationalityName, symObjAddr: 0x1010, symBinAddr: 0x20378, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x431C6, size: 0x8, addend: 0x0, symName: '-[DocumentScanState init]', symObjAddr: 0x0, symBinAddr: 0xFD03, symSize: 0x3F }
+  - { offsetInCU: 0x84B, offset: 0x439EA, size: 0x8, addend: 0x0, symName: '-[DocumentScanState init]', symObjAddr: 0x0, symBinAddr: 0xFD03, symSize: 0x3F }
+  - { offsetInCU: 0x882, offset: 0x43A21, size: 0x8, addend: 0x0, symName: '-[DocumentScanState getImageToQualityCheck:]', symObjAddr: 0x3F, symBinAddr: 0xFD42, symSize: 0x8 }
+  - { offsetInCU: 0x8CE, offset: 0x43A6D, size: 0x8, addend: 0x0, symName: '-[DocumentScanState getCurrentOptions]', symObjAddr: 0x47, symBinAddr: 0xFD4A, symSize: 0x3E }
+  - { offsetInCU: 0x905, offset: 0x43AA4, size: 0x8, addend: 0x0, symName: '-[DocumentScanState isEdgeDetection]', symObjAddr: 0x85, symBinAddr: 0xFD88, symSize: 0x8 }
+  - { offsetInCU: 0x938, offset: 0x43AD7, size: 0x8, addend: 0x0, symName: '-[DocumentScanState startedScanning]', symObjAddr: 0x8D, symBinAddr: 0xFD90, symSize: 0x8A }
+  - { offsetInCU: 0x96B, offset: 0x43B0A, size: 0x8, addend: 0x0, symName: '-[DocumentScanState resumeScanning]', symObjAddr: 0x117, symBinAddr: 0xFE1A, symSize: 0x6A }
+  - { offsetInCU: 0x99E, offset: 0x43B3D, size: 0x8, addend: 0x0, symName: '-[DocumentScanState stoppedScanning]', symObjAddr: 0x181, symBinAddr: 0xFE84, symSize: 0x11 }
+  - { offsetInCU: 0x9CF, offset: 0x43B6E, size: 0x8, addend: 0x0, symName: '-[DocumentScanState isScanning]', symObjAddr: 0x192, symBinAddr: 0xFE95, symSize: 0x10 }
+  - { offsetInCU: 0xA04, offset: 0x43BA3, size: 0x8, addend: 0x0, symName: '-[DocumentScanState isLastStep]', symObjAddr: 0x1A2, symBinAddr: 0xFEA5, symSize: 0x8 }
+  - { offsetInCU: 0xA37, offset: 0x43BD6, size: 0x8, addend: 0x0, symName: '-[DocumentScanState description]', symObjAddr: 0x1AA, symBinAddr: 0xFEAD, symSize: 0x88 }
+  - { offsetInCU: 0x27, offset: 0x43CEB, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController initWithOverlayViewController:]', symObjAddr: 0x0, symBinAddr: 0xFF35, symSize: 0x67 }
+  - { offsetInCU: 0x39D, offset: 0x44061, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController initWithOverlayViewController:]', symObjAddr: 0x0, symBinAddr: 0xFF35, symSize: 0x67 }
+  - { offsetInCU: 0x3FC, offset: 0x440C0, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController viewDidLoad]', symObjAddr: 0x67, symBinAddr: 0xFF9C, symSize: 0xAC }
+  - { offsetInCU: 0x477, offset: 0x4413B, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController viewDidAppear:]', symObjAddr: 0x113, symBinAddr: 0x10048, symSize: 0x41 }
+  - { offsetInCU: 0x4C6, offset: 0x4418A, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController viewWillAppear:]', symObjAddr: 0x154, symBinAddr: 0x10089, symSize: 0x2F }
+  - { offsetInCU: 0x509, offset: 0x441CD, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController viewDidDisappear:]', symObjAddr: 0x183, symBinAddr: 0x100B8, symSize: 0x70 }
+  - { offsetInCU: 0x570, offset: 0x44234, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController viewDidLayoutSubviews]', symObjAddr: 0x1F3, symBinAddr: 0x10128, symSize: 0x12 }
+  - { offsetInCU: 0x5AD, offset: 0x44271, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController viewWillTransitionToSize:withTransitionCoordinator:]', symObjAddr: 0x205, symBinAddr: 0x1013A, symSize: 0xB7 }
+  - { offsetInCU: 0x624, offset: 0x442E8, size: 0x8, addend: 0x0, symName: '___79-[DMDSCameraViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke', symObjAddr: 0x2BC, symBinAddr: 0x101F1, symSize: 0x6 }
+  - { offsetInCU: 0x657, offset: 0x4431B, size: 0x8, addend: 0x0, symName: '___79-[DMDSCameraViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke_2', symObjAddr: 0x2C2, symBinAddr: 0x101F7, symSize: 0x16 }
+  - { offsetInCU: 0x6AE, offset: 0x44372, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController shouldAutorotate]', symObjAddr: 0x2F6, symBinAddr: 0x1020D, symSize: 0x8 }
+  - { offsetInCU: 0x6E1, offset: 0x443A5, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController setScanningRegion:]', symObjAddr: 0x2FE, symBinAddr: 0x10215, symSize: 0x6 }
+  - { offsetInCU: 0x71F, offset: 0x443E3, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController doesDocumentFillScanningArea:]', symObjAddr: 0x304, symBinAddr: 0x1021B, symSize: 0x8 }
+  - { offsetInCU: 0x75E, offset: 0x44422, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController updateTotalScanningWidth:andHeight:]', symObjAddr: 0x30C, symBinAddr: 0x10223, symSize: 0x1E }
+  - { offsetInCU: 0x7AB, offset: 0x4446F, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController requestAuthorizationAndSetCamera]', symObjAddr: 0x32A, symBinAddr: 0x10241, symSize: 0xAC }
+  - { offsetInCU: 0x814, offset: 0x444D8, size: 0x8, addend: 0x0, symName: '___60-[DMDSCameraViewController requestAuthorizationAndSetCamera]_block_invoke', symObjAddr: 0x3D6, symBinAddr: 0x102ED, symSize: 0x56 }
+  - { offsetInCU: 0x89C, offset: 0x44560, size: 0x8, addend: 0x0, symName: '___60-[DMDSCameraViewController requestAuthorizationAndSetCamera]_block_invoke_2', symObjAddr: 0x42C, symBinAddr: 0x10343, symSize: 0x28 }
+  - { offsetInCU: 0x8FB, offset: 0x445BF, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController getCameraPreset:]', symObjAddr: 0x454, symBinAddr: 0x1036B, symSize: 0x20 }
+  - { offsetInCU: 0x93E, offset: 0x44602, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController handleCameraAvailable]', symObjAddr: 0x474, symBinAddr: 0x1038B, symSize: 0x49 }
+  - { offsetInCU: 0x992, offset: 0x44656, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController handleCameraNotAvailable]', symObjAddr: 0x4BD, symBinAddr: 0x103D4, symSize: 0x6 }
+  - { offsetInCU: 0x9C2, offset: 0x44686, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController setupDefaultOverlay]', symObjAddr: 0x4C3, symBinAddr: 0x103DA, symSize: 0x6 }
+  - { offsetInCU: 0x9F2, offset: 0x446B6, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController setupCustomOverlay]', symObjAddr: 0x4C9, symBinAddr: 0x103E0, symSize: 0x6 }
+  - { offsetInCU: 0xA22, offset: 0x446E6, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController addChildVC:]', symObjAddr: 0x4CF, symBinAddr: 0x103E6, symSize: 0x17A }
+  - { offsetInCU: 0xB3C, offset: 0x44800, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController addChildViewControllers]', symObjAddr: 0x649, symBinAddr: 0x10560, symSize: 0xCE }
+  - { offsetInCU: 0xBBF, offset: 0x44883, size: 0x8, addend: 0x0, symName: '___51-[DMDSCameraViewController addChildViewControllers]_block_invoke', symObjAddr: 0x717, symBinAddr: 0x1062E, symSize: 0x16 }
+  - { offsetInCU: 0xC0D, offset: 0x448D1, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController setupAndAddEmptyViewControllersDefault]', symObjAddr: 0x72D, symBinAddr: 0x10644, symSize: 0x6 }
+  - { offsetInCU: 0xC3D, offset: 0x44901, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController setupAndAddEmptyViewControllersCustom]', symObjAddr: 0x733, symBinAddr: 0x1064A, symSize: 0x6 }
+  - { offsetInCU: 0xC6D, offset: 0x44931, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController setupAndAddEmptyChildControllers]', symObjAddr: 0x739, symBinAddr: 0x10650, symSize: 0x8C }
+  - { offsetInCU: 0xCC7, offset: 0x4498B, size: 0x8, addend: 0x0, symName: '___60-[DMDSCameraViewController setupAndAddEmptyChildControllers]_block_invoke', symObjAddr: 0x7C5, symBinAddr: 0x106DC, symSize: 0x16 }
+  - { offsetInCU: 0xD15, offset: 0x449D9, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController updateCaptureOrientation]', symObjAddr: 0x7DB, symBinAddr: 0x106F2, symSize: 0x6 }
+  - { offsetInCU: 0xD45, offset: 0x44A09, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController showSuccessfulResult:]', symObjAddr: 0x7E1, symBinAddr: 0x106F8, symSize: 0x6 }
+  - { offsetInCU: 0xD82, offset: 0x44A46, size: 0x8, addend: 0x0, symName: '-[DMDSCameraViewController .cxx_destruct]', symObjAddr: 0x7E7, symBinAddr: 0x106FE, symSize: 0x51 }
+  - { offsetInCU: 0x27, offset: 0x44E8E, size: 0x8, addend: 0x0, symName: '-[DMDSDocument initWithText:processedImage:unprocessedImage:processedImageBack:unprocessedImageBack:qualityImageProcessed:qualityData:qualityImageProcessedBack:qualityDataBack:signatureImage:documentCoordinates:documentCoordinatesBack:visualResult:frontVisualResult:backVisualResult:mrzResult:barcodeResult:documentType:]', symObjAddr: 0x0, symBinAddr: 0x1074F, symSize: 0x2F9 }
+  - { offsetInCU: 0x420, offset: 0x45287, size: 0x8, addend: 0x0, symName: '-[DMDSDocument initWithText:processedImage:unprocessedImage:processedImageBack:unprocessedImageBack:qualityImageProcessed:qualityData:qualityImageProcessedBack:qualityDataBack:signatureImage:documentCoordinates:documentCoordinatesBack:visualResult:frontVisualResult:backVisualResult:mrzResult:barcodeResult:documentType:]', symObjAddr: 0x0, symBinAddr: 0x1074F, symSize: 0x2F9 }
+  - { offsetInCU: 0x7F9, offset: 0x45660, size: 0x8, addend: 0x0, symName: '-[DMDSDocument description]', symObjAddr: 0x2F9, symBinAddr: 0x10A48, symSize: 0x112 }
+  - { offsetInCU: 0x87C, offset: 0x456E3, size: 0x8, addend: 0x0, symName: '-[DMDSDocument textExtracted]', symObjAddr: 0x40B, symBinAddr: 0x10B5A, symSize: 0xA }
+  - { offsetInCU: 0x8B1, offset: 0x45718, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setTextExtracted:]', symObjAddr: 0x415, symBinAddr: 0x10B64, symSize: 0x11 }
+  - { offsetInCU: 0x8F0, offset: 0x45757, size: 0x8, addend: 0x0, symName: '-[DMDSDocument processedImage]', symObjAddr: 0x426, symBinAddr: 0x10B75, symSize: 0xA }
+  - { offsetInCU: 0x925, offset: 0x4578C, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setProcessedImage:]', symObjAddr: 0x430, symBinAddr: 0x10B7F, symSize: 0x11 }
+  - { offsetInCU: 0x964, offset: 0x457CB, size: 0x8, addend: 0x0, symName: '-[DMDSDocument unprocessedImage]', symObjAddr: 0x441, symBinAddr: 0x10B90, symSize: 0xA }
+  - { offsetInCU: 0x999, offset: 0x45800, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setUnprocessedImage:]', symObjAddr: 0x44B, symBinAddr: 0x10B9A, symSize: 0x11 }
+  - { offsetInCU: 0x9D8, offset: 0x4583F, size: 0x8, addend: 0x0, symName: '-[DMDSDocument processedImageBack]', symObjAddr: 0x45C, symBinAddr: 0x10BAB, symSize: 0xA }
+  - { offsetInCU: 0xA0D, offset: 0x45874, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setProcessedImageBack:]', symObjAddr: 0x466, symBinAddr: 0x10BB5, symSize: 0x11 }
+  - { offsetInCU: 0xA4C, offset: 0x458B3, size: 0x8, addend: 0x0, symName: '-[DMDSDocument unprocessedImageBack]', symObjAddr: 0x477, symBinAddr: 0x10BC6, symSize: 0xA }
+  - { offsetInCU: 0xA81, offset: 0x458E8, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setUnprocessedImageBack:]', symObjAddr: 0x481, symBinAddr: 0x10BD0, symSize: 0x11 }
+  - { offsetInCU: 0xAC0, offset: 0x45927, size: 0x8, addend: 0x0, symName: '-[DMDSDocument qualityImageProcessed]', symObjAddr: 0x492, symBinAddr: 0x10BE1, symSize: 0xA }
+  - { offsetInCU: 0xAF5, offset: 0x4595C, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setQualityImageProcessed:]', symObjAddr: 0x49C, symBinAddr: 0x10BEB, symSize: 0x11 }
+  - { offsetInCU: 0xB34, offset: 0x4599B, size: 0x8, addend: 0x0, symName: '-[DMDSDocument qualityImageProcessedBack]', symObjAddr: 0x4AD, symBinAddr: 0x10BFC, symSize: 0xA }
+  - { offsetInCU: 0xB69, offset: 0x459D0, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setQualityImageProcessedBack:]', symObjAddr: 0x4B7, symBinAddr: 0x10C06, symSize: 0x11 }
+  - { offsetInCU: 0xBA8, offset: 0x45A0F, size: 0x8, addend: 0x0, symName: '-[DMDSDocument qualityData]', symObjAddr: 0x4C8, symBinAddr: 0x10C17, symSize: 0xA }
+  - { offsetInCU: 0xBDD, offset: 0x45A44, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setQualityData:]', symObjAddr: 0x4D2, symBinAddr: 0x10C21, symSize: 0x11 }
+  - { offsetInCU: 0xC1C, offset: 0x45A83, size: 0x8, addend: 0x0, symName: '-[DMDSDocument qualityDataBack]', symObjAddr: 0x4E3, symBinAddr: 0x10C32, symSize: 0xA }
+  - { offsetInCU: 0xC51, offset: 0x45AB8, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setQualityDataBack:]', symObjAddr: 0x4ED, symBinAddr: 0x10C3C, symSize: 0x11 }
+  - { offsetInCU: 0xC90, offset: 0x45AF7, size: 0x8, addend: 0x0, symName: '-[DMDSDocument signatureImage]', symObjAddr: 0x4FE, symBinAddr: 0x10C4D, symSize: 0xA }
+  - { offsetInCU: 0xCC5, offset: 0x45B2C, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setSignatureImage:]', symObjAddr: 0x508, symBinAddr: 0x10C57, symSize: 0x11 }
+  - { offsetInCU: 0xD04, offset: 0x45B6B, size: 0x8, addend: 0x0, symName: '-[DMDSDocument unprocessedBarcodeImage]', symObjAddr: 0x519, symBinAddr: 0x10C68, symSize: 0xA }
+  - { offsetInCU: 0xD39, offset: 0x45BA0, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setUnprocessedBarcodeImage:]', symObjAddr: 0x523, symBinAddr: 0x10C72, symSize: 0x11 }
+  - { offsetInCU: 0xD78, offset: 0x45BDF, size: 0x8, addend: 0x0, symName: '-[DMDSDocument processedDocumentCoordinates]', symObjAddr: 0x534, symBinAddr: 0x10C83, symSize: 0xA }
+  - { offsetInCU: 0xDAD, offset: 0x45C14, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setProcessedDocumentCoordinates:]', symObjAddr: 0x53E, symBinAddr: 0x10C8D, symSize: 0x11 }
+  - { offsetInCU: 0xDEC, offset: 0x45C53, size: 0x8, addend: 0x0, symName: '-[DMDSDocument processedDocumentCoordinatesBack]', symObjAddr: 0x54F, symBinAddr: 0x10C9E, symSize: 0xA }
+  - { offsetInCU: 0xE21, offset: 0x45C88, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setProcessedDocumentCoordinatesBack:]', symObjAddr: 0x559, symBinAddr: 0x10CA8, symSize: 0x11 }
+  - { offsetInCU: 0xE60, offset: 0x45CC7, size: 0x8, addend: 0x0, symName: '-[DMDSDocument documentType]', symObjAddr: 0x56A, symBinAddr: 0x10CB9, symSize: 0xA }
+  - { offsetInCU: 0xE95, offset: 0x45CFC, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setDocumentType:]', symObjAddr: 0x574, symBinAddr: 0x10CC3, symSize: 0x11 }
+  - { offsetInCU: 0xED4, offset: 0x45D3B, size: 0x8, addend: 0x0, symName: '-[DMDSDocument captureType]', symObjAddr: 0x585, symBinAddr: 0x10CD4, symSize: 0xA }
+  - { offsetInCU: 0xF09, offset: 0x45D70, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setCaptureType:]', symObjAddr: 0x58F, symBinAddr: 0x10CDE, symSize: 0xA }
+  - { offsetInCU: 0xF46, offset: 0x45DAD, size: 0x8, addend: 0x0, symName: '-[DMDSDocument recognitionMode]', symObjAddr: 0x599, symBinAddr: 0x10CE8, symSize: 0xD }
+  - { offsetInCU: 0xF7B, offset: 0x45DE2, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setRecognitionMode:]', symObjAddr: 0x5A6, symBinAddr: 0x10CF5, symSize: 0xD }
+  - { offsetInCU: 0xFB8, offset: 0x45E1F, size: 0x8, addend: 0x0, symName: '-[DMDSDocument backSideRecognitionMode]', symObjAddr: 0x5B3, symBinAddr: 0x10D02, symSize: 0xD }
+  - { offsetInCU: 0xFED, offset: 0x45E54, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setBackSideRecognitionMode:]', symObjAddr: 0x5C0, symBinAddr: 0x10D0F, symSize: 0xD }
+  - { offsetInCU: 0x102A, offset: 0x45E91, size: 0x8, addend: 0x0, symName: '-[DMDSDocument visualResult]', symObjAddr: 0x5CD, symBinAddr: 0x10D1C, symSize: 0xD }
+  - { offsetInCU: 0x105F, offset: 0x45EC6, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setVisualResult:]', symObjAddr: 0x5DA, symBinAddr: 0x10D29, symSize: 0x14 }
+  - { offsetInCU: 0x109E, offset: 0x45F05, size: 0x8, addend: 0x0, symName: '-[DMDSDocument frontVisualResult]', symObjAddr: 0x5EE, symBinAddr: 0x10D3D, symSize: 0xD }
+  - { offsetInCU: 0x10D3, offset: 0x45F3A, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setFrontVisualResult:]', symObjAddr: 0x5FB, symBinAddr: 0x10D4A, symSize: 0x14 }
+  - { offsetInCU: 0x1112, offset: 0x45F79, size: 0x8, addend: 0x0, symName: '-[DMDSDocument backVisualResult]', symObjAddr: 0x60F, symBinAddr: 0x10D5E, symSize: 0xD }
+  - { offsetInCU: 0x1147, offset: 0x45FAE, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setBackVisualResult:]', symObjAddr: 0x61C, symBinAddr: 0x10D6B, symSize: 0x14 }
+  - { offsetInCU: 0x1186, offset: 0x45FED, size: 0x8, addend: 0x0, symName: '-[DMDSDocument mrzResult]', symObjAddr: 0x630, symBinAddr: 0x10D7F, symSize: 0xD }
+  - { offsetInCU: 0x11BB, offset: 0x46022, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setMrzResult:]', symObjAddr: 0x63D, symBinAddr: 0x10D8C, symSize: 0x14 }
+  - { offsetInCU: 0x11FA, offset: 0x46061, size: 0x8, addend: 0x0, symName: '-[DMDSDocument barcodeResult]', symObjAddr: 0x651, symBinAddr: 0x10DA0, symSize: 0xD }
+  - { offsetInCU: 0x122F, offset: 0x46096, size: 0x8, addend: 0x0, symName: '-[DMDSDocument setBarcodeResult:]', symObjAddr: 0x65E, symBinAddr: 0x10DAD, symSize: 0x14 }
+  - { offsetInCU: 0x126E, offset: 0x460D5, size: 0x8, addend: 0x0, symName: '-[DMDSDocument .cxx_destruct]', symObjAddr: 0x672, symBinAddr: 0x10DC1, symSize: 0xF2 }
+  - { offsetInCU: 0x27, offset: 0x4616B, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState init]', symObjAddr: 0x0, symBinAddr: 0x10EB3, symSize: 0x4A }
+  - { offsetInCU: 0x86D, offset: 0x469B1, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState init]', symObjAddr: 0x0, symBinAddr: 0x10EB3, symSize: 0x4A }
+  - { offsetInCU: 0x8A4, offset: 0x469E8, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState getImageToQualityCheck:]', symObjAddr: 0x4A, symBinAddr: 0x10EFD, symSize: 0x8 }
+  - { offsetInCU: 0x8F0, offset: 0x46A34, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState getCurrentOptions]', symObjAddr: 0x52, symBinAddr: 0x10F05, symSize: 0x5E }
+  - { offsetInCU: 0x933, offset: 0x46A77, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState shouldFallbackToEdgeDetection]', symObjAddr: 0xB0, symBinAddr: 0x10F63, symSize: 0x14 }
+  - { offsetInCU: 0x968, offset: 0x46AAC, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState isEdgeDetection]', symObjAddr: 0xC4, symBinAddr: 0x10F77, symSize: 0x10 }
+  - { offsetInCU: 0x99D, offset: 0x46AE1, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState startedScanning]', symObjAddr: 0xD4, symBinAddr: 0x10F87, symSize: 0x49 }
+  - { offsetInCU: 0x9D0, offset: 0x46B14, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState stoppedScanning]', symObjAddr: 0x11D, symBinAddr: 0x10FD0, symSize: 0x1C }
+  - { offsetInCU: 0xA01, offset: 0x46B45, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState isScanning]', symObjAddr: 0x139, symBinAddr: 0x10FEC, symSize: 0x10 }
+  - { offsetInCU: 0xA36, offset: 0x46B7A, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState isLastStep]', symObjAddr: 0x149, symBinAddr: 0x10FFC, symSize: 0x8 }
+  - { offsetInCU: 0xA69, offset: 0x46BAD, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState fellBackToEdgeDetection]', symObjAddr: 0x151, symBinAddr: 0x11004, symSize: 0x1E1 }
+  - { offsetInCU: 0xB80, offset: 0x46CC4, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState hasFellBackToEdgeDetection]', symObjAddr: 0x332, symBinAddr: 0x111E5, symSize: 0x10 }
+  - { offsetInCU: 0xBB5, offset: 0x46CF9, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState description]', symObjAddr: 0x342, symBinAddr: 0x111F5, symSize: 0x98 }
+  - { offsetInCU: 0xC38, offset: 0x46D7C, size: 0x8, addend: 0x0, symName: '-[ScanWithFallbackState .cxx_destruct]', symObjAddr: 0x3DA, symBinAddr: 0x1128D, symSize: 0x13 }
+  - { offsetInCU: 0x27, offset: 0x46E41, size: 0x8, addend: 0x0, symName: '-[UIImageView(PointConversionCategory) convertPixelToPoint:fromContentSize:]', symObjAddr: 0x0, symBinAddr: 0x112A0, symSize: 0xF9 }
+  - { offsetInCU: 0x41, offset: 0x46E5B, size: 0x8, addend: 0x0, symName: _MyClassResultKey, symObjAddr: 0x7500, symBinAddr: 0x2F520, symSize: 0x0 }
+  - { offsetInCU: 0x95, offset: 0x46EAF, size: 0x8, addend: 0x0, symName: '-[UIImageView(PointConversionCategory) convertPixelToPoint:fromContentSize:]', symObjAddr: 0x0, symBinAddr: 0x112A0, symSize: 0xF9 }
+  - { offsetInCU: 0x16F, offset: 0x46F89, size: 0x8, addend: 0x0, symName: '-[UIImageView(PointConversionCategory) convertPointToPixel:fromContentSize:]', symObjAddr: 0xF9, symBinAddr: 0x11399, symSize: 0x92 }
+  - { offsetInCU: 0x249, offset: 0x47063, size: 0x8, addend: 0x0, symName: '-[UIImageView(PointConversionCategory) setDocumentBorderWithUpperLeft:upperRight:lowerLeft:lowerRight:color:]', symObjAddr: 0x18B, symBinAddr: 0x1142B, symSize: 0x249 }
+  - { offsetInCU: 0x27, offset: 0x47329, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentQualityInfo analyzeStatus]', symObjAddr: 0x0, symBinAddr: 0x11674, symSize: 0xA }
+  - { offsetInCU: 0x17D, offset: 0x4747F, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentQualityInfo analyzeStatus]', symObjAddr: 0x0, symBinAddr: 0x11674, symSize: 0xA }
+  - { offsetInCU: 0x1B2, offset: 0x474B4, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentQualityInfo setAnalyzeStatus:]', symObjAddr: 0xA, symBinAddr: 0x1167E, symSize: 0xA }
+  - { offsetInCU: 0x1EF, offset: 0x474F1, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentQualityInfo resultQuality]', symObjAddr: 0x14, symBinAddr: 0x11688, symSize: 0xA }
+  - { offsetInCU: 0x224, offset: 0x47526, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentQualityInfo setResultQuality:]', symObjAddr: 0x1E, symBinAddr: 0x11692, symSize: 0x11 }
+  - { offsetInCU: 0x263, offset: 0x47565, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentQualityInfo .cxx_destruct]', symObjAddr: 0x2F, symBinAddr: 0x116A3, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0x475DC, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality description]', symObjAddr: 0x0, symBinAddr: 0x116B3, symSize: 0x8B }
+  - { offsetInCU: 0x1A6, offset: 0x4775B, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality description]', symObjAddr: 0x0, symBinAddr: 0x116B3, symSize: 0x8B }
+  - { offsetInCU: 0x1F9, offset: 0x477AE, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality summary]', symObjAddr: 0x8B, symBinAddr: 0x1173E, symSize: 0xB }
+  - { offsetInCU: 0x22E, offset: 0x477E3, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setSummary:]', symObjAddr: 0x96, symBinAddr: 0x11749, symSize: 0xB }
+  - { offsetInCU: 0x26B, offset: 0x47820, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality aspectRatio]', symObjAddr: 0xA1, symBinAddr: 0x11754, symSize: 0xB }
+  - { offsetInCU: 0x2A0, offset: 0x47855, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setAspectRatio:]', symObjAddr: 0xAC, symBinAddr: 0x1175F, symSize: 0xB }
+  - { offsetInCU: 0x2DD, offset: 0x47892, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality size]', symObjAddr: 0xB7, symBinAddr: 0x1176A, symSize: 0xB }
+  - { offsetInCU: 0x312, offset: 0x478C7, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setSize:]', symObjAddr: 0xC2, symBinAddr: 0x11775, symSize: 0xB }
+  - { offsetInCU: 0x34F, offset: 0x47904, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality vertDistort]', symObjAddr: 0xCD, symBinAddr: 0x11780, symSize: 0xB }
+  - { offsetInCU: 0x384, offset: 0x47939, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setVertDistort:]', symObjAddr: 0xD8, symBinAddr: 0x1178B, symSize: 0xB }
+  - { offsetInCU: 0x3C1, offset: 0x47976, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality horizDistort]', symObjAddr: 0xE3, symBinAddr: 0x11796, symSize: 0xB }
+  - { offsetInCU: 0x3F6, offset: 0x479AB, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setHorizDistort:]', symObjAddr: 0xEE, symBinAddr: 0x117A1, symSize: 0xB }
+  - { offsetInCU: 0x433, offset: 0x479E8, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality minInternalAngle]', symObjAddr: 0xF9, symBinAddr: 0x117AC, symSize: 0xB }
+  - { offsetInCU: 0x468, offset: 0x47A1D, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setMinInternalAngle:]', symObjAddr: 0x104, symBinAddr: 0x117B7, symSize: 0xB }
+  - { offsetInCU: 0x4A5, offset: 0x47A5A, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality maxInternalAngle]', symObjAddr: 0x10F, symBinAddr: 0x117C2, symSize: 0xB }
+  - { offsetInCU: 0x4DA, offset: 0x47A8F, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setMaxInternalAngle:]', symObjAddr: 0x11A, symBinAddr: 0x117CD, symSize: 0xB }
+  - { offsetInCU: 0x517, offset: 0x47ACC, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality sumInternalAngle]', symObjAddr: 0x125, symBinAddr: 0x117D8, symSize: 0xB }
+  - { offsetInCU: 0x54C, offset: 0x47B01, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setSumInternalAngle:]', symObjAddr: 0x130, symBinAddr: 0x117E3, symSize: 0xB }
+  - { offsetInCU: 0x589, offset: 0x47B3E, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality glareFixed]', symObjAddr: 0x13B, symBinAddr: 0x117EE, symSize: 0xB }
+  - { offsetInCU: 0x5BE, offset: 0x47B73, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setGlareFixed:]', symObjAddr: 0x146, symBinAddr: 0x117F9, symSize: 0xB }
+  - { offsetInCU: 0x5FB, offset: 0x47BB0, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality localBlur]', symObjAddr: 0x151, symBinAddr: 0x11804, symSize: 0xB }
+  - { offsetInCU: 0x630, offset: 0x47BE5, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setLocalBlur:]', symObjAddr: 0x15C, symBinAddr: 0x1180F, symSize: 0xB }
+  - { offsetInCU: 0x66D, offset: 0x47C22, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality sourceWidth]', symObjAddr: 0x167, symBinAddr: 0x1181A, symSize: 0xB }
+  - { offsetInCU: 0x6A2, offset: 0x47C57, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setSourceWidth:]', symObjAddr: 0x172, symBinAddr: 0x11825, symSize: 0xB }
+  - { offsetInCU: 0x6DF, offset: 0x47C94, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality sourceHeight]', symObjAddr: 0x17D, symBinAddr: 0x11830, symSize: 0xB }
+  - { offsetInCU: 0x714, offset: 0x47CC9, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setSourceHeight:]', symObjAddr: 0x188, symBinAddr: 0x1183B, symSize: 0xB }
+  - { offsetInCU: 0x751, offset: 0x47D06, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality sourceDPI]', symObjAddr: 0x193, symBinAddr: 0x11846, symSize: 0xB }
+  - { offsetInCU: 0x786, offset: 0x47D3B, size: 0x8, addend: 0x0, symName: '-[DMDSResultQuality setSourceDPI:]', symObjAddr: 0x19E, symBinAddr: 0x11851, symSize: 0xB }
+  - { offsetInCU: 0x27, offset: 0x47DC1, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions init]', symObjAddr: 0x0, symBinAddr: 0x1185C, symSize: 0x484 }
+  - { offsetInCU: 0x359, offset: 0x480F3, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions init]', symObjAddr: 0x0, symBinAddr: 0x1185C, symSize: 0x484 }
+  - { offsetInCU: 0x5F4, offset: 0x4838E, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions copyWithZone:]', symObjAddr: 0x484, symBinAddr: 0x11CE0, symSize: 0x5CF }
+  - { offsetInCU: 0xA0B, offset: 0x487A5, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions description]', symObjAddr: 0xA53, symBinAddr: 0x122AF, symSize: 0x209 }
+  - { offsetInCU: 0xAD4, offset: 0x4886E, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions showScanCompleteVisualFeedback]', symObjAddr: 0xC5C, symBinAddr: 0x124B8, symSize: 0x9 }
+  - { offsetInCU: 0xB09, offset: 0x488A3, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setShowScanCompleteVisualFeedback:]', symObjAddr: 0xC65, symBinAddr: 0x124C1, symSize: 0x9 }
+  - { offsetInCU: 0xB46, offset: 0x488E0, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions allowManualCroppingDocumentRecognition]', symObjAddr: 0xC6E, symBinAddr: 0x124CA, symSize: 0x9 }
+  - { offsetInCU: 0xB7B, offset: 0x48915, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setAllowManualCroppingDocumentRecognition:]', symObjAddr: 0xC77, symBinAddr: 0x124D3, symSize: 0x9 }
+  - { offsetInCU: 0xBB8, offset: 0x48952, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions allowManualCroppingEdgeDetection]', symObjAddr: 0xC80, symBinAddr: 0x124DC, symSize: 0x9 }
+  - { offsetInCU: 0xBED, offset: 0x48987, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setAllowManualCroppingEdgeDetection:]', symObjAddr: 0xC89, symBinAddr: 0x124E5, symSize: 0x9 }
+  - { offsetInCU: 0xC2A, offset: 0x489C4, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions playScanCompleteVisualAudioFeedback]', symObjAddr: 0xC92, symBinAddr: 0x124EE, symSize: 0x9 }
+  - { offsetInCU: 0xC5F, offset: 0x489F9, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setPlayScanCompleteVisualAudioFeedback:]', symObjAddr: 0xC9B, symBinAddr: 0x124F7, symSize: 0x9 }
+  - { offsetInCU: 0xC9C, offset: 0x48A36, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions portraitScanningRegion]', symObjAddr: 0xCA4, symBinAddr: 0x12500, symSize: 0x1B }
+  - { offsetInCU: 0xCD1, offset: 0x48A6B, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setPortraitScanningRegion:]', symObjAddr: 0xCBF, symBinAddr: 0x1251B, symSize: 0x19 }
+  - { offsetInCU: 0xD0F, offset: 0x48AA9, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions portraitPortraitScanningRegion]', symObjAddr: 0xCD8, symBinAddr: 0x12534, symSize: 0x1E }
+  - { offsetInCU: 0xD44, offset: 0x48ADE, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setPortraitPortraitScanningRegion:]', symObjAddr: 0xCF6, symBinAddr: 0x12552, symSize: 0x1C }
+  - { offsetInCU: 0xD82, offset: 0x48B1C, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions landscapeScanningRegion]', symObjAddr: 0xD12, symBinAddr: 0x1256E, symSize: 0x1E }
+  - { offsetInCU: 0xDB7, offset: 0x48B51, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setLandscapeScanningRegion:]', symObjAddr: 0xD30, symBinAddr: 0x1258C, symSize: 0x1C }
+  - { offsetInCU: 0xDF5, offset: 0x48B8F, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions showBoundary]', symObjAddr: 0xD4C, symBinAddr: 0x125A8, symSize: 0x9 }
+  - { offsetInCU: 0xE2A, offset: 0x48BC4, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setShowBoundary:]', symObjAddr: 0xD55, symBinAddr: 0x125B1, symSize: 0x9 }
+  - { offsetInCU: 0xE67, offset: 0x48C01, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions showScanningFeedback]', symObjAddr: 0xD5E, symBinAddr: 0x125BA, symSize: 0x9 }
+  - { offsetInCU: 0xE9C, offset: 0x48C36, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setShowScanningFeedback:]', symObjAddr: 0xD67, symBinAddr: 0x125C3, symSize: 0x9 }
+  - { offsetInCU: 0xED9, offset: 0x48C73, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions showCancelButton]', symObjAddr: 0xD70, symBinAddr: 0x125CC, symSize: 0x9 }
+  - { offsetInCU: 0xF0E, offset: 0x48CA8, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setShowCancelButton:]', symObjAddr: 0xD79, symBinAddr: 0x125D5, symSize: 0x9 }
+  - { offsetInCU: 0xF4B, offset: 0x48CE5, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions showTorchButton]', symObjAddr: 0xD82, symBinAddr: 0x125DE, symSize: 0x9 }
+  - { offsetInCU: 0xF80, offset: 0x48D1A, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setShowTorchButton:]', symObjAddr: 0xD8B, symBinAddr: 0x125E7, symSize: 0x9 }
+  - { offsetInCU: 0xFBD, offset: 0x48D57, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions overlayColor]', symObjAddr: 0xD94, symBinAddr: 0x125F0, symSize: 0xA }
+  - { offsetInCU: 0xFF2, offset: 0x48D8C, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setOverlayColor:]', symObjAddr: 0xD9E, symBinAddr: 0x125FA, symSize: 0x11 }
+  - { offsetInCU: 0x1031, offset: 0x48DCB, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions rectangleColor]', symObjAddr: 0xDAF, symBinAddr: 0x1260B, symSize: 0xA }
+  - { offsetInCU: 0x1066, offset: 0x48E00, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setRectangleColor:]', symObjAddr: 0xDB9, symBinAddr: 0x12615, symSize: 0x11 }
+  - { offsetInCU: 0x10A5, offset: 0x48E3F, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions rectangleCornerThickness]', symObjAddr: 0xDCA, symBinAddr: 0x12626, symSize: 0x9 }
+  - { offsetInCU: 0x10DA, offset: 0x48E74, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setRectangleCornerThickness:]', symObjAddr: 0xDD3, symBinAddr: 0x1262F, symSize: 0x9 }
+  - { offsetInCU: 0x1117, offset: 0x48EB1, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions rectangleCornerLength]', symObjAddr: 0xDDC, symBinAddr: 0x12638, symSize: 0x9 }
+  - { offsetInCU: 0x114C, offset: 0x48EE6, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setRectangleCornerLength:]', symObjAddr: 0xDE5, symBinAddr: 0x12641, symSize: 0x9 }
+  - { offsetInCU: 0x1189, offset: 0x48F23, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions messageTextFont]', symObjAddr: 0xDEE, symBinAddr: 0x1264A, symSize: 0xA }
+  - { offsetInCU: 0x11BE, offset: 0x48F58, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setMessageTextFont:]', symObjAddr: 0xDF8, symBinAddr: 0x12654, symSize: 0x11 }
+  - { offsetInCU: 0x11FD, offset: 0x48F97, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions instructionsMessage]', symObjAddr: 0xE09, symBinAddr: 0x12665, symSize: 0xA }
+  - { offsetInCU: 0x1232, offset: 0x48FCC, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setInstructionsMessage:]', symObjAddr: 0xE13, symBinAddr: 0x1266F, symSize: 0x11 }
+  - { offsetInCU: 0x1271, offset: 0x4900B, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions fellBackToEdgeDetectionMessage]', symObjAddr: 0xE24, symBinAddr: 0x12680, symSize: 0xA }
+  - { offsetInCU: 0x12A6, offset: 0x49040, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setFellBackToEdgeDetectionMessage:]', symObjAddr: 0xE2E, symBinAddr: 0x1268A, symSize: 0x11 }
+  - { offsetInCU: 0x12E5, offset: 0x4907F, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions glareDetectedMessage]', symObjAddr: 0xE3F, symBinAddr: 0x1269B, symSize: 0xA }
+  - { offsetInCU: 0x131A, offset: 0x490B4, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setGlareDetectedMessage:]', symObjAddr: 0xE49, symBinAddr: 0x126A5, symSize: 0x11 }
+  - { offsetInCU: 0x1359, offset: 0x490F3, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions capturedMessage]', symObjAddr: 0xE5A, symBinAddr: 0x126B6, symSize: 0xA }
+  - { offsetInCU: 0x138E, offset: 0x49128, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setCapturedMessage:]', symObjAddr: 0xE64, symBinAddr: 0x126C0, symSize: 0x11 }
+  - { offsetInCU: 0x13CD, offset: 0x49167, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions messageTextColor]', symObjAddr: 0xE75, symBinAddr: 0x126D1, symSize: 0xA }
+  - { offsetInCU: 0x1402, offset: 0x4919C, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setMessageTextColor:]', symObjAddr: 0xE7F, symBinAddr: 0x126DB, symSize: 0x11 }
+  - { offsetInCU: 0x1441, offset: 0x491DB, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions cancelButtonTextFont]', symObjAddr: 0xE90, symBinAddr: 0x126EC, symSize: 0xA }
+  - { offsetInCU: 0x1476, offset: 0x49210, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setCancelButtonTextFont:]', symObjAddr: 0xE9A, symBinAddr: 0x126F6, symSize: 0x11 }
+  - { offsetInCU: 0x14B5, offset: 0x4924F, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions cancelButtonTextColor]', symObjAddr: 0xEAB, symBinAddr: 0x12707, symSize: 0xA }
+  - { offsetInCU: 0x14EA, offset: 0x49284, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setCancelButtonTextColor:]', symObjAddr: 0xEB5, symBinAddr: 0x12711, symSize: 0x11 }
+  - { offsetInCU: 0x1529, offset: 0x492C3, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions bottomBarColor]', symObjAddr: 0xEC6, symBinAddr: 0x12722, symSize: 0xA }
+  - { offsetInCU: 0x155E, offset: 0x492F8, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setBottomBarColor:]', symObjAddr: 0xED0, symBinAddr: 0x1272C, symSize: 0x11 }
+  - { offsetInCU: 0x159D, offset: 0x49337, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions scanningBorderColor]', symObjAddr: 0xEE1, symBinAddr: 0x1273D, symSize: 0xA }
+  - { offsetInCU: 0x15D2, offset: 0x4936C, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions setScanningBorderColor:]', symObjAddr: 0xEEB, symBinAddr: 0x12747, symSize: 0x11 }
+  - { offsetInCU: 0x1611, offset: 0x493AB, size: 0x8, addend: 0x0, symName: '-[DMDSDefaultUIOptions .cxx_destruct]', symObjAddr: 0xEFC, symBinAddr: 0x12758, symSize: 0x96 }
+  - { offsetInCU: 0x27, offset: 0x4944F, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality initWithQualityMeasures:]', symObjAddr: 0x0, symBinAddr: 0x127EE, symSize: 0x375 }
+  - { offsetInCU: 0x41, offset: 0x49469, size: 0x8, addend: 0x0, symName: _kFaceFoundConfidenceKey, symObjAddr: 0x9F8, symBinAddr: 0x20450, symSize: 0x0 }
+  - { offsetInCU: 0x61, offset: 0x49489, size: 0x8, addend: 0x0, symName: _kEyesFoundConfidenceKey, symObjAddr: 0xA00, symBinAddr: 0x20458, symSize: 0x0 }
+  - { offsetInCU: 0x77, offset: 0x4949F, size: 0x8, addend: 0x0, symName: _kEyesOpenConfidenceKey, symObjAddr: 0xA08, symBinAddr: 0x20460, symSize: 0x0 }
+  - { offsetInCU: 0x8D, offset: 0x494B5, size: 0x8, addend: 0x0, symName: _kUniformLightingConfidenceKey, symObjAddr: 0xA10, symBinAddr: 0x20468, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0x494CB, size: 0x8, addend: 0x0, symName: _kFaceFrontalConfidenceKey, symObjAddr: 0xA18, symBinAddr: 0x20470, symSize: 0x0 }
+  - { offsetInCU: 0xB9, offset: 0x494E1, size: 0x8, addend: 0x0, symName: _kEyeDistanceKey, symObjAddr: 0xA20, symBinAddr: 0x20478, symSize: 0x0 }
+  - { offsetInCU: 0xCF, offset: 0x494F7, size: 0x8, addend: 0x0, symName: _kPoseAngleKey, symObjAddr: 0xA28, symBinAddr: 0x20480, symSize: 0x0 }
+  - { offsetInCU: 0xE5, offset: 0x4950D, size: 0x8, addend: 0x0, symName: _kSharpnessKey, symObjAddr: 0xA30, symBinAddr: 0x20488, symSize: 0x0 }
+  - { offsetInCU: 0xFB, offset: 0x49523, size: 0x8, addend: 0x0, symName: _kExposureKey, symObjAddr: 0xA38, symBinAddr: 0x20490, symSize: 0x0 }
+  - { offsetInCU: 0x111, offset: 0x49539, size: 0x8, addend: 0x0, symName: _kGrayscaleDensityKey, symObjAddr: 0xA40, symBinAddr: 0x20498, symSize: 0x0 }
+  - { offsetInCU: 0x127, offset: 0x4954F, size: 0x8, addend: 0x0, symName: _kGlobalScoreKey, symObjAddr: 0xA48, symBinAddr: 0x204A0, symSize: 0x0 }
+  - { offsetInCU: 0x13D, offset: 0x49565, size: 0x8, addend: 0x0, symName: _kFaceRotationKey, symObjAddr: 0xA50, symBinAddr: 0x204A8, symSize: 0x0 }
+  - { offsetInCU: 0x2AC, offset: 0x496D4, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality initWithQualityMeasures:]', symObjAddr: 0x0, symBinAddr: 0x127EE, symSize: 0x375 }
+  - { offsetInCU: 0x4BB, offset: 0x498E3, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality doubleValueFromObj:]', symObjAddr: 0x375, symBinAddr: 0x12B63, symSize: 0x5A }
+  - { offsetInCU: 0x522, offset: 0x4994A, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality intValueFromObj:]', symObjAddr: 0x3CF, symBinAddr: 0x12BBD, symSize: 0x62 }
+  - { offsetInCU: 0x589, offset: 0x499B1, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality description]', symObjAddr: 0x431, symBinAddr: 0x12C1F, symSize: 0xCC }
+  - { offsetInCU: 0x60C, offset: 0x49A34, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality faceRotation]', symObjAddr: 0x4FD, symBinAddr: 0x12CEB, symSize: 0x9 }
+  - { offsetInCU: 0x641, offset: 0x49A69, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setFaceRotation:]', symObjAddr: 0x506, symBinAddr: 0x12CF4, symSize: 0x9 }
+  - { offsetInCU: 0x67E, offset: 0x49AA6, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality faceFoundConfidence]', symObjAddr: 0x50F, symBinAddr: 0x12CFD, symSize: 0xB }
+  - { offsetInCU: 0x6B3, offset: 0x49ADB, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setFaceFoundConfidence:]', symObjAddr: 0x51A, symBinAddr: 0x12D08, symSize: 0xB }
+  - { offsetInCU: 0x6F0, offset: 0x49B18, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality eyesFoundConfidence]', symObjAddr: 0x525, symBinAddr: 0x12D13, symSize: 0xB }
+  - { offsetInCU: 0x725, offset: 0x49B4D, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setEyesFoundConfidence:]', symObjAddr: 0x530, symBinAddr: 0x12D1E, symSize: 0xB }
+  - { offsetInCU: 0x762, offset: 0x49B8A, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality eyesOpenConfidence]', symObjAddr: 0x53B, symBinAddr: 0x12D29, symSize: 0xB }
+  - { offsetInCU: 0x797, offset: 0x49BBF, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setEyesOpenConfidence:]', symObjAddr: 0x546, symBinAddr: 0x12D34, symSize: 0xB }
+  - { offsetInCU: 0x7D4, offset: 0x49BFC, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality uniformLightingConfidence]', symObjAddr: 0x551, symBinAddr: 0x12D3F, symSize: 0xB }
+  - { offsetInCU: 0x809, offset: 0x49C31, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setUniformLightingConfidence:]', symObjAddr: 0x55C, symBinAddr: 0x12D4A, symSize: 0xB }
+  - { offsetInCU: 0x846, offset: 0x49C6E, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality faceFrontalConfidence]', symObjAddr: 0x567, symBinAddr: 0x12D55, symSize: 0xB }
+  - { offsetInCU: 0x87B, offset: 0x49CA3, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setFaceFrontalConfidence:]', symObjAddr: 0x572, symBinAddr: 0x12D60, symSize: 0xB }
+  - { offsetInCU: 0x8B8, offset: 0x49CE0, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality eyeDistance]', symObjAddr: 0x57D, symBinAddr: 0x12D6B, symSize: 0x9 }
+  - { offsetInCU: 0x8ED, offset: 0x49D15, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setEyeDistance:]', symObjAddr: 0x586, symBinAddr: 0x12D74, symSize: 0x9 }
+  - { offsetInCU: 0x92A, offset: 0x49D52, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality poseAngle]', symObjAddr: 0x58F, symBinAddr: 0x12D7D, symSize: 0x9 }
+  - { offsetInCU: 0x95F, offset: 0x49D87, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setPoseAngle:]', symObjAddr: 0x598, symBinAddr: 0x12D86, symSize: 0x9 }
+  - { offsetInCU: 0x99C, offset: 0x49DC4, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality sharpness]', symObjAddr: 0x5A1, symBinAddr: 0x12D8F, symSize: 0x9 }
+  - { offsetInCU: 0x9D1, offset: 0x49DF9, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setSharpness:]', symObjAddr: 0x5AA, symBinAddr: 0x12D98, symSize: 0x9 }
+  - { offsetInCU: 0xA0E, offset: 0x49E36, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality exposure]', symObjAddr: 0x5B3, symBinAddr: 0x12DA1, symSize: 0x9 }
+  - { offsetInCU: 0xA43, offset: 0x49E6B, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setExposure:]', symObjAddr: 0x5BC, symBinAddr: 0x12DAA, symSize: 0x9 }
+  - { offsetInCU: 0xA80, offset: 0x49EA8, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality grayscaleDensity]', symObjAddr: 0x5C5, symBinAddr: 0x12DB3, symSize: 0x9 }
+  - { offsetInCU: 0xAB5, offset: 0x49EDD, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setGrayscaleDensity:]', symObjAddr: 0x5CE, symBinAddr: 0x12DBC, symSize: 0x9 }
+  - { offsetInCU: 0xAF2, offset: 0x49F1A, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality globalScore]', symObjAddr: 0x5D7, symBinAddr: 0x12DC5, symSize: 0xB }
+  - { offsetInCU: 0xB27, offset: 0x49F4F, size: 0x8, addend: 0x0, symName: '-[DMDSFaceResultQuality setGlobalScore:]', symObjAddr: 0x5E2, symBinAddr: 0x12DD0, symSize: 0xB }
+  - { offsetInCU: 0x27, offset: 0x49FDA, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer initWithLicence:delegate:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0x12DDB, symSize: 0x2F }
+  - { offsetInCU: 0x596, offset: 0x4A549, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer initWithLicence:delegate:completionHandler:]', symObjAddr: 0x0, symBinAddr: 0x12DDB, symSize: 0x2F }
+  - { offsetInCU: 0x5F1, offset: 0x4A5A4, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer faceAnalyzerInit]', symObjAddr: 0x2F, symBinAddr: 0x12E0A, symSize: 0x93 }
+  - { offsetInCU: 0x660, offset: 0x4A613, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer initMicroblinkSDK:completionHandler:]', symObjAddr: 0xC2, symBinAddr: 0x12E9D, symSize: 0x6 }
+  - { offsetInCU: 0x6B4, offset: 0x4A667, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer setupInitialStateWithOptions:]', symObjAddr: 0xC8, symBinAddr: 0x12EA3, symSize: 0x6 }
+  - { offsetInCU: 0x6EF, offset: 0x4A6A2, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer startProcessing:options:]', symObjAddr: 0xCE, symBinAddr: 0x12EA9, symSize: 0x6 }
+  - { offsetInCU: 0x736, offset: 0x4A6E9, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer startDirectAPIOCRProcessing:]', symObjAddr: 0xD4, symBinAddr: 0x12EAF, symSize: 0x6 }
+  - { offsetInCU: 0x771, offset: 0x4A724, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer directCaptureWithOptions:imageToProcess:]', symObjAddr: 0xDA, symBinAddr: 0x12EB5, symSize: 0x6 }
+  - { offsetInCU: 0x7B8, offset: 0x4A76B, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer getOCRRecognizer]', symObjAddr: 0xE0, symBinAddr: 0x12EBB, symSize: 0x8 }
+  - { offsetInCU: 0x7EB, offset: 0x4A79E, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer switchToEdgeDetectionStep:]', symObjAddr: 0xE8, symBinAddr: 0x12EC3, symSize: 0x18F }
+  - { offsetInCU: 0x93C, offset: 0x4A8EF, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer recognizerRunner:didFinishScanningWithState:]', symObjAddr: 0x277, symBinAddr: 0x13052, symSize: 0x6 }
+  - { offsetInCU: 0x983, offset: 0x4A936, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer recognizerRunner:didFinishProcessingImage:]', symObjAddr: 0x27D, symBinAddr: 0x13058, symSize: 0x6 }
+  - { offsetInCU: 0x9CA, offset: 0x4A97D, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer getImageFromData:]', symObjAddr: 0x283, symBinAddr: 0x1305E, symSize: 0x8 }
+  - { offsetInCU: 0xA0B, offset: 0x4A9BE, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer description]', symObjAddr: 0x28B, symBinAddr: 0x13066, symSize: 0x71 }
+  - { offsetInCU: 0xA85, offset: 0x4AA38, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer delegate]', symObjAddr: 0x2FC, symBinAddr: 0x130D7, symSize: 0x16 }
+  - { offsetInCU: 0xABC, offset: 0x4AA6F, size: 0x8, addend: 0x0, symName: '-[DMDSDocumentAnalyzer .cxx_destruct]', symObjAddr: 0x312, symBinAddr: 0x130ED, symSize: 0x68 }
+  - { offsetInCU: 0x27, offset: 0x4AB67, size: 0x8, addend: 0x0, symName: '-[DMDSResult initWithDocument:face:]', symObjAddr: 0x0, symBinAddr: 0x13155, symSize: 0x9E }
+  - { offsetInCU: 0x432, offset: 0x4AF72, size: 0x8, addend: 0x0, symName: '-[DMDSResult initWithDocument:face:]', symObjAddr: 0x0, symBinAddr: 0x13155, symSize: 0x9E }
+  - { offsetInCU: 0x4D1, offset: 0x4B011, size: 0x8, addend: 0x0, symName: '-[DMDSResult description]', symObjAddr: 0x9E, symBinAddr: 0x131F3, symSize: 0x7D }
+  - { offsetInCU: 0x554, offset: 0x4B094, size: 0x8, addend: 0x0, symName: '-[DMDSResult document]', symObjAddr: 0x11B, symBinAddr: 0x13270, symSize: 0xA }
+  - { offsetInCU: 0x589, offset: 0x4B0C9, size: 0x8, addend: 0x0, symName: '-[DMDSResult setDocument:]', symObjAddr: 0x125, symBinAddr: 0x1327A, symSize: 0x11 }
+  - { offsetInCU: 0x5C8, offset: 0x4B108, size: 0x8, addend: 0x0, symName: '-[DMDSResult face]', symObjAddr: 0x136, symBinAddr: 0x1328B, symSize: 0xA }
+  - { offsetInCU: 0x5FD, offset: 0x4B13D, size: 0x8, addend: 0x0, symName: '-[DMDSResult setFace:]', symObjAddr: 0x140, symBinAddr: 0x13295, symSize: 0x11 }
+  - { offsetInCU: 0x63C, offset: 0x4B17C, size: 0x8, addend: 0x0, symName: '-[DMDSResult .cxx_destruct]', symObjAddr: 0x151, symBinAddr: 0x132A6, symSize: 0x28 }
+  - { offsetInCU: 0x27, offset: 0x4B212, size: 0x8, addend: 0x0, symName: '+[DMDSQuadrangle isZero:]', symObjAddr: 0x0, symBinAddr: 0x132CE, symSize: 0xB9 }
+  - { offsetInCU: 0xC4, offset: 0x4B2AF, size: 0x8, addend: 0x0, symName: '+[DMDSQuadrangle isZero:]', symObjAddr: 0x0, symBinAddr: 0x132CE, symSize: 0xB9 }
+  - { offsetInCU: 0x183, offset: 0x4B36E, size: 0x8, addend: 0x0, symName: '+[DMDSQuadrangle isZeroPoint:]', symObjAddr: 0xB9, symBinAddr: 0x13387, symSize: 0x32 }
+  - { offsetInCU: 0x1C6, offset: 0x4B3B1, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle description]', symObjAddr: 0xEB, symBinAddr: 0x133B9, symSize: 0xA1 }
+  - { offsetInCU: 0x24E, offset: 0x4B439, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle upperLeft]', symObjAddr: 0x18C, symBinAddr: 0x1345A, symSize: 0x10 }
+  - { offsetInCU: 0x283, offset: 0x4B46E, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle setUpperLeft:]', symObjAddr: 0x19C, symBinAddr: 0x1346A, symSize: 0x10 }
+  - { offsetInCU: 0x2C2, offset: 0x4B4AD, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle upperRight]', symObjAddr: 0x1AC, symBinAddr: 0x1347A, symSize: 0x10 }
+  - { offsetInCU: 0x2F7, offset: 0x4B4E2, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle setUpperRight:]', symObjAddr: 0x1BC, symBinAddr: 0x1348A, symSize: 0x10 }
+  - { offsetInCU: 0x336, offset: 0x4B521, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle lowerLeft]', symObjAddr: 0x1CC, symBinAddr: 0x1349A, symSize: 0x10 }
+  - { offsetInCU: 0x36B, offset: 0x4B556, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle setLowerLeft:]', symObjAddr: 0x1DC, symBinAddr: 0x134AA, symSize: 0x10 }
+  - { offsetInCU: 0x3AA, offset: 0x4B595, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle lowerRight]', symObjAddr: 0x1EC, symBinAddr: 0x134BA, symSize: 0x10 }
+  - { offsetInCU: 0x3DF, offset: 0x4B5CA, size: 0x8, addend: 0x0, symName: '-[DMDSQuadrangle setLowerRight:]', symObjAddr: 0x1FC, symBinAddr: 0x134CA, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0x4B659, size: 0x8, addend: 0x0, symName: '-[CornerDotView initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x134DA, symSize: 0x4C }
+  - { offsetInCU: 0x6B, offset: 0x4B69D, size: 0x8, addend: 0x0, symName: '-[CornerDotView initWithCoder:]', symObjAddr: 0x0, symBinAddr: 0x134DA, symSize: 0x4C }
+  - { offsetInCU: 0xBE, offset: 0x4B6F0, size: 0x8, addend: 0x0, symName: '-[CornerDotView initWithFrame:]', symObjAddr: 0x4C, symBinAddr: 0x13526, symSize: 0x5D }
+  - { offsetInCU: 0x167, offset: 0x4B799, size: 0x8, addend: 0x0, symName: '-[CornerDotView commonInit]', symObjAddr: 0xA9, symBinAddr: 0x13583, symSize: 0x201 }
+  - { offsetInCU: 0x27, offset: 0x4B9E5, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC initWithNibName:bundle:cameraOptions:cameraViewController:]', symObjAddr: 0x0, symBinAddr: 0x13784, symSize: 0xB0 }
+  - { offsetInCU: 0x871, offset: 0x4C22F, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC initWithNibName:bundle:cameraOptions:cameraViewController:]', symObjAddr: 0x0, symBinAddr: 0x13784, symSize: 0xB0 }
+  - { offsetInCU: 0x918, offset: 0x4C2D6, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC viewDidLoad]', symObjAddr: 0xB0, symBinAddr: 0x13834, symSize: 0x2F }
+  - { offsetInCU: 0x94B, offset: 0x4C309, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC dealloc]', symObjAddr: 0xDF, symBinAddr: 0x13863, symSize: 0x75 }
+  - { offsetInCU: 0x9A2, offset: 0x4C360, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC handleEnteredForeground:]', symObjAddr: 0x154, symBinAddr: 0x138D8, symSize: 0xB2 }
+  - { offsetInCU: 0xA35, offset: 0x4C3F3, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC handleEnteredBackground:]', symObjAddr: 0x206, symBinAddr: 0x1398A, symSize: 0x6 }
+  - { offsetInCU: 0xA70, offset: 0x4C42E, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setImage:imageBack:]', symObjAddr: 0x20C, symBinAddr: 0x13990, symSize: 0xE5 }
+  - { offsetInCU: 0xB4A, offset: 0x4C508, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC fallingBackToEdgeDetection:]', symObjAddr: 0x2F1, symBinAddr: 0x13A75, symSize: 0x1D1 }
+  - { offsetInCU: 0xC67, offset: 0x4C625, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC glareStateChanged:]', symObjAddr: 0x4C2, symBinAddr: 0x13C46, symSize: 0x1D4 }
+  - { offsetInCU: 0xDD3, offset: 0x4C791, size: 0x8, addend: 0x0, symName: '___35-[DMDSOverlayVC glareStateChanged:]_block_invoke', symObjAddr: 0x696, symBinAddr: 0x13E1A, symSize: 0x89 }
+  - { offsetInCU: 0xE51, offset: 0x4C80F, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC updateScanButtonVisibility]', symObjAddr: 0x73D, symBinAddr: 0x13EA3, symSize: 0x80 }
+  - { offsetInCU: 0xEA9, offset: 0x4C867, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC firstSideScanFinished]', symObjAddr: 0x7BD, symBinAddr: 0x13F23, symSize: 0x24 }
+  - { offsetInCU: 0xEE9, offset: 0x4C8A7, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setRegionWithRect:]', symObjAddr: 0x7E1, symBinAddr: 0x13F47, symSize: 0x2C8 }
+  - { offsetInCU: 0xFED, offset: 0x4C9AB, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC borderColor:]', symObjAddr: 0xAA9, symBinAddr: 0x1420F, symSize: 0xE0 }
+  - { offsetInCU: 0x10AA, offset: 0x4CA68, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setPhotoCapturedLabel]', symObjAddr: 0xB89, symBinAddr: 0x142EF, symSize: 0x6 }
+  - { offsetInCU: 0x10DA, offset: 0x4CA98, size: 0x8, addend: 0x0, symName: '+[DMDSOverlayVC viewControllerFromXibWithOptions:cameraViewController:]', symObjAddr: 0xB8F, symBinAddr: 0x142F5, symSize: 0xC2 }
+  - { offsetInCU: 0x1188, offset: 0x4CB46, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC displayError:message:]', symObjAddr: 0xC51, symBinAddr: 0x143B7, symSize: 0xDA }
+  - { offsetInCU: 0x1240, offset: 0x4CBFE, size: 0x8, addend: 0x0, symName: '___38-[DMDSOverlayVC displayError:message:]_block_invoke', symObjAddr: 0xD2B, symBinAddr: 0x14491, symSize: 0x1D }
+  - { offsetInCU: 0x129B, offset: 0x4CC59, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC closeButton]', symObjAddr: 0xD48, symBinAddr: 0x144AE, symSize: 0x19 }
+  - { offsetInCU: 0x12D2, offset: 0x4CC90, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setCloseButton:]', symObjAddr: 0xD61, symBinAddr: 0x144C7, symSize: 0x14 }
+  - { offsetInCU: 0x1311, offset: 0x4CCCF, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC torchButton]', symObjAddr: 0xD75, symBinAddr: 0x144DB, symSize: 0x19 }
+  - { offsetInCU: 0x1348, offset: 0x4CD06, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setTorchButton:]', symObjAddr: 0xD8E, symBinAddr: 0x144F4, symSize: 0x14 }
+  - { offsetInCU: 0x1387, offset: 0x4CD45, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC region]', symObjAddr: 0xDA2, symBinAddr: 0x14508, symSize: 0x19 }
+  - { offsetInCU: 0x13BE, offset: 0x4CD7C, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setRegion:]', symObjAddr: 0xDBB, symBinAddr: 0x14521, symSize: 0x14 }
+  - { offsetInCU: 0x13FD, offset: 0x4CDBB, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC topView]', symObjAddr: 0xDCF, symBinAddr: 0x14535, symSize: 0x19 }
+  - { offsetInCU: 0x1434, offset: 0x4CDF2, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setTopView:]', symObjAddr: 0xDE8, symBinAddr: 0x1454E, symSize: 0x14 }
+  - { offsetInCU: 0x1473, offset: 0x4CE31, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC leftView]', symObjAddr: 0xDFC, symBinAddr: 0x14562, symSize: 0x19 }
+  - { offsetInCU: 0x14AA, offset: 0x4CE68, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setLeftView:]', symObjAddr: 0xE15, symBinAddr: 0x1457B, symSize: 0x14 }
+  - { offsetInCU: 0x14E9, offset: 0x4CEA7, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC rightView]', symObjAddr: 0xE29, symBinAddr: 0x1458F, symSize: 0x19 }
+  - { offsetInCU: 0x1520, offset: 0x4CEDE, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setRightView:]', symObjAddr: 0xE42, symBinAddr: 0x145A8, symSize: 0x14 }
+  - { offsetInCU: 0x155F, offset: 0x4CF1D, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC bottomView]', symObjAddr: 0xE56, symBinAddr: 0x145BC, symSize: 0x19 }
+  - { offsetInCU: 0x1596, offset: 0x4CF54, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setBottomView:]', symObjAddr: 0xE6F, symBinAddr: 0x145D5, symSize: 0x14 }
+  - { offsetInCU: 0x15D5, offset: 0x4CF93, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC portraitScanningRegionTopConstraint]', symObjAddr: 0xE83, symBinAddr: 0x145E9, symSize: 0x19 }
+  - { offsetInCU: 0x160C, offset: 0x4CFCA, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setPortraitScanningRegionTopConstraint:]', symObjAddr: 0xE9C, symBinAddr: 0x14602, symSize: 0x14 }
+  - { offsetInCU: 0x164B, offset: 0x4D009, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC portraitScanningRegionLeftConstraint]', symObjAddr: 0xEB0, symBinAddr: 0x14616, symSize: 0x19 }
+  - { offsetInCU: 0x1682, offset: 0x4D040, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setPortraitScanningRegionLeftConstraint:]', symObjAddr: 0xEC9, symBinAddr: 0x1462F, symSize: 0x14 }
+  - { offsetInCU: 0x16C1, offset: 0x4D07F, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC portraitScanningRegionWidthConstraint]', symObjAddr: 0xEDD, symBinAddr: 0x14643, symSize: 0x19 }
+  - { offsetInCU: 0x16F8, offset: 0x4D0B6, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setPortraitScanningRegionWidthConstraint:]', symObjAddr: 0xEF6, symBinAddr: 0x1465C, symSize: 0x14 }
+  - { offsetInCU: 0x1737, offset: 0x4D0F5, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC portraitScanningRegionHeightConstraint]', symObjAddr: 0xF0A, symBinAddr: 0x14670, symSize: 0x19 }
+  - { offsetInCU: 0x176E, offset: 0x4D12C, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setPortraitScanningRegionHeightConstraint:]', symObjAddr: 0xF23, symBinAddr: 0x14689, symSize: 0x14 }
+  - { offsetInCU: 0x17AD, offset: 0x4D16B, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC moveDocumentCloserLabel]', symObjAddr: 0xF37, symBinAddr: 0x1469D, symSize: 0x19 }
+  - { offsetInCU: 0x17E4, offset: 0x4D1A2, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setMoveDocumentCloserLabel:]', symObjAddr: 0xF50, symBinAddr: 0x146B6, symSize: 0x14 }
+  - { offsetInCU: 0x1823, offset: 0x4D1E1, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC scanButton]', symObjAddr: 0xF64, symBinAddr: 0x146CA, symSize: 0x19 }
+  - { offsetInCU: 0x185A, offset: 0x4D218, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setScanButton:]', symObjAddr: 0xF7D, symBinAddr: 0x146E3, symSize: 0x14 }
+  - { offsetInCU: 0x1899, offset: 0x4D257, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC dismissOnStart]', symObjAddr: 0xF91, symBinAddr: 0x146F7, symSize: 0x12 }
+  - { offsetInCU: 0x18CE, offset: 0x4D28C, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC setDismissOnStart:]', symObjAddr: 0xFA3, symBinAddr: 0x14709, symSize: 0x10 }
+  - { offsetInCU: 0x190B, offset: 0x4D2C9, size: 0x8, addend: 0x0, symName: '-[DMDSOverlayVC .cxx_destruct]', symObjAddr: 0xFB3, symBinAddr: 0x14719, symSize: 0x125 }
+  - { offsetInCU: 0x27, offset: 0x4D4CE, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer initWithLicense:]', symObjAddr: 0x0, symBinAddr: 0x1483E, symSize: 0x151 }
+  - { offsetInCU: 0x196B, offset: 0x4EE12, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer initWithLicense:]', symObjAddr: 0x0, symBinAddr: 0x1483E, symSize: 0x151 }
+  - { offsetInCU: 0x1A54, offset: 0x4EEFB, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer stop]', symObjAddr: 0x151, symBinAddr: 0x1498F, symSize: 0x6 }
+  - { offsetInCU: 0x1A83, offset: 0x4EF2A, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer configureFaceSDKWithLicense:]', symObjAddr: 0x157, symBinAddr: 0x14995, symSize: 0x6 }
+  - { offsetInCU: 0x1ABE, offset: 0x4EF65, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer findFaceIn:qualityThreshold:state:]', symObjAddr: 0x15D, symBinAddr: 0x1499B, symSize: 0x8 }
+  - { offsetInCU: 0x1B15, offset: 0x4EFBC, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer findFaceInMicroBlinkResult:faceQualityScoreThreshold:scanningState:]', symObjAddr: 0x165, symBinAddr: 0x149A3, symSize: 0x5B }
+  - { offsetInCU: 0x1BAC, offset: 0x4F053, size: 0x8, addend: 0x0, symName: '-[DMDSFaceAnalyzer haveFrameWorkWithNames:]', symObjAddr: 0x1C0, symBinAddr: 0x149FE, symSize: 0x8 }
+  - { offsetInCU: 0x27, offset: 0x501C4, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView initWithPosition:]', symObjAddr: 0x0, symBinAddr: 0x14A08, symSize: 0x107 }
+  - { offsetInCU: 0x127, offset: 0x502C4, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView initWithPosition:]', symObjAddr: 0x0, symBinAddr: 0x14A08, symSize: 0x107 }
+  - { offsetInCU: 0x1AA, offset: 0x50347, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView setupViews:]', symObjAddr: 0x107, symBinAddr: 0x14B0F, symSize: 0xCB }
+  - { offsetInCU: 0x259, offset: 0x503F6, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView updateViewConstraints:]', symObjAddr: 0x1D2, symBinAddr: 0x14BDA, symSize: 0x43A }
+  - { offsetInCU: 0x3E0, offset: 0x5057D, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView changeCornerColor:]', symObjAddr: 0x60C, symBinAddr: 0x15014, symSize: 0x6D }
+  - { offsetInCU: 0x453, offset: 0x505F0, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView changeCornerThickness:]', symObjAddr: 0x679, symBinAddr: 0x15081, symSize: 0x57 }
+  - { offsetInCU: 0x4AE, offset: 0x5064B, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView verticalView]', symObjAddr: 0x6D0, symBinAddr: 0x150D8, symSize: 0x11 }
+  - { offsetInCU: 0x4E3, offset: 0x50680, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView setVerticalView:]', symObjAddr: 0x6E1, symBinAddr: 0x150E9, symSize: 0x14 }
+  - { offsetInCU: 0x522, offset: 0x506BF, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView horizontalView]', symObjAddr: 0x6F5, symBinAddr: 0x150FD, symSize: 0x11 }
+  - { offsetInCU: 0x557, offset: 0x506F4, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView setHorizontalView:]', symObjAddr: 0x706, symBinAddr: 0x1510E, symSize: 0x14 }
+  - { offsetInCU: 0x596, offset: 0x50733, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView verticalViewWidthConstraint]', symObjAddr: 0x71A, symBinAddr: 0x15122, symSize: 0x11 }
+  - { offsetInCU: 0x5CB, offset: 0x50768, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView setVerticalViewWidthConstraint:]', symObjAddr: 0x72B, symBinAddr: 0x15133, symSize: 0x14 }
+  - { offsetInCU: 0x60A, offset: 0x507A7, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView horizontalViewHeightConstraint]', symObjAddr: 0x73F, symBinAddr: 0x15147, symSize: 0x11 }
+  - { offsetInCU: 0x63F, offset: 0x507DC, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView setHorizontalViewHeightConstraint:]', symObjAddr: 0x750, symBinAddr: 0x15158, symSize: 0x14 }
+  - { offsetInCU: 0x67E, offset: 0x5081B, size: 0x8, addend: 0x0, symName: '-[RectangleCornerView .cxx_destruct]', symObjAddr: 0x764, symBinAddr: 0x1516C, symSize: 0x53 }
+...

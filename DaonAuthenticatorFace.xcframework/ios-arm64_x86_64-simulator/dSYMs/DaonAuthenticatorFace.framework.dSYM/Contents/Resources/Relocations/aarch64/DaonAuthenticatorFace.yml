@@ -1,0 +1,161 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jonny/Library/Developer/Xcode/DerivedData/DaonAuthenticatorSDK-bdcskrvxmgwaragxurkijoxugqvl/Build/Intermediates.noindex/ArchiveIntermediates/Simulator/InstallationBuildProductsLocation/Library/Frameworks/DaonAuthenticatorFace.framework/DaonAuthenticatorFace'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x6E9A8, size: 0x8, addend: 0x0, symName: _DaonAuthenticatorFaceVersionString, symObjAddr: 0x0, symBinAddr: 0xC818, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x6E9DD, size: 0x8, addend: 0x0, symName: _DaonAuthenticatorFaceVersionNumber, symObjAddr: 0x48, symBinAddr: 0xC860, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x6EA1A, size: 0x8, addend: 0x0, symName: '+[DASFaceAuthenticatorFactory createFaceControllerWithContext:preview:delegate:]', symObjAddr: 0x0, symBinAddr: 0x4B1C, symSize: 0x8 }
+  - { offsetInCU: 0xE1, offset: 0x6EAD4, size: 0x8, addend: 0x0, symName: '+[DASFaceAuthenticatorFactory createFaceControllerWithContext:preview:delegate:]', symObjAddr: 0x0, symBinAddr: 0x4B1C, symSize: 0x8 }
+  - { offsetInCU: 0x138, offset: 0x6EB2B, size: 0x8, addend: 0x0, symName: '+[DASFaceAuthenticatorFactory createADoSControllerWithContext:]', symObjAddr: 0x8, symBinAddr: 0x4B24, symSize: 0x4C }
+  - { offsetInCU: 0x18B, offset: 0x6EB7E, size: 0x8, addend: 0x0, symName: '+[DASFaceAuthenticatorFactory createFaceTemplateControllerWithContext:]', symObjAddr: 0x54, symBinAddr: 0x4B70, symSize: 0xE0 }
+  - { offsetInCU: 0x1FE, offset: 0x6EBF1, size: 0x8, addend: 0x0, symName: '+[DASFaceAuthenticatorFactory createFaceMatcherWithContext:]', symObjAddr: 0x134, symBinAddr: 0x4C50, symSize: 0x274 }
+  - { offsetInCU: 0x27, offset: 0x6ED5F, size: 0x8, addend: 0x0, symName: '-[DASImageQualityCheckResult initWithThreshold:delegate:]', symObjAddr: 0x0, symBinAddr: 0x4EC4, symSize: 0x7C }
+  - { offsetInCU: 0xC5, offset: 0x6EDFD, size: 0x8, addend: 0x0, symName: '-[DASImageQualityCheckResult initWithThreshold:delegate:]', symObjAddr: 0x0, symBinAddr: 0x4EC4, symSize: 0x7C }
+  - { offsetInCU: 0x11C, offset: 0x6EE54, size: 0x8, addend: 0x0, symName: '-[DASImageQualityCheckResult checkResult:]', symObjAddr: 0x7C, symBinAddr: 0x4F40, symSize: 0x8 }
+  - { offsetInCU: 0x15F, offset: 0x6EE97, size: 0x8, addend: 0x0, symName: '-[DASImageQualityCheckResult checkResult:issues:]', symObjAddr: 0x84, symBinAddr: 0x4F48, symSize: 0x12C }
+  - { offsetInCU: 0x1D6, offset: 0x6EF0E, size: 0x8, addend: 0x0, symName: '-[DASImageQualityCheckResult issuesWithResult:]', symObjAddr: 0x1B0, symBinAddr: 0x5074, symSize: 0x2F8 }
+  - { offsetInCU: 0x229, offset: 0x6EF61, size: 0x8, addend: 0x0, symName: '-[DASImageQualityCheckResult .cxx_destruct]', symObjAddr: 0x4A8, symBinAddr: 0x536C, symSize: 0x8 }
+  - { offsetInCU: 0x27, offset: 0x6EFF3, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getName]', symObjAddr: 0x0, symBinAddr: 0x5374, symSize: 0xC }
+  - { offsetInCU: 0x83, offset: 0x6F04F, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getName]', symObjAddr: 0x0, symBinAddr: 0x5374, symSize: 0xC }
+  - { offsetInCU: 0xB6, offset: 0x6F082, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getDescription]', symObjAddr: 0xC, symBinAddr: 0x5380, symSize: 0xC }
+  - { offsetInCU: 0xE9, offset: 0x6F0B5, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getVersionCode]', symObjAddr: 0x18, symBinAddr: 0x538C, symSize: 0x8 }
+  - { offsetInCU: 0x11C, offset: 0x6F0E8, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getVersionName]', symObjAddr: 0x20, symBinAddr: 0x5394, symSize: 0xC }
+  - { offsetInCU: 0x14F, offset: 0x6F11B, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getID]', symObjAddr: 0x2C, symBinAddr: 0x53A0, symSize: 0xC }
+  - { offsetInCU: 0x182, offset: 0x6F14E, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getIcon]', symObjAddr: 0x38, symBinAddr: 0x53AC, symSize: 0x44 }
+  - { offsetInCU: 0x1B9, offset: 0x6F185, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS getFactorType]', symObjAddr: 0x7C, symBinAddr: 0x53F0, symSize: 0x8 }
+  - { offsetInCU: 0x1EC, offset: 0x6F1B8, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS isSupported]', symObjAddr: 0x84, symBinAddr: 0x53F8, symSize: 0x68 }
+  - { offsetInCU: 0x21F, offset: 0x6F1EB, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS isRegistered:]', symObjAddr: 0xEC, symBinAddr: 0x5460, symSize: 0x14 }
+  - { offsetInCU: 0x264, offset: 0x6F230, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS isDataStored]', symObjAddr: 0x100, symBinAddr: 0x5474, symSize: 0x8 }
+  - { offsetInCU: 0x297, offset: 0x6F263, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS clearEnrolledData]', symObjAddr: 0x108, symBinAddr: 0x547C, symSize: 0x4 }
+  - { offsetInCU: 0x2C6, offset: 0x6F292, size: 0x8, addend: 0x0, symName: '-[DASFaceV3AuthenticatorADoS isADoSRequired]', symObjAddr: 0x10C, symBinAddr: 0x5480, symSize: 0x8 }
+  - { offsetInCU: 0x27, offset: 0x6F315, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator getID]', symObjAddr: 0x0, symBinAddr: 0x5488, symSize: 0xC }
+  - { offsetInCU: 0x8A, offset: 0x6F378, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator getID]', symObjAddr: 0x0, symBinAddr: 0x5488, symSize: 0xC }
+  - { offsetInCU: 0xBD, offset: 0x6F3AB, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator getName]', symObjAddr: 0xC, symBinAddr: 0x5494, symSize: 0xC }
+  - { offsetInCU: 0xF0, offset: 0x6F3DE, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator getDescription]', symObjAddr: 0x18, symBinAddr: 0x54A0, symSize: 0xC }
+  - { offsetInCU: 0x123, offset: 0x6F411, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator getVersionCode]', symObjAddr: 0x24, symBinAddr: 0x54AC, symSize: 0x8 }
+  - { offsetInCU: 0x156, offset: 0x6F444, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator getVersionName]', symObjAddr: 0x2C, symBinAddr: 0x54B4, symSize: 0xC }
+  - { offsetInCU: 0x189, offset: 0x6F477, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Authenticator isSupported]', symObjAddr: 0x38, symBinAddr: 0x54C0, symSize: 0xF0 }
+  - { offsetInCU: 0xB0, offset: 0x6F58E, size: 0x8, addend: 0x0, symName: _sessionQueue, symObjAddr: 0x67A50, symBinAddr: 0x160E8, symSize: 0x0 }
+  - { offsetInCU: 0x675, offset: 0x6FB53, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController exifOrientation:]', symObjAddr: 0x22A0, symBinAddr: 0x7850, symSize: 0x2C }
+  - { offsetInCU: 0x39B1, offset: 0x72E8F, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController initWithContext:preview:delegate:]', symObjAddr: 0x0, symBinAddr: 0x55B0, symSize: 0x534 }
+  - { offsetInCU: 0x3A5F, offset: 0x72F3D, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController loadLivenessAnalyzer]', symObjAddr: 0x534, symBinAddr: 0x5AE4, symSize: 0x38 }
+  - { offsetInCU: 0x3ADE, offset: 0x72FBC, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController cancel]', symObjAddr: 0x56C, symBinAddr: 0x5B1C, symSize: 0xAC }
+  - { offsetInCU: 0x3B9F, offset: 0x7307D, size: 0x8, addend: 0x0, symName: '___34-[DASDefaultFaceController cancel]_block_invoke', symObjAddr: 0x618, symBinAddr: 0x5BC8, symSize: 0xC }
+  - { offsetInCU: 0x3BDE, offset: 0x730BC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s, symObjAddr: 0x624, symBinAddr: 0x5BD4, symSize: 0x8 }
+  - { offsetInCU: 0x3C05, offset: 0x730E3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s, symObjAddr: 0x62C, symBinAddr: 0x5BDC, symSize: 0x8 }
+  - { offsetInCU: 0x3C24, offset: 0x73102, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController enableMonitorForLossOfContinuity]', symObjAddr: 0x634, symBinAddr: 0x5BE4, symSize: 0x98 }
+  - { offsetInCU: 0x3C57, offset: 0x73135, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController start]', symObjAddr: 0x6CC, symBinAddr: 0x5C7C, symSize: 0xB8 }
+  - { offsetInCU: 0x3C8A, offset: 0x73168, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController resume]', symObjAddr: 0x784, symBinAddr: 0x5D34, symSize: 0x28 }
+  - { offsetInCU: 0x3CBD, offset: 0x7319B, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController captureImage]', symObjAddr: 0x7AC, symBinAddr: 0x5D5C, symSize: 0x60 }
+  - { offsetInCU: 0x3CF4, offset: 0x731D2, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController analyzeQualityImageOrientation]', symObjAddr: 0x80C, symBinAddr: 0x5DBC, symSize: 0x34 }
+  - { offsetInCU: 0x3D37, offset: 0x73215, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController expectedLivenessEvents]', symObjAddr: 0x840, symBinAddr: 0x5DF0, symSize: 0x8 }
+  - { offsetInCU: 0x3D6E, offset: 0x7324C, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController detectedLivenessEvents]', symObjAddr: 0x848, symBinAddr: 0x5DF8, symSize: 0x8 }
+  - { offsetInCU: 0x3DA5, offset: 0x73283, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController handleOrientationChange]', symObjAddr: 0x850, symBinAddr: 0x5E00, symSize: 0x100 }
+  - { offsetInCU: 0x3E28, offset: 0x73306, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController initFaceSDK]', symObjAddr: 0x950, symBinAddr: 0x5F00, symSize: 0x4 }
+  - { offsetInCU: 0x3E58, offset: 0x73336, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController enableLivenessDetection]', symObjAddr: 0x954, symBinAddr: 0x5F04, symSize: 0x124 }
+  - { offsetInCU: 0x3EB2, offset: 0x73390, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController setFaceSDKConfiguration]', symObjAddr: 0xA78, symBinAddr: 0x6028, symSize: 0x46C }
+  - { offsetInCU: 0x3F79, offset: 0x73457, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController loadMatcher]', symObjAddr: 0xEE4, symBinAddr: 0x6494, symSize: 0x84 }
+  - { offsetInCU: 0x3FB1, offset: 0x7348F, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController enrollFace:]', symObjAddr: 0xF68, symBinAddr: 0x6518, symSize: 0x228 }
+  - { offsetInCU: 0x400E, offset: 0x734EC, size: 0x8, addend: 0x0, symName: '___39-[DASDefaultFaceController enrollFace:]_block_invoke', symObjAddr: 0x1190, symBinAddr: 0x6740, symSize: 0xF8 }
+  - { offsetInCU: 0x4061, offset: 0x7353F, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController verifyFace:]', symObjAddr: 0x1288, symBinAddr: 0x6838, symSize: 0x248 }
+  - { offsetInCU: 0x40BE, offset: 0x7359C, size: 0x8, addend: 0x0, symName: '___39-[DASDefaultFaceController verifyFace:]_block_invoke', symObjAddr: 0x14D0, symBinAddr: 0x6A80, symSize: 0x3E4 }
+  - { offsetInCU: 0x41B1, offset: 0x7368F, size: 0x8, addend: 0x0, symName: '___39-[DASDefaultFaceController verifyFace:]_block_invoke_2', symObjAddr: 0x18B4, symBinAddr: 0x6E64, symSize: 0xBC }
+  - { offsetInCU: 0x4204, offset: 0x736E2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s40s, symObjAddr: 0x1970, symBinAddr: 0x6F20, symSize: 0x28 }
+  - { offsetInCU: 0x422D, offset: 0x7370B, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s40s, symObjAddr: 0x1998, symBinAddr: 0x6F48, symSize: 0x28 }
+  - { offsetInCU: 0x424C, offset: 0x7372A, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController controllerDidCompleteSuccessfully]', symObjAddr: 0x19C0, symBinAddr: 0x6F70, symSize: 0x74 }
+  - { offsetInCU: 0x428E, offset: 0x7376C, size: 0x8, addend: 0x0, symName: '___61-[DASDefaultFaceController controllerDidCompleteSuccessfully]_block_invoke', symObjAddr: 0x1A34, symBinAddr: 0x6FE4, symSize: 0x44 }
+  - { offsetInCU: 0x42D0, offset: 0x737AE, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController controllerDidFailWithError:score:]', symObjAddr: 0x1A78, symBinAddr: 0x7028, symSize: 0xE8 }
+  - { offsetInCU: 0x4334, offset: 0x73812, size: 0x8, addend: 0x0, symName: '___61-[DASDefaultFaceController controllerDidFailWithError:score:]_block_invoke', symObjAddr: 0x1B60, symBinAddr: 0x7110, symSize: 0x4C }
+  - { offsetInCU: 0x4398, offset: 0x73876, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s40s48s, symObjAddr: 0x1BAC, symBinAddr: 0x715C, symSize: 0x30 }
+  - { offsetInCU: 0x43C1, offset: 0x7389F, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s40s48s, symObjAddr: 0x1BDC, symBinAddr: 0x718C, symSize: 0x30 }
+  - { offsetInCU: 0x43E0, offset: 0x738BE, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController controllerDidDetectLiveness:result:allEventsDetected:]', symObjAddr: 0x1C0C, symBinAddr: 0x71BC, symSize: 0x9C }
+  - { offsetInCU: 0x4451, offset: 0x7392F, size: 0x8, addend: 0x0, symName: '___81-[DASDefaultFaceController controllerDidDetectLiveness:result:allEventsDetected:]_block_invoke', symObjAddr: 0x1CA8, symBinAddr: 0x7258, symSize: 0xA0 }
+  - { offsetInCU: 0x44C6, offset: 0x739A4, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController controllerDidAnalyzeWithResult:quality:issues:]', symObjAddr: 0x1D48, symBinAddr: 0x72F8, symSize: 0x11C }
+  - { offsetInCU: 0x4537, offset: 0x73A15, size: 0x8, addend: 0x0, symName: '___74-[DASDefaultFaceController controllerDidAnalyzeWithResult:quality:issues:]_block_invoke', symObjAddr: 0x1E64, symBinAddr: 0x7414, symSize: 0x50 }
+  - { offsetInCU: 0x45AC, offset: 0x73A8A, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController startVideo]', symObjAddr: 0x1EB4, symBinAddr: 0x7464, symSize: 0x4 }
+  - { offsetInCU: 0x45DC, offset: 0x73ABA, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController notifyLivenessFailureWithError:]', symObjAddr: 0x1EB8, symBinAddr: 0x7468, symSize: 0xA4 }
+  - { offsetInCU: 0x4632, offset: 0x73B10, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController startCaptureTimer]', symObjAddr: 0x1F5C, symBinAddr: 0x750C, symSize: 0x128 }
+  - { offsetInCU: 0x46B7, offset: 0x73B95, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController handleCaptureTimeout]', symObjAddr: 0x2084, symBinAddr: 0x7634, symSize: 0x50 }
+  - { offsetInCU: 0x46EB, offset: 0x73BC9, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController notifyCaptureTimeout]', symObjAddr: 0x20D4, symBinAddr: 0x7684, symSize: 0x104 }
+  - { offsetInCU: 0x475F, offset: 0x73C3D, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController stopCaptureTimer]', symObjAddr: 0x21D8, symBinAddr: 0x7788, symSize: 0x48 }
+  - { offsetInCU: 0x4793, offset: 0x73C71, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController processFrame:]', symObjAddr: 0x2220, symBinAddr: 0x77D0, symSize: 0x28 }
+  - { offsetInCU: 0x47D8, offset: 0x73CB6, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController captureOutput:didOutputSampleBuffer:fromConnection:]', symObjAddr: 0x2248, symBinAddr: 0x77F8, symSize: 0x54 }
+  - { offsetInCU: 0x48B5, offset: 0x73D93, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController processPixelBuffer:]', symObjAddr: 0x229C, symBinAddr: 0x784C, symSize: 0x4 }
+  - { offsetInCU: 0x48F2, offset: 0x73DD0, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController incrementEnrollmentAttempts]', symObjAddr: 0x22CC, symBinAddr: 0x787C, symSize: 0xDC }
+  - { offsetInCU: 0x4957, offset: 0x73E35, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController clearEnrollmentAttempts]', symObjAddr: 0x23A8, symBinAddr: 0x7958, symSize: 0x14 }
+  - { offsetInCU: 0x498B, offset: 0x73E69, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController updateResponseWithEnrollmentAttempts]', symObjAddr: 0x23BC, symBinAddr: 0x796C, symSize: 0x15C }
+  - { offsetInCU: 0x49E1, offset: 0x73EBF, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController updateResponseWithLivenessScore:]', symObjAddr: 0x2518, symBinAddr: 0x7AC8, symSize: 0x130 }
+  - { offsetInCU: 0x4A37, offset: 0x73F15, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController registerWithImage:]', symObjAddr: 0x2648, symBinAddr: 0x7BF8, symSize: 0x4 }
+  - { offsetInCU: 0x4A74, offset: 0x73F52, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController registerWithTemplate:]', symObjAddr: 0x264C, symBinAddr: 0x7BFC, symSize: 0x4 }
+  - { offsetInCU: 0x4AB1, offset: 0x73F8F, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController authenticateWithImage:]', symObjAddr: 0x2650, symBinAddr: 0x7C00, symSize: 0xA8 }
+  - { offsetInCU: 0x4AF6, offset: 0x73FD4, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController authenticateWithTemplate:]', symObjAddr: 0x26F8, symBinAddr: 0x7CA8, symSize: 0xA8 }
+  - { offsetInCU: 0x4B3B, offset: 0x74019, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController deliverDataWithImage:]', symObjAddr: 0x27A0, symBinAddr: 0x7D50, symSize: 0x40C }
+  - { offsetInCU: 0x4C2D, offset: 0x7410B, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController deliverDataWithTemplate:]', symObjAddr: 0x2BAC, symBinAddr: 0x815C, symSize: 0xD0 }
+  - { offsetInCU: 0x4C72, offset: 0x74150, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController deliverData:]', symObjAddr: 0x2C7C, symBinAddr: 0x822C, symSize: 0xE4 }
+  - { offsetInCU: 0x4CB7, offset: 0x74195, size: 0x8, addend: 0x0, symName: '___40-[DASDefaultFaceController deliverData:]_block_invoke', symObjAddr: 0x2D60, symBinAddr: 0x8310, symSize: 0xC4 }
+  - { offsetInCU: 0x4D0A, offset: 0x741E8, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController stringWithLivenessState:]', symObjAddr: 0x2E24, symBinAddr: 0x83D4, symSize: 0x28 }
+  - { offsetInCU: 0x4D4D, offset: 0x7422B, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController allEventsDetected]', symObjAddr: 0x2E4C, symBinAddr: 0x83FC, symSize: 0x38 }
+  - { offsetInCU: 0x4D85, offset: 0x74263, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController bestImageWithResult:]', symObjAddr: 0x2E84, symBinAddr: 0x8434, symSize: 0xD8 }
+  - { offsetInCU: 0x4DCE, offset: 0x742AC, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController checkQualityWithResult:]', symObjAddr: 0x2F5C, symBinAddr: 0x850C, symSize: 0x178 }
+  - { offsetInCU: 0x4E5B, offset: 0x74339, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController analysisResult:alert:]', symObjAddr: 0x30D4, symBinAddr: 0x8684, symSize: 0x4 }
+  - { offsetInCU: 0x4EA5, offset: 0x74383, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController analysisResult:didDetectEvent:]', symObjAddr: 0x30D8, symBinAddr: 0x8688, symSize: 0x1CC }
+  - { offsetInCU: 0x4F0C, offset: 0x743EA, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController analysisResult:didChangeState:]', symObjAddr: 0x32A4, symBinAddr: 0x8854, symSize: 0xCC }
+  - { offsetInCU: 0x4F62, offset: 0x74440, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController analysisResult:]', symObjAddr: 0x3370, symBinAddr: 0x8920, symSize: 0x2A0 }
+  - { offsetInCU: 0x4FCC, offset: 0x744AA, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController hasContinuityWithResult:]', symObjAddr: 0x3610, symBinAddr: 0x8BC0, symSize: 0x1E8 }
+  - { offsetInCU: 0x5057, offset: 0x74535, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController matchEventImages]', symObjAddr: 0x37F8, symBinAddr: 0x8DA8, symSize: 0x44 }
+  - { offsetInCU: 0x508F, offset: 0x7456D, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController matchEventImages:]', symObjAddr: 0x383C, symBinAddr: 0x8DEC, symSize: 0x248 }
+  - { offsetInCU: 0x5135, offset: 0x74613, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController resetWithResult:]', symObjAddr: 0x3A84, symBinAddr: 0x9034, symSize: 0x78 }
+  - { offsetInCU: 0x517A, offset: 0x74658, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController eventWithEvent:]', symObjAddr: 0x3AFC, symBinAddr: 0x90AC, symSize: 0x20 }
+  - { offsetInCU: 0x51BD, offset: 0x7469B, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController eventWithState:]', symObjAddr: 0x3B1C, symBinAddr: 0x90CC, symSize: 0x14 }
+  - { offsetInCU: 0x5200, offset: 0x746DE, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController errorCodeWithAlert:]', symObjAddr: 0x3B30, symBinAddr: 0x90E0, symSize: 0x24 }
+  - { offsetInCU: 0x5243, offset: 0x74721, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController activeLivenessType]', symObjAddr: 0x3B54, symBinAddr: 0x9104, symSize: 0x148 }
+  - { offsetInCU: 0x528C, offset: 0x7476A, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController passiveLivenessType]', symObjAddr: 0x3C9C, symBinAddr: 0x924C, symSize: 0x11C }
+  - { offsetInCU: 0x52E6, offset: 0x747C4, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController activeLivenessThreshold]', symObjAddr: 0x3DB8, symBinAddr: 0x9368, symSize: 0xEC }
+  - { offsetInCU: 0x532F, offset: 0x7480D, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController eyesOpenDetectionFavorPerformance]', symObjAddr: 0x3EA4, symBinAddr: 0x9454, symSize: 0x58 }
+  - { offsetInCU: 0x5367, offset: 0x74845, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController livenessAtEnrollment]', symObjAddr: 0x3EFC, symBinAddr: 0x94AC, symSize: 0xF4 }
+  - { offsetInCU: 0x53B0, offset: 0x7488E, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController livenessAtAuthentication]', symObjAddr: 0x3FF0, symBinAddr: 0x95A0, symSize: 0x164 }
+  - { offsetInCU: 0x5411, offset: 0x748EF, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController isLivenessAnalysisRequired]', symObjAddr: 0x4154, symBinAddr: 0x9704, symSize: 0x68 }
+  - { offsetInCU: 0x5449, offset: 0x74927, size: 0x8, addend: 0x0, symName: '-[DASDefaultFaceController .cxx_destruct]', symObjAddr: 0x41BC, symBinAddr: 0x976C, symSize: 0x110 }
+  - { offsetInCU: 0x27, offset: 0x752C3, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController initWithContext:dataId:]', symObjAddr: 0x0, symBinAddr: 0x98B8, symSize: 0x15C }
+  - { offsetInCU: 0x1C3, offset: 0x7545F, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController initWithContext:dataId:]', symObjAddr: 0x0, symBinAddr: 0x98B8, symSize: 0x15C }
+  - { offsetInCU: 0x21A, offset: 0x754B6, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController cancel]', symObjAddr: 0x15C, symBinAddr: 0x9A14, symSize: 0x4 }
+  - { offsetInCU: 0x249, offset: 0x754E5, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController authenticateTemplate:resultHandler:]', symObjAddr: 0x160, symBinAddr: 0x9A18, symSize: 0x104 }
+  - { offsetInCU: 0x29C, offset: 0x75538, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController completeWithPassed:score:error:]', symObjAddr: 0x264, symBinAddr: 0x9B1C, symSize: 0xF8 }
+  - { offsetInCU: 0x331, offset: 0x755CD, size: 0x8, addend: 0x0, symName: '___60-[DASFaceTemplateController completeWithPassed:score:error:]_block_invoke', symObjAddr: 0x35C, symBinAddr: 0x9C14, symSize: 0x158 }
+  - { offsetInCU: 0x3D7, offset: 0x75673, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48w, symObjAddr: 0x4B4, symBinAddr: 0x9D6C, symSize: 0x38 }
+  - { offsetInCU: 0x400, offset: 0x7569C, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48w, symObjAddr: 0x4EC, symBinAddr: 0x9DA4, symSize: 0x30 }
+  - { offsetInCU: 0x41F, offset: 0x756BB, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController checkForTooManyAttempts:]', symObjAddr: 0x51C, symBinAddr: 0x9DD4, symSize: 0x10C }
+  - { offsetInCU: 0x466, offset: 0x75702, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController verificationThreshold]', symObjAddr: 0x628, symBinAddr: 0x9EE0, symSize: 0x50 }
+  - { offsetInCU: 0x4AE, offset: 0x7574A, size: 0x8, addend: 0x0, symName: '-[DASFaceTemplateController .cxx_destruct]', symObjAddr: 0x678, symBinAddr: 0x9F30, symSize: 0x5C }
+  - { offsetInCU: 0x27, offset: 0x75892, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher initWithContext:dataId:]', symObjAddr: 0x0, symBinAddr: 0x9F8C, symSize: 0x104 }
+  - { offsetInCU: 0x101, offset: 0x7596C, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher initWithContext:dataId:]', symObjAddr: 0x0, symBinAddr: 0x9F8C, symSize: 0x104 }
+  - { offsetInCU: 0x158, offset: 0x759C3, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher createFaceSDK]', symObjAddr: 0x104, symBinAddr: 0xA090, symSize: 0x8 }
+  - { offsetInCU: 0x18B, offset: 0x759F6, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher enrollImage:orientation:completion:]', symObjAddr: 0x10C, symBinAddr: 0xA098, symSize: 0x4 }
+  - { offsetInCU: 0x1DE, offset: 0x75A49, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher verifyImage:orientation:completion:]', symObjAddr: 0x110, symBinAddr: 0xA09C, symSize: 0x4 }
+  - { offsetInCU: 0x231, offset: 0x75A9C, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher defaultMatchThreshold]', symObjAddr: 0x114, symBinAddr: 0xA0A0, symSize: 0xC }
+  - { offsetInCU: 0x264, offset: 0x75ACF, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher license]', symObjAddr: 0x120, symBinAddr: 0xA0AC, symSize: 0x48 }
+  - { offsetInCU: 0x29B, offset: 0x75B06, size: 0x8, addend: 0x0, symName: '-[DASFaceV5Matcher .cxx_destruct]', symObjAddr: 0x168, symBinAddr: 0xA0F4, symSize: 0x44 }
+  - { offsetInCU: 0x27, offset: 0x75C66, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator initWithAlgorithm:]', symObjAddr: 0x0, symBinAddr: 0xA138, symSize: 0x34 }
+  - { offsetInCU: 0x87, offset: 0x75CC6, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator initWithAlgorithm:]', symObjAddr: 0x0, symBinAddr: 0xA138, symSize: 0x34 }
+  - { offsetInCU: 0xCE, offset: 0x75D0D, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getID]', symObjAddr: 0x34, symBinAddr: 0xA16C, symSize: 0xC }
+  - { offsetInCU: 0x101, offset: 0x75D40, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getName]', symObjAddr: 0x40, symBinAddr: 0xA178, symSize: 0xC }
+  - { offsetInCU: 0x134, offset: 0x75D73, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getDescription]', symObjAddr: 0x4C, symBinAddr: 0xA184, symSize: 0xC }
+  - { offsetInCU: 0x167, offset: 0x75DA6, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getVersionCode]', symObjAddr: 0x58, symBinAddr: 0xA190, symSize: 0x8 }
+  - { offsetInCU: 0x19A, offset: 0x75DD9, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getVersionName]', symObjAddr: 0x60, symBinAddr: 0xA198, symSize: 0xC }
+  - { offsetInCU: 0x1CD, offset: 0x75E0C, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getIcon]', symObjAddr: 0x6C, symBinAddr: 0xA1A4, symSize: 0x44 }
+  - { offsetInCU: 0x204, offset: 0x75E43, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getFactorType]', symObjAddr: 0xB0, symBinAddr: 0xA1E8, symSize: 0x8 }
+  - { offsetInCU: 0x237, offset: 0x75E76, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator getMatcherProtection]', symObjAddr: 0xB8, symBinAddr: 0xA1F0, symSize: 0x8 }
+  - { offsetInCU: 0x26A, offset: 0x75EA9, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator isSupported]', symObjAddr: 0xC0, symBinAddr: 0xA1F8, symSize: 0x1C0 }
+  - { offsetInCU: 0x2AD, offset: 0x75EEC, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator isRegistered:]', symObjAddr: 0x280, symBinAddr: 0xA3B8, symSize: 0x44 }
+  - { offsetInCU: 0x2F4, offset: 0x75F33, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator isDataStored]', symObjAddr: 0x2C4, symBinAddr: 0xA3FC, symSize: 0x7C }
+  - { offsetInCU: 0x32B, offset: 0x75F6A, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator clearEnrolledData]', symObjAddr: 0x340, symBinAddr: 0xA478, symSize: 0xBC }
+  - { offsetInCU: 0x35E, offset: 0x75F9D, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator isADoSRequired]', symObjAddr: 0x3FC, symBinAddr: 0xA534, symSize: 0x8 }
+  - { offsetInCU: 0x391, offset: 0x75FD0, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator defaultUIClassName]', symObjAddr: 0x404, symBinAddr: 0xA53C, symSize: 0xC }
+  - { offsetInCU: 0x3C4, offset: 0x76003, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator weakSuperOnCollectionCompletion]', symObjAddr: 0x410, symBinAddr: 0xA548, symSize: 0x34 }
+  - { offsetInCU: 0x3F7, offset: 0x76036, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator weakSuperOnCollectionFailure:]', symObjAddr: 0x444, symBinAddr: 0xA57C, symSize: 0x34 }
+  - { offsetInCU: 0x43A, offset: 0x76079, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator presentCollectionUIWithRegistration:extensions:keys:]', symObjAddr: 0x478, symBinAddr: 0xA5B0, symSize: 0x154 }
+  - { offsetInCU: 0x4AD, offset: 0x760EC, size: 0x8, addend: 0x0, symName: '___78-[DASFaceV3Authenticator presentCollectionUIWithRegistration:extensions:keys:]_block_invoke', symObjAddr: 0x5CC, symBinAddr: 0xA704, symSize: 0x54 }
+  - { offsetInCU: 0x523, offset: 0x76162, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w, symObjAddr: 0x620, symBinAddr: 0xA758, symSize: 0xC }
+  - { offsetInCU: 0x54C, offset: 0x7618B, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w, symObjAddr: 0x62C, symBinAddr: 0xA764, symSize: 0x8 }
+  - { offsetInCU: 0x56B, offset: 0x761AA, size: 0x8, addend: 0x0, symName: '-[DASFaceV3Authenticator deregister:removeAllData:]', symObjAddr: 0x634, symBinAddr: 0xA76C, symSize: 0x7C }
+...

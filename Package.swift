@@ -1,6 +1,4 @@
 // swift-tools-version: 5.7
-// The swift-tools-version declares the minimum version of Swift required to build this package.
-
 import PackageDescription
 
 let package = Package(
@@ -9,65 +7,77 @@ let package = Package(
         .iOS(.v13)
     ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "DaonFrameworks",
             targets: ["DaonFrameworks"]
         ),
     ],
+    dependencies: [],
     targets: [
-        // Targets define the basic building blocks of a package, including modules or test suites.
         .binaryTarget(
             name: "DaonAuthenticatorFace",
-            path: "DaonAuthenticatorFace.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonAuthenticatorFace.xcframework.zip",
+            checksum: "bdec58fe3f302bcbb0a48c16211a9705cd7daebd367265f627bed43784c8a0c2"
         ),
         .binaryTarget(
             name: "DaonAuthenticatorSDK",
-            path: "DaonAuthenticatorSDK.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonAuthenticatorSDK.xcframework.zip",
+            checksum: "609f51da2c7394b58b46c7623ecfce9b2cc2bf000e51c2c5261eee3fc3f8461e"
         ),
         .binaryTarget(
             name: "DaonCryptoSDK",
-            path: "DaonCryptoSDK.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonCryptoSDK.xcframework.zip",
+            checksum: "3a3f64c5d2abc25114fbe442745d299abb47087729953c58009989d47275a1a4"
         ),
         .binaryTarget(
             name: "DaonDocument",
-            path: "DaonDocument.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonDocument.xcframework.zip",
+            checksum: "5d96d93f71f541665c0eced98042d9987fc3e4001270827895feb522ad38f580"
         ),
         .binaryTarget(
             name: "DaonFaceDetector",
-            path: "DaonFaceDetector.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFaceDetector.xcframework.zip",
+            checksum: "69cdc62f15ef1377e1a15a6a33ed4b33756b1618642ae024b78e269e16457171"
         ),
         .binaryTarget(
             name: "DaonFaceLiveness",
-            path: "DaonFaceLiveness.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFaceLiveness.xcframework.zip",
+            checksum: "bb8217b7f000e86d70a0da147908bbb1f94e4310c05119ab29ee6bd502d19227"
         ),
         .binaryTarget(
             name: "DaonFaceMatcher",
-            path: "DaonFaceMatcher.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFaceMatcher.xcframework.zip",
+            checksum: "2a9d7e63cc801b17835d4f3496be48aba7df5515e9ea6afef1e8d09213e7bf95"
         ),
         .binaryTarget(
             name: "DaonFaceQuality",
-            path: "DaonFaceQuality.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFaceQuality.xcframework.zip",
+            checksum: "3e62ff7c8caab2ee973949315d58fadabb81f00fbf9a2ef3539cf9208f9efd80"
         ),
         .binaryTarget(
             name: "DaonFaceSDK",
-            path: "DaonFaceSDK.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFaceSDK.xcframework.zip",
+            checksum: "4265eb6a89f1097ea82a02114e6e8fd0344a6706cf66825a8b063fdc202ccbea"
         ),
         .binaryTarget(
             name: "DaonFIDOSDK",
-            path: "DaonFIDOSDK.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonFIDOSDK.xcframework.zip",
+            checksum: "58fdac47d1594e4795430ccbdf204952e71ee3c9d006591122f52f4e6d668352"
         ),
         .binaryTarget(
             name: "DaonIDCapture",
-            path: "DaonIDCapture.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonIDCapture.xcframework.zip",
+            checksum: "51def5f0c3989e5ed7dd2d255260e7f7289e572e3a1f63e2fa9c7278a21be4ef"
         ),
         .binaryTarget(
             name: "nc7000_3a_fs_matcher",
-            path: "nc7000_3a_fs_matcher.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/nc7000_3a_fs_matcher.xcframework.zip",
+            checksum: "e0310ac47eaf57a3aae878f634ce80204f05eac327260db8d5cc36d9d5552e32"
         ),
         .binaryTarget(
             name: "BlinkId",
-            path: "BlinkId.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/BlinkId.xcframework.zip",
+            checksum: "2a27b4e460636ab5d2d4868303fd0f09828127555f7a8fb02d2f2df2a6a109cf"
         ),
         .target(
             name: "DaonFrameworks",

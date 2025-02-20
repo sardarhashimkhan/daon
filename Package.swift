@@ -65,16 +65,6 @@ let package = Package(
             checksum: "58fdac47d1594e4795430ccbdf204952e71ee3c9d006591122f52f4e6d668352"
         ),
         .binaryTarget(
-            name: "DaonIDCapture",
-            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/DaonIDCapture.xcframework.zip",
-            checksum: "51def5f0c3989e5ed7dd2d255260e7f7289e572e3a1f63e2fa9c7278a21be4ef"
-        ),
-        .binaryTarget(
-            name: "nc7000_3a_fs_matcher",
-            url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/nc7000_3a_fs_matcher.xcframework.zip",
-            checksum: "e0310ac47eaf57a3aae878f634ce80204f05eac327260db8d5cc36d9d5552e32"
-        ),
-        .binaryTarget(
             name: "BlinkId",
             url: "https://github.com/sardarhashimkhan/daon/releases/download/1.0/BlinkId.xcframework.zip",
             checksum: "2a27b4e460636ab5d2d4868303fd0f09828127555f7a8fb02d2f2df2a6a109cf"
@@ -92,8 +82,6 @@ let package = Package(
                 "DaonFaceQuality",
                 "DaonFaceSDK",
                 "DaonFIDOSDK",
-                "DaonIDCapture",
-                "nc7000_3a_fs_matcher",
                 "BlinkId"
             ]
         ),

@@ -15,8 +15,8 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(
-            name: "DaonFrameworks",
-            path: "DaonFrameworks/DaonFrameworks.xcframework"
+            name: "DaonDocument",
+            path: "DaonFrameworks/DaonDocument.xcframework"
         )
     ]
 )

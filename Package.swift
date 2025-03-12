@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DaonFrameworks",
-            path: "Sources/DaonFrameworks/DaonFrameworks.xcframework"
+            path: "DaonFrameworks/DaonFrameworks.xcframework"
         )
     ]
 )

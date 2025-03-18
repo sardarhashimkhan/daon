@@ -5,22 +5,19 @@ import PackageDescription
 let package = Package(
     name: "DaonFrameworks",
     platforms: [
-        .iOS(.v15)
+        .iOS(.v13),
+        .macOS(.v10_14)
     ],
     products: [
         .library(
             name: "DaonFrameworks",
-            targets: ["DaonFrameworks"]
-        ),
+            targets: ["DaonDocument"]
+        )
     ],
     targets: [
         .binaryTarget(
             name: "DaonDocument",
-            path: "DaonFrameworks/DaonDocument.xcframework"
-        ),
-        .target(
-            name: "DaonFrameworks",
-            dependencies: ["DaonDocument"]
-        ),
+            path: "Frameworks/DaonDocument.xcframework"
+        )
     ]
 )

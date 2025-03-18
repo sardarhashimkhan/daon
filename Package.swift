@@ -12,12 +12,7 @@ let package = Package(
             targets: ["DaonFrameworks"]
         ),
     ],
-    dependencies: [
-            .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.0.0"),
-            .package(url: "https://github.com/jdg/MBProgressHUD", from: "1.2.0"),
-            .package(url: "https://github.com/yourJWTLibrary/JWT", from: "3.0.0"),
-            .package(url: "https://github.com/datatheorem/TrustKit.git", from: "1.6.0")
-        ],
+    dependencies: [],
     targets: [
         .target(
             name: "DaonFrameworks",
@@ -34,11 +29,7 @@ let package = Package(
                             "DaonFaceSDK",
                             "DaonFIDOSDK",
                             "DaonIDCapture",
-                            "nc7000_3a_fs_matcher",
-                            "Alamofire",
-                            "MBProgressHUD",
-                            "JWT",
-                            "TrustKit"
+                            "nc7000_3a_fs_matcher"
                         ]
         ),
         .binaryTarget(

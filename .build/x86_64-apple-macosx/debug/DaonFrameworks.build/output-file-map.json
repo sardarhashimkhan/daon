@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/master.swiftdeps"
+  },
+  "/Users/shh/Desktop/AionWorkspace/daon/Sources/DaonFrameworks/DaonFrameworks.swift": {
+    "dependencies": "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks.d",
+    "object": "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks.swift.o",
+    "swiftmodule": "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks~partial.swiftmodule",
+    "swift-dependencies": "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks.swiftdeps"
+  }
+}

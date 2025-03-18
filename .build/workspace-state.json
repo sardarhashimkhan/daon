@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "daon",
+          "kind" : "root",
+          "location" : "/Users/shh/Desktop/AionWorkspace/daon",
+          "name" : "daon"
+        },
+        "path" : "/Users/shh/Desktop/AionWorkspace/daon/Frameworks/DaonDocument.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "DaonDocument"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}

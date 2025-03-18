@@ -1,0 +1,4 @@
+module DaonFrameworks {
+    header "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks-Swift.h"
+    requires objc
+}

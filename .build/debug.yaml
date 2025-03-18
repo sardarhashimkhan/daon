@@ -1,0 +1,50 @@
+client:
+  name: basic
+  file-system: device-agnostic
+tools: {}
+targets:
+  "DaonFrameworks-x86_64-apple-macosx15.0-debug.module": ["<DaonFrameworks-x86_64-apple-macosx15.0-debug.module>"]
+  "PackageStructure": ["<PackageStructure>"]
+  "main": ["<DaonFrameworks-x86_64-apple-macosx15.0-debug.module>"]
+  "test": ["<DaonFrameworks-x86_64-apple-macosx15.0-debug.module>"]
+default: "main"
+nodes:
+  "/Users/shh/Desktop/AionWorkspace/daon/Frameworks/DaonDocument.xcframework/":
+    is-directory-structure: true
+    content-exclusion-patterns: [".git",".build"]
+  "/Users/shh/Desktop/AionWorkspace/daon/Sources/DaonFrameworks/":
+    is-directory-structure: true
+    content-exclusion-patterns: [".git",".build"]
+commands:
+  "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/shh/Desktop/AionWorkspace/daon/Sources/DaonFrameworks/DaonFrameworks.swift"]
+    outputs: ["/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/sources"]
+    description: "Write auxiliary file /Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/sources"
+
+  "/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt":
+    tool: write-auxiliary-file
+    inputs: ["<swift-get-version>","/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"]
+    outputs: ["/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"]
+    always-out-of-date: "true"
+    description: "Write auxiliary file /Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+
+  "<DaonFrameworks-x86_64-apple-macosx15.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks.swift.o","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/Modules/DaonFrameworks.swiftmodule"]
+    outputs: ["<DaonFrameworks-x86_64-apple-macosx15.0-debug.module>"]
+
+  "C.DaonFrameworks-x86_64-apple-macosx15.0-debug.module":
+    tool: shell
+    inputs: ["/Users/shh/Desktop/AionWorkspace/daon/Sources/DaonFrameworks/DaonFrameworks.swift","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/sources"]
+    outputs: ["/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks.swift.o","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/Modules/DaonFrameworks.swiftmodule"]
+    description: "Compiling Swift Module 'DaonFrameworks' (1 sources)"
+    args: ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc","-module-name","DaonFrameworks","-emit-dependencies","-emit-module","-emit-module-path","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/Modules/DaonFrameworks.swiftmodule","-output-file-map","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/output-file-map.json","-parse-as-library","-incremental","-c","@/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/sources","-I","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/Modules","-target","x86_64-apple-macosx10.14","-enable-batch-mode","-index-store-path","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/index/store","-Onone","-enable-testing","-j16","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/ModuleCache","-parseable-output","-parse-as-library","-emit-objc-header","-emit-objc-header-path","/Users/shh/Desktop/AionWorkspace/daon/.build/x86_64-apple-macosx/debug/DaonFrameworks.build/DaonFrameworks-Swift.h","-color-diagnostics","-swift-version","6","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk","-F","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-I","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib","-L","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib","-g","-Xcc","-isysroot","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk","-Xcc","-F","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-Xcc","-fPIC","-Xcc","-g","-package-name","daon"]
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/Users/shh/Desktop/AionWorkspace/daon/Frameworks/DaonDocument.xcframework/","/Users/shh/Desktop/AionWorkspace/daon/Sources/DaonFrameworks/","/Users/shh/Desktop/AionWorkspace/daon/Package.swift","/Users/shh/Desktop/AionWorkspace/daon/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

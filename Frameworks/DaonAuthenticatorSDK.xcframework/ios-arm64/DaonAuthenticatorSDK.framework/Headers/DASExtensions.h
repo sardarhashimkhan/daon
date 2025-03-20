@@ -71,8 +71,6 @@ static NSString * const KDASExtensionFaceLivenessSecurityLevel              = @"
 
 static NSString * const KDASExtensionFaceImageQuality            = @"image.quality";  // 0.9f (default)
 static NSString * const KDASExtensionFaceImageFormat             = @"image.format"; // jpeg (default) | png
-static NSString * const KDASExtensionFaceIFPRequired             = @"requireInjectionDetectionPayload";
-static NSString * const KDASExtensionFaceIFPEnabled              = @"liveness.ifp";
 
 // Liveness Hold phase duration in milliseconds
 static NSString * const KDASExtensionFaceLivenessStartDelay               = @"liveness.start.delay";
@@ -124,10 +122,6 @@ static NSString * const KADoSAuthenticationRetriesRemaining                 = @"
 // ADoS SRP
 // Multiple extensions allowed, e.g. allowedRegEx.1. Error messages may
 // be associated with regex match failures via extensions, e.g. disallowedRegEx.1.message
-
-// *** Preferred class: This used to be set in the plist, but breaks framework signing ***
-// com.daon.sdk.<factor>.preferred = <plist item index>
-
 static NSString * const KDASExtensionSRPPatternRegexAllowed                 = @"allowedRegEx";       // Acceptable passcode patterns.
 static NSString * const KDASExtensionSRPPatternRegexRequired                = @"requiredRegEx";      // Required passcode patterns.
 static NSString * const KDASExtensionSRPPatternRegexDisallowed              = @"disallowedRegEx";    // Disallowed passcode patterns.
@@ -155,6 +149,7 @@ static NSString * const KDASExtensionOTPKeyChain                            = @"
 static NSString * const KDASExtensionOTPAlgorithm                           = @"ootpAlgorithm";         // HMAC 256
 static NSString * const KDASExtensionOTPTimeStep                            = @"ootpTimeStep";          // In seconds, default 30
 static NSString * const KDASExtensionOTPLength                              = @"ootpLength";            // 6-8
+
 
 
 /////////////////////////////////////////////////////

@@ -1,6 +1,0 @@
-framework module nc7000_3a_fs_matcher {
-  umbrella header "nc7000_3a_fs_matcher.h"
-
-  export *
-  module * { export * }
-}

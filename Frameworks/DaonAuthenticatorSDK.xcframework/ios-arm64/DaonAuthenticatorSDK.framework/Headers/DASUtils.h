@@ -157,13 +157,9 @@
  @brief Determines the current AVCaptureVideoOrientation for new video setup based on the status bar orientation.
  @return The current AVCaptureVideoOrientation.
  */
-+ (AVCaptureVideoOrientation) videoOrientation __deprecated;
++ (AVCaptureVideoOrientation) videoOrientation;
 
-/*!
- @brief Determines the current orientation angle for new video setup based on the status bar orientation.
- @return The current orientation angle.
- */
-+ (CGFloat) videoRotationAngle;
+
 
 /*!
  @functiongroup Device Information

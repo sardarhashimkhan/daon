@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/DFSAnalysisDelegate.h</key>
 		<data>
-		wMUHW7aHLvCQwprjgiLgS195Kdw=
+		VtYLVaEE1W6mHeqgcJ9tb2ut524=
 		</data>
 		<key>Headers/DFSAnalyzerProtocol.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/DFSEnrollDelegate.h</key>
 		<data>
-		i7uR+kxjVAftP3qblcTJa8I2EdI=
+		iiKgmWJstMtK379ooBbrA6FTHHk=
 		</data>
 		<key>Headers/DFSFace.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/DFSLivenessResult.h</key>
 		<data>
-		wNYBtbr5J0bH0L4hp3VD4MvkuL4=
+		Q6O1H554HhXLI/HMz7j7cSnPPuw=
 		</data>
 		<key>Headers/DFSModule.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/DFSModuleProtocol.h</key>
 		<data>
-		cSMVkF+AYs/OeFMLhqwgGti67DA=
+		65LYITVOn7YSbUk9fEznEvzWkps=
 		</data>
 		<key>Headers/DFSPositionAnalyzer.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/DFSRecognitionResult.h</key>
 		<data>
-		+Kyhr8OH4oEsC+DWucfQ5EQ9T6A=
+		DenLdZmYsvvnrynCDQNfaHSeaTg=
 		</data>
 		<key>Headers/DFSRecognizerAnalyzer.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/DFSResult.h</key>
 		<data>
-		3i+MioNXVVpNZDYTKc9jHLbfNWY=
+		dchdJitG42E/ZjzQal3/spKjOdY=
 		</data>
 		<key>Headers/DFSScoreBuffer.h</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Headers/DaonFace.h</key>
 		<data>
-		PogtwfnDQ8XPy5rusQXXN1gM/sY=
+		Ou4uaKeFIubsqOsJAWMPaNh/8FM=
 		</data>
 		<key>Headers/DaonFaceSDK.h</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sHpxbiOSiTyJR0NmVNq313wPUi4=
+		demWvXNjxVp9LMwlVbB9k/6llrw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PEgWdNNoGlfWi79FgRwNHk5eCpvojAD8StxRupHSw8Y=
+			aDZ9yRduor+YanOXn8N3b8YgkDGDlpvXhvBCmBqQMtY=
 			</data>
 		</dict>
 		<key>Headers/DFSAnalyzerProtocol.h</key>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gaXLdci6LzlOkJAemIO/9t24x4X9xrQc+Cc/6GPYcBE=
+			Pi+z0J2yLkVuNMrHV60Rdm3IkQ8ETtOav44ZwViEHWw=
 			</data>
 		</dict>
 		<key>Headers/DFSFace.h</key>
@@ -215,7 +215,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7PbCGaAGphopx76jOTrJ4SEfiewbGE/myj0purn5Cn4=
+			LbBx2OAQYMsdQb4MYEqloVDGVesz7m9OuRucc+pTCa4=
 			</data>
 		</dict>
 		<key>Headers/DFSModule.h</key>
@@ -229,7 +229,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZXuKTy895AubrA8ySRNh9L2Mbvjma6ol7LxzSa/BWs=
+			tONbJFvZYmDxZuogTx7n5bMyuoeWthPPuSJG/nT+MYg=
 			</data>
 		</dict>
 		<key>Headers/DFSPositionAnalyzer.h</key>
@@ -264,7 +264,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8uaiinm9Jlsf0KfIg7hJqee8bjN5JTCCgPMGRmql0mo=
+			FsdWcWtED10opNAd2zhCIhSG7grBDY2aSGvEnrNRQ2Y=
 			</data>
 		</dict>
 		<key>Headers/DFSRecognizerAnalyzer.h</key>
@@ -285,7 +285,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bJg9jnhvojYWDQYaBTvttDQ/C/x8xxdoSnBjpsI5dLE=
+			1EiY75vLDL2OIL9FuNhtpwriVC8nVG6ZjW8EAAlhgD4=
 			</data>
 		</dict>
 		<key>Headers/DFSScoreBuffer.h</key>
@@ -299,7 +299,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VaamasJdnzgxtg4WOzg+xCIrC6++rwlEb9q4eDX2weg=
+			LBh/vAPzbFfp1o7Z+kV034qZXhFJn2CecRUeckBgvro=
 			</data>
 		</dict>
 		<key>Headers/DaonFaceSDK.h</key>

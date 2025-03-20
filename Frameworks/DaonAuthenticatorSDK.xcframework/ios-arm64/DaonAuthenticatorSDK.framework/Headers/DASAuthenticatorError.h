@@ -119,7 +119,6 @@ typedef NS_ENUM (NSInteger, DASAuthenticatorError)
     DASAuthenticatorErrorFaceQualityCheckMaskDetected               = 342,
     DASAuthenticatorErrorFaceQualityCheckFailedPoorLighting         = 343,
     DASAuthenticatorErrorFaceLivenessResolutionTooLow               = 344,
-    DASAuthenticatorErrorFaceIFPRequired                            = 345,
     
     // Voice Collection
     DASAuthenticatorErrorVoiceUnknownError                  = 700,

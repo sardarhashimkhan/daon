@@ -82,15 +82,6 @@ typedef void (^DASCompletionHandlerWithData) (NSError *_Nullable error, NSData *
 - (NSData*_Nullable) dataForImage:(UIImage*_Nonnull)image quality:(CGFloat)quality format:(NSString*_Nonnull)format;
 
 /*!
- @brief Converts an UIImage object into a UT8 encoded JSON object for delivery to the server.
- @param image The UIImage to convert.
- @param quality The jpg quality
- @param format Either jpeg or png
- @return The converted data.
- */
-- (NSData*_Nullable) dataForPortraitImage:(UIImage*_Nonnull)image quality:(CGFloat)quality format:(NSString*_Nonnull)format;
-
-/*!
  @brief Converts a Liveness template object into a UT8 encoded JSON object for delivery to the server.
  @param data The template data to convert.
  @return The converted data.
@@ -106,10 +97,12 @@ typedef void (^DASCompletionHandlerWithData) (NSError *_Nullable error, NSData *
 
 /*!
  @brief Converts a set of SRP attributes into a UT8 encoded JSON object for delivery to the server.
- @param srp SRP data
+ @param v Password verifier
+ @param m1 Challenge
+ @param a Ephemeral value A
  @return The converted data.
  */
-- (NSData*_Nullable) dataForPassword:(NSString*_Nonnull)srp;
+- (NSData*_Nullable) dataForPasswordV:(NSData*_Nullable)v M1:(NSData*_Nullable)m1 A:(NSData*_Nullable)a;
 
 /*!
  @brief Converts an NSArray of NSData objects into a UT8 encoded JSON object for delivery to the server.

@@ -46,7 +46,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonCryptoSDK",
-            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonCryptoSDK.xcframework.zip"
+            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonCryptoSDK.xcframework.zip",
+            checksum: "46b7af75e6e3884b0a807ed29ab8f002efde4328ff2ea7a2b5b3b54448f87288"
         ),
         .binaryTarget(
             name: "DaonDocument",
@@ -74,7 +75,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonFIDOSDK",
-            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonFIDOSDK.xcframework.zip"
+            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonFIDOSDK.xcframework.zip",
+            checksum: "8aff6ddf32c5e342d6d0d44a828ef5da9670223ad8b837e8d75533575dae6e8f"
         ),
         .binaryTarget(
             name: "DaonIDCapture",

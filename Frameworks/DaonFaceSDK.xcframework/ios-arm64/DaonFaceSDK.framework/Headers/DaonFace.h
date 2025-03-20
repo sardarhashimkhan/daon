@@ -2,7 +2,8 @@
 //  DaonFace.h
 //  DaonFaceSDK
 //
-//  Copyright © 2015-25 Daon. All rights reserved.
+//  Created by Neil Johnston on 12/10/15.
+//  Copyright © 2015 Daon. All rights reserved.
 //
 
 #import <AVFoundation/AVFoundation.h>
@@ -13,11 +14,6 @@
 #import <DaonFaceSDK/DFSAnalyzerProtocol.h>
 #import <DaonFaceSDK/DFSRecognizerProtocol.h>
 #import <DaonFaceSDK/DFSFace.h>
-
-static const CGFloat DFSVideoOrientationPortrait           = 90;
-static const CGFloat DFSVideoOrientationPortraitUpsideDown = 270;
-static const CGFloat DFSVideoOrientationLandscapeRight     = 180;
-static const CGFloat DFSVideoOrientationLandscapeLeft      = 0;
 
 /*!
  @brief SDK Interface for liveness detection, verification and/or quality measures.
@@ -90,32 +86,15 @@ typedef NS_OPTIONS(NSUInteger, DFSAnalysisOption) {
  */
 
 /*
- @brief Create a matching template for an image.
+ @brief Create a template for an image.
  @description This method is currently only supported when using the DaonFaceMatcher module.
- @param image A UIImage object.
+ @param image The image to enroll.
  @param error An error object
+ @param orientation The AVCaptureVideoOrientation
  */
 - (NSData*) templateWithImage:(UIImage*)image error:(NSError**)error;
-
-/*
- @brief Create a matching template for an image.
- @description This method is currently only supported when using the DaonFaceMatcher module.
- @param buffer A CVPixelBufferRef
- @param error An error object
- */
 - (NSData*) templateWithPixelBuffer:(CVPixelBufferRef)buffer error:(NSError **)error;
-
-
-/*
- @brief Create a matching template for an image.
- @description This method is currently only supported when using the DaonFaceMatcher module.
- @param buffer A CVPixelBufferRef
- @param orientation The video rotation angle
- @param error An error object
- */
-- (NSData*) templateWithPixelBuffer:(CVPixelBufferRef)buffer
-                        orientation:(CGFloat)orientation
-                              error:(NSError **)error;
+- (NSData*) templateWithPixelBuffer:(CVPixelBufferRef)buffer orientation:(AVCaptureVideoOrientation)orientation error:(NSError **)error;
 
 - (float) matchWithImage:(UIImage*)image imageTemplate:(NSData*)tmplate error:(NSError**)error;
 - (float) matchTemplate:(NSData*)authTemplate withTemplate:(NSData*)registeredTemplate error:(NSError**)error;
@@ -123,8 +102,7 @@ typedef NS_OPTIONS(NSUInteger, DFSAnalysisOption) {
 
 - (DFSResult*) analyzeSingleImage:(UIImage*)image;
 
-- (NSArray<DFSFace*>*) analyzeFacesInImage:(UIImage*)image
-                                   options:(DFSAnalysisOption)options NS_SWIFT_NAME(analyzeFaces(image:options:));
+- (NSArray<DFSFace*>*) analyzeFacesInImage:(UIImage*)image options:(DFSAnalysisOption)options NS_SWIFT_NAME(analyzeFaces(image:options:));
 
 /*!
  @functiongroup Processing - Image from video steam
@@ -140,12 +118,12 @@ typedef NS_OPTIONS(NSUInteger, DFSAnalysisOption) {
 /*!
  @brief Analyzes an image buffer from a video stream.
  @param buffer The CVPixelBufferRef to analyze.
- @param orientation The video rotation angle..
+ @param orientation The AVCaptureVideoOrientation.
  @param queue The dispatch queue the completion block is called on.
  @param completion The completionblock  that will be called back with the result of the analysis.
  */
 - (void) analyzePixelBuffer:(CVPixelBufferRef)buffer
-                orientation:(CGFloat)orientation
+                orientation:(AVCaptureVideoOrientation)orientation
                       queue:(dispatch_queue_t)queue
                  completion:(void (^)(DFSResult *result))completion;
 

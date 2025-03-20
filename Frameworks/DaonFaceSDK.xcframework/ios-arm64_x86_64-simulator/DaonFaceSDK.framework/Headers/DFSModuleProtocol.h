@@ -2,6 +2,7 @@
 //  ModuleProtocol.h
 //  DaonFaceSDK
 //
+//  Created by Neil Johnston on 12/10/15.
 //  Copyright © 2015 Daon. All rights reserved.
 //
 

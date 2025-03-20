@@ -6,7 +6,7 @@
 	<dict>
 		<key>DaonFIDOSDK.momd/DaonFIDOSDK 2.mom</key>
 		<data>
-		Fy7FiVi0dlKcL463X186UWFG3kM=
+		ekB/XMbwumzR+ZERd4dO092Jjsk=
 		</data>
 		<key>DaonFIDOSDK.momd/DaonFIDOSDK 2.omo</key>
 		<data>
@@ -14,99 +14,83 @@
 		</data>
 		<key>DaonFIDOSDK.momd/DaonFIDOSDK.mom</key>
 		<data>
-		tuK7pCeXtTcFsA3JZ0X1oYwg8Ec=
+		mqTIaxcypkHymiOud2cGetfu8rA=
 		</data>
 		<key>DaonFIDOSDK.momd/VersionInfo.plist</key>
 		<data>
-		B6LHA62PLJBidvWQbhUDF7rKV9E=
+		IpbzPZjOYWttc9Izhsy3Bx6mShE=
 		</data>
 		<key>Headers/DaonFIDO.h</key>
 		<data>
-		/ku+h/pVhocMnELAjrkDjCGBUQY=
+		b6Oo+Meqtz5barifWcXETR8Kgw0=
 		</data>
 		<key>Headers/DaonFIDOSDK.h</key>
 		<data>
-		gVbpCdiqd7QVWXukIubZ7c+rD/4=
+		BztDUe+uinRf3A3izt8FbaJjNLU=
 		</data>
 		<key>Headers/IXUAF.h</key>
 		<data>
-		v509D84quSb233VHAKGStjCsyNQ=
+		7jLDKNjCyLTQvbssCSrDYEGHPEk=
 		</data>
 		<key>Headers/IXUAFAccount.h</key>
 		<data>
-		jjzvu1nkWmpJzC5yxXdFN4DjOVc=
-		</data>
-		<key>Headers/IXUAFAssertion.h</key>
-		<data>
-		m5i78/fS7/YzSfxgQHemtUatKwg=
+		bxGHImh11NcvycrdGQBql5Vq1nY=
 		</data>
 		<key>Headers/IXUAFAuthenticator.h</key>
 		<data>
-		4felPV9HsifN4jpLl3lNmdLaAuQ=
-		</data>
-		<key>Headers/IXUAFAuthenticatorRegistry.h</key>
-		<data>
-		4BUmxITJ459LYG+b1txAtX4Uiow=
-		</data>
-		<key>Headers/IXUAFCaptureDataEncryptor.h</key>
-		<data>
-		u9NJM+A4bMsz35h24QhYuprWA1Q=
+		cJgmVKbBOB/AfAN5ebRlt+L8/b8=
 		</data>
 		<key>Headers/IXUAFConstants.h</key>
 		<data>
-		h2JEAWbVKIfk0xdeM8ibtWMEB80=
+		bumaGT1yakL0c39DzfsaVgg3ubU=
 		</data>
 		<key>Headers/IXUAFDelegate.h</key>
 		<data>
-		EBTMu2KDojz94cQpNBynKKe+8fg=
+		dI0cGut4esEvhEheKRgDgLMERho=
 		</data>
 		<key>Headers/IXUAFDiscoveryData.h</key>
 		<data>
-		vcDwZi1RRUgE+nDt0v27caqEUSc=
+		g/OEUhpH/63YBbPyxWwKfT/OzLs=
 		</data>
 		<key>Headers/IXUAFError.h</key>
 		<data>
-		rATG5Br6swkp+sVybdOQ1ZR2M6c=
-		</data>
-		<key>Headers/IXUAFExtensions.h</key>
-		<data>
-		52Cc5VSEBMvDArQ8DZLJQW6KklE=
+		ozzzx0yBY/3yh36wG8zrCOWOyPQ=
 		</data>
 		<key>Headers/IXUAFLicense.h</key>
 		<data>
-		SSN1tbOgF/Q8ua2JGCVTkopMrsE=
+		eFJ5H/lxGHCz1evbDQ+lc2+ZPB0=
 		</data>
 		<key>Headers/IXUAFLocator.h</key>
 		<data>
-		8+37zW6sSQv1LIHs3iYlNnNDgck=
+		Z682efFSxJN4tB3R4x0fJ6+BuQM=
 		</data>
 		<key>Headers/IXUAFMessageReader.h</key>
 		<data>
-		j6zVA+auqgc7WYlko+vnWpPihPA=
+		ZXotgrwqnJv3undpRiFWoCgIgJk=
 		</data>
 		<key>Headers/IXUAFMessageWriter.h</key>
 		<data>
-		971kdUGn+H1Nv1KV57acgYHZwBk=
+		dsxjMw9OUOs8qRlmqatL4do3ojw=
 		</data>
 		<key>Headers/IXUAFOperation.h</key>
 		<data>
-		MUbpd6c3lWRNgrEhk1Zd585BmPo=
+		xS4XT2WRBF2nqSVW8wxgqGyxZWw=
 		</data>
 		<key>Headers/IXUAFServiceDelegate.h</key>
 		<data>
-		UmBh6BBNxPeOCRRnL2KGg7ebSuU=
+		BNz9anOno+kII0R9oTyFKNjf3aE=
 		</data>
 		<key>Headers/IXUAFTransaction.h</key>
 		<data>
-		UFr6qlPc8v6a3z4+FgxP0nh7wUk=
+		6tPCDgC942jbAaBaJMwxhGWx5+k=
 		</data>
 		<key>Headers/IXUAFVersion.h</key>
 		<data>
-		p09xxbl7YSxtB1626InkvPme6kI=
+		1iUnANMH7JDORbr1+EgUJz64QKI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		K+3+UnokhuDUHYdnx/K8CSLyuEc=
+		PzCjUOF31rWiW4E2L3YrBkrIpuA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Krtc5Yi8WFS3yTBPdsN+Ftp+HqwgG8CTw7HH2s9aGwk=
+			Xi9PqS8uaeRb+ShxyHd/4kxDGjCmysR5MVcwPIoziIg=
 			</data>
 		</dict>
 		<key>DaonFIDOSDK.momd/DaonFIDOSDK 2.omo</key>
@@ -137,161 +121,133 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kQbJzyHfZBC/aCBV0Ai2OHQBSG6VxN8Ky8XL7k3jbv0=
+			IEtpQmSF5wMX1gV0S9GtB05ulAHHMr8lpmE4IbBefsE=
 			</data>
 		</dict>
 		<key>DaonFIDOSDK.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f8nYQlNGCooZ2ofLEHE8VQ0whdUXkfToE0VCaNyEaww=
+			+hYD8+yOn4XafE9HDLjqfYJZI9j8Dvn1bYsCyXDgDK8=
 			</data>
 		</dict>
 		<key>Headers/DaonFIDO.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4ISYERmb8y24obeNuptWf45Tpw93Ign4Wk4kpCjPcQ=
+			q4MmuILj2QdiC6ywHMhcf/mz+uFCHS0lWu3tNue0aok=
 			</data>
 		</dict>
 		<key>Headers/DaonFIDOSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UQNo2lcfBfcDPmx6s1Accqc9MeOdL3tXscNqGf3IsA8=
+			wndJlFGhwtHu7DBs1OBagR5e27w01ZROKBd8N6d8gLk=
 			</data>
 		</dict>
 		<key>Headers/IXUAF.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/nK7l1DNc1F6lsHfSyf0gLAzZc9Qg9k6rZnTjgYaaLg=
+			wzEszuT9EJgZaaovK4tCkVQ2MYxb6QWef8papa7aPiE=
 			</data>
 		</dict>
 		<key>Headers/IXUAFAccount.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EKp2R2F32AC2xNGpI+2BMyWZWNUqPsF/KznWC9q/CZo=
-			</data>
-		</dict>
-		<key>Headers/IXUAFAssertion.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Rz4nhuvhSYhkiYOH+GlTS9/Ho5w0XxOjagzNKUtQTyY=
+			d41CYzUCW9Hgxu5lpst5+kcW//zgiiUq4wGt5tvN/yg=
 			</data>
 		</dict>
 		<key>Headers/IXUAFAuthenticator.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YNl4fVuH5Hwm33PSkpEgNdYpBkuMS/sqT1uavbA1FLc=
-			</data>
-		</dict>
-		<key>Headers/IXUAFAuthenticatorRegistry.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5mIhUacNzs+QrUPQvIKGXhisyKtIbeesU1X0Tl6t2kI=
-			</data>
-		</dict>
-		<key>Headers/IXUAFCaptureDataEncryptor.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NWJ+62of4KHM9KdMYlQnQwRNqGKWtvA4pZf8+hgAjao=
+			yMksnHRDKUf8tNiBel5G7WzGNymJRTGy9up3vOV3Ffk=
 			</data>
 		</dict>
 		<key>Headers/IXUAFConstants.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ocVlVXlrZ4GzBKHtAZLgnO1JUT+xlGrHlH6y9Y08ymo=
+			SRHtp1o0LHYVc2IG3O01xJ4jnXbedcy9I4YU2NMaQy8=
 			</data>
 		</dict>
 		<key>Headers/IXUAFDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZAWh2IZWaZnygvumzWNyNliVoI3z2mr1olCmi5/S5OY=
+			iwqTJNkoWNdnD403rD4bp6+UJIg/WDFF+QffblIn3wo=
 			</data>
 		</dict>
 		<key>Headers/IXUAFDiscoveryData.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AjstDdvKd8FUQNUMOLotrt7Ee3C0ihZ6bPfdWQe2RvY=
+			xGd/BP439RN2h/PcSfwD7WdKLpHuB5HLqMRvG+SqV8Q=
 			</data>
 		</dict>
 		<key>Headers/IXUAFError.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VSgRvQ/JsPH9e4eEz1AhvUFY3HtDmqIhloaKMSSWRAQ=
-			</data>
-		</dict>
-		<key>Headers/IXUAFExtensions.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Aszvn/rr+LOPy2AeviDBk7bDCqDLFyHXxaSgdZDwqGo=
+			luAsMDb+huoLJH6JCNIZb1KsBvmawKtAUW7qYsP4Nfk=
 			</data>
 		</dict>
 		<key>Headers/IXUAFLicense.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GR2Hl7bOruIr4ajiz/lX9QA2G0bsCLf5gtYQTZGtmi4=
+			vDxK9qdkhpDi3bu/8bbjRfmUb/UX9Txu6S/NA95plNM=
 			</data>
 		</dict>
 		<key>Headers/IXUAFLocator.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldiAknz9da7k9QxwGlQ8fkYyubgJSe7xrRVebdTWZo0=
+			c7p6z/rO+u36mgLiuIRvuE9JxBwLdgulrrwinbHE9aI=
 			</data>
 		</dict>
 		<key>Headers/IXUAFMessageReader.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nd8HGmqhZ/6aSq0cq6q8a3MInN5BGNsWdNO+Y/2fcfg=
+			Y1MaiEjoSnhylPTSnhqQNehUG7psjfCpyA6cbZeLZGo=
 			</data>
 		</dict>
 		<key>Headers/IXUAFMessageWriter.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NV37hSRmLAjRTBASqZX80bXfFeNsdvrTR/DDxs5AoL0=
+			+UYSFYMhUKiTqJBlA5WCJpewNhnZkyMnJ6PTeUX1KHo=
 			</data>
 		</dict>
 		<key>Headers/IXUAFOperation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z34BWwLkazsV3tLrE8WPX7fHn4xiI4iZyuF+/kECNFs=
+			8l8Bo5i3BJbHXBDeijlaM5LAPfCsB2UqDDboENLlXVg=
 			</data>
 		</dict>
 		<key>Headers/IXUAFServiceDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bW0qY1ryvL7FguzvwuFsDQI8+Iy6LAUEPrRo4LtbNkI=
+			1MC8Tb7B0WrKmWJuOffbB9XKRZuaQ9y0rQQZz1wN+js=
 			</data>
 		</dict>
 		<key>Headers/IXUAFTransaction.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PA71KdIQ/4pMNkX4QNJR3N4sSFae740ISdq3zhjgS88=
+			valdPyF2tr483/DN+y6OwGrRQTclI4eTHjUcxvirriQ=
 			</data>
 		</dict>
 		<key>Headers/IXUAFVersion.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jAMi56IFtTDAoG2ULbuA3y7magUou1v660qlvYWa3uI=
+			05akUfODVRMMTg+zNOHDyjCejySguIoqaq+6QzpXy8w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

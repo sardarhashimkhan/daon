@@ -6,11 +6,11 @@
 	<dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK</key>
 		<data>
-		9/WawY3++xbYeBpKOLpBy/VgrE0=
+		EvBL5+prkmp3Vsn+FaDR64+EO5Q=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.mom</key>
 		<data>
-		Fy7FiVi0dlKcL463X186UWFG3kM=
+		ekB/XMbwumzR+ZERd4dO092Jjsk=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.omo</key>
 		<data>
@@ -18,99 +18,83 @@
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK.mom</key>
 		<data>
-		tuK7pCeXtTcFsA3JZ0X1oYwg8Ec=
+		mqTIaxcypkHymiOud2cGetfu8rA=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/VersionInfo.plist</key>
 		<data>
-		B6LHA62PLJBidvWQbhUDF7rKV9E=
+		IpbzPZjOYWttc9Izhsy3Bx6mShE=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/DaonFIDO.h</key>
 		<data>
-		/ku+h/pVhocMnELAjrkDjCGBUQY=
+		b6Oo+Meqtz5barifWcXETR8Kgw0=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/DaonFIDOSDK.h</key>
 		<data>
-		gVbpCdiqd7QVWXukIubZ7c+rD/4=
+		BztDUe+uinRf3A3izt8FbaJjNLU=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAF.h</key>
 		<data>
-		v509D84quSb233VHAKGStjCsyNQ=
+		7jLDKNjCyLTQvbssCSrDYEGHPEk=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAccount.h</key>
 		<data>
-		jjzvu1nkWmpJzC5yxXdFN4DjOVc=
-		</data>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAssertion.h</key>
-		<data>
-		m5i78/fS7/YzSfxgQHemtUatKwg=
+		bxGHImh11NcvycrdGQBql5Vq1nY=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAuthenticator.h</key>
 		<data>
-		4felPV9HsifN4jpLl3lNmdLaAuQ=
-		</data>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAuthenticatorRegistry.h</key>
-		<data>
-		4BUmxITJ459LYG+b1txAtX4Uiow=
-		</data>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFCaptureDataEncryptor.h</key>
-		<data>
-		u9NJM+A4bMsz35h24QhYuprWA1Q=
+		cJgmVKbBOB/AfAN5ebRlt+L8/b8=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFConstants.h</key>
 		<data>
-		h2JEAWbVKIfk0xdeM8ibtWMEB80=
+		bumaGT1yakL0c39DzfsaVgg3ubU=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFDelegate.h</key>
 		<data>
-		EBTMu2KDojz94cQpNBynKKe+8fg=
+		dI0cGut4esEvhEheKRgDgLMERho=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFDiscoveryData.h</key>
 		<data>
-		vcDwZi1RRUgE+nDt0v27caqEUSc=
+		g/OEUhpH/63YBbPyxWwKfT/OzLs=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFError.h</key>
 		<data>
-		rATG5Br6swkp+sVybdOQ1ZR2M6c=
-		</data>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFExtensions.h</key>
-		<data>
-		52Cc5VSEBMvDArQ8DZLJQW6KklE=
+		ozzzx0yBY/3yh36wG8zrCOWOyPQ=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFLicense.h</key>
 		<data>
-		SSN1tbOgF/Q8ua2JGCVTkopMrsE=
+		eFJ5H/lxGHCz1evbDQ+lc2+ZPB0=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFLocator.h</key>
 		<data>
-		8+37zW6sSQv1LIHs3iYlNnNDgck=
+		Z682efFSxJN4tB3R4x0fJ6+BuQM=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFMessageReader.h</key>
 		<data>
-		j6zVA+auqgc7WYlko+vnWpPihPA=
+		ZXotgrwqnJv3undpRiFWoCgIgJk=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFMessageWriter.h</key>
 		<data>
-		971kdUGn+H1Nv1KV57acgYHZwBk=
+		dsxjMw9OUOs8qRlmqatL4do3ojw=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFOperation.h</key>
 		<data>
-		MUbpd6c3lWRNgrEhk1Zd585BmPo=
+		xS4XT2WRBF2nqSVW8wxgqGyxZWw=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFServiceDelegate.h</key>
 		<data>
-		UmBh6BBNxPeOCRRnL2KGg7ebSuU=
+		BNz9anOno+kII0R9oTyFKNjf3aE=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFTransaction.h</key>
 		<data>
-		UFr6qlPc8v6a3z4+FgxP0nh7wUk=
+		6tPCDgC942jbAaBaJMwxhGWx5+k=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFVersion.h</key>
 		<data>
-		p09xxbl7YSxtB1626InkvPme6kI=
+		1iUnANMH7JDORbr1+EgUJz64QKI=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Info.plist</key>
 		<data>
-		PkPMOxutbmz+fNDi8BqaFAfN3AU=
+		c6lHUpARpQPJFdTHa8cfcWERx4U=
 		</data>
 		<key>ios-arm64/DaonFIDOSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -122,23 +106,23 @@
 		</data>
 		<key>ios-arm64/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		bvBtJo/QOEvHW4JIC5q91pBvLoI=
+		HYU6G7foh50KMr8UokMMKlMstuM=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/DWARF/DaonFIDOSDK</key>
 		<data>
-		r9yB3VbXhG7268UXisQetxRSzd0=
+		XKX5EnFdoboGOzDB2k8kynbabsI=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFIDOSDK.yml</key>
 		<data>
-		yD/YpealITnvUWmiSEcy2xnHMiU=
+		MU6RF/a7VYuZlxoXtxnXQJEM/QA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK</key>
 		<data>
-		KoQ5tzP82TsIZjyN2JQeMT5C5wM=
+		WcFPsQQbTy8JoRn8qbQhXeWtB5g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.mom</key>
 		<data>
-		Fy7FiVi0dlKcL463X186UWFG3kM=
+		ekB/XMbwumzR+ZERd4dO092Jjsk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.omo</key>
 		<data>
@@ -146,99 +130,83 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK.mom</key>
 		<data>
-		tuK7pCeXtTcFsA3JZ0X1oYwg8Ec=
+		mqTIaxcypkHymiOud2cGetfu8rA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/VersionInfo.plist</key>
 		<data>
-		B6LHA62PLJBidvWQbhUDF7rKV9E=
+		IpbzPZjOYWttc9Izhsy3Bx6mShE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/DaonFIDO.h</key>
 		<data>
-		/ku+h/pVhocMnELAjrkDjCGBUQY=
+		b6Oo+Meqtz5barifWcXETR8Kgw0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/DaonFIDOSDK.h</key>
 		<data>
-		gVbpCdiqd7QVWXukIubZ7c+rD/4=
+		BztDUe+uinRf3A3izt8FbaJjNLU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAF.h</key>
 		<data>
-		v509D84quSb233VHAKGStjCsyNQ=
+		7jLDKNjCyLTQvbssCSrDYEGHPEk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAccount.h</key>
 		<data>
-		jjzvu1nkWmpJzC5yxXdFN4DjOVc=
-		</data>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAssertion.h</key>
-		<data>
-		m5i78/fS7/YzSfxgQHemtUatKwg=
+		bxGHImh11NcvycrdGQBql5Vq1nY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAuthenticator.h</key>
 		<data>
-		4felPV9HsifN4jpLl3lNmdLaAuQ=
-		</data>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAuthenticatorRegistry.h</key>
-		<data>
-		4BUmxITJ459LYG+b1txAtX4Uiow=
-		</data>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFCaptureDataEncryptor.h</key>
-		<data>
-		u9NJM+A4bMsz35h24QhYuprWA1Q=
+		cJgmVKbBOB/AfAN5ebRlt+L8/b8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFConstants.h</key>
 		<data>
-		h2JEAWbVKIfk0xdeM8ibtWMEB80=
+		bumaGT1yakL0c39DzfsaVgg3ubU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFDelegate.h</key>
 		<data>
-		EBTMu2KDojz94cQpNBynKKe+8fg=
+		dI0cGut4esEvhEheKRgDgLMERho=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFDiscoveryData.h</key>
 		<data>
-		vcDwZi1RRUgE+nDt0v27caqEUSc=
+		g/OEUhpH/63YBbPyxWwKfT/OzLs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFError.h</key>
 		<data>
-		rATG5Br6swkp+sVybdOQ1ZR2M6c=
-		</data>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFExtensions.h</key>
-		<data>
-		52Cc5VSEBMvDArQ8DZLJQW6KklE=
+		ozzzx0yBY/3yh36wG8zrCOWOyPQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFLicense.h</key>
 		<data>
-		SSN1tbOgF/Q8ua2JGCVTkopMrsE=
+		eFJ5H/lxGHCz1evbDQ+lc2+ZPB0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFLocator.h</key>
 		<data>
-		8+37zW6sSQv1LIHs3iYlNnNDgck=
+		Z682efFSxJN4tB3R4x0fJ6+BuQM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFMessageReader.h</key>
 		<data>
-		j6zVA+auqgc7WYlko+vnWpPihPA=
+		ZXotgrwqnJv3undpRiFWoCgIgJk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFMessageWriter.h</key>
 		<data>
-		971kdUGn+H1Nv1KV57acgYHZwBk=
+		dsxjMw9OUOs8qRlmqatL4do3ojw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFOperation.h</key>
 		<data>
-		MUbpd6c3lWRNgrEhk1Zd585BmPo=
+		xS4XT2WRBF2nqSVW8wxgqGyxZWw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFServiceDelegate.h</key>
 		<data>
-		UmBh6BBNxPeOCRRnL2KGg7ebSuU=
+		BNz9anOno+kII0R9oTyFKNjf3aE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFTransaction.h</key>
 		<data>
-		UFr6qlPc8v6a3z4+FgxP0nh7wUk=
+		6tPCDgC942jbAaBaJMwxhGWx5+k=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFVersion.h</key>
 		<data>
-		p09xxbl7YSxtB1626InkvPme6kI=
+		1iUnANMH7JDORbr1+EgUJz64QKI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Info.plist</key>
 		<data>
-		K+3+UnokhuDUHYdnx/K8CSLyuEc=
+		PzCjUOF31rWiW4E2L3YrBkrIpuA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -250,23 +218,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+gCqXf1GL6Mh1HTZ2/YPzynIGM8=
+		oARo3BxyxiswWpEmavaH5mnCOQU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		bvBtJo/QOEvHW4JIC5q91pBvLoI=
+		HYU6G7foh50KMr8UokMMKlMstuM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/DWARF/DaonFIDOSDK</key>
 		<data>
-		ng22htfgSo3iCNhGLCkPjCvL+lE=
+		19U4qbeAdQPUa6qgzH4UMENZI6E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFIDOSDK.yml</key>
 		<data>
-		T0+cDEVU6B1qVa1Ku2zf690d1Eg=
+		MMvP/hR0AJl1Bs49mT3ododBiOo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonFIDOSDK.yml</key>
 		<data>
-		3+QdYroMUcGxgtke1kQB04yz6Sw=
+		Mujk/NskODzBRy98O+42jd2DEGI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -275,22 +243,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9/WawY3++xbYeBpKOLpBy/VgrE0=
+			EvBL5+prkmp3Vsn+FaDR64+EO5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			PM3Tdafy+D05i1MQDFpPl4SVFwld2d3xVSGZDoj9X78=
+			3nPJXK1x6prKFR5mgskp/4maHXtKFWaxAFuKaemo0Xs=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fy7FiVi0dlKcL463X186UWFG3kM=
+			ekB/XMbwumzR+ZERd4dO092Jjsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Krtc5Yi8WFS3yTBPdsN+Ftp+HqwgG8CTw7HH2s9aGwk=
+			Xi9PqS8uaeRb+ShxyHd/4kxDGjCmysR5MVcwPIoziIg=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.omo</key>
@@ -308,264 +276,220 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tuK7pCeXtTcFsA3JZ0X1oYwg8Ec=
+			mqTIaxcypkHymiOud2cGetfu8rA=
 			</data>
 			<key>hash2</key>
 			<data>
-			kQbJzyHfZBC/aCBV0Ai2OHQBSG6VxN8Ky8XL7k3jbv0=
+			IEtpQmSF5wMX1gV0S9GtB05ulAHHMr8lpmE4IbBefsE=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/DaonFIDOSDK.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B6LHA62PLJBidvWQbhUDF7rKV9E=
+			IpbzPZjOYWttc9Izhsy3Bx6mShE=
 			</data>
 			<key>hash2</key>
 			<data>
-			f8nYQlNGCooZ2ofLEHE8VQ0whdUXkfToE0VCaNyEaww=
+			+hYD8+yOn4XafE9HDLjqfYJZI9j8Dvn1bYsCyXDgDK8=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/DaonFIDO.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/ku+h/pVhocMnELAjrkDjCGBUQY=
+			b6Oo+Meqtz5barifWcXETR8Kgw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			L4ISYERmb8y24obeNuptWf45Tpw93Ign4Wk4kpCjPcQ=
+			q4MmuILj2QdiC6ywHMhcf/mz+uFCHS0lWu3tNue0aok=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/DaonFIDOSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gVbpCdiqd7QVWXukIubZ7c+rD/4=
+			BztDUe+uinRf3A3izt8FbaJjNLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			UQNo2lcfBfcDPmx6s1Accqc9MeOdL3tXscNqGf3IsA8=
+			wndJlFGhwtHu7DBs1OBagR5e27w01ZROKBd8N6d8gLk=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAF.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v509D84quSb233VHAKGStjCsyNQ=
+			7jLDKNjCyLTQvbssCSrDYEGHPEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/nK7l1DNc1F6lsHfSyf0gLAzZc9Qg9k6rZnTjgYaaLg=
+			wzEszuT9EJgZaaovK4tCkVQ2MYxb6QWef8papa7aPiE=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAccount.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jjzvu1nkWmpJzC5yxXdFN4DjOVc=
+			bxGHImh11NcvycrdGQBql5Vq1nY=
 			</data>
 			<key>hash2</key>
 			<data>
-			EKp2R2F32AC2xNGpI+2BMyWZWNUqPsF/KznWC9q/CZo=
-			</data>
-		</dict>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAssertion.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m5i78/fS7/YzSfxgQHemtUatKwg=
-			</data>
-			<key>hash2</key>
-			<data>
-			Rz4nhuvhSYhkiYOH+GlTS9/Ho5w0XxOjagzNKUtQTyY=
+			d41CYzUCW9Hgxu5lpst5+kcW//zgiiUq4wGt5tvN/yg=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAuthenticator.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4felPV9HsifN4jpLl3lNmdLaAuQ=
+			cJgmVKbBOB/AfAN5ebRlt+L8/b8=
 			</data>
 			<key>hash2</key>
 			<data>
-			YNl4fVuH5Hwm33PSkpEgNdYpBkuMS/sqT1uavbA1FLc=
-			</data>
-		</dict>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFAuthenticatorRegistry.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4BUmxITJ459LYG+b1txAtX4Uiow=
-			</data>
-			<key>hash2</key>
-			<data>
-			5mIhUacNzs+QrUPQvIKGXhisyKtIbeesU1X0Tl6t2kI=
-			</data>
-		</dict>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFCaptureDataEncryptor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u9NJM+A4bMsz35h24QhYuprWA1Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			NWJ+62of4KHM9KdMYlQnQwRNqGKWtvA4pZf8+hgAjao=
+			yMksnHRDKUf8tNiBel5G7WzGNymJRTGy9up3vOV3Ffk=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFConstants.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h2JEAWbVKIfk0xdeM8ibtWMEB80=
+			bumaGT1yakL0c39DzfsaVgg3ubU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ocVlVXlrZ4GzBKHtAZLgnO1JUT+xlGrHlH6y9Y08ymo=
+			SRHtp1o0LHYVc2IG3O01xJ4jnXbedcy9I4YU2NMaQy8=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EBTMu2KDojz94cQpNBynKKe+8fg=
+			dI0cGut4esEvhEheKRgDgLMERho=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZAWh2IZWaZnygvumzWNyNliVoI3z2mr1olCmi5/S5OY=
+			iwqTJNkoWNdnD403rD4bp6+UJIg/WDFF+QffblIn3wo=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFDiscoveryData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vcDwZi1RRUgE+nDt0v27caqEUSc=
+			g/OEUhpH/63YBbPyxWwKfT/OzLs=
 			</data>
 			<key>hash2</key>
 			<data>
-			AjstDdvKd8FUQNUMOLotrt7Ee3C0ihZ6bPfdWQe2RvY=
+			xGd/BP439RN2h/PcSfwD7WdKLpHuB5HLqMRvG+SqV8Q=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFError.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rATG5Br6swkp+sVybdOQ1ZR2M6c=
+			ozzzx0yBY/3yh36wG8zrCOWOyPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VSgRvQ/JsPH9e4eEz1AhvUFY3HtDmqIhloaKMSSWRAQ=
-			</data>
-		</dict>
-		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFExtensions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			52Cc5VSEBMvDArQ8DZLJQW6KklE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Aszvn/rr+LOPy2AeviDBk7bDCqDLFyHXxaSgdZDwqGo=
+			luAsMDb+huoLJH6JCNIZb1KsBvmawKtAUW7qYsP4Nfk=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFLicense.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SSN1tbOgF/Q8ua2JGCVTkopMrsE=
+			eFJ5H/lxGHCz1evbDQ+lc2+ZPB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GR2Hl7bOruIr4ajiz/lX9QA2G0bsCLf5gtYQTZGtmi4=
+			vDxK9qdkhpDi3bu/8bbjRfmUb/UX9Txu6S/NA95plNM=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFLocator.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8+37zW6sSQv1LIHs3iYlNnNDgck=
+			Z682efFSxJN4tB3R4x0fJ6+BuQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ldiAknz9da7k9QxwGlQ8fkYyubgJSe7xrRVebdTWZo0=
+			c7p6z/rO+u36mgLiuIRvuE9JxBwLdgulrrwinbHE9aI=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFMessageReader.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j6zVA+auqgc7WYlko+vnWpPihPA=
+			ZXotgrwqnJv3undpRiFWoCgIgJk=
 			</data>
 			<key>hash2</key>
 			<data>
-			nd8HGmqhZ/6aSq0cq6q8a3MInN5BGNsWdNO+Y/2fcfg=
+			Y1MaiEjoSnhylPTSnhqQNehUG7psjfCpyA6cbZeLZGo=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFMessageWriter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			971kdUGn+H1Nv1KV57acgYHZwBk=
+			dsxjMw9OUOs8qRlmqatL4do3ojw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NV37hSRmLAjRTBASqZX80bXfFeNsdvrTR/DDxs5AoL0=
+			+UYSFYMhUKiTqJBlA5WCJpewNhnZkyMnJ6PTeUX1KHo=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFOperation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MUbpd6c3lWRNgrEhk1Zd585BmPo=
+			xS4XT2WRBF2nqSVW8wxgqGyxZWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z34BWwLkazsV3tLrE8WPX7fHn4xiI4iZyuF+/kECNFs=
+			8l8Bo5i3BJbHXBDeijlaM5LAPfCsB2UqDDboENLlXVg=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFServiceDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UmBh6BBNxPeOCRRnL2KGg7ebSuU=
+			BNz9anOno+kII0R9oTyFKNjf3aE=
 			</data>
 			<key>hash2</key>
 			<data>
-			bW0qY1ryvL7FguzvwuFsDQI8+Iy6LAUEPrRo4LtbNkI=
+			1MC8Tb7B0WrKmWJuOffbB9XKRZuaQ9y0rQQZz1wN+js=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFTransaction.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UFr6qlPc8v6a3z4+FgxP0nh7wUk=
+			6tPCDgC942jbAaBaJMwxhGWx5+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			PA71KdIQ/4pMNkX4QNJR3N4sSFae740ISdq3zhjgS88=
+			valdPyF2tr483/DN+y6OwGrRQTclI4eTHjUcxvirriQ=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Headers/IXUAFVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p09xxbl7YSxtB1626InkvPme6kI=
+			1iUnANMH7JDORbr1+EgUJz64QKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			jAMi56IFtTDAoG2ULbuA3y7magUou1v660qlvYWa3uI=
+			05akUfODVRMMTg+zNOHDyjCejySguIoqaq+6QzpXy8w=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PkPMOxutbmz+fNDi8BqaFAfN3AU=
+			c6lHUpARpQPJFdTHa8cfcWERx4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			LK0BfOL6RfevbUxPir1864QfpU3BgpkLIxbOlZD0N8U=
+			Y/qex6cih3enjnprMnRcG3gy0IcwsHxngknLbyuDHh0=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFIDOSDK.framework/Modules/module.modulemap</key>
@@ -594,55 +518,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bvBtJo/QOEvHW4JIC5q91pBvLoI=
+			HYU6G7foh50KMr8UokMMKlMstuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			eguDxABgZDGQM7yH2Zb8VbNodl1qiksP9fYchLrQkkI=
+			FZXkakkfooXnQdkNv4Mj7PkFvr7lte1bSZpY7hR33sQ=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/DWARF/DaonFIDOSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r9yB3VbXhG7268UXisQetxRSzd0=
+			XKX5EnFdoboGOzDB2k8kynbabsI=
 			</data>
 			<key>hash2</key>
 			<data>
-			lIo1OUhZ7U7Zn/I/veHgNNKPs/B9PZ+IL+sGr90krk0=
+			Ni1cK6PpAe8HrTzAgs2vU+gnUk0srmtEyXsLH96qefw=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFIDOSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yD/YpealITnvUWmiSEcy2xnHMiU=
+			MU6RF/a7VYuZlxoXtxnXQJEM/QA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4l+5HyMFW04VlDyVnynuvXVupdMhNVPW9y5gqrJsvAY=
+			nRsc9vFO+Sy5Z9B5AwDmbYz7W8m/5XU4LLQaeHAjnCg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KoQ5tzP82TsIZjyN2JQeMT5C5wM=
+			WcFPsQQbTy8JoRn8qbQhXeWtB5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			22Zlezh/V1486Vq4VrnqK10LXQBlbZjgunodqODv4lk=
+			WHI1eDruSz0vjh8WIYNavhMF41w4QEaBAfvXrOithww=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fy7FiVi0dlKcL463X186UWFG3kM=
+			ekB/XMbwumzR+ZERd4dO092Jjsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Krtc5Yi8WFS3yTBPdsN+Ftp+HqwgG8CTw7HH2s9aGwk=
+			Xi9PqS8uaeRb+ShxyHd/4kxDGjCmysR5MVcwPIoziIg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/DaonFIDOSDK 2.omo</key>
@@ -660,264 +584,220 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tuK7pCeXtTcFsA3JZ0X1oYwg8Ec=
+			mqTIaxcypkHymiOud2cGetfu8rA=
 			</data>
 			<key>hash2</key>
 			<data>
-			kQbJzyHfZBC/aCBV0Ai2OHQBSG6VxN8Ky8XL7k3jbv0=
+			IEtpQmSF5wMX1gV0S9GtB05ulAHHMr8lpmE4IbBefsE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/DaonFIDOSDK.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B6LHA62PLJBidvWQbhUDF7rKV9E=
+			IpbzPZjOYWttc9Izhsy3Bx6mShE=
 			</data>
 			<key>hash2</key>
 			<data>
-			f8nYQlNGCooZ2ofLEHE8VQ0whdUXkfToE0VCaNyEaww=
+			+hYD8+yOn4XafE9HDLjqfYJZI9j8Dvn1bYsCyXDgDK8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/DaonFIDO.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/ku+h/pVhocMnELAjrkDjCGBUQY=
+			b6Oo+Meqtz5barifWcXETR8Kgw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			L4ISYERmb8y24obeNuptWf45Tpw93Ign4Wk4kpCjPcQ=
+			q4MmuILj2QdiC6ywHMhcf/mz+uFCHS0lWu3tNue0aok=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/DaonFIDOSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gVbpCdiqd7QVWXukIubZ7c+rD/4=
+			BztDUe+uinRf3A3izt8FbaJjNLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			UQNo2lcfBfcDPmx6s1Accqc9MeOdL3tXscNqGf3IsA8=
+			wndJlFGhwtHu7DBs1OBagR5e27w01ZROKBd8N6d8gLk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAF.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v509D84quSb233VHAKGStjCsyNQ=
+			7jLDKNjCyLTQvbssCSrDYEGHPEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/nK7l1DNc1F6lsHfSyf0gLAzZc9Qg9k6rZnTjgYaaLg=
+			wzEszuT9EJgZaaovK4tCkVQ2MYxb6QWef8papa7aPiE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAccount.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jjzvu1nkWmpJzC5yxXdFN4DjOVc=
+			bxGHImh11NcvycrdGQBql5Vq1nY=
 			</data>
 			<key>hash2</key>
 			<data>
-			EKp2R2F32AC2xNGpI+2BMyWZWNUqPsF/KznWC9q/CZo=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAssertion.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m5i78/fS7/YzSfxgQHemtUatKwg=
-			</data>
-			<key>hash2</key>
-			<data>
-			Rz4nhuvhSYhkiYOH+GlTS9/Ho5w0XxOjagzNKUtQTyY=
+			d41CYzUCW9Hgxu5lpst5+kcW//zgiiUq4wGt5tvN/yg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAuthenticator.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4felPV9HsifN4jpLl3lNmdLaAuQ=
+			cJgmVKbBOB/AfAN5ebRlt+L8/b8=
 			</data>
 			<key>hash2</key>
 			<data>
-			YNl4fVuH5Hwm33PSkpEgNdYpBkuMS/sqT1uavbA1FLc=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFAuthenticatorRegistry.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4BUmxITJ459LYG+b1txAtX4Uiow=
-			</data>
-			<key>hash2</key>
-			<data>
-			5mIhUacNzs+QrUPQvIKGXhisyKtIbeesU1X0Tl6t2kI=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFCaptureDataEncryptor.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u9NJM+A4bMsz35h24QhYuprWA1Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			NWJ+62of4KHM9KdMYlQnQwRNqGKWtvA4pZf8+hgAjao=
+			yMksnHRDKUf8tNiBel5G7WzGNymJRTGy9up3vOV3Ffk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFConstants.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h2JEAWbVKIfk0xdeM8ibtWMEB80=
+			bumaGT1yakL0c39DzfsaVgg3ubU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ocVlVXlrZ4GzBKHtAZLgnO1JUT+xlGrHlH6y9Y08ymo=
+			SRHtp1o0LHYVc2IG3O01xJ4jnXbedcy9I4YU2NMaQy8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EBTMu2KDojz94cQpNBynKKe+8fg=
+			dI0cGut4esEvhEheKRgDgLMERho=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZAWh2IZWaZnygvumzWNyNliVoI3z2mr1olCmi5/S5OY=
+			iwqTJNkoWNdnD403rD4bp6+UJIg/WDFF+QffblIn3wo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFDiscoveryData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vcDwZi1RRUgE+nDt0v27caqEUSc=
+			g/OEUhpH/63YBbPyxWwKfT/OzLs=
 			</data>
 			<key>hash2</key>
 			<data>
-			AjstDdvKd8FUQNUMOLotrt7Ee3C0ihZ6bPfdWQe2RvY=
+			xGd/BP439RN2h/PcSfwD7WdKLpHuB5HLqMRvG+SqV8Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFError.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rATG5Br6swkp+sVybdOQ1ZR2M6c=
+			ozzzx0yBY/3yh36wG8zrCOWOyPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VSgRvQ/JsPH9e4eEz1AhvUFY3HtDmqIhloaKMSSWRAQ=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFExtensions.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			52Cc5VSEBMvDArQ8DZLJQW6KklE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Aszvn/rr+LOPy2AeviDBk7bDCqDLFyHXxaSgdZDwqGo=
+			luAsMDb+huoLJH6JCNIZb1KsBvmawKtAUW7qYsP4Nfk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFLicense.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SSN1tbOgF/Q8ua2JGCVTkopMrsE=
+			eFJ5H/lxGHCz1evbDQ+lc2+ZPB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GR2Hl7bOruIr4ajiz/lX9QA2G0bsCLf5gtYQTZGtmi4=
+			vDxK9qdkhpDi3bu/8bbjRfmUb/UX9Txu6S/NA95plNM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFLocator.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8+37zW6sSQv1LIHs3iYlNnNDgck=
+			Z682efFSxJN4tB3R4x0fJ6+BuQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ldiAknz9da7k9QxwGlQ8fkYyubgJSe7xrRVebdTWZo0=
+			c7p6z/rO+u36mgLiuIRvuE9JxBwLdgulrrwinbHE9aI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFMessageReader.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j6zVA+auqgc7WYlko+vnWpPihPA=
+			ZXotgrwqnJv3undpRiFWoCgIgJk=
 			</data>
 			<key>hash2</key>
 			<data>
-			nd8HGmqhZ/6aSq0cq6q8a3MInN5BGNsWdNO+Y/2fcfg=
+			Y1MaiEjoSnhylPTSnhqQNehUG7psjfCpyA6cbZeLZGo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFMessageWriter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			971kdUGn+H1Nv1KV57acgYHZwBk=
+			dsxjMw9OUOs8qRlmqatL4do3ojw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NV37hSRmLAjRTBASqZX80bXfFeNsdvrTR/DDxs5AoL0=
+			+UYSFYMhUKiTqJBlA5WCJpewNhnZkyMnJ6PTeUX1KHo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFOperation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MUbpd6c3lWRNgrEhk1Zd585BmPo=
+			xS4XT2WRBF2nqSVW8wxgqGyxZWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z34BWwLkazsV3tLrE8WPX7fHn4xiI4iZyuF+/kECNFs=
+			8l8Bo5i3BJbHXBDeijlaM5LAPfCsB2UqDDboENLlXVg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFServiceDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UmBh6BBNxPeOCRRnL2KGg7ebSuU=
+			BNz9anOno+kII0R9oTyFKNjf3aE=
 			</data>
 			<key>hash2</key>
 			<data>
-			bW0qY1ryvL7FguzvwuFsDQI8+Iy6LAUEPrRo4LtbNkI=
+			1MC8Tb7B0WrKmWJuOffbB9XKRZuaQ9y0rQQZz1wN+js=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFTransaction.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UFr6qlPc8v6a3z4+FgxP0nh7wUk=
+			6tPCDgC942jbAaBaJMwxhGWx5+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			PA71KdIQ/4pMNkX4QNJR3N4sSFae740ISdq3zhjgS88=
+			valdPyF2tr483/DN+y6OwGrRQTclI4eTHjUcxvirriQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Headers/IXUAFVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p09xxbl7YSxtB1626InkvPme6kI=
+			1iUnANMH7JDORbr1+EgUJz64QKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			jAMi56IFtTDAoG2ULbuA3y7magUou1v660qlvYWa3uI=
+			05akUfODVRMMTg+zNOHDyjCejySguIoqaq+6QzpXy8w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K+3+UnokhuDUHYdnx/K8CSLyuEc=
+			PzCjUOF31rWiW4E2L3YrBkrIpuA=
 			</data>
 			<key>hash2</key>
 			<data>
-			7F9knFo32GSUKsusWkY9zA9mGFNccfL5b0pYGB90rEc=
+			Xnk7PtcsZ2xd7YxaWg36pUihGoDalt4+RNP+6JTS144=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFIDOSDK.framework/Modules/module.modulemap</key>
@@ -946,55 +826,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+gCqXf1GL6Mh1HTZ2/YPzynIGM8=
+			oARo3BxyxiswWpEmavaH5mnCOQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			xgje50M8IU5fH/kLN4QsIjy9j20qSVTifVxFptyHBLs=
+			oiCyGhS3TWjdaFTow7M9y/UQDXsmL7un8sexP5A8plE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bvBtJo/QOEvHW4JIC5q91pBvLoI=
+			HYU6G7foh50KMr8UokMMKlMstuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			eguDxABgZDGQM7yH2Zb8VbNodl1qiksP9fYchLrQkkI=
+			FZXkakkfooXnQdkNv4Mj7PkFvr7lte1bSZpY7hR33sQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/DWARF/DaonFIDOSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ng22htfgSo3iCNhGLCkPjCvL+lE=
+			19U4qbeAdQPUa6qgzH4UMENZI6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			pUyEbCKubhSmcgXAyH08Gj2jn24Ag7YuoapgVStbfpc=
+			IAJZMWvR6yqGjMCYBV6OkBWJ/2TfTy7yxJRvAZ/yyRg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFIDOSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T0+cDEVU6B1qVa1Ku2zf690d1Eg=
+			MMvP/hR0AJl1Bs49mT3ododBiOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			iqpXsyWRkcKtjgPoyFvknrwQxw07owhQMS5jifAJUtc=
+			g9M5IpUT7MwyBoZ2wNJP7Q9TapV8yIGZH7V/ozXOr6s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFIDOSDK.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonFIDOSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3+QdYroMUcGxgtke1kQB04yz6Sw=
+			Mujk/NskODzBRy98O+42jd2DEGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			9rzOXGAnlla2/gpOKaXifyztCbrFvDfkhX2tykfxROs=
+			7QjQHZLiP73E2StNNZ1cxflcXTnSObdF79zti5puZKY=
 			</data>
 		</dict>
 	</dict>

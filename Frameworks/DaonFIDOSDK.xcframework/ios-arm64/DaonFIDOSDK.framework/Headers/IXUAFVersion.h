@@ -1,12 +1,8 @@
-/*!
- @header IXUAFVersion
- FIDO UAF version object
- @copyright Daon. All rights reserved.
- @updated 2018-05-20
- */
 
 #import <Foundation/Foundation.h>
 
+/// FIDO UAF version object.
+///
 @interface IXUAFVersion : NSObject
 
 @property (nonatomic, assign) NSInteger major;

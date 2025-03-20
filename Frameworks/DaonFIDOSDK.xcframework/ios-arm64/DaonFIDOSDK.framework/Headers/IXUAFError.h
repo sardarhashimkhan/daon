@@ -1,16 +1,11 @@
-/*!
- @header IXUAFError
- FIDO Error codes 
- @copyright Daon. All rights reserved.
- @updated 2018-05-20
- */
 #import <Foundation/Foundation.h>
 
 #import <DaonFIDOSDK/IXUAFAuthenticator.h>
 
 static NSString * const kIXUAFErrorUserInfoAuthenticatorKey  = @"authenticator";
 
-
+/// FIDO Error codes.
+/// 
 @interface IXUAFError : NSObject
 
 

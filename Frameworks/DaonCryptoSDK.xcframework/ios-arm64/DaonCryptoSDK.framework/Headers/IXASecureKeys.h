@@ -55,7 +55,7 @@ typedef NS_ENUM (NSUInteger, Algorithm) {
 - (NSString*) keyAlgorithm;
 - (NSString*) name;
 
-+ (BOOL) hasKeyWithName:(NSString*)name;
++ (BOOL) hasKeyWithName:(NSString*)name status:(OSStatus*)status;
 - (BOOL) rename:(NSString*)newname;
 
 + (void) removeAllKeys;

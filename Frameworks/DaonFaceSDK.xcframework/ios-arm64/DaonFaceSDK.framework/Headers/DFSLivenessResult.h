@@ -2,7 +2,6 @@
 //  DFSLivenessResult.h
 //  DaonFaceSDK
 //
-//  Created by Neil Johnston on 12/15/15.
 //  Copyright © 2017 Daon. All rights reserved.
 //
 

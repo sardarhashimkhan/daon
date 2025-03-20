@@ -1,13 +1,7 @@
-/*!
- @header IXUAFAuthenticator
- FIDO Authenticator
- @copyright Daon. All rights reserved.
- @updated 2018-05-20
- */
 
 #import <Foundation/Foundation.h>
-#import <DaonFIDOSDK/IXUAFAssertion.h>
 
+@protocol IXUAFAssertion;
 
 typedef NS_ENUM (NSInteger, IXUAFAuthenticatorLockState)
 {
@@ -24,6 +18,7 @@ static NSString * const kIXUAFAAIDFace              = @"D409#2205";
 static NSString * const kIXUAFAAIDADOSFace          = @"D409#9201";
 static NSString * const kIXUAFAAIDTouchID           = @"D409#2101";
 static NSString * const kIXUAFAAIDFaceID            = @"D409#2204";
+static NSString * const kIXUAFAAIDOpticID           = @"D409#2701";
 static NSString * const kIXUAFAAIDOOTP              = @"D409#2801";
 static NSString * const kIXUAFAAIDPalm              = @"D409#2901";
 static NSString * const kIXUAFAAIDSilent            = @"D409#2601";
@@ -64,6 +59,11 @@ static NSString * const kIXUAFInfoAttemptsUser          = @"user.attempts.count"
 static NSString * const kIXUAFInfoAttemptsUserMax       = @"user.attempts.max";
 static NSString * const kIXUAFInfoAttemptsUserRemaining = @"user.attempts.remaining";
 
+/// UAF Authenticator.
+///
+/// The IXUAFAuthenticator implements the standard FIDO authenticator interface with additional methods for determining if an authenticator is registered, in a lock state or lock period, etc.
+
+
 @interface IXUAFAuthenticator : NSObject
 
 @property (nonatomic, strong, readonly) NSString *title;
@@ -91,43 +91,55 @@ static NSString * const kIXUAFInfoAttemptsUserRemaining = @"user.attempts.remain
 
 - (id) initWithFactor:(NSInteger)factor;
 
-/*!
- @brief Get authenticator as dictionary
- */
+/// Get authenticator as dictionary.
+/// - Returns: Dictionary with authenticator properties and settings.
 - (NSDictionary*) dictionary;
 
-/*!
- @brief Check if the authenticator is registered for a user
- @param username The username
- @param appId The FIDO application ID
- */
+/// Check if the authenticator is registered for a user.
+///
+/// - Parameter username: The username
+/// - Parameter appId: The FIDO application ID
+/// - Returns: True if the authenticator is registered.
 - (BOOL) registeredWithUsername:(NSString*)username appId:(NSString*)appId;
 
-/*!
- @brief Check if this authenticator has valid keys
- */
+/// Check if this authenticator has valid keys.
+///
+/// - Returns: True if the keys are valid.
 - (BOOL) hasValidKeys;
 
-/*!
- @brief If locked, get the locked until time
- @return Time in milliseconds since epoc
- */
+/// If locked, get the locked until time.
+///
+/// - Returns: Time in milliseconds since epoc
 - (long long) lockedUntil;
 
-/*!
- @brief Get lock status
- */
+/// Get lock status.
+///
+/// - Returns: A IXUAFAuthenticatorLockState object.
 - (IXUAFAuthenticatorLockState) lockStatus;
 
-/*!
- @brief Check if supported
- */
+/// Check if supported.
+/// 
+/// - Returns: True if the authenticator is supported.
 - (BOOL) isSupported;
 
+
+/// Assertions.
+///
+/// - Parameters:
+///   - challenge: The FIDO Final Challenge.
+///   - username: The username or account.
+///   - key: The name of the signing key.
 - (id<IXUAFAssertion>) assertionWithChallenge:(NSString*)challenge
                                      username:(NSString*)username
                                           key:(NSString*)key;
 
+/// Assertions.
+///
+/// - Parameters:
+///   - challenge: The FIDO Final Challenge.
+///   - content: The FIDO Transaction Confirmation content.
+///   - username: The username or account.
+///   - key: The name of the signing key.
 - (id<IXUAFAssertion>) assertionWithChallenge:(NSString*)challenge
                                       content:(NSData*)content
                                      username:(NSString*)username

@@ -9,7 +9,10 @@
 #import <Security/Security.h>
 #import <CommonCrypto/CommonDigest.h>
 
-
+/// SDK license object.
+///
+/// The SDK requires a license that is bound to an application identifier. This license may in turn embed licenses that are required for specific authenticators. Contact Daon Support or Sales to request a license.
+///
 @interface IXUAFLicense : NSObject
 
 @property (nonatomic, readonly) NSString * license;

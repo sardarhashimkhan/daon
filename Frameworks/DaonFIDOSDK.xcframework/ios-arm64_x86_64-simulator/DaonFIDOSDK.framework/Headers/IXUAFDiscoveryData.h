@@ -1,14 +1,10 @@
-/*!
- @header IXUAFDiscoveryData
- FIDO authenticator discovery data
- @copyright Daon. All rights reserved.
- @updated 2018-05-20
- */
 
 #import <Foundation/Foundation.h>
 #import <DaonFIDOSDK/IXUAFVersion.h>
 #import <DaonFIDOSDK/IXUAFAuthenticator.h>
 
+/// FIDO authenticator discovery data.
+/// 
 @interface IXUAFDiscoveryData : NSObject
 
 @property (nonatomic, strong) NSArray<IXUAFVersion *> *supportedUafVersions;

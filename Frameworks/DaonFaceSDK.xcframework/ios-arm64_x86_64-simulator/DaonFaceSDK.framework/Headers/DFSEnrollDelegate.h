@@ -2,7 +2,6 @@
 //  DFSEnrollDelegate.h
 //  DaonFaceSDK
 //
-//  Created by Neil Johnston on 12/11/15.
 //  Copyright © 2015 Daon. All rights reserved.
 //
 

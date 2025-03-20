@@ -8,10 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for DaonFIDOSDK.
+// Project version number for DaonFIDOSDK.
 FOUNDATION_EXPORT double DaonFIDOSDKVersionNumber;
 
-//! Project version string for DaonFIDOSDK.
+// Project version string for DaonFIDOSDK.
 FOUNDATION_EXPORT const unsigned char DaonFIDOSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <DaonFIDOSDK/PublicHeader.h>
@@ -31,7 +31,5 @@ FOUNDATION_EXPORT const unsigned char DaonFIDOSDKVersionString[];
 #import <DaonFIDOSDK/IXUAFOperation.h>
 #import <DaonFIDOSDK/IXUAF.h>
 #import <DaonFIDOSDK/IXUAFServiceDelegate.h>
-#import <DaonFIDOSDK/IXUAFCaptureDataEncryptor.h>
-#import <DaonFIDOSDK/IXUAFAuthenticatorRegistry.h>
 #import <DaonFIDOSDK/IXUAFLicense.h>
 

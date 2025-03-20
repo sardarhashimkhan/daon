@@ -1,9 +1,3 @@
-/*!
- @header IXUAFLocator
- Locator
- @copyright Daon. All rights reserved.
- @updated 2018-05-20
- */
 
 #import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
@@ -11,6 +5,12 @@
 
 typedef void (^Block)(CLLocation* location);
 
+/// Location service
+///
+/// The IXUAFLocator class implements a location service which must be started and stopped by the app in order for the FIDO SDK to collect location information.
+///
+/// Once started, the service will continue to run until it is manually stopped or the timeout is triggered. If locate is called while the service is already running, the service continues to run.
+///
 @interface IXUAFLocator : NSObject <CLLocationManagerDelegate>
 {
 	CLLocationManager *locationmanager;
@@ -22,27 +22,24 @@ typedef void (^Block)(CLLocation* location);
 
 + (IXUAFLocator*) sharedInstance;
 
-/*!
- @brief Run locator for 30 seconds
- */
+/// Run locator for 30 seconds
 - (void) locate;
 
-/*!
- @brief Start locator
- @param accuracy The location accuracy.
- @param timeout The location timeout in seconds.
- */
+/// Start locator.
+///
+/// - Parameter accuracy: The location accuracy.
+/// - Parameter timeout: The location timeout in seconds.
 - (void) locateWithAccuracy:(CLLocationAccuracy)accuracy timeout:(NSTimeInterval)timeout;
 
-/*!
- @brief Stop locating
- */
-- (void) cancelUpdatingLocation; 
+/// Stop locating.
+///
+- (void) cancelUpdatingLocation;
 
-/*!
- @brief Get current location
- @discussion This method should be called after a call to locate or locateWithAccuracy:timout. 
- */
+/// Get current location
+///
+/// This method should be called after a call to locate or locateWithAccuracy:timout.
+///
+/// - Returns: The current location
 - (CLLocation*) location;
 
 @end

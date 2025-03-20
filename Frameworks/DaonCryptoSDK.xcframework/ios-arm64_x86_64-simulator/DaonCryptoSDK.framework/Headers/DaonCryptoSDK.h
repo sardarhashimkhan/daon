@@ -24,7 +24,6 @@ FOUNDATION_EXPORT const unsigned char DaonCryptoSDKVersionString[];
 #import <DaonCryptoSDK/IXALog.h>
 #import <DaonCryptoSDK/IXAUtil.h>
 #import <DaonCryptoSDK/IXAKeychain.h>
-#import <DaonCryptoSDK/IXASecureRemotePassword.h>
 #import <DaonCryptoSDK/IXAOneTimePassword.h>
 #import <DaonCryptoSDK/IXADeviceInfo.h>
 #import <DaonCryptoSDK/IXASecureKeys.h>

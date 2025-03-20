@@ -46,16 +46,12 @@ static NSString * const IXAFactorParameterSilent    = @"silent";
     IXASecureKeys  *_sk;
 }
 
-+ (IXAFactor*) factorWithKeyname:(NSString*)name __deprecated;
-+ (IXAFactor*) factorWithKeyname:(NSString*)name options:(NSUInteger)options __deprecated;
-+ (BOOL) hasKeyWithName:(NSString*)name __deprecated;
-- (BOOL) removeKeys __deprecated;
-
 + (IXAFactor*) factorWithKey:(NSString*)key;
 + (IXAFactor*) factorWithKey:(NSString*)key options:(NSUInteger)options;
 
 + (BOOL) isSupported;
-+ (BOOL) hasKey:(NSString*)key;
++ (BOOL) hasKey:(NSString*)key status:(OSStatus*)status;
++ (BOOL) hasKey:(NSString*)key __deprecated;
 
 - (id) initWithKey:(NSString*)key options:(NSUInteger)options;
 

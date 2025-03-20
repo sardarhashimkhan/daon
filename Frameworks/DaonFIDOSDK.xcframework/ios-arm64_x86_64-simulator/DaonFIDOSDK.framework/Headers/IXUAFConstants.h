@@ -1,11 +1,4 @@
 
-/*!
- @header IXUAFConstants
- FIDO Constants
- @copyright Daon. All rights reserved.
- @updated 2018-05-20
- */
-
 
 #ifndef IXUAFConstants_h
 #define IXUAFConstants_h

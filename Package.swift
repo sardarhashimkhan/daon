@@ -59,7 +59,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonFaceLiveness",
-            path: "Frameworks/DaonFaceLiveness.xcframework"
+            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonFaceLiveness.xcframework.zip",
+            checksum: "9ad9b4b7bd06196d91d4575e47d8bed62ecd735ed7c7e61ebee0588168b3ca98"
         ),
         .binaryTarget(
             name: "DaonFaceMatcher",

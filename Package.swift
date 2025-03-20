@@ -14,7 +14,6 @@ let package = Package(
                       "DaonAuthenticatorSDK",
                       "DaonDocument",
                       "DaonFaceDetector",
-                      "DaonFaceLiveness",
                       "DaonFaceMatcher",
                       "DaonFaceQuality",
                       "DaonFaceSDK",
@@ -25,7 +24,8 @@ let package = Package(
             targets: [
                 "DaonFIDOSDK",
                 "DaonCryptoSDK",
-                "DaonAuthenticatorSDK"
+                "DaonAuthenticatorSDK",
+                "DaonFaceLiveness"
             ]
         ),
     ],

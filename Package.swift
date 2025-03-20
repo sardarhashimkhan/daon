@@ -41,7 +41,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonAuthenticatorSDK",
-            path: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonAuthenticatorSDK.xcframework.zip"
+            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonAuthenticatorSDK.xcframework.zip",
+            checksum: "9c5e5e94c6985a6b93682cfa840c94b43070e00ce9c58188edd75feea71670ce"
         ),
         .binaryTarget(
             name: "DaonCryptoSDK",

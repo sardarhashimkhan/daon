@@ -17,16 +17,11 @@ let package = Package(
                       "DaonFaceMatcher",
                       "DaonFaceQuality",
                       "DaonFaceSDK",
-                      "DaonIDCapture"]
-        ),
-        .library(
-            name: "DaonFIDOSDK",
-            targets: [
-                "DaonFIDOSDK",
-                "DaonCryptoSDK",
-                "DaonAuthenticatorSDK",
-                "DaonFaceLiveness"
-            ]
+                      "DaonIDCapture",
+                      "DaonFIDOSDK",
+                      "DaonCryptoSDK",
+                      "DaonAuthenticatorSDK",
+                      "DaonFaceLiveness"]
         ),
     ],
     dependencies: [],

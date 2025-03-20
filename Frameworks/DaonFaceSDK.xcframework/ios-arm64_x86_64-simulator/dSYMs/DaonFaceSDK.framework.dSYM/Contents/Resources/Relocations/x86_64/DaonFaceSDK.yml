@@ -1,360 +1,361 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/jonny/Library/Developer/Xcode/DerivedData/DaonFaceSDK-dcliodcvztshbodwawznybqyteid/Build/Intermediates.noindex/ArchiveIntermediates/Simulator/InstallationBuildProductsLocation/Library/Frameworks/DaonFaceSDK.framework/DaonFaceSDK'
+binary-path:     '/Users/runner/Library/Developer/Xcode/DerivedData/DaonFaceSDK-azgnabzkmyhgjzfdbmpxfkylvstb/Build/Intermediates.noindex/ArchiveIntermediates/Simulator/InstallationBuildProductsLocation/Library/Frameworks/DaonFaceSDK.framework/DaonFaceSDK'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x71B84, size: 0x8, addend: 0x0, symName: _DaonFaceSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x158B0, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x71BB9, size: 0x8, addend: 0x0, symName: _DaonFaceSDKVersionNumber, symObjAddr: 0x38, symBinAddr: 0x158E8, symSize: 0x0 }
-  - { offsetInCU: 0x35D9, offset: 0x751A8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x3AB0, symSize: 0x138 }
-  - { offsetInCU: 0x3678, offset: 0x75247, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer dealloc]', symObjAddr: 0x138, symBinAddr: 0x3BE8, symSize: 0x88 }
-  - { offsetInCU: 0x36B7, offset: 0x75286, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer loadLibrary]', symObjAddr: 0x1CB, symBinAddr: 0x3C7B, symSize: 0x15E }
-  - { offsetInCU: 0x37B7, offset: 0x75386, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer createTemplate]', symObjAddr: 0x329, symBinAddr: 0x3DD9, symSize: 0xB7 }
-  - { offsetInCU: 0x3895, offset: 0x75464, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer bestFrame]', symObjAddr: 0x3E0, symBinAddr: 0x3E90, symSize: 0x1A7 }
-  - { offsetInCU: 0x39C6, offset: 0x75595, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer updateFrameData:timestamp:]', symObjAddr: 0x587, symBinAddr: 0x4037, symSize: 0x23 }
-  - { offsetInCU: 0x3A3D, offset: 0x7560C, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer livenessAssessment]', symObjAddr: 0x5AA, symBinAddr: 0x405A, symSize: 0x20 }
-  - { offsetInCU: 0x3A92, offset: 0x75661, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer livenessAssessmentWithTemplate:]', symObjAddr: 0x5CA, symBinAddr: 0x407A, symSize: 0x92 }
-  - { offsetInCU: 0x3B34, offset: 0x75703, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer livenessScore]', symObjAddr: 0x65C, symBinAddr: 0x410C, symSize: 0x22 }
-  - { offsetInCU: 0x3B89, offset: 0x75758, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer setLivenessParameters]', symObjAddr: 0x67E, symBinAddr: 0x412E, symSize: 0x173 }
-  - { offsetInCU: 0x3D1D, offset: 0x758EC, size: 0x8, addend: 0x0, symName: '+[DFSLivenessPassiveAnalyzer module]', symObjAddr: 0x7F1, symBinAddr: 0x42A1, symSize: 0xD }
-  - { offsetInCU: 0x3D51, offset: 0x75920, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer name]', symObjAddr: 0x7FE, symBinAddr: 0x42AE, symSize: 0x19 }
-  - { offsetInCU: 0x3D91, offset: 0x75960, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer stop]', symObjAddr: 0x817, symBinAddr: 0x42C7, symSize: 0x60 }
-  - { offsetInCU: 0x3DE9, offset: 0x759B8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer didReset]', symObjAddr: 0x877, symBinAddr: 0x4327, symSize: 0x25 }
-  - { offsetInCU: 0x3E29, offset: 0x759F8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer didChangeImageSize:]', symObjAddr: 0x89C, symBinAddr: 0x434C, symSize: 0x79 }
-  - { offsetInCU: 0x3E86, offset: 0x75A55, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer didChangeConfiguration:]', symObjAddr: 0x915, symBinAddr: 0x43C5, symSize: 0x250 }
-  - { offsetInCU: 0x405D, offset: 0x75C2C, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer rgbWithYUV:]', symObjAddr: 0xB65, symBinAddr: 0x4615, symSize: 0x7F }
-  - { offsetInCU: 0x40E3, offset: 0x75CB2, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer currentTimeMilliseconds]', symObjAddr: 0xBE4, symBinAddr: 0x4694, symSize: 0x42 }
-  - { offsetInCU: 0x418A, offset: 0x75D59, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer setState:alert:]', symObjAddr: 0xC26, symBinAddr: 0x46D6, symSize: 0x15A }
-  - { offsetInCU: 0x425C, offset: 0x75E2B, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer setState:]', symObjAddr: 0xD80, symBinAddr: 0x4830, symSize: 0x112 }
-  - { offsetInCU: 0x42F9, offset: 0x75EC8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer assessWithCompletion:]', symObjAddr: 0xE92, symBinAddr: 0x4942, symSize: 0xB1 }
-  - { offsetInCU: 0x4449, offset: 0x76018, size: 0x8, addend: 0x0, symName: '___51-[DFSLivenessPassiveAnalyzer assessWithCompletion:]_block_invoke', symObjAddr: 0xF43, symBinAddr: 0x49F3, symSize: 0x55 }
-  - { offsetInCU: 0x44CC, offset: 0x7609B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s40b, symObjAddr: 0xF98, symBinAddr: 0x4A48, symSize: 0x30 }
-  - { offsetInCU: 0x4501, offset: 0x760D0, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s40s, symObjAddr: 0xFC8, symBinAddr: 0x4A78, symSize: 0x25 }
-  - { offsetInCU: 0x4538, offset: 0x76107, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer assess]', symObjAddr: 0xFED, symBinAddr: 0x4A9D, symSize: 0x415 }
-  - { offsetInCU: 0x47BB, offset: 0x7638A, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer analyzeData:timestamp:]', symObjAddr: 0x1402, symBinAddr: 0x4EB2, symSize: 0x5AE }
-  - { offsetInCU: 0x4A38, offset: 0x76607, size: 0x8, addend: 0x0, symName: '___52-[DFSLivenessPassiveAnalyzer analyzeData:timestamp:]_block_invoke', symObjAddr: 0x19B0, symBinAddr: 0x5460, symSize: 0x40 }
-  - { offsetInCU: 0x4A92, offset: 0x76661, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s, symObjAddr: 0x19F0, symBinAddr: 0x54A0, symSize: 0xF }
-  - { offsetInCU: 0x4AC5, offset: 0x76694, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s, symObjAddr: 0x19FF, symBinAddr: 0x54AF, symSize: 0xF }
-  - { offsetInCU: 0x4AF0, offset: 0x766BF, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer alertWithStatus:]', symObjAddr: 0x1A0E, symBinAddr: 0x54BE, symSize: 0x1F }
-  - { offsetInCU: 0x4B35, offset: 0x76704, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer analyzeData:]', symObjAddr: 0x1A2D, symBinAddr: 0x54DD, symSize: 0x14 }
-  - { offsetInCU: 0x4B76, offset: 0x76745, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer .cxx_destruct]', symObjAddr: 0x1A41, symBinAddr: 0x54F1, symSize: 0x2E }
-  - { offsetInCU: 0x27, offset: 0x772B9, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x551F, symSize: 0x100 }
-  - { offsetInCU: 0x1A4, offset: 0x77436, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x551F, symSize: 0x100 }
-  - { offsetInCU: 0x273, offset: 0x77505, size: 0x8, addend: 0x0, symName: '___27-[DFSPositionAnalyzer init]_block_invoke', symObjAddr: 0x100, symBinAddr: 0x561F, symSize: 0x29 }
-  - { offsetInCU: 0x2BE, offset: 0x77550, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x138, symBinAddr: 0x5648, symSize: 0xF }
-  - { offsetInCU: 0x2E9, offset: 0x7757B, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer start]', symObjAddr: 0x147, symBinAddr: 0x5657, symSize: 0xB2 }
-  - { offsetInCU: 0x34C, offset: 0x775DE, size: 0x8, addend: 0x0, symName: '___28-[DFSPositionAnalyzer start]_block_invoke', symObjAddr: 0x1F9, symBinAddr: 0x5709, symSize: 0x23 }
-  - { offsetInCU: 0x3B7, offset: 0x77649, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer supportedInterfaceOrientations]', symObjAddr: 0x21C, symBinAddr: 0x572C, symSize: 0x79 }
-  - { offsetInCU: 0x435, offset: 0x776C7, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer supportsOrientation:]', symObjAddr: 0x295, symBinAddr: 0x57A5, symSize: 0x13 }
-  - { offsetInCU: 0x478, offset: 0x7770A, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer interfaceOrientation:]', symObjAddr: 0x2A8, symBinAddr: 0x57B8, symSize: 0x7C }
-  - { offsetInCU: 0x4F5, offset: 0x77787, size: 0x8, addend: 0x0, symName: '___44-[DFSPositionAnalyzer interfaceOrientation:]_block_invoke', symObjAddr: 0x324, symBinAddr: 0x5834, symSize: 0x98 }
-  - { offsetInCU: 0x593, offset: 0x77825, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x3BC, symBinAddr: 0x58CC, symSize: 0x17 }
-  - { offsetInCU: 0x5BC, offset: 0x7784E, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer processDeviceMotion:]', symObjAddr: 0x3D3, symBinAddr: 0x58E3, symSize: 0x2EF }
-  - { offsetInCU: 0x73E, offset: 0x779D0, size: 0x8, addend: 0x0, symName: '___43-[DFSPositionAnalyzer processDeviceMotion:]_block_invoke', symObjAddr: 0x6C2, symBinAddr: 0x5BD2, symSize: 0x4C }
-  - { offsetInCU: 0x7DB, offset: 0x77A6D, size: 0x8, addend: 0x0, symName: '+[DFSPositionAnalyzer module]', symObjAddr: 0x70E, symBinAddr: 0x5C1E, symSize: 0xD }
-  - { offsetInCU: 0x80E, offset: 0x77AA0, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer name]', symObjAddr: 0x71B, symBinAddr: 0x5C2B, symSize: 0x19 }
-  - { offsetInCU: 0x84D, offset: 0x77ADF, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer stop]', symObjAddr: 0x734, symBinAddr: 0x5C44, symSize: 0x29 }
-  - { offsetInCU: 0x89A, offset: 0x77B2C, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer didChangeConfiguration:]', symObjAddr: 0x75D, symBinAddr: 0x5C6D, symSize: 0x10D }
-  - { offsetInCU: 0x991, offset: 0x77C23, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer analyzeData:]', symObjAddr: 0x86A, symBinAddr: 0x5D7A, symSize: 0xE9 }
-  - { offsetInCU: 0xAC3, offset: 0x77D55, size: 0x8, addend: 0x0, symName: '___35-[DFSPositionAnalyzer analyzeData:]_block_invoke', symObjAddr: 0x953, symBinAddr: 0x5E63, symSize: 0x16 }
-  - { offsetInCU: 0xB0E, offset: 0x77DA0, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer analyzeData:timestamp:]', symObjAddr: 0x969, symBinAddr: 0x5E79, symSize: 0x44 }
-  - { offsetInCU: 0xB81, offset: 0x77E13, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer result]', symObjAddr: 0x9AD, symBinAddr: 0x5EBD, symSize: 0x1AA }
-  - { offsetInCU: 0xC3C, offset: 0x77ECE, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer setCustomPitchMinimum:maximum:]', symObjAddr: 0xB57, symBinAddr: 0x6067, symSize: 0x26 }
-  - { offsetInCU: 0xC95, offset: 0x77F27, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer .cxx_destruct]', symObjAddr: 0xB7D, symBinAddr: 0x608D, symSize: 0x33 }
-  - { offsetInCU: 0x27, offset: 0x782BD, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x60C0, symSize: 0x2D0 }
-  - { offsetInCU: 0x29D, offset: 0x78533, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x60C0, symSize: 0x2D0 }
-  - { offsetInCU: 0x47C, offset: 0x78712, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult hasData]', symObjAddr: 0x2D0, symBinAddr: 0x6390, symSize: 0x9 }
-  - { offsetInCU: 0x4B1, offset: 0x78747, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult alert]', symObjAddr: 0x2D9, symBinAddr: 0x6399, symSize: 0xA }
-  - { offsetInCU: 0x4E6, offset: 0x7877C, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult state]', symObjAddr: 0x2E3, symBinAddr: 0x63A3, symSize: 0xA }
-  - { offsetInCU: 0x51B, offset: 0x787B1, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult spoof]', symObjAddr: 0x2ED, symBinAddr: 0x63AD, symSize: 0x9 }
-  - { offsetInCU: 0x550, offset: 0x787E6, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult trackerStatus]', symObjAddr: 0x2F6, symBinAddr: 0x63B6, symSize: 0xA }
-  - { offsetInCU: 0x585, offset: 0x7881B, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult score]', symObjAddr: 0x300, symBinAddr: 0x63C0, symSize: 0xB }
-  - { offsetInCU: 0x5BA, offset: 0x78850, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isNod]', symObjAddr: 0x30B, symBinAddr: 0x63CB, symSize: 0x9 }
-  - { offsetInCU: 0x5EF, offset: 0x78885, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isShake]', symObjAddr: 0x314, symBinAddr: 0x63D4, symSize: 0x9 }
-  - { offsetInCU: 0x624, offset: 0x788BA, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isBlink]', symObjAddr: 0x31D, symBinAddr: 0x63DD, symSize: 0x9 }
-  - { offsetInCU: 0x659, offset: 0x788EF, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isPassive]', symObjAddr: 0x326, symBinAddr: 0x63E6, symSize: 0x9 }
-  - { offsetInCU: 0x68E, offset: 0x78924, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult numberOfFrames]', symObjAddr: 0x32F, symBinAddr: 0x63EF, symSize: 0xA }
-  - { offsetInCU: 0x6C3, offset: 0x78959, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult image]', symObjAddr: 0x339, symBinAddr: 0x63F9, symSize: 0xA }
-  - { offsetInCU: 0x6F8, offset: 0x7898E, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult data]', symObjAddr: 0x343, symBinAddr: 0x6403, symSize: 0xA }
-  - { offsetInCU: 0x72D, offset: 0x789C3, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult .cxx_destruct]', symObjAddr: 0x34D, symBinAddr: 0x640D, symSize: 0x28 }
-  - { offsetInCU: 0x8123, offset: 0x80B64, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x6440, symSize: 0x249 }
-  - { offsetInCU: 0x8236, offset: 0x80C77, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer dealloc]', symObjAddr: 0x249, symBinAddr: 0x6689, symSize: 0x4E }
-  - { offsetInCU: 0x8268, offset: 0x80CA9, size: 0x8, addend: 0x0, symName: '+[DFSQualityAnalyzer module]', symObjAddr: 0x297, symBinAddr: 0x66D7, symSize: 0xD }
-  - { offsetInCU: 0x829B, offset: 0x80CDC, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer name]', symObjAddr: 0x2A4, symBinAddr: 0x66E4, symSize: 0x19 }
-  - { offsetInCU: 0x82DB, offset: 0x80D1C, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer didChangeImageSize:]', symObjAddr: 0x2BD, symBinAddr: 0x66FD, symSize: 0x10 }
-  - { offsetInCU: 0x831C, offset: 0x80D5D, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer stop]', symObjAddr: 0x2CD, symBinAddr: 0x670D, symSize: 0x6 }
-  - { offsetInCU: 0x834B, offset: 0x80D8C, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer didChangeConfiguration:]', symObjAddr: 0x2D3, symBinAddr: 0x6713, symSize: 0x687 }
-  - { offsetInCU: 0x8677, offset: 0x810B8, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer analyzeData:]', symObjAddr: 0x95A, symBinAddr: 0x6D9A, symSize: 0xCE }
-  - { offsetInCU: 0x871E, offset: 0x8115F, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer analyzeData:timestamp:]', symObjAddr: 0xA28, symBinAddr: 0x6E68, symSize: 0xF1 }
-  - { offsetInCU: 0x8AED, offset: 0x8152E, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer processFrame:size:orientation:format:tracking:]', symObjAddr: 0xB19, symBinAddr: 0x6F59, symSize: 0x14C7 }
-  - { offsetInCU: 0x9515, offset: 0x81F56, size: 0x8, addend: 0x0, symName: __ZN24DaonFaceQualityExceptionD2Ev, symObjAddr: 0x20A0, symBinAddr: 0x84E0, symSize: 0xB4 }
-  - { offsetInCU: 0x9808, offset: 0x82249, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer roundInteger:]', symObjAddr: 0x1FEB, symBinAddr: 0x842B, symSize: 0x2E }
-  - { offsetInCU: 0x984D, offset: 0x8228E, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer roundFloat:]', symObjAddr: 0x2019, symBinAddr: 0x8459, symSize: 0x3F }
-  - { offsetInCU: 0x9896, offset: 0x822D7, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer smoothValue:threshold:last:]', symObjAddr: 0x2058, symBinAddr: 0x8498, symSize: 0x38 }
-  - { offsetInCU: 0x991D, offset: 0x8235E, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer .cxx_destruct]', symObjAddr: 0x2090, symBinAddr: 0x84D0, symSize: 0x10 }
-  - { offsetInCU: 0x9AA9, offset: 0x824EA, size: 0x8, addend: 0x0, symName: __ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x2154, symBinAddr: 0x8594, symSize: 0x84 }
-  - { offsetInCU: 0x9C50, offset: 0x82691, size: 0x8, addend: 0x0, symName: __ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x21D8, symBinAddr: 0x8618, symSize: 0x80 }
-  - { offsetInCU: 0x9DFA, offset: 0x8283B, size: 0x8, addend: 0x0, symName: __ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x2258, symBinAddr: 0x8698, symSize: 0x8E }
-  - { offsetInCU: 0x9FB2, offset: 0x829F3, size: 0x8, addend: 0x0, symName: __ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x22E6, symBinAddr: 0x8726, symSize: 0x8C }
-  - { offsetInCU: 0xA195, offset: 0x82BD6, size: 0x8, addend: 0x0, symName: __ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x2372, symBinAddr: 0x87B2, symSize: 0x88 }
-  - { offsetInCU: 0xA35D, offset: 0x82D9E, size: 0x8, addend: 0x0, symName: __ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x23FA, symBinAddr: 0x883A, symSize: 0x96 }
-  - { offsetInCU: 0xA533, offset: 0x82F74, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x2490, symBinAddr: 0x88D0, symSize: 0x34 }
-  - { offsetInCU: 0xA69E, offset: 0x830DF, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x24C4, symBinAddr: 0x8904, symSize: 0x3C }
-  - { offsetInCU: 0xA919, offset: 0x8335A, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj, symObjAddr: 0x2500, symBinAddr: 0x8940, symSize: 0x10A }
-  - { offsetInCU: 0xAADE, offset: 0x8351F, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekposENS_4fposI11__mbstate_tEEj, symObjAddr: 0x260A, symBinAddr: 0x8A4A, symSize: 0x26 }
-  - { offsetInCU: 0xAB68, offset: 0x835A9, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv, symObjAddr: 0x2630, symBinAddr: 0x8A70, symSize: 0x42 }
-  - { offsetInCU: 0xAC53, offset: 0x83694, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi, symObjAddr: 0x2672, symBinAddr: 0x8AB2, symSize: 0x5C }
-  - { offsetInCU: 0xAEF8, offset: 0x83939, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi, symObjAddr: 0x26CE, symBinAddr: 0x8B0E, symSize: 0x14E }
-  - { offsetInCU: 0x27, offset: 0x83E4C, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler init]', symObjAddr: 0x0, symBinAddr: 0x8C5C, symSize: 0x9E }
-  - { offsetInCU: 0x21B, offset: 0x84040, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler init]', symObjAddr: 0x0, symBinAddr: 0x8C5C, symSize: 0x9E }
-  - { offsetInCU: 0x282, offset: 0x840A7, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler didDetectEvent:result:delegate:]', symObjAddr: 0x9E, symBinAddr: 0x8CFA, symSize: 0xD8 }
-  - { offsetInCU: 0x375, offset: 0x8419A, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler updateResult:]', symObjAddr: 0x176, symBinAddr: 0x8DD2, symSize: 0x141 }
-  - { offsetInCU: 0x4AA, offset: 0x842CF, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler reset]', symObjAddr: 0x2B7, symBinAddr: 0x8F13, symSize: 0x39 }
-  - { offsetInCU: 0x4F5, offset: 0x8431A, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler updateWithResult:delegate:]', symObjAddr: 0x2F0, symBinAddr: 0x8F4C, symSize: 0x434 }
-  - { offsetInCU: 0x7E4, offset: 0x84609, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler .cxx_destruct]', symObjAddr: 0x724, symBinAddr: 0x9380, symSize: 0x28 }
-  - { offsetInCU: 0x27, offset: 0x84A17, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x93A8, symSize: 0x7B }
-  - { offsetInCU: 0x3B0, offset: 0x84DA0, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x93A8, symSize: 0x7B }
-  - { offsetInCU: 0x41B, offset: 0x84E0B, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult results]', symObjAddr: 0x7B, symBinAddr: 0x9423, symSize: 0xE }
-  - { offsetInCU: 0x452, offset: 0x84E42, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parse]', symObjAddr: 0x89, symBinAddr: 0x9431, symSize: 0x33E }
-  - { offsetInCU: 0x629, offset: 0x85019, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceImageScore]', symObjAddr: 0x3C7, symBinAddr: 0x976F, symSize: 0x19 }
-  - { offsetInCU: 0x66A, offset: 0x8505A, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasData]', symObjAddr: 0x3E0, symBinAddr: 0x9788, symSize: 0x23 }
-  - { offsetInCU: 0x6BD, offset: 0x850AD, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parseBoolForKey:]', symObjAddr: 0x403, symBinAddr: 0x97AB, symSize: 0x51 }
-  - { offsetInCU: 0x734, offset: 0x85124, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parseFloatForKey:]', symObjAddr: 0x454, symBinAddr: 0x97FC, symSize: 0x56 }
-  - { offsetInCU: 0x7AB, offset: 0x8519B, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parseIntegerForKey:]', symObjAddr: 0x4AA, symBinAddr: 0x9852, symSize: 0x51 }
-  - { offsetInCU: 0x822, offset: 0x85212, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasFace]', symObjAddr: 0x4FB, symBinAddr: 0x98A3, symSize: 0x9 }
-  - { offsetInCU: 0x857, offset: 0x85247, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasMask]', symObjAddr: 0x504, symBinAddr: 0x98AC, symSize: 0x9 }
-  - { offsetInCU: 0x88C, offset: 0x8527C, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceRectangle]', symObjAddr: 0x50D, symBinAddr: 0x98B5, symSize: 0x1E }
-  - { offsetInCU: 0x8C1, offset: 0x852B1, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasOneFaceOnly]', symObjAddr: 0x52B, symBinAddr: 0x98D3, symSize: 0x9 }
-  - { offsetInCU: 0x8F6, offset: 0x852E6, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasFaceContinuity]', symObjAddr: 0x534, symBinAddr: 0x98DC, symSize: 0x9 }
-  - { offsetInCU: 0x92B, offset: 0x8531B, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasEyes]', symObjAddr: 0x53D, symBinAddr: 0x98E5, symSize: 0x9 }
-  - { offsetInCU: 0x960, offset: 0x85350, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasEyesOpen]', symObjAddr: 0x546, symBinAddr: 0x98EE, symSize: 0x9 }
-  - { offsetInCU: 0x995, offset: 0x85385, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasUniformLighting]', symObjAddr: 0x54F, symBinAddr: 0x98F7, symSize: 0x9 }
-  - { offsetInCU: 0x9CA, offset: 0x853BA, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableEyeDistance]', symObjAddr: 0x558, symBinAddr: 0x9900, symSize: 0x9 }
-  - { offsetInCU: 0x9FF, offset: 0x853EF, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult isFaceCentered]', symObjAddr: 0x561, symBinAddr: 0x9909, symSize: 0x9 }
-  - { offsetInCU: 0xA34, offset: 0x85424, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult eyeDistance]', symObjAddr: 0x56A, symBinAddr: 0x9912, symSize: 0xA }
-  - { offsetInCU: 0xA69, offset: 0x85459, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult leftEyePosition]', symObjAddr: 0x574, symBinAddr: 0x991C, symSize: 0x10 }
-  - { offsetInCU: 0xA9E, offset: 0x8548E, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult rightEyePosition]', symObjAddr: 0x584, symBinAddr: 0x992C, symSize: 0x13 }
-  - { offsetInCU: 0xAD3, offset: 0x854C3, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableFaceAngle]', symObjAddr: 0x597, symBinAddr: 0x993F, symSize: 0x9 }
-  - { offsetInCU: 0xB08, offset: 0x854F8, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableFrontalPose]', symObjAddr: 0x5A0, symBinAddr: 0x9948, symSize: 0x9 }
-  - { offsetInCU: 0xB3D, offset: 0x8552D, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableSharpness]', symObjAddr: 0x5A9, symBinAddr: 0x9951, symSize: 0x9 }
-  - { offsetInCU: 0xB72, offset: 0x85562, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableExposure]', symObjAddr: 0x5B2, symBinAddr: 0x995A, symSize: 0x9 }
-  - { offsetInCU: 0xBA7, offset: 0x85597, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableGrayscaleDensity]', symObjAddr: 0x5BB, symBinAddr: 0x9963, symSize: 0x9 }
-  - { offsetInCU: 0xBDC, offset: 0x855CC, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableQuality]', symObjAddr: 0x5C4, symBinAddr: 0x996C, symSize: 0x9 }
-  - { offsetInCU: 0xC11, offset: 0x85601, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult score]', symObjAddr: 0x5CD, symBinAddr: 0x9975, symSize: 0xB }
-  - { offsetInCU: 0xC46, offset: 0x85636, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceFoundConfidence]', symObjAddr: 0x5D8, symBinAddr: 0x9980, symSize: 0xB }
-  - { offsetInCU: 0xC7B, offset: 0x8566B, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceMaskConfidence]', symObjAddr: 0x5E3, symBinAddr: 0x998B, symSize: 0xB }
-  - { offsetInCU: 0xCB0, offset: 0x856A0, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult frontalPoseConfidence]', symObjAddr: 0x5EE, symBinAddr: 0x9996, symSize: 0xB }
-  - { offsetInCU: 0xCE5, offset: 0x856D5, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult eyesFoundConfidence]', symObjAddr: 0x5F9, symBinAddr: 0x99A1, symSize: 0xB }
-  - { offsetInCU: 0xD1A, offset: 0x8570A, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult eyesOpenConfidence]', symObjAddr: 0x604, symBinAddr: 0x99AC, symSize: 0xB }
-  - { offsetInCU: 0xD4F, offset: 0x8573F, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult uniformLightingConfidence]', symObjAddr: 0x60F, symBinAddr: 0x99B7, symSize: 0xB }
-  - { offsetInCU: 0xD84, offset: 0x85774, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult poseAngleRoll]', symObjAddr: 0x61A, symBinAddr: 0x99C2, symSize: 0xA }
-  - { offsetInCU: 0xDB9, offset: 0x857A9, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult sharpness]', symObjAddr: 0x624, symBinAddr: 0x99CC, symSize: 0xA }
-  - { offsetInCU: 0xDEE, offset: 0x857DE, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult exposure]', symObjAddr: 0x62E, symBinAddr: 0x99D6, symSize: 0xA }
-  - { offsetInCU: 0xE23, offset: 0x85813, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult grayscaleDensity]', symObjAddr: 0x638, symBinAddr: 0x99E0, symSize: 0xA }
-  - { offsetInCU: 0xE58, offset: 0x85848, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult .cxx_destruct]', symObjAddr: 0x642, symBinAddr: 0x99EA, symSize: 0x10 }
-  - { offsetInCU: 0x27, offset: 0x858ED, size: 0x8, addend: 0x0, symName: '+[DFSAudioVideo captureSessionWithBufferDelegate:]', symObjAddr: 0x0, symBinAddr: 0x99FA, symSize: 0x26 }
-  - { offsetInCU: 0x7A, offset: 0x85940, size: 0x8, addend: 0x0, symName: '+[DFSAudioVideo captureSessionWithBufferDelegate:]', symObjAddr: 0x0, symBinAddr: 0x99FA, symSize: 0x26 }
-  - { offsetInCU: 0xC9, offset: 0x8598F, size: 0x8, addend: 0x0, symName: '+[DFSAudioVideo captureSessionWithPreset:bufferDelegate:]', symObjAddr: 0x26, symBinAddr: 0x9A20, symSize: 0x3DF }
-  - { offsetInCU: 0x6258, offset: 0x8BF11, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x9E00, symSize: 0x8C }
-  - { offsetInCU: 0x62A7, offset: 0x8BF60, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer dealloc]', symObjAddr: 0x8C, symBinAddr: 0x9E8C, symSize: 0x84 }
-  - { offsetInCU: 0x62E6, offset: 0x8BF9F, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer loadLibrary]', symObjAddr: 0x11B, symBinAddr: 0x9F1B, symSize: 0xC9 }
-  - { offsetInCU: 0x63B0, offset: 0x8C069, size: 0x8, addend: 0x0, symName: '+[DFSFaceMaskAnalyzer module]', symObjAddr: 0x1E4, symBinAddr: 0x9FE4, symSize: 0xD }
-  - { offsetInCU: 0x63E3, offset: 0x8C09C, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer name]', symObjAddr: 0x1F1, symBinAddr: 0x9FF1, symSize: 0x19 }
-  - { offsetInCU: 0x6422, offset: 0x8C0DB, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer didChangeImageSize:]', symObjAddr: 0x20A, symBinAddr: 0xA00A, symSize: 0x10 }
-  - { offsetInCU: 0x6463, offset: 0x8C11C, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer stop]', symObjAddr: 0x21A, symBinAddr: 0xA01A, symSize: 0x6 }
-  - { offsetInCU: 0x6492, offset: 0x8C14B, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer didChangeConfiguration:]', symObjAddr: 0x220, symBinAddr: 0xA020, symSize: 0x107 }
-  - { offsetInCU: 0x659B, offset: 0x8C254, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer analyzeData:]', symObjAddr: 0x327, symBinAddr: 0xA127, symSize: 0x89 }
-  - { offsetInCU: 0x661E, offset: 0x8C2D7, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer analyzeData:timestamp:]', symObjAddr: 0x3B0, symBinAddr: 0xA1B0, symSize: 0xB6 }
-  - { offsetInCU: 0x6883, offset: 0x8C53C, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer detect:orientation:format:size:]', symObjAddr: 0x466, symBinAddr: 0xA266, symSize: 0x3FC }
-  - { offsetInCU: 0x27, offset: 0x8CB85, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0xA662, symSize: 0x279 }
-  - { offsetInCU: 0xC6, offset: 0x8CC24, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0xA662, symSize: 0x279 }
-  - { offsetInCU: 0x1D0, offset: 0x8CD2E, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult facePosition]', symObjAddr: 0x279, symBinAddr: 0xA8DB, symSize: 0x18 }
-  - { offsetInCU: 0x205, offset: 0x8CD63, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult facePositionPortrait]', symObjAddr: 0x291, symBinAddr: 0xA8F3, symSize: 0x18 }
-  - { offsetInCU: 0x23A, offset: 0x8CD98, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult faceRectangle]', symObjAddr: 0x2A9, symBinAddr: 0xA90B, symSize: 0x18 }
-  - { offsetInCU: 0x26F, offset: 0x8CDCD, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult score]', symObjAddr: 0x2C1, symBinAddr: 0xA923, symSize: 0xB }
-  - { offsetInCU: 0x27, offset: 0x8CE74, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem initWithImage:score:metadata:]', symObjAddr: 0x0, symBinAddr: 0xA92E, symSize: 0xB5 }
-  - { offsetInCU: 0xFD, offset: 0x8CF4A, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem initWithImage:score:metadata:]', symObjAddr: 0x0, symBinAddr: 0xA92E, symSize: 0xB5 }
-  - { offsetInCU: 0x1B8, offset: 0x8D005, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem description]', symObjAddr: 0xB5, symBinAddr: 0xA9E3, symSize: 0x60 }
-  - { offsetInCU: 0x207, offset: 0x8D054, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem image]', symObjAddr: 0x115, symBinAddr: 0xAA43, symSize: 0xA }
-  - { offsetInCU: 0x23C, offset: 0x8D089, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem setImage:]', symObjAddr: 0x11F, symBinAddr: 0xAA4D, symSize: 0x11 }
-  - { offsetInCU: 0x27B, offset: 0x8D0C8, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem score]', symObjAddr: 0x130, symBinAddr: 0xAA5E, symSize: 0xB }
-  - { offsetInCU: 0x2B0, offset: 0x8D0FD, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem setScore:]', symObjAddr: 0x13B, symBinAddr: 0xAA69, symSize: 0xB }
-  - { offsetInCU: 0x2ED, offset: 0x8D13A, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem metadata]', symObjAddr: 0x146, symBinAddr: 0xAA74, symSize: 0xA }
-  - { offsetInCU: 0x322, offset: 0x8D16F, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem setMetadata:]', symObjAddr: 0x150, symBinAddr: 0xAA7E, symSize: 0x11 }
-  - { offsetInCU: 0x361, offset: 0x8D1AE, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem .cxx_destruct]', symObjAddr: 0x161, symBinAddr: 0xAA8F, symSize: 0x28 }
-  - { offsetInCU: 0x394, offset: 0x8D1E1, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer initWithMaxSize:]', symObjAddr: 0x189, symBinAddr: 0xAAB7, symSize: 0x98 }
-  - { offsetInCU: 0x40B, offset: 0x8D258, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer addImage:score:]', symObjAddr: 0x221, symBinAddr: 0xAB4F, symSize: 0x14 }
-  - { offsetInCU: 0x464, offset: 0x8D2B1, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer addImage:score:metadata:]', symObjAddr: 0x235, symBinAddr: 0xAB63, symSize: 0x1F7 }
-  - { offsetInCU: 0x631, offset: 0x8D47E, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer worstScoreIndex]', symObjAddr: 0x42C, symBinAddr: 0xAD5A, symSize: 0xCD }
-  - { offsetInCU: 0x70A, offset: 0x8D557, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer all]', symObjAddr: 0x4F9, symBinAddr: 0xAE27, symSize: 0x1A0 }
-  - { offsetInCU: 0x7D0, offset: 0x8D61D, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer bestItem]', symObjAddr: 0x699, symBinAddr: 0xAFC7, symSize: 0x1B4 }
-  - { offsetInCU: 0x8A6, offset: 0x8D6F3, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer best]', symObjAddr: 0x84D, symBinAddr: 0xB17B, symSize: 0x50 }
-  - { offsetInCU: 0x90D, offset: 0x8D75A, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer removeAll]', symObjAddr: 0x89D, symBinAddr: 0xB1CB, symSize: 0x3B }
-  - { offsetInCU: 0x958, offset: 0x8D7A5, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer .cxx_destruct]', symObjAddr: 0x8D8, symBinAddr: 0xB206, symSize: 0x28 }
-  - { offsetInCU: 0x27, offset: 0x8D867, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writePixelBuffer:withName:]', symObjAddr: 0x0, symBinAddr: 0xB22E, symSize: 0x79 }
-  - { offsetInCU: 0x7D, offset: 0x8D8BD, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writePixelBuffer:withName:]', symObjAddr: 0x0, symBinAddr: 0xB22E, symSize: 0x79 }
-  - { offsetInCU: 0x114, offset: 0x8D954, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeImage:withName:]', symObjAddr: 0x79, symBinAddr: 0xB2A7, symSize: 0xF5 }
-  - { offsetInCU: 0x227, offset: 0x8DA67, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeText:withName:]', symObjAddr: 0x16E, symBinAddr: 0xB39C, symSize: 0x88 }
-  - { offsetInCU: 0x2B2, offset: 0x8DAF2, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeData:folder:name:]', symObjAddr: 0x1F6, symBinAddr: 0xB424, symSize: 0x18F }
-  - { offsetInCU: 0x467, offset: 0x8DCA7, size: 0x8, addend: 0x0, symName: '+[DFSFileTools clearTemporaryData]', symObjAddr: 0x385, symBinAddr: 0xB5B3, symSize: 0x254 }
-  - { offsetInCU: 0x5A2, offset: 0x8DDE2, size: 0x8, addend: 0x0, symName: '+[DFSFileTools removeItemAtPath:]', symObjAddr: 0x5D9, symBinAddr: 0xB807, symSize: 0x74 }
-  - { offsetInCU: 0x621, offset: 0x8DE61, size: 0x8, addend: 0x0, symName: '+[DFSFileTools temporaryFileWithName:]', symObjAddr: 0x64D, symBinAddr: 0xB87B, symSize: 0x68 }
-  - { offsetInCU: 0x6A2, offset: 0x8DEE2, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeTemporaryData:name:]', symObjAddr: 0x6B5, symBinAddr: 0xB8E3, symSize: 0x86 }
-  - { offsetInCU: 0x749, offset: 0x8DF89, size: 0x8, addend: 0x0, symName: '+[DFSFileTools readTemporaryDataWithName:]', symObjAddr: 0x73B, symBinAddr: 0xB969, symSize: 0x67 }
-  - { offsetInCU: 0x6EFA, offset: 0x94F26, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0xB9D0, symSize: 0x7F }
-  - { offsetInCU: 0x6F67, offset: 0x94F93, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer dealloc]', symObjAddr: 0x7F, symBinAddr: 0xBA4F, symSize: 0x81 }
-  - { offsetInCU: 0x6FA6, offset: 0x94FD2, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer loadLibrary]', symObjAddr: 0x10B, symBinAddr: 0xBADB, symSize: 0xE5 }
-  - { offsetInCU: 0x707E, offset: 0x950AA, size: 0x8, addend: 0x0, symName: '+[DFSRecognizerAnalyzer module]', symObjAddr: 0x1F0, symBinAddr: 0xBBC0, symSize: 0xD }
-  - { offsetInCU: 0x70B1, offset: 0x950DD, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer name]', symObjAddr: 0x1FD, symBinAddr: 0xBBCD, symSize: 0x19 }
-  - { offsetInCU: 0x70F0, offset: 0x9511C, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer stop]', symObjAddr: 0x216, symBinAddr: 0xBBE6, symSize: 0x6 }
-  - { offsetInCU: 0x711F, offset: 0x9514B, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer didChangeImageSize:]', symObjAddr: 0x21C, symBinAddr: 0xBBEC, symSize: 0x10 }
-  - { offsetInCU: 0x7160, offset: 0x9518C, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer didReset]', symObjAddr: 0x22C, symBinAddr: 0xBBFC, symSize: 0x6 }
-  - { offsetInCU: 0x718F, offset: 0x951BB, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer errorWithException:]', symObjAddr: 0x232, symBinAddr: 0xBC02, symSize: 0x94 }
-  - { offsetInCU: 0x7206, offset: 0x95232, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer errorWithCode:message:]', symObjAddr: 0x2C6, symBinAddr: 0xBC96, symSize: 0xFC }
-  - { offsetInCU: 0x7311, offset: 0x9533D, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer templateWithImageData:orientation:format:size:error:]', symObjAddr: 0x3C2, symBinAddr: 0xBD92, symSize: 0x290 }
-  - { offsetInCU: 0x7560, offset: 0x9558C, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer matchWithImageData:]', symObjAddr: 0x652, symBinAddr: 0xC022, symSize: 0x3A }
-  - { offsetInCU: 0x75B3, offset: 0x955DF, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer matchWithImageData:imageTemplate:orientation:format:size:error:]', symObjAddr: 0x68C, symBinAddr: 0xC05C, symSize: 0x2D0 }
-  - { offsetInCU: 0x784F, offset: 0x9587B, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer matchWithTemplate:imageTemplate:error:]', symObjAddr: 0x95C, symBinAddr: 0xC32C, symSize: 0x249 }
-  - { offsetInCU: 0x7A51, offset: 0x95A7D, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer analyzeData:]', symObjAddr: 0xBA5, symBinAddr: 0xC575, symSize: 0x14 }
-  - { offsetInCU: 0x7A92, offset: 0x95ABE, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer analyzeData:timestamp:]', symObjAddr: 0xBB9, symBinAddr: 0xC589, symSize: 0xFA }
-  - { offsetInCU: 0x7B48, offset: 0x95B74, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer .cxx_destruct]', symObjAddr: 0xCB3, symBinAddr: 0xC683, symSize: 0x10 }
-  - { offsetInCU: 0x27, offset: 0x95CD0, size: 0x8, addend: 0x0, symName: '+[DFSCrypto secretKeyFromPassword:salt:]', symObjAddr: 0x0, symBinAddr: 0xC693, symSize: 0x13D }
-  - { offsetInCU: 0x7D, offset: 0x95D26, size: 0x8, addend: 0x0, symName: '+[DFSCrypto secretKeyFromPassword:salt:]', symObjAddr: 0x0, symBinAddr: 0xC693, symSize: 0x13D }
-  - { offsetInCU: 0x1DE, offset: 0x95E87, size: 0x8, addend: 0x0, symName: '+[DFSCrypto randomDataOfLength:]', symObjAddr: 0x13D, symBinAddr: 0xC7D0, symSize: 0x8C }
-  - { offsetInCU: 0x298, offset: 0x95F41, size: 0x8, addend: 0x0, symName: '+[DFSCrypto encrypt:withKey:]', symObjAddr: 0x1C9, symBinAddr: 0xC85C, symSize: 0x1A3 }
-  - { offsetInCU: 0x478, offset: 0x96121, size: 0x8, addend: 0x0, symName: '+[DFSCrypto decrypt:withKey:]', symObjAddr: 0x36C, symBinAddr: 0xC9FF, symSize: 0x162 }
-  - { offsetInCU: 0x27, offset: 0x962E3, size: 0x8, addend: 0x0, symName: '-[DFSResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0xCB61, symSize: 0x3EB }
-  - { offsetInCU: 0x51C, offset: 0x967D8, size: 0x8, addend: 0x0, symName: '-[DFSResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0xCB61, symSize: 0x3EB }
-  - { offsetInCU: 0x73C, offset: 0x969F8, size: 0x8, addend: 0x0, symName: '-[DFSResult dictionary]', symObjAddr: 0x3EB, symBinAddr: 0xCF4C, symSize: 0xE }
-  - { offsetInCU: 0x773, offset: 0x96A2F, size: 0x8, addend: 0x0, symName: '-[DFSResult description]', symObjAddr: 0x3F9, symBinAddr: 0xCF5A, symSize: 0x16 }
-  - { offsetInCU: 0x7B6, offset: 0x96A72, size: 0x8, addend: 0x0, symName: '-[DFSResult isTrackingFace]', symObjAddr: 0x40F, symBinAddr: 0xCF70, symSize: 0x9 }
-  - { offsetInCU: 0x7EB, offset: 0x96AA7, size: 0x8, addend: 0x0, symName: '-[DFSResult isDeviceUpright]', symObjAddr: 0x418, symBinAddr: 0xCF79, symSize: 0x9 }
-  - { offsetInCU: 0x820, offset: 0x96ADC, size: 0x8, addend: 0x0, symName: '-[DFSResult image]', symObjAddr: 0x421, symBinAddr: 0xCF82, symSize: 0xA }
-  - { offsetInCU: 0x855, offset: 0x96B11, size: 0x8, addend: 0x0, symName: '-[DFSResult module]', symObjAddr: 0x42B, symBinAddr: 0xCF8C, symSize: 0xA }
-  - { offsetInCU: 0x88A, offset: 0x96B46, size: 0x8, addend: 0x0, symName: '-[DFSResult modules]', symObjAddr: 0x435, symBinAddr: 0xCF96, symSize: 0xA }
-  - { offsetInCU: 0x8BF, offset: 0x96B7B, size: 0x8, addend: 0x0, symName: '-[DFSResult configuration]', symObjAddr: 0x43F, symBinAddr: 0xCFA0, symSize: 0xA }
-  - { offsetInCU: 0x8F4, offset: 0x96BB0, size: 0x8, addend: 0x0, symName: '-[DFSResult liveness]', symObjAddr: 0x449, symBinAddr: 0xCFAA, symSize: 0xA }
-  - { offsetInCU: 0x929, offset: 0x96BE5, size: 0x8, addend: 0x0, symName: '-[DFSResult quality]', symObjAddr: 0x453, symBinAddr: 0xCFB4, symSize: 0xA }
-  - { offsetInCU: 0x95E, offset: 0x96C1A, size: 0x8, addend: 0x0, symName: '-[DFSResult recognition]', symObjAddr: 0x45D, symBinAddr: 0xCFBE, symSize: 0xA }
-  - { offsetInCU: 0x993, offset: 0x96C4F, size: 0x8, addend: 0x0, symName: '-[DFSResult .cxx_destruct]', symObjAddr: 0x467, symBinAddr: 0xCFC8, symSize: 0x6A }
-  - { offsetInCU: 0x27, offset: 0x96CF4, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK init]', symObjAddr: 0x0, symBinAddr: 0xD034, symSize: 0x14 }
-  - { offsetInCU: 0x68C, offset: 0x97359, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK init]', symObjAddr: 0x0, symBinAddr: 0xD034, symSize: 0x14 }
-  - { offsetInCU: 0x6CC, offset: 0x97399, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dealloc]', symObjAddr: 0x14, symBinAddr: 0xD048, symSize: 0x3E }
-  - { offsetInCU: 0x70B, offset: 0x973D8, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK initWithLicense:]', symObjAddr: 0x52, symBinAddr: 0xD086, symSize: 0x10A }
-  - { offsetInCU: 0x7E2, offset: 0x974AF, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK initWithRecognizer:license:]', symObjAddr: 0x15C, symBinAddr: 0xD190, symSize: 0xC9 }
-  - { offsetInCU: 0x88D, offset: 0x9755A, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK license]', symObjAddr: 0x225, symBinAddr: 0xD259, symSize: 0x16 }
-  - { offsetInCU: 0x8D0, offset: 0x9759D, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK extensions]', symObjAddr: 0x23B, symBinAddr: 0xD26F, symSize: 0x16 }
-  - { offsetInCU: 0x913, offset: 0x975E0, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK organization]', symObjAddr: 0x251, symBinAddr: 0xD285, symSize: 0x16 }
-  - { offsetInCU: 0x956, offset: 0x97623, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK addAnalyzer:]', symObjAddr: 0x267, symBinAddr: 0xD29B, symSize: 0x2FA }
-  - { offsetInCU: 0xAD4, offset: 0x977A1, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK removeAnalyzer:]', symObjAddr: 0x561, symBinAddr: 0xD595, symSize: 0x3F6 }
-  - { offsetInCU: 0xCFC, offset: 0x979C9, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK addModule:]', symObjAddr: 0x957, symBinAddr: 0xD98B, symSize: 0x6D }
-  - { offsetInCU: 0xD6F, offset: 0x97A3C, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK hasModule:]', symObjAddr: 0x9C4, symBinAddr: 0xD9F8, symSize: 0x1A6 }
-  - { offsetInCU: 0xE41, offset: 0x97B0E, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK moduleWithName:]', symObjAddr: 0xB6A, symBinAddr: 0xDB9E, symSize: 0x1C5 }
-  - { offsetInCU: 0xF1F, offset: 0x97BEC, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK moduleNames]', symObjAddr: 0xD2F, symBinAddr: 0xDD63, symSize: 0x1A0 }
-  - { offsetInCU: 0xFE5, offset: 0x97CB2, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK licenseManagerWithLicense:]', symObjAddr: 0xECF, symBinAddr: 0xDF03, symSize: 0x131 }
-  - { offsetInCU: 0x10DB, offset: 0x97DA8, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK showNagMessage:]', symObjAddr: 0x1000, symBinAddr: 0xE034, symSize: 0x17 }
-  - { offsetInCU: 0x111C, offset: 0x97DE9, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK version]', symObjAddr: 0x1017, symBinAddr: 0xE04B, symSize: 0x20 }
-  - { offsetInCU: 0x115C, offset: 0x97E29, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK updateImageSize:]', symObjAddr: 0x1037, symBinAddr: 0xE06B, symSize: 0x1A7 }
-  - { offsetInCU: 0x1209, offset: 0x97ED6, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK setConfiguration:]', symObjAddr: 0x11DE, symBinAddr: 0xE212, symSize: 0x1C7 }
-  - { offsetInCU: 0x12E6, offset: 0x97FB3, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK templateWithImage:error:]', symObjAddr: 0x13A5, symBinAddr: 0xE3D9, symSize: 0x94 }
-  - { offsetInCU: 0x138E, offset: 0x9805B, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK templateWithPixelBuffer:error:]', symObjAddr: 0x1439, symBinAddr: 0xE46D, symSize: 0x1A }
-  - { offsetInCU: 0x13F0, offset: 0x980BD, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK templateWithPixelBuffer:orientation:error:]', symObjAddr: 0x1453, symBinAddr: 0xE487, symSize: 0x8B }
-  - { offsetInCU: 0x149C, offset: 0x98169, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK matchWithImage:imageTemplate:error:]', symObjAddr: 0x14DE, symBinAddr: 0xE512, symSize: 0xB9 }
-  - { offsetInCU: 0x156D, offset: 0x9823A, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK matchTemplate:withTemplate:error:]', symObjAddr: 0x1597, symBinAddr: 0xE5CB, symSize: 0x16 }
-  - { offsetInCU: 0x15DE, offset: 0x982AB, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesInImage:options:]', symObjAddr: 0x15AD, symBinAddr: 0xE5E1, symSize: 0x33 }
-  - { offsetInCU: 0x1651, offset: 0x9831E, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesWithImage:options:]', symObjAddr: 0x15E0, symBinAddr: 0xE614, symSize: 0x25E }
-  - { offsetInCU: 0x1807, offset: 0x984D4, size: 0x8, addend: 0x0, symName: '___45-[DaonFaceSDK analyzeFacesWithImage:options:]_block_invoke', symObjAddr: 0x183E, symBinAddr: 0xE872, symSize: 0x7B }
-  - { offsetInCU: 0x18B7, offset: 0x98584, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesCIDetectorWithImage:options:]', symObjAddr: 0x18B9, symBinAddr: 0xE8ED, symSize: 0x2E6 }
-  - { offsetInCU: 0x1AD0, offset: 0x9879D, size: 0x8, addend: 0x0, symName: '___55-[DaonFaceSDK analyzeFacesCIDetectorWithImage:options:]_block_invoke', symObjAddr: 0x1B9F, symBinAddr: 0xEBD3, symSize: 0x7B }
-  - { offsetInCU: 0x1B80, offset: 0x9884D, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesInSegments:image:rotation:]', symObjAddr: 0x1C1A, symBinAddr: 0xEC4E, symSize: 0x220 }
-  - { offsetInCU: 0x1CC9, offset: 0x98996, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesInPortraitImage:rotation:options:]', symObjAddr: 0x1E3A, symBinAddr: 0xEE6E, symSize: 0x3DB }
-  - { offsetInCU: 0x1F27, offset: 0x98BF4, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK detectFacesInImage:padding:options:]', symObjAddr: 0x2215, symBinAddr: 0xF249, symSize: 0x4FA }
-  - { offsetInCU: 0x21E1, offset: 0x98EAE, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK findFace:rotation:]', symObjAddr: 0x270F, symBinAddr: 0xF743, symSize: 0x48A }
-  - { offsetInCU: 0x24B5, offset: 0x99182, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK inflate:maxHeight:maxWidth:]', symObjAddr: 0x2B99, symBinAddr: 0xFBCD, symSize: 0xD9 }
-  - { offsetInCU: 0x2543, offset: 0x99210, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFaceImage:]', symObjAddr: 0x2C72, symBinAddr: 0xFCA6, symSize: 0x171 }
-  - { offsetInCU: 0x2695, offset: 0x99362, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeSingleImage:]', symObjAddr: 0x2DE3, symBinAddr: 0xFE17, symSize: 0x2C0 }
-  - { offsetInCU: 0x283D, offset: 0x9950A, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dataWithImage:size:]', symObjAddr: 0x30A3, symBinAddr: 0x100D7, symSize: 0x1A4 }
-  - { offsetInCU: 0x296C, offset: 0x99639, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dataWithPixelBuffer:orientation:size:]', symObjAddr: 0x3247, symBinAddr: 0x1027B, symSize: 0xE1 }
-  - { offsetInCU: 0x2B1A, offset: 0x997E7, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK currentTimeMilliseconds]', symObjAddr: 0x3328, symBinAddr: 0x1035C, symSize: 0x42 }
-  - { offsetInCU: 0x2B94, offset: 0x99861, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzePixelBuffer:delegate:]', symObjAddr: 0x336A, symBinAddr: 0x1039E, symSize: 0xCE }
-  - { offsetInCU: 0x2C3E, offset: 0x9990B, size: 0x8, addend: 0x0, symName: '___43-[DaonFaceSDK analyzePixelBuffer:delegate:]_block_invoke', symObjAddr: 0x3438, symBinAddr: 0x1046C, symSize: 0x21 }
-  - { offsetInCU: 0x2CAE, offset: 0x9997B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x3459, symBinAddr: 0x1048D, symSize: 0x25 }
-  - { offsetInCU: 0x2CEF, offset: 0x999BC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x347E, symBinAddr: 0x104B2, symSize: 0x25 }
-  - { offsetInCU: 0x2D26, offset: 0x999F3, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzePixelBuffer:completion:]', symObjAddr: 0x34A3, symBinAddr: 0x104D7, symSize: 0x21 }
-  - { offsetInCU: 0x2D84, offset: 0x99A51, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzePixelBuffer:orientation:queue:completion:]', symObjAddr: 0x34C4, symBinAddr: 0x104F8, symSize: 0x399 }
-  - { offsetInCU: 0x3037, offset: 0x99D04, size: 0x8, addend: 0x0, symName: '___63-[DaonFaceSDK analyzePixelBuffer:orientation:queue:completion:]_block_invoke', symObjAddr: 0x385D, symBinAddr: 0x10891, symSize: 0x7F }
-  - { offsetInCU: 0x311A, offset: 0x99DE7, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64s72b, symObjAddr: 0x38DC, symBinAddr: 0x10910, symSize: 0x59 }
-  - { offsetInCU: 0x317F, offset: 0x99E4C, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s72s, symObjAddr: 0x3935, symBinAddr: 0x10969, symSize: 0x41 }
-  - { offsetInCU: 0x31E6, offset: 0x99EB3, size: 0x8, addend: 0x0, symName: '___63-[DaonFaceSDK analyzePixelBuffer:orientation:queue:completion:]_block_invoke.405', symObjAddr: 0x3976, symBinAddr: 0x109AA, symSize: 0x1A }
-  - { offsetInCU: 0x3234, offset: 0x99F01, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x3990, symBinAddr: 0x109C4, symSize: 0xF }
-  - { offsetInCU: 0x3267, offset: 0x99F34, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK updateResult:frame:queue:completion:]', symObjAddr: 0x39AE, symBinAddr: 0x109D6, symSize: 0x219 }
-  - { offsetInCU: 0x343D, offset: 0x9A10A, size: 0x8, addend: 0x0, symName: '___51-[DaonFaceSDK updateResult:frame:queue:completion:]_block_invoke', symObjAddr: 0x3BC7, symBinAddr: 0x10BEF, symSize: 0x48 }
-  - { offsetInCU: 0x34B0, offset: 0x9A17D, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b, symObjAddr: 0x3C0F, symBinAddr: 0x10C37, symSize: 0x30 }
-  - { offsetInCU: 0x34E5, offset: 0x9A1B2, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK stopWithoutLock]', symObjAddr: 0x3C3F, symBinAddr: 0x10C67, symSize: 0x166 }
-  - { offsetInCU: 0x35A5, offset: 0x9A272, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK stop]', symObjAddr: 0x3DA5, symBinAddr: 0x10DCD, symSize: 0x40 }
-  - { offsetInCU: 0x35FD, offset: 0x9A2CA, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK start]', symObjAddr: 0x3DE5, symBinAddr: 0x10E0D, symSize: 0x37 }
-  - { offsetInCU: 0x3649, offset: 0x9A316, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK reset]', symObjAddr: 0x3E1C, symBinAddr: 0x10E44, symSize: 0x1AB }
-  - { offsetInCU: 0x3721, offset: 0x9A3EE, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK scalePixelBuffer:size:context:]', symObjAddr: 0x3FC7, symBinAddr: 0x10FEF, symSize: 0x2C8 }
-  - { offsetInCU: 0x391C, offset: 0x9A5E9, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dataWithOrientation:bytes:length:size:]', symObjAddr: 0x428F, symBinAddr: 0x112B7, symSize: 0xE5 }
-  - { offsetInCU: 0x39E7, offset: 0x9A6B4, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK rotate90YUV:width:height:]', symObjAddr: 0x4374, symBinAddr: 0x1139C, symSize: 0x159 }
-  - { offsetInCU: 0x3B32, offset: 0x9A7FF, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK rotate180YUV:width:height:]', symObjAddr: 0x44CD, symBinAddr: 0x114F5, symSize: 0xC3 }
-  - { offsetInCU: 0x3C09, offset: 0x9A8D6, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK rotate270YUV:width:height:]', symObjAddr: 0x4590, symBinAddr: 0x115B8, symSize: 0x80 }
-  - { offsetInCU: 0x3CB1, offset: 0x9A97E, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK currentFrameInResult]', symObjAddr: 0x4610, symBinAddr: 0x11638, symSize: 0x9 }
-  - { offsetInCU: 0x3CE6, offset: 0x9A9B3, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK setCurrentFrameInResult:]', symObjAddr: 0x4619, symBinAddr: 0x11641, symSize: 0x9 }
-  - { offsetInCU: 0x3D23, offset: 0x9A9F0, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK .cxx_destruct]', symObjAddr: 0x4622, symBinAddr: 0x1164A, symSize: 0x80 }
-  - { offsetInCU: 0x27, offset: 0x9B002, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager initWithPath:]', symObjAddr: 0x0, symBinAddr: 0x116CA, symSize: 0x62 }
-  - { offsetInCU: 0x145, offset: 0x9B120, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager initWithPath:]', symObjAddr: 0x0, symBinAddr: 0x116CA, symSize: 0x62 }
-  - { offsetInCU: 0x1B0, offset: 0x9B18B, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager initWithContent:]', symObjAddr: 0x62, symBinAddr: 0x1172C, symSize: 0x104 }
-  - { offsetInCU: 0x24B, offset: 0x9B226, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager verifyLicenseWithCertificate:]', symObjAddr: 0x166, symBinAddr: 0x11830, symSize: 0x120 }
-  - { offsetInCU: 0x3AD, offset: 0x9B388, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager copyPublicKey:]', symObjAddr: 0x286, symBinAddr: 0x11950, symSize: 0xD }
-  - { offsetInCU: 0x41B, offset: 0x9B3F6, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager verifySignature:secKeyRef:signature:]', symObjAddr: 0x293, symBinAddr: 0x1195D, symSize: 0xE6 }
-  - { offsetInCU: 0x564, offset: 0x9B53F, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager getHashBytes:]', symObjAddr: 0x379, symBinAddr: 0x11A43, symSize: 0xDA }
-  - { offsetInCU: 0x68C, offset: 0x9B667, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager parseLicense:]', symObjAddr: 0x453, symBinAddr: 0x11B1D, symSize: 0x5F5 }
-  - { offsetInCU: 0x985, offset: 0x9B960, size: 0x8, addend: 0x0, symName: '___34-[FSPLicenseManager parseLicense:]_block_invoke', symObjAddr: 0xA48, symBinAddr: 0x12112, symSize: 0x1A }
-  - { offsetInCU: 0x9DE, offset: 0x9B9B9, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager isValidBundleId:]', symObjAddr: 0xA62, symBinAddr: 0x1212C, symSize: 0x203 }
-  - { offsetInCU: 0xB65, offset: 0x9BB40, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager supportsFeatureWithName:]', symObjAddr: 0xC65, symBinAddr: 0x1232F, symSize: 0x1A1 }
-  - { offsetInCU: 0xC3A, offset: 0x9BC15, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager hasExpired]', symObjAddr: 0xE06, symBinAddr: 0x124D0, symSize: 0x18B }
-  - { offsetInCU: 0xD86, offset: 0x9BD61, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager isVerified]', symObjAddr: 0xF91, symBinAddr: 0x1265B, symSize: 0x9 }
-  - { offsetInCU: 0xDBC, offset: 0x9BD97, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager decodeBase64String:]', symObjAddr: 0xF9A, symBinAddr: 0x12664, symSize: 0x9E }
-  - { offsetInCU: 0xE4A, offset: 0x9BE25, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager license]', symObjAddr: 0x1038, symBinAddr: 0x12702, symSize: 0xA }
-  - { offsetInCU: 0xE7F, offset: 0x9BE5A, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager extensions]', symObjAddr: 0x1042, symBinAddr: 0x1270C, symSize: 0xA }
-  - { offsetInCU: 0xEB4, offset: 0x9BE8F, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager organization]', symObjAddr: 0x104C, symBinAddr: 0x12716, symSize: 0xA }
-  - { offsetInCU: 0xEE9, offset: 0x9BEC4, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager .cxx_destruct]', symObjAddr: 0x1056, symBinAddr: 0x12720, symSize: 0x75 }
-  - { offsetInCU: 0x27, offset: 0x9C021, size: 0x8, addend: 0x0, symName: '-[DFSFace initWithImage:quality:rotation:]', symObjAddr: 0x0, symBinAddr: 0x12795, symSize: 0xCF }
-  - { offsetInCU: 0x286, offset: 0x9C280, size: 0x8, addend: 0x0, symName: '-[DFSFace initWithImage:quality:rotation:]', symObjAddr: 0x0, symBinAddr: 0x12795, symSize: 0xCF }
-  - { offsetInCU: 0x335, offset: 0x9C32F, size: 0x8, addend: 0x0, symName: '-[DFSFace image]', symObjAddr: 0xCF, symBinAddr: 0x12864, symSize: 0xA }
-  - { offsetInCU: 0x36A, offset: 0x9C364, size: 0x8, addend: 0x0, symName: '-[DFSFace quality]', symObjAddr: 0xD9, symBinAddr: 0x1286E, symSize: 0xA }
-  - { offsetInCU: 0x39F, offset: 0x9C399, size: 0x8, addend: 0x0, symName: '-[DFSFace rotation]', symObjAddr: 0xE3, symBinAddr: 0x12878, symSize: 0xA }
-  - { offsetInCU: 0x3D4, offset: 0x9C3CE, size: 0x8, addend: 0x0, symName: '-[DFSFace score]', symObjAddr: 0xED, symBinAddr: 0x12882, symSize: 0xB }
-  - { offsetInCU: 0x409, offset: 0x9C403, size: 0x8, addend: 0x0, symName: '-[DFSFace .cxx_destruct]', symObjAddr: 0xF8, symBinAddr: 0x1288D, symSize: 0x28 }
-  - { offsetInCU: 0x27, offset: 0x9C4A3, size: 0x8, addend: 0x0, symName: '+[DFSModule hasFrameWorkWithNames:]', symObjAddr: 0x0, symBinAddr: 0x128B5, symSize: 0x34E }
-  - { offsetInCU: 0x44, offset: 0x9C4C0, size: 0x8, addend: 0x0, symName: '+[DFSModule hasFrameWorkWithNames:]', symObjAddr: 0x0, symBinAddr: 0x128B5, symSize: 0x34E }
-  - { offsetInCU: 0x1C4, offset: 0x9C640, size: 0x8, addend: 0x0, symName: '+[DFSModule openFrameworkWithName:]', symObjAddr: 0x34E, symBinAddr: 0x12C03, symSize: 0x1C4 }
-  - { offsetInCU: 0x27, offset: 0x9C835, size: 0x8, addend: 0x0, symName: '+[DFSKeychain writeKey:withName:]', symObjAddr: 0x0, symBinAddr: 0x12DC7, symSize: 0x17E }
-  - { offsetInCU: 0x50, offset: 0x9C85E, size: 0x8, addend: 0x0, symName: '+[DFSKeychain writeKey:withName:]', symObjAddr: 0x0, symBinAddr: 0x12DC7, symSize: 0x17E }
-  - { offsetInCU: 0x213, offset: 0x9CA21, size: 0x8, addend: 0x0, symName: '+[DFSKeychain readKeyWithName:]', symObjAddr: 0x17E, symBinAddr: 0x12F45, symSize: 0xF7 }
-  - { offsetInCU: 0x27, offset: 0x9CB5B, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithPixelBufferOS9:]', symObjAddr: 0x0, symBinAddr: 0x1303C, symSize: 0x65 }
-  - { offsetInCU: 0x65, offset: 0x9CB99, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithPixelBufferOS9:]', symObjAddr: 0x0, symBinAddr: 0x1303C, symSize: 0x65 }
-  - { offsetInCU: 0x17D, offset: 0x9CCB1, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithPixelBuffer:]', symObjAddr: 0x65, symBinAddr: 0x130A1, symSize: 0x12A }
-  - { offsetInCU: 0x2C1, offset: 0x9CDF5, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithData:imageSize:]', symObjAddr: 0x18F, symBinAddr: 0x131CB, symSize: 0x1CE }
-  - { offsetInCU: 0x4A6, offset: 0x9CFDA, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithCIImage:]', symObjAddr: 0x35D, symBinAddr: 0x13399, symSize: 0xFE }
-  - { offsetInCU: 0x5A1, offset: 0x9D0D5, size: 0x8, addend: 0x0, symName: '+[DFSImageTools createPixelBufferWithImage:]', symObjAddr: 0x45B, symBinAddr: 0x13497, symSize: 0x190 }
-  - { offsetInCU: 0x672, offset: 0x9D1A6, size: 0x8, addend: 0x0, symName: '+[DFSImageTools createDuplicatePixelBuffer:]', symObjAddr: 0x5EB, symBinAddr: 0x13627, symSize: 0xEF }
-  - { offsetInCU: 0x80E, offset: 0x9D342, size: 0x8, addend: 0x0, symName: '+[DFSImageTools createEightBitDataFromImage:channel:]', symObjAddr: 0x6DA, symBinAddr: 0x13716, symSize: 0x12C }
-  - { offsetInCU: 0x9B9, offset: 0x9D4ED, size: 0x8, addend: 0x0, symName: '+[DFSImageTools hasAlpha:]', symObjAddr: 0x806, symBinAddr: 0x13842, symSize: 0x2E }
-  - { offsetInCU: 0xA38, offset: 0x9D56C, size: 0x8, addend: 0x0, symName: '+[DFSImageTools RGBDataWithImage:]', symObjAddr: 0x834, symBinAddr: 0x13870, symSize: 0x128 }
-  - { offsetInCU: 0xBCD, offset: 0x9D701, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithEightBitGrayscaleData:length:imageSize:]', symObjAddr: 0x95C, symBinAddr: 0x13998, symSize: 0x10D }
-  - { offsetInCU: 0xDAC, offset: 0x9D8E0, size: 0x8, addend: 0x0, symName: _freeRawData, symObjAddr: 0xA69, symBinAddr: 0x13AA5, symSize: 0xD }
-  - { offsetInCU: 0xDED, offset: 0x9D921, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithRGBData:length:imageSize:]', symObjAddr: 0xA76, symBinAddr: 0x13AB2, symSize: 0x10D }
-  - { offsetInCU: 0xF44, offset: 0x9DA78, size: 0x8, addend: 0x0, symName: '+[DFSImageTools removeTransparency:]', symObjAddr: 0xB83, symBinAddr: 0x13BBF, symSize: 0x59 }
-  - { offsetInCU: 0xFDE, offset: 0x9DB12, size: 0x8, addend: 0x0, symName: '+[DFSImageTools maskImage:withMask:]', symObjAddr: 0xBDC, symBinAddr: 0x13C18, symSize: 0x1C2 }
-  - { offsetInCU: 0x120D, offset: 0x9DD41, size: 0x8, addend: 0x0, symName: '+[DFSImageTools cropImage:toRect:]', symObjAddr: 0xD9E, symBinAddr: 0x13DDA, symSize: 0x17F }
-  - { offsetInCU: 0x1337, offset: 0x9DE6B, size: 0x8, addend: 0x0, symName: '+[DFSImageTools grayscaleImage:]', symObjAddr: 0xF1D, symBinAddr: 0x13F59, symSize: 0xD7 }
-  - { offsetInCU: 0x13EE, offset: 0x9DF22, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotateImage:degrees:]', symObjAddr: 0xFF4, symBinAddr: 0x14030, symSize: 0x27C }
-  - { offsetInCU: 0x168B, offset: 0x9E1BF, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotateImage:toOrientation:]', symObjAddr: 0x1270, symBinAddr: 0x142AC, symSize: 0x450 }
-  - { offsetInCU: 0x1934, offset: 0x9E468, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotateImage:toOrientation:].cold.1', symObjAddr: 0x1F6E, symBinAddr: 0x14FAA, symSize: 0x23 }
-  - { offsetInCU: 0x1975, offset: 0x9E4A9, size: 0x8, addend: 0x0, symName: '+[DFSImageTools scaleImage:size:]', symObjAddr: 0x16C0, symBinAddr: 0x146FC, symSize: 0x1A4 }
-  - { offsetInCU: 0x1B2C, offset: 0x9E660, size: 0x8, addend: 0x0, symName: '+[DFSImageTools isImage:correctSize:]', symObjAddr: 0x1864, symBinAddr: 0x148A0, symSize: 0x77 }
-  - { offsetInCU: 0x1BC3, offset: 0x9E6F7, size: 0x8, addend: 0x0, symName: '+[DFSImageTools isPixelBuffer:correctSize:]', symObjAddr: 0x18DB, symBinAddr: 0x14917, symSize: 0x83 }
-  - { offsetInCU: 0x1C77, offset: 0x9E7AB, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotationDegreesForOrientation:]', symObjAddr: 0x195E, symBinAddr: 0x1499A, symSize: 0x20 }
-  - { offsetInCU: 0x1CBA, offset: 0x9E7EE, size: 0x8, addend: 0x0, symName: '+[DFSImageTools splitImage:padding:]', symObjAddr: 0x197E, symBinAddr: 0x149BA, symSize: 0x3EC }
-  - { offsetInCU: 0x1F15, offset: 0x9EA49, size: 0x8, addend: 0x0, symName: '+[DFSImageTools adjustImage:]', symObjAddr: 0x1D6A, symBinAddr: 0x14DA6, symSize: 0x204 }
+  - { offset: 0x794D0, size: 0x8, addend: 0x0, symName: _DaonFaceSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x137D0, symSize: 0x0 }
+  - { offset: 0x79505, size: 0x8, addend: 0x0, symName: _DaonFaceSDKVersionNumber, symObjAddr: 0x38, symBinAddr: 0x13808, symSize: 0x0 }
+  - { offset: 0x79DF2, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x1B00, symSize: 0x138 }
+  - { offset: 0x79E91, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer dealloc]', symObjAddr: 0x138, symBinAddr: 0x1C38, symSize: 0x7A }
+  - { offset: 0x79ED0, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer loadLibrary]', symObjAddr: 0x1C0, symBinAddr: 0x1CC0, symSize: 0x17B }
+  - { offset: 0x79FDE, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer createTemplate]', symObjAddr: 0x33B, symBinAddr: 0x1E3B, symSize: 0xB7 }
+  - { offset: 0x7A0C0, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer bestFrame]', symObjAddr: 0x3F2, symBinAddr: 0x1EF2, symSize: 0x1A7 }
+  - { offset: 0x7A211, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer updateFrameData:timestamp:]', symObjAddr: 0x599, symBinAddr: 0x2099, symSize: 0x23 }
+  - { offset: 0x7A288, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer livenessAssessment]', symObjAddr: 0x5BC, symBinAddr: 0x20BC, symSize: 0x20 }
+  - { offset: 0x7A2DD, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer livenessAssessmentWithTemplate:]', symObjAddr: 0x5DC, symBinAddr: 0x20DC, symSize: 0x92 }
+  - { offset: 0x7A37F, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer livenessScore]', symObjAddr: 0x66E, symBinAddr: 0x216E, symSize: 0x22 }
+  - { offset: 0x7A3D4, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer setLivenessParameters]', symObjAddr: 0x690, symBinAddr: 0x2190, symSize: 0x15F }
+  - { offset: 0x7A549, size: 0x8, addend: 0x0, symName: '+[DFSLivenessPassiveAnalyzer module]', symObjAddr: 0x7EF, symBinAddr: 0x22EF, symSize: 0xD }
+  - { offset: 0x7A57D, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer name]', symObjAddr: 0x7FC, symBinAddr: 0x22FC, symSize: 0x19 }
+  - { offset: 0x7A5BD, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer stop]', symObjAddr: 0x815, symBinAddr: 0x2315, symSize: 0x60 }
+  - { offset: 0x7A615, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer didReset]', symObjAddr: 0x875, symBinAddr: 0x2375, symSize: 0x25 }
+  - { offset: 0x7A655, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer didChangeImageSize:]', symObjAddr: 0x89A, symBinAddr: 0x239A, symSize: 0x79 }
+  - { offset: 0x7A6B2, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer didChangeConfiguration:]', symObjAddr: 0x913, symBinAddr: 0x2413, symSize: 0x250 }
+  - { offset: 0x7A8A1, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer frameWithData:format:]', symObjAddr: 0xB63, symBinAddr: 0x2663, symSize: 0x79 }
+  - { offset: 0x7A937, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer rgbWithYUV:]', symObjAddr: 0xBDC, symBinAddr: 0x26DC, symSize: 0x7F }
+  - { offset: 0x7A9C1, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer currentTimeMilliseconds]', symObjAddr: 0xC5B, symBinAddr: 0x275B, symSize: 0x42 }
+  - { offset: 0x7AA73, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer setState:alert:]', symObjAddr: 0xC9D, symBinAddr: 0x279D, symSize: 0x15C }
+  - { offset: 0x7AB45, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer setState:]', symObjAddr: 0xDF9, symBinAddr: 0x28F9, symSize: 0x111 }
+  - { offset: 0x7ABE2, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer assessWithCompletion:]', symObjAddr: 0xF0A, symBinAddr: 0x2A0A, symSize: 0xB1 }
+  - { offset: 0x7AD5A, size: 0x8, addend: 0x0, symName: '___51-[DFSLivenessPassiveAnalyzer assessWithCompletion:]_block_invoke', symObjAddr: 0xFBB, symBinAddr: 0x2ABB, symSize: 0x55 }
+  - { offset: 0x7ADDD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s40b, symObjAddr: 0x1010, symBinAddr: 0x2B10, symSize: 0x30 }
+  - { offset: 0x7AE12, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s40s, symObjAddr: 0x1040, symBinAddr: 0x2B40, symSize: 0x25 }
+  - { offset: 0x7AE49, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer assess]', symObjAddr: 0x1065, symBinAddr: 0x2B65, symSize: 0x415 }
+  - { offset: 0x7B0D0, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer analyzeData:]', symObjAddr: 0x147A, symBinAddr: 0x2F7A, symSize: 0x14 }
+  - { offset: 0x7B111, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer analyzeData:timestamp:]', symObjAddr: 0x148E, symBinAddr: 0x2F8E, symSize: 0x27 }
+  - { offset: 0x7B177, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer analyze:format:timestamp:]', symObjAddr: 0x14B5, symBinAddr: 0x2FB5, symSize: 0x5CB }
+  - { offset: 0x7B409, size: 0x8, addend: 0x0, symName: '___55-[DFSLivenessPassiveAnalyzer analyze:format:timestamp:]_block_invoke', symObjAddr: 0x1A80, symBinAddr: 0x3580, symSize: 0x40 }
+  - { offset: 0x7B463, size: 0x8, addend: 0x0, symName: ___copy_helper_block_ea8_32s, symObjAddr: 0x1AC0, symBinAddr: 0x35C0, symSize: 0xF }
+  - { offset: 0x7B496, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_ea8_32s, symObjAddr: 0x1ACF, symBinAddr: 0x35CF, symSize: 0xF }
+  - { offset: 0x7B4C1, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer alertWithStatus:]', symObjAddr: 0x1ADE, symBinAddr: 0x35DE, symSize: 0x1F }
+  - { offset: 0x7B506, size: 0x8, addend: 0x0, symName: '-[DFSLivenessPassiveAnalyzer .cxx_destruct]', symObjAddr: 0x1AFD, symBinAddr: 0x35FD, symSize: 0x2E }
+  - { offset: 0x7EF15, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x362B, symSize: 0xEE }
+  - { offset: 0x7EFE9, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x362B, symSize: 0xEE }
+  - { offset: 0x7F085, size: 0x8, addend: 0x0, symName: '___27-[DFSPositionAnalyzer init]_block_invoke', symObjAddr: 0xEE, symBinAddr: 0x3719, symSize: 0x29 }
+  - { offset: 0x7F0D0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x117, symBinAddr: 0x3742, symSize: 0xF }
+  - { offset: 0x7F103, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x126, symBinAddr: 0x3751, symSize: 0xF }
+  - { offset: 0x7F12E, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer start]', symObjAddr: 0x135, symBinAddr: 0x3760, symSize: 0xB2 }
+  - { offset: 0x7F1AF, size: 0x8, addend: 0x0, symName: '___28-[DFSPositionAnalyzer start]_block_invoke', symObjAddr: 0x1E7, symBinAddr: 0x3812, symSize: 0x23 }
+  - { offset: 0x7F21A, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer supportedInterfaceOrientations]', symObjAddr: 0x20A, symBinAddr: 0x3835, symSize: 0x79 }
+  - { offset: 0x7F29C, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer supportsOrientation:]', symObjAddr: 0x283, symBinAddr: 0x38AE, symSize: 0x13 }
+  - { offset: 0x7F2DF, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer interfaceOrientation:]', symObjAddr: 0x296, symBinAddr: 0x38C1, symSize: 0x7C }
+  - { offset: 0x7F35C, size: 0x8, addend: 0x0, symName: '___44-[DFSPositionAnalyzer interfaceOrientation:]_block_invoke', symObjAddr: 0x312, symBinAddr: 0x393D, symSize: 0x98 }
+  - { offset: 0x7F3FE, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x3AA, symBinAddr: 0x39D5, symSize: 0x17 }
+  - { offset: 0x7F427, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer processDeviceMotion:]', symObjAddr: 0x3C1, symBinAddr: 0x39EC, symSize: 0x2F5 }
+  - { offset: 0x7F5B3, size: 0x8, addend: 0x0, symName: '___43-[DFSPositionAnalyzer processDeviceMotion:]_block_invoke', symObjAddr: 0x6B6, symBinAddr: 0x3CE1, symSize: 0x40 }
+  - { offset: 0x7F64A, size: 0x8, addend: 0x0, symName: '+[DFSPositionAnalyzer module]', symObjAddr: 0x6F6, symBinAddr: 0x3D21, symSize: 0xD }
+  - { offset: 0x7F67D, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer name]', symObjAddr: 0x703, symBinAddr: 0x3D2E, symSize: 0x19 }
+  - { offset: 0x7F6BC, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer stop]', symObjAddr: 0x71C, symBinAddr: 0x3D47, symSize: 0x16 }
+  - { offset: 0x7F6FB, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer didChangeConfiguration:]', symObjAddr: 0x732, symBinAddr: 0x3D5D, symSize: 0x10D }
+  - { offset: 0x7F7FE, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer analyzeData:]', symObjAddr: 0x83F, symBinAddr: 0x3E6A, symSize: 0x14 }
+  - { offset: 0x7F84D, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer analyzeData:timestamp:]', symObjAddr: 0x853, symBinAddr: 0x3E7E, symSize: 0x44 }
+  - { offset: 0x7F8C0, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer result]', symObjAddr: 0x897, symBinAddr: 0x3EC2, symSize: 0x1AA }
+  - { offset: 0x7F97B, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer setCustomPitchMinimum:maximum:]', symObjAddr: 0xA41, symBinAddr: 0x406C, symSize: 0x26 }
+  - { offset: 0x7F9D4, size: 0x8, addend: 0x0, symName: '-[DFSPositionAnalyzer .cxx_destruct]', symObjAddr: 0xA67, symBinAddr: 0x4092, symSize: 0x28 }
+  - { offset: 0x7FDA5, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x40BA, symSize: 0x2D0 }
+  - { offset: 0x7FFFC, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x40BA, symSize: 0x2D0 }
+  - { offset: 0x801DB, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult hasData]', symObjAddr: 0x2D0, symBinAddr: 0x438A, symSize: 0x9 }
+  - { offset: 0x80210, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult alert]', symObjAddr: 0x2D9, symBinAddr: 0x4393, symSize: 0xA }
+  - { offset: 0x80245, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult state]', symObjAddr: 0x2E3, symBinAddr: 0x439D, symSize: 0xA }
+  - { offset: 0x8027A, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult spoof]', symObjAddr: 0x2ED, symBinAddr: 0x43A7, symSize: 0x9 }
+  - { offset: 0x802AF, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult trackerStatus]', symObjAddr: 0x2F6, symBinAddr: 0x43B0, symSize: 0xA }
+  - { offset: 0x802E4, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult score]', symObjAddr: 0x300, symBinAddr: 0x43BA, symSize: 0xB }
+  - { offset: 0x80319, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isNod]', symObjAddr: 0x30B, symBinAddr: 0x43C5, symSize: 0x9 }
+  - { offset: 0x8034E, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isShake]', symObjAddr: 0x314, symBinAddr: 0x43CE, symSize: 0x9 }
+  - { offset: 0x80383, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isBlink]', symObjAddr: 0x31D, symBinAddr: 0x43D7, symSize: 0x9 }
+  - { offset: 0x803B8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult isPassive]', symObjAddr: 0x326, symBinAddr: 0x43E0, symSize: 0x9 }
+  - { offset: 0x803ED, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult numberOfFrames]', symObjAddr: 0x32F, symBinAddr: 0x43E9, symSize: 0xA }
+  - { offset: 0x80422, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult image]', symObjAddr: 0x339, symBinAddr: 0x43F3, symSize: 0xA }
+  - { offset: 0x80457, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult data]', symObjAddr: 0x343, symBinAddr: 0x43FD, symSize: 0xA }
+  - { offset: 0x8048C, size: 0x8, addend: 0x0, symName: '-[DFSLivenessResult .cxx_destruct]', symObjAddr: 0x34D, symBinAddr: 0x4407, symSize: 0x28 }
+  - { offset: 0x86ABA, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x4430, symSize: 0x260 }
+  - { offset: 0x86BE8, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer dealloc]', symObjAddr: 0x260, symBinAddr: 0x4690, symSize: 0x4E }
+  - { offset: 0x86C1B, size: 0x8, addend: 0x0, symName: '+[DFSQualityAnalyzer module]', symObjAddr: 0x2AE, symBinAddr: 0x46DE, symSize: 0xD }
+  - { offset: 0x86C4E, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer name]', symObjAddr: 0x2BB, symBinAddr: 0x46EB, symSize: 0x19 }
+  - { offset: 0x86C8D, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer didChangeImageSize:]', symObjAddr: 0x2D4, symBinAddr: 0x4704, symSize: 0x10 }
+  - { offset: 0x86CCE, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer stop]', symObjAddr: 0x2E4, symBinAddr: 0x4714, symSize: 0x6 }
+  - { offset: 0x86CFD, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer didChangeConfiguration:]', symObjAddr: 0x2EA, symBinAddr: 0x471A, symSize: 0x687 }
+  - { offset: 0x8702E, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer analyzeData:]', symObjAddr: 0x971, symBinAddr: 0x4DA1, symSize: 0xCE }
+  - { offset: 0x870D5, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer analyzeData:timestamp:]', symObjAddr: 0xA3F, symBinAddr: 0x4E6F, symSize: 0xF1 }
+  - { offset: 0x874AA, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer processFrame:size:orientation:format:tracking:]', symObjAddr: 0xB30, symBinAddr: 0x4F60, symSize: 0x143B }
+  - { offset: 0x87ED5, size: 0x8, addend: 0x0, symName: __ZN24DaonFaceQualityExceptionD2Ev, symObjAddr: 0x2034, symBinAddr: 0x6456, symSize: 0xB4 }
+  - { offset: 0x881C8, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer roundInteger:]', symObjAddr: 0x1F79, symBinAddr: 0x639B, symSize: 0x2E }
+  - { offset: 0x8820F, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer roundFloat:]', symObjAddr: 0x1FA7, symBinAddr: 0x63C9, symSize: 0x3F }
+  - { offset: 0x88258, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer smoothValue:threshold:last:]', symObjAddr: 0x1FE6, symBinAddr: 0x6408, symSize: 0x3D }
+  - { offset: 0x882DF, size: 0x8, addend: 0x0, symName: '-[DFSQualityAnalyzer .cxx_destruct]', symObjAddr: 0x2023, symBinAddr: 0x6445, symSize: 0x11 }
+  - { offset: 0x88467, size: 0x8, addend: 0x0, symName: __ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x20E8, symBinAddr: 0x650A, symSize: 0x84 }
+  - { offset: 0x8860C, size: 0x8, addend: 0x0, symName: __ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x216C, symBinAddr: 0x658E, symSize: 0x80 }
+  - { offset: 0x887B6, size: 0x8, addend: 0x0, symName: __ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x21EC, symBinAddr: 0x660E, symSize: 0x8E }
+  - { offset: 0x8896E, size: 0x8, addend: 0x0, symName: __ZNSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x227A, symBinAddr: 0x669C, symSize: 0x8C }
+  - { offset: 0x88B4D, size: 0x8, addend: 0x0, symName: __ZThn16_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x2306, symBinAddr: 0x6728, symSize: 0x88 }
+  - { offset: 0x88D15, size: 0x8, addend: 0x0, symName: __ZTv0_n24_NSt3__118basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x238E, symBinAddr: 0x67B0, symSize: 0x96 }
+  - { offset: 0x88EEB, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev, symObjAddr: 0x2424, symBinAddr: 0x6846, symSize: 0x34 }
+  - { offset: 0x89056, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev, symObjAddr: 0x2458, symBinAddr: 0x687A, symSize: 0x3C }
+  - { offset: 0x8931D, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekoffExNS_8ios_base7seekdirEj, symObjAddr: 0x2494, symBinAddr: 0x68B6, symSize: 0x10A }
+  - { offset: 0x89512, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE7seekposENS_4fposI11__mbstate_tEEj, symObjAddr: 0x259E, symBinAddr: 0x69C0, symSize: 0x26 }
+  - { offset: 0x8959C, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9underflowEv, symObjAddr: 0x25C4, symBinAddr: 0x69E6, symSize: 0x42 }
+  - { offset: 0x89689, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE9pbackfailEi, symObjAddr: 0x2606, symBinAddr: 0x6A28, symSize: 0x5C }
+  - { offset: 0x8991E, size: 0x8, addend: 0x0, symName: __ZNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEE8overflowEi, symObjAddr: 0x2662, symBinAddr: 0x6A84, symSize: 0x14D }
+  - { offset: 0x8BB14, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler init]', symObjAddr: 0x0, symBinAddr: 0x6BD1, symSize: 0x9E }
+  - { offset: 0x8BCBE, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler init]', symObjAddr: 0x0, symBinAddr: 0x6BD1, symSize: 0x9E }
+  - { offset: 0x8BD25, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler didDetectEvent:result:delegate:]', symObjAddr: 0x9E, symBinAddr: 0x6C6F, symSize: 0xD8 }
+  - { offset: 0x8BE1C, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler updateResult:]', symObjAddr: 0x176, symBinAddr: 0x6D47, symSize: 0x141 }
+  - { offset: 0x8BF55, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler reset]', symObjAddr: 0x2B7, symBinAddr: 0x6E88, symSize: 0x39 }
+  - { offset: 0x8BFA0, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler updateWithResult:delegate:]', symObjAddr: 0x2F0, symBinAddr: 0x6EC1, symSize: 0x434 }
+  - { offset: 0x8C28F, size: 0x8, addend: 0x0, symName: '-[DFSAnalysisHandler .cxx_destruct]', symObjAddr: 0x724, symBinAddr: 0x72F5, symSize: 0x28 }
+  - { offset: 0x8C6AE, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x731D, symSize: 0x7B }
+  - { offset: 0x8C9F3, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x731D, symSize: 0x7B }
+  - { offset: 0x8CA5E, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult results]', symObjAddr: 0x7B, symBinAddr: 0x7398, symSize: 0xE }
+  - { offset: 0x8CA95, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parse]', symObjAddr: 0x89, symBinAddr: 0x73A6, symSize: 0x33E }
+  - { offset: 0x8CC6C, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceImageScore]', symObjAddr: 0x3C7, symBinAddr: 0x76E4, symSize: 0x19 }
+  - { offset: 0x8CCAD, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasData]', symObjAddr: 0x3E0, symBinAddr: 0x76FD, symSize: 0x23 }
+  - { offset: 0x8CD00, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parseBoolForKey:]', symObjAddr: 0x403, symBinAddr: 0x7720, symSize: 0x51 }
+  - { offset: 0x8CD7B, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parseFloatForKey:]', symObjAddr: 0x454, symBinAddr: 0x7771, symSize: 0x56 }
+  - { offset: 0x8CDF6, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult parseIntegerForKey:]', symObjAddr: 0x4AA, symBinAddr: 0x77C7, symSize: 0x51 }
+  - { offset: 0x8CE71, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasFace]', symObjAddr: 0x4FB, symBinAddr: 0x7818, symSize: 0x9 }
+  - { offset: 0x8CEA6, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasMask]', symObjAddr: 0x504, symBinAddr: 0x7821, symSize: 0x9 }
+  - { offset: 0x8CEDB, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceRectangle]', symObjAddr: 0x50D, symBinAddr: 0x782A, symSize: 0x1E }
+  - { offset: 0x8CF10, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasOneFaceOnly]', symObjAddr: 0x52B, symBinAddr: 0x7848, symSize: 0x9 }
+  - { offset: 0x8CF45, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasFaceContinuity]', symObjAddr: 0x534, symBinAddr: 0x7851, symSize: 0x9 }
+  - { offset: 0x8CF7A, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasEyes]', symObjAddr: 0x53D, symBinAddr: 0x785A, symSize: 0x9 }
+  - { offset: 0x8CFAF, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasEyesOpen]', symObjAddr: 0x546, symBinAddr: 0x7863, symSize: 0x9 }
+  - { offset: 0x8CFE4, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasUniformLighting]', symObjAddr: 0x54F, symBinAddr: 0x786C, symSize: 0x9 }
+  - { offset: 0x8D019, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableEyeDistance]', symObjAddr: 0x558, symBinAddr: 0x7875, symSize: 0x9 }
+  - { offset: 0x8D04E, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult isFaceCentered]', symObjAddr: 0x561, symBinAddr: 0x787E, symSize: 0x9 }
+  - { offset: 0x8D083, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult eyeDistance]', symObjAddr: 0x56A, symBinAddr: 0x7887, symSize: 0xA }
+  - { offset: 0x8D0B8, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult leftEyePosition]', symObjAddr: 0x574, symBinAddr: 0x7891, symSize: 0x10 }
+  - { offset: 0x8D0ED, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult rightEyePosition]', symObjAddr: 0x584, symBinAddr: 0x78A1, symSize: 0x13 }
+  - { offset: 0x8D122, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableFaceAngle]', symObjAddr: 0x597, symBinAddr: 0x78B4, symSize: 0x9 }
+  - { offset: 0x8D157, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableFrontalPose]', symObjAddr: 0x5A0, symBinAddr: 0x78BD, symSize: 0x9 }
+  - { offset: 0x8D18C, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableSharpness]', symObjAddr: 0x5A9, symBinAddr: 0x78C6, symSize: 0x9 }
+  - { offset: 0x8D1C1, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableExposure]', symObjAddr: 0x5B2, symBinAddr: 0x78CF, symSize: 0x9 }
+  - { offset: 0x8D1F6, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableGrayscaleDensity]', symObjAddr: 0x5BB, symBinAddr: 0x78D8, symSize: 0x9 }
+  - { offset: 0x8D22B, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult hasAcceptableQuality]', symObjAddr: 0x5C4, symBinAddr: 0x78E1, symSize: 0x9 }
+  - { offset: 0x8D260, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult score]', symObjAddr: 0x5CD, symBinAddr: 0x78EA, symSize: 0xB }
+  - { offset: 0x8D295, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceFoundConfidence]', symObjAddr: 0x5D8, symBinAddr: 0x78F5, symSize: 0xB }
+  - { offset: 0x8D2CA, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult faceMaskConfidence]', symObjAddr: 0x5E3, symBinAddr: 0x7900, symSize: 0xB }
+  - { offset: 0x8D2FF, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult frontalPoseConfidence]', symObjAddr: 0x5EE, symBinAddr: 0x790B, symSize: 0xB }
+  - { offset: 0x8D334, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult eyesFoundConfidence]', symObjAddr: 0x5F9, symBinAddr: 0x7916, symSize: 0xB }
+  - { offset: 0x8D369, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult eyesOpenConfidence]', symObjAddr: 0x604, symBinAddr: 0x7921, symSize: 0xB }
+  - { offset: 0x8D39E, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult uniformLightingConfidence]', symObjAddr: 0x60F, symBinAddr: 0x792C, symSize: 0xB }
+  - { offset: 0x8D3D3, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult poseAngleRoll]', symObjAddr: 0x61A, symBinAddr: 0x7937, symSize: 0xA }
+  - { offset: 0x8D408, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult sharpness]', symObjAddr: 0x624, symBinAddr: 0x7941, symSize: 0xA }
+  - { offset: 0x8D43D, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult exposure]', symObjAddr: 0x62E, symBinAddr: 0x794B, symSize: 0xA }
+  - { offset: 0x8D472, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult grayscaleDensity]', symObjAddr: 0x638, symBinAddr: 0x7955, symSize: 0xA }
+  - { offset: 0x8D4A7, size: 0x8, addend: 0x0, symName: '-[DFSQualityResult .cxx_destruct]', symObjAddr: 0x642, symBinAddr: 0x795F, symSize: 0x10 }
+  - { offset: 0x8D55A, size: 0x8, addend: 0x0, symName: '+[DFSAudioVideo captureSessionWithBufferDelegate:]', symObjAddr: 0x0, symBinAddr: 0x796F, symSize: 0x26 }
+  - { offset: 0x8D59F, size: 0x8, addend: 0x0, symName: '+[DFSAudioVideo captureSessionWithBufferDelegate:]', symObjAddr: 0x0, symBinAddr: 0x796F, symSize: 0x26 }
+  - { offset: 0x8D5EE, size: 0x8, addend: 0x0, symName: '+[DFSAudioVideo captureSessionWithPreset:bufferDelegate:]', symObjAddr: 0x26, symBinAddr: 0x7995, symSize: 0x3DF }
+  - { offset: 0x91F42, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x7D74, symSize: 0x8C }
+  - { offset: 0x91F91, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer dealloc]', symObjAddr: 0x8C, symBinAddr: 0x7E00, symSize: 0x7A }
+  - { offset: 0x91FD0, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer loadLibrary]', symObjAddr: 0x114, symBinAddr: 0x7E7A, symSize: 0xC9 }
+  - { offset: 0x9209A, size: 0x8, addend: 0x0, symName: '+[DFSFaceMaskAnalyzer module]', symObjAddr: 0x1DD, symBinAddr: 0x7F43, symSize: 0xD }
+  - { offset: 0x920CD, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer name]', symObjAddr: 0x1EA, symBinAddr: 0x7F50, symSize: 0x19 }
+  - { offset: 0x9210C, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer didChangeImageSize:]', symObjAddr: 0x203, symBinAddr: 0x7F69, symSize: 0x10 }
+  - { offset: 0x9214D, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer stop]', symObjAddr: 0x213, symBinAddr: 0x7F79, symSize: 0x6 }
+  - { offset: 0x9217C, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer didChangeConfiguration:]', symObjAddr: 0x219, symBinAddr: 0x7F7F, symSize: 0x107 }
+  - { offset: 0x92285, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer analyzeData:]', symObjAddr: 0x320, symBinAddr: 0x8086, symSize: 0x89 }
+  - { offset: 0x92308, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer analyzeData:timestamp:]', symObjAddr: 0x3A9, symBinAddr: 0x810F, symSize: 0xB6 }
+  - { offset: 0x9256D, size: 0x8, addend: 0x0, symName: '-[DFSFaceMaskAnalyzer detect:orientation:format:size:]', symObjAddr: 0x45F, symBinAddr: 0x81C5, symSize: 0x3FC }
+  - { offset: 0x948BE, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x85C1, symSize: 0x279 }
+  - { offset: 0x94948, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0x85C1, symSize: 0x279 }
+  - { offset: 0x94A52, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult facePosition]', symObjAddr: 0x279, symBinAddr: 0x883A, symSize: 0x18 }
+  - { offset: 0x94A87, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult facePositionPortrait]', symObjAddr: 0x291, symBinAddr: 0x8852, symSize: 0x18 }
+  - { offset: 0x94ABC, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult faceRectangle]', symObjAddr: 0x2A9, symBinAddr: 0x886A, symSize: 0x18 }
+  - { offset: 0x94AF1, size: 0x8, addend: 0x0, symName: '-[DFSRecognitionResult score]', symObjAddr: 0x2C1, symBinAddr: 0x8882, symSize: 0xB }
+  - { offset: 0x94BA6, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem initWithImage:score:metadata:]', symObjAddr: 0x0, symBinAddr: 0x888D, symSize: 0xB5 }
+  - { offset: 0x94C6D, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem initWithImage:score:metadata:]', symObjAddr: 0x0, symBinAddr: 0x888D, symSize: 0xB5 }
+  - { offset: 0x94D28, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem description]', symObjAddr: 0xB5, symBinAddr: 0x8942, symSize: 0x60 }
+  - { offset: 0x94D77, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem image]', symObjAddr: 0x115, symBinAddr: 0x89A2, symSize: 0xA }
+  - { offset: 0x94DAC, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem setImage:]', symObjAddr: 0x11F, symBinAddr: 0x89AC, symSize: 0x11 }
+  - { offset: 0x94DED, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem score]', symObjAddr: 0x130, symBinAddr: 0x89BD, symSize: 0xB }
+  - { offset: 0x94E22, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem setScore:]', symObjAddr: 0x13B, symBinAddr: 0x89C8, symSize: 0xB }
+  - { offset: 0x94E5F, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem metadata]', symObjAddr: 0x146, symBinAddr: 0x89D3, symSize: 0xA }
+  - { offset: 0x94E94, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem setMetadata:]', symObjAddr: 0x150, symBinAddr: 0x89DD, symSize: 0x11 }
+  - { offset: 0x94ED5, size: 0x8, addend: 0x0, symName: '-[DFSScoreBufferItem .cxx_destruct]', symObjAddr: 0x161, symBinAddr: 0x89EE, symSize: 0x28 }
+  - { offset: 0x94F08, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer initWithMaxSize:]', symObjAddr: 0x189, symBinAddr: 0x8A16, symSize: 0x98 }
+  - { offset: 0x94F7F, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer addImage:score:]', symObjAddr: 0x221, symBinAddr: 0x8AAE, symSize: 0x14 }
+  - { offset: 0x94FD8, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer addImage:score:metadata:]', symObjAddr: 0x235, symBinAddr: 0x8AC2, symSize: 0x1F7 }
+  - { offset: 0x951AD, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer worstScoreIndex]', symObjAddr: 0x42C, symBinAddr: 0x8CB9, symSize: 0xCD }
+  - { offset: 0x9528A, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer all]', symObjAddr: 0x4F9, symBinAddr: 0x8D86, symSize: 0x1A0 }
+  - { offset: 0x95350, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer bestItem]', symObjAddr: 0x699, symBinAddr: 0x8F26, symSize: 0x1B4 }
+  - { offset: 0x95426, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer best]', symObjAddr: 0x84D, symBinAddr: 0x90DA, symSize: 0x50 }
+  - { offset: 0x95491, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer removeAll]', symObjAddr: 0x89D, symBinAddr: 0x912A, symSize: 0x3B }
+  - { offset: 0x954DC, size: 0x8, addend: 0x0, symName: '-[DFSScoreBuffer .cxx_destruct]', symObjAddr: 0x8D8, symBinAddr: 0x9165, symSize: 0x28 }
+  - { offset: 0x955AC, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writePixelBuffer:withName:]', symObjAddr: 0x0, symBinAddr: 0x918D, symSize: 0x79 }
+  - { offset: 0x955F4, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writePixelBuffer:withName:]', symObjAddr: 0x0, symBinAddr: 0x918D, symSize: 0x79 }
+  - { offset: 0x9568F, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeImage:withName:]', symObjAddr: 0x79, symBinAddr: 0x9206, symSize: 0xF5 }
+  - { offset: 0x957A2, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeText:withName:]', symObjAddr: 0x16E, symBinAddr: 0x92FB, symSize: 0x88 }
+  - { offset: 0x9582D, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeData:folder:name:]', symObjAddr: 0x1F6, symBinAddr: 0x9383, symSize: 0x18F }
+  - { offset: 0x959F2, size: 0x8, addend: 0x0, symName: '+[DFSFileTools clearTemporaryData]', symObjAddr: 0x385, symBinAddr: 0x9512, symSize: 0x254 }
+  - { offset: 0x95B31, size: 0x8, addend: 0x0, symName: '+[DFSFileTools removeItemAtPath:]', symObjAddr: 0x5D9, symBinAddr: 0x9766, symSize: 0x74 }
+  - { offset: 0x95BB0, size: 0x8, addend: 0x0, symName: '+[DFSFileTools temporaryFileWithName:]', symObjAddr: 0x64D, symBinAddr: 0x97DA, symSize: 0x68 }
+  - { offset: 0x95C31, size: 0x8, addend: 0x0, symName: '+[DFSFileTools writeTemporaryData:name:]', symObjAddr: 0x6B5, symBinAddr: 0x9842, symSize: 0x86 }
+  - { offset: 0x95CDC, size: 0x8, addend: 0x0, symName: '+[DFSFileTools readTemporaryDataWithName:]', symObjAddr: 0x73B, symBinAddr: 0x98C8, symSize: 0x67 }
+  - { offset: 0x9B037, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x992F, symSize: 0x7F }
+  - { offset: 0x9B0A4, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer dealloc]', symObjAddr: 0x7F, symBinAddr: 0x99AE, symSize: 0x7A }
+  - { offset: 0x9B0E3, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer loadLibrary]', symObjAddr: 0x107, symBinAddr: 0x9A28, symSize: 0xE5 }
+  - { offset: 0x9B1BB, size: 0x8, addend: 0x0, symName: '+[DFSRecognizerAnalyzer module]', symObjAddr: 0x1EC, symBinAddr: 0x9B0D, symSize: 0xD }
+  - { offset: 0x9B1EE, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer name]', symObjAddr: 0x1F9, symBinAddr: 0x9B1A, symSize: 0x19 }
+  - { offset: 0x9B22D, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer stop]', symObjAddr: 0x212, symBinAddr: 0x9B33, symSize: 0x6 }
+  - { offset: 0x9B25C, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer didChangeImageSize:]', symObjAddr: 0x218, symBinAddr: 0x9B39, symSize: 0x10 }
+  - { offset: 0x9B29D, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer didReset]', symObjAddr: 0x228, symBinAddr: 0x9B49, symSize: 0x6 }
+  - { offset: 0x9B2CC, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer errorWithException:]', symObjAddr: 0x22E, symBinAddr: 0x9B4F, symSize: 0x94 }
+  - { offset: 0x9B343, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer errorWithCode:message:]', symObjAddr: 0x2C2, symBinAddr: 0x9BE3, symSize: 0xFB }
+  - { offset: 0x9B44E, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer templateWithImageData:orientation:format:size:error:]', symObjAddr: 0x3BD, symBinAddr: 0x9CDE, symSize: 0x290 }
+  - { offset: 0x9B691, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer matchWithImageData:]', symObjAddr: 0x64D, symBinAddr: 0x9F6E, symSize: 0x3A }
+  - { offset: 0x9B6E4, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer matchWithImageData:imageTemplate:orientation:format:size:error:]', symObjAddr: 0x687, symBinAddr: 0x9FA8, symSize: 0x2D0 }
+  - { offset: 0x9B974, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer matchWithTemplate:imageTemplate:error:]', symObjAddr: 0x957, symBinAddr: 0xA278, symSize: 0x249 }
+  - { offset: 0x9BB66, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer analyzeData:]', symObjAddr: 0xBA0, symBinAddr: 0xA4C1, symSize: 0x14 }
+  - { offset: 0x9BBA7, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer analyzeData:timestamp:]', symObjAddr: 0xBB4, symBinAddr: 0xA4D5, symSize: 0xFA }
+  - { offset: 0x9BC5D, size: 0x8, addend: 0x0, symName: '-[DFSRecognizerAnalyzer .cxx_destruct]', symObjAddr: 0xCAE, symBinAddr: 0xA5CF, symSize: 0x10 }
+  - { offset: 0x9DADA, size: 0x8, addend: 0x0, symName: '+[DFSCrypto secretKeyFromPassword:salt:]', symObjAddr: 0x0, symBinAddr: 0xA5DF, symSize: 0x13D }
+  - { offset: 0x9DB1B, size: 0x8, addend: 0x0, symName: '+[DFSCrypto secretKeyFromPassword:salt:]', symObjAddr: 0x0, symBinAddr: 0xA5DF, symSize: 0x13D }
+  - { offset: 0x9DCBD, size: 0x8, addend: 0x0, symName: '+[DFSCrypto randomDataOfLength:]', symObjAddr: 0x13D, symBinAddr: 0xA71C, symSize: 0x8C }
+  - { offset: 0x9DD7A, size: 0x8, addend: 0x0, symName: '+[DFSCrypto encrypt:withKey:]', symObjAddr: 0x1C9, symBinAddr: 0xA7A8, symSize: 0x1A3 }
+  - { offset: 0x9DF7E, size: 0x8, addend: 0x0, symName: '+[DFSCrypto decrypt:withKey:]', symObjAddr: 0x36C, symBinAddr: 0xA94B, symSize: 0x162 }
+  - { offset: 0x9E175, size: 0x8, addend: 0x0, symName: '-[DFSResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0xAAAD, symSize: 0x3EB }
+  - { offset: 0x9E614, size: 0x8, addend: 0x0, symName: '-[DFSResult initWithResults:]', symObjAddr: 0x0, symBinAddr: 0xAAAD, symSize: 0x3EB }
+  - { offset: 0x9E83C, size: 0x8, addend: 0x0, symName: '-[DFSResult dictionary]', symObjAddr: 0x3EB, symBinAddr: 0xAE98, symSize: 0xE }
+  - { offset: 0x9E873, size: 0x8, addend: 0x0, symName: '-[DFSResult description]', symObjAddr: 0x3F9, symBinAddr: 0xAEA6, symSize: 0x16 }
+  - { offset: 0x9E8B6, size: 0x8, addend: 0x0, symName: '-[DFSResult isTrackingFace]', symObjAddr: 0x40F, symBinAddr: 0xAEBC, symSize: 0x9 }
+  - { offset: 0x9E8EB, size: 0x8, addend: 0x0, symName: '-[DFSResult isDeviceUpright]', symObjAddr: 0x418, symBinAddr: 0xAEC5, symSize: 0x9 }
+  - { offset: 0x9E920, size: 0x8, addend: 0x0, symName: '-[DFSResult image]', symObjAddr: 0x421, symBinAddr: 0xAECE, symSize: 0xA }
+  - { offset: 0x9E955, size: 0x8, addend: 0x0, symName: '-[DFSResult module]', symObjAddr: 0x42B, symBinAddr: 0xAED8, symSize: 0xA }
+  - { offset: 0x9E98A, size: 0x8, addend: 0x0, symName: '-[DFSResult modules]', symObjAddr: 0x435, symBinAddr: 0xAEE2, symSize: 0xA }
+  - { offset: 0x9E9BF, size: 0x8, addend: 0x0, symName: '-[DFSResult configuration]', symObjAddr: 0x43F, symBinAddr: 0xAEEC, symSize: 0xA }
+  - { offset: 0x9E9F4, size: 0x8, addend: 0x0, symName: '-[DFSResult liveness]', symObjAddr: 0x449, symBinAddr: 0xAEF6, symSize: 0xA }
+  - { offset: 0x9EA29, size: 0x8, addend: 0x0, symName: '-[DFSResult quality]', symObjAddr: 0x453, symBinAddr: 0xAF00, symSize: 0xA }
+  - { offset: 0x9EA5E, size: 0x8, addend: 0x0, symName: '-[DFSResult recognition]', symObjAddr: 0x45D, symBinAddr: 0xAF0A, symSize: 0xA }
+  - { offset: 0x9EA93, size: 0x8, addend: 0x0, symName: '-[DFSResult .cxx_destruct]', symObjAddr: 0x467, symBinAddr: 0xAF14, symSize: 0x6A }
+  - { offset: 0x9EB5B, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK init]', symObjAddr: 0x0, symBinAddr: 0xAF7E, symSize: 0x14 }
+  - { offset: 0x9F038, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK init]', symObjAddr: 0x0, symBinAddr: 0xAF7E, symSize: 0x14 }
+  - { offset: 0x9F07B, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dealloc]', symObjAddr: 0x14, symBinAddr: 0xAF92, symSize: 0x3E }
+  - { offset: 0x9F0BA, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK initWithLicense:]', symObjAddr: 0x52, symBinAddr: 0xAFD0, symSize: 0x10A }
+  - { offset: 0x9F191, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK initWithRecognizer:license:]', symObjAddr: 0x15C, symBinAddr: 0xB0DA, symSize: 0xC9 }
+  - { offset: 0x9F23C, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK license]', symObjAddr: 0x225, symBinAddr: 0xB1A3, symSize: 0x16 }
+  - { offset: 0x9F27F, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK extensions]', symObjAddr: 0x23B, symBinAddr: 0xB1B9, symSize: 0x16 }
+  - { offset: 0x9F2C2, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK organization]', symObjAddr: 0x251, symBinAddr: 0xB1CF, symSize: 0x16 }
+  - { offset: 0x9F305, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK addAnalyzer:]', symObjAddr: 0x267, symBinAddr: 0xB1E5, symSize: 0x2FA }
+  - { offset: 0x9F4AF, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK removeAnalyzer:]', symObjAddr: 0x561, symBinAddr: 0xB4DF, symSize: 0x3F6 }
+  - { offset: 0x9F6E7, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK addModule:]', symObjAddr: 0x957, symBinAddr: 0xB8D5, symSize: 0x6D }
+  - { offset: 0x9F75A, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK hasModule:]', symObjAddr: 0x9C4, symBinAddr: 0xB942, symSize: 0x1A6 }
+  - { offset: 0x9F82C, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK moduleWithName:]', symObjAddr: 0xB6A, symBinAddr: 0xBAE8, symSize: 0x1C5 }
+  - { offset: 0x9F90A, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK moduleNames]', symObjAddr: 0xD2F, symBinAddr: 0xBCAD, symSize: 0x1A0 }
+  - { offset: 0x9F9D0, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK licenseManagerWithLicense:]', symObjAddr: 0xECF, symBinAddr: 0xBE4D, symSize: 0x131 }
+  - { offset: 0x9FACA, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK showNagMessage:]', symObjAddr: 0x1000, symBinAddr: 0xBF7E, symSize: 0x17 }
+  - { offset: 0x9FB19, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK version]', symObjAddr: 0x1017, symBinAddr: 0xBF95, symSize: 0x20 }
+  - { offset: 0x9FB59, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK updateImageSize:]', symObjAddr: 0x1037, symBinAddr: 0xBFB5, symSize: 0x1A7 }
+  - { offset: 0x9FC06, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK setConfiguration:]', symObjAddr: 0x11DE, symBinAddr: 0xC15C, symSize: 0x1C7 }
+  - { offset: 0x9FCE3, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK templateWithImage:error:]', symObjAddr: 0x13A5, symBinAddr: 0xC323, symSize: 0x94 }
+  - { offset: 0x9FD8F, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK templateWithPixelBuffer:error:]', symObjAddr: 0x1439, symBinAddr: 0xC3B7, symSize: 0x1A }
+  - { offset: 0x9FDEF, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK templateWithPixelBuffer:orientation:error:]', symObjAddr: 0x1453, symBinAddr: 0xC3D1, symSize: 0x8B }
+  - { offset: 0x9FE9F, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK matchWithImage:imageTemplate:error:]', symObjAddr: 0x14DE, symBinAddr: 0xC45C, symSize: 0xB9 }
+  - { offset: 0x9FF74, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK matchTemplate:withTemplate:error:]', symObjAddr: 0x1597, symBinAddr: 0xC515, symSize: 0x16 }
+  - { offset: 0x9FFE5, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesInImage:options:]', symObjAddr: 0x15AD, symBinAddr: 0xC52B, symSize: 0x33 }
+  - { offset: 0xA0058, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesWithImage:options:]', symObjAddr: 0x15E0, symBinAddr: 0xC55E, symSize: 0x25E }
+  - { offset: 0xA020E, size: 0x8, addend: 0x0, symName: '___45-[DaonFaceSDK analyzeFacesWithImage:options:]_block_invoke', symObjAddr: 0x183E, symBinAddr: 0xC7BC, symSize: 0x7B }
+  - { offset: 0xA02BE, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesCIDetectorWithImage:options:]', symObjAddr: 0x18B9, symBinAddr: 0xC837, symSize: 0x2E6 }
+  - { offset: 0xA04DB, size: 0x8, addend: 0x0, symName: '___55-[DaonFaceSDK analyzeFacesCIDetectorWithImage:options:]_block_invoke', symObjAddr: 0x1B9F, symBinAddr: 0xCB1D, symSize: 0x7B }
+  - { offset: 0xA058B, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesInSegments:image:rotation:]', symObjAddr: 0x1C1A, symBinAddr: 0xCB98, symSize: 0x220 }
+  - { offset: 0xA06DC, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFacesInPortraitImage:rotation:options:]', symObjAddr: 0x1E3A, symBinAddr: 0xCDB8, symSize: 0x3DB }
+  - { offset: 0xA094E, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK detectFacesInImage:padding:options:]', symObjAddr: 0x2215, symBinAddr: 0xD193, symSize: 0x50F }
+  - { offset: 0xA0C2E, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK findFace:rotation:]', symObjAddr: 0x2724, symBinAddr: 0xD6A2, symSize: 0x48A }
+  - { offset: 0xA0F0E, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK inflate:maxHeight:maxWidth:]', symObjAddr: 0x2BAE, symBinAddr: 0xDB2C, symSize: 0xD9 }
+  - { offset: 0xA0F9C, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeFaceImage:]', symObjAddr: 0x2C87, symBinAddr: 0xDC05, symSize: 0x171 }
+  - { offset: 0xA10FA, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzeSingleImage:]', symObjAddr: 0x2DF8, symBinAddr: 0xDD76, symSize: 0x2C0 }
+  - { offset: 0xA12AA, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dataWithImage:size:]', symObjAddr: 0x30B8, symBinAddr: 0xE036, symSize: 0x1A4 }
+  - { offset: 0xA13DD, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dataWithPixelBuffer:orientation:size:]', symObjAddr: 0x325C, symBinAddr: 0xE1DA, symSize: 0xE3 }
+  - { offset: 0xA158F, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK currentTimeMilliseconds]', symObjAddr: 0x333F, symBinAddr: 0xE2BD, symSize: 0x42 }
+  - { offset: 0xA1609, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzePixelBuffer:delegate:]', symObjAddr: 0x3381, symBinAddr: 0xE2FF, symSize: 0xCE }
+  - { offset: 0xA16B3, size: 0x8, addend: 0x0, symName: '___43-[DaonFaceSDK analyzePixelBuffer:delegate:]_block_invoke', symObjAddr: 0x344F, symBinAddr: 0xE3CD, symSize: 0x21 }
+  - { offset: 0xA1723, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x3470, symBinAddr: 0xE3EE, symSize: 0x25 }
+  - { offset: 0xA1764, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x3495, symBinAddr: 0xE413, symSize: 0x25 }
+  - { offset: 0xA179B, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzePixelBuffer:completion:]', symObjAddr: 0x34BA, symBinAddr: 0xE438, symSize: 0x24 }
+  - { offset: 0xA17F9, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK analyzePixelBuffer:orientation:queue:completion:]', symObjAddr: 0x34DE, symBinAddr: 0xE45C, symSize: 0x39F }
+  - { offset: 0xA1AB0, size: 0x8, addend: 0x0, symName: '___63-[DaonFaceSDK analyzePixelBuffer:orientation:queue:completion:]_block_invoke', symObjAddr: 0x387D, symBinAddr: 0xE7FB, symSize: 0x7F }
+  - { offset: 0xA1B97, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64s72b, symObjAddr: 0x38FC, symBinAddr: 0xE87A, symSize: 0x59 }
+  - { offset: 0xA1BFC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s72s, symObjAddr: 0x3955, symBinAddr: 0xE8D3, symSize: 0x41 }
+  - { offset: 0xA1C63, size: 0x8, addend: 0x0, symName: '___63-[DaonFaceSDK analyzePixelBuffer:orientation:queue:completion:]_block_invoke.406', symObjAddr: 0x3996, symBinAddr: 0xE914, symSize: 0x1A }
+  - { offset: 0xA1CB1, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK updateResult:frame:queue:completion:]', symObjAddr: 0x39CE, symBinAddr: 0xE92E, symSize: 0x219 }
+  - { offset: 0xA1E87, size: 0x8, addend: 0x0, symName: '___51-[DaonFaceSDK updateResult:frame:queue:completion:]_block_invoke', symObjAddr: 0x3BE7, symBinAddr: 0xEB47, symSize: 0x48 }
+  - { offset: 0xA1EFA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b, symObjAddr: 0x3C2F, symBinAddr: 0xEB8F, symSize: 0x30 }
+  - { offset: 0xA1F2F, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK stopWithoutLock]', symObjAddr: 0x3C5F, symBinAddr: 0xEBBF, symSize: 0x166 }
+  - { offset: 0xA1FEF, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK stop]', symObjAddr: 0x3DC5, symBinAddr: 0xED25, symSize: 0x40 }
+  - { offset: 0xA2047, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK start]', symObjAddr: 0x3E05, symBinAddr: 0xED65, symSize: 0x37 }
+  - { offset: 0xA2093, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK reset]', symObjAddr: 0x3E3C, symBinAddr: 0xED9C, symSize: 0x1AB }
+  - { offset: 0xA216B, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK scalePixelBuffer:size:context:]', symObjAddr: 0x3FE7, symBinAddr: 0xEF47, symSize: 0x2BA }
+  - { offset: 0xA236A, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK dataWithOrientation:bytes:length:size:]', symObjAddr: 0x42A1, symBinAddr: 0xF201, symSize: 0xEC }
+  - { offset: 0xA2435, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK rotate90YUV:width:height:]', symObjAddr: 0x438D, symBinAddr: 0xF2ED, symSize: 0x163 }
+  - { offset: 0xA25A0, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK rotate180YUV:width:height:]', symObjAddr: 0x44F0, symBinAddr: 0xF450, symSize: 0xC3 }
+  - { offset: 0xA2685, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK rotate270YUV:width:height:]', symObjAddr: 0x45B3, symBinAddr: 0xF513, symSize: 0x80 }
+  - { offset: 0xA2731, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK currentFrameInResult]', symObjAddr: 0x4633, symBinAddr: 0xF593, symSize: 0x9 }
+  - { offset: 0xA2766, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK setCurrentFrameInResult:]', symObjAddr: 0x463C, symBinAddr: 0xF59C, symSize: 0x9 }
+  - { offset: 0xA27A3, size: 0x8, addend: 0x0, symName: '-[DaonFaceSDK .cxx_destruct]', symObjAddr: 0x4645, symBinAddr: 0xF5A5, symSize: 0x80 }
+  - { offset: 0xA2F26, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager initWithPath:]', symObjAddr: 0x0, symBinAddr: 0xF625, symSize: 0x62 }
+  - { offset: 0xA302F, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager initWithPath:]', symObjAddr: 0x0, symBinAddr: 0xF625, symSize: 0x62 }
+  - { offset: 0xA309A, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager initWithContent:]', symObjAddr: 0x62, symBinAddr: 0xF687, symSize: 0x104 }
+  - { offset: 0xA3153, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager verifyLicenseWithCertificate:]', symObjAddr: 0x166, symBinAddr: 0xF78B, symSize: 0x120 }
+  - { offset: 0xA32CF, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager copyPublicKey:]', symObjAddr: 0x286, symBinAddr: 0xF8AB, symSize: 0xD }
+  - { offset: 0xA333F, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager verifySignature:secKeyRef:signature:]', symObjAddr: 0x293, symBinAddr: 0xF8B8, symSize: 0xE6 }
+  - { offset: 0xA3488, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager getHashBytes:]', symObjAddr: 0x379, symBinAddr: 0xF99E, symSize: 0xDA }
+  - { offset: 0xA35CC, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager parseLicense:]', symObjAddr: 0x453, symBinAddr: 0xFA78, symSize: 0x5F5 }
+  - { offset: 0xA393B, size: 0x8, addend: 0x0, symName: '___34-[FSPLicenseManager parseLicense:]_block_invoke', symObjAddr: 0xA48, symBinAddr: 0x1006D, symSize: 0x1A }
+  - { offset: 0xA3994, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager isValidBundleId:]', symObjAddr: 0xA62, symBinAddr: 0x10087, symSize: 0x203 }
+  - { offset: 0xA3B55, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager supportsFeatureWithName:]', symObjAddr: 0xC65, symBinAddr: 0x1028A, symSize: 0x1A1 }
+  - { offset: 0xA3C2A, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager hasExpired]', symObjAddr: 0xE06, symBinAddr: 0x1042B, symSize: 0x18B }
+  - { offset: 0xA3D7E, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager isVerified]', symObjAddr: 0xF91, symBinAddr: 0x105B6, symSize: 0x9 }
+  - { offset: 0xA3DB4, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager decodeBase64String:]', symObjAddr: 0xF9A, symBinAddr: 0x105BF, symSize: 0x9E }
+  - { offset: 0xA3E46, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager license]', symObjAddr: 0x1038, symBinAddr: 0x1065D, symSize: 0xA }
+  - { offset: 0xA3E7B, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager extensions]', symObjAddr: 0x1042, symBinAddr: 0x10667, symSize: 0xA }
+  - { offset: 0xA3EB0, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager organization]', symObjAddr: 0x104C, symBinAddr: 0x10671, symSize: 0xA }
+  - { offset: 0xA3EE5, size: 0x8, addend: 0x0, symName: '-[FSPLicenseManager .cxx_destruct]', symObjAddr: 0x1056, symBinAddr: 0x1067B, symSize: 0x75 }
+  - { offset: 0xA4052, size: 0x8, addend: 0x0, symName: '-[DFSFace initWithImage:quality:rotation:]', symObjAddr: 0x0, symBinAddr: 0x106F0, symSize: 0xCF }
+  - { offset: 0xA427A, size: 0x8, addend: 0x0, symName: '-[DFSFace initWithImage:quality:rotation:]', symObjAddr: 0x0, symBinAddr: 0x106F0, symSize: 0xCF }
+  - { offset: 0xA4329, size: 0x8, addend: 0x0, symName: '-[DFSFace image]', symObjAddr: 0xCF, symBinAddr: 0x107BF, symSize: 0xA }
+  - { offset: 0xA435E, size: 0x8, addend: 0x0, symName: '-[DFSFace quality]', symObjAddr: 0xD9, symBinAddr: 0x107C9, symSize: 0xA }
+  - { offset: 0xA4393, size: 0x8, addend: 0x0, symName: '-[DFSFace rotation]', symObjAddr: 0xE3, symBinAddr: 0x107D3, symSize: 0xA }
+  - { offset: 0xA43C8, size: 0x8, addend: 0x0, symName: '-[DFSFace score]', symObjAddr: 0xED, symBinAddr: 0x107DD, symSize: 0xB }
+  - { offset: 0xA43FD, size: 0x8, addend: 0x0, symName: '-[DFSFace .cxx_destruct]', symObjAddr: 0xF8, symBinAddr: 0x107E8, symSize: 0x28 }
+  - { offset: 0xA44B2, size: 0x8, addend: 0x0, symName: '+[DFSModule hasFrameWorkWithNames:]', symObjAddr: 0x0, symBinAddr: 0x10810, symSize: 0x34E }
+  - { offset: 0xA44C1, size: 0x8, addend: 0x0, symName: '+[DFSModule hasFrameWorkWithNames:]', symObjAddr: 0x0, symBinAddr: 0x10810, symSize: 0x34E }
+  - { offset: 0xA4649, size: 0x8, addend: 0x0, symName: '+[DFSModule openFrameworkWithName:]', symObjAddr: 0x34E, symBinAddr: 0x10B5E, symSize: 0x1C4 }
+  - { offset: 0xA4850, size: 0x8, addend: 0x0, symName: '+[DFSKeychain writeKey:withName:]', symObjAddr: 0x0, symBinAddr: 0x10D22, symSize: 0x17E }
+  - { offset: 0xA4872, size: 0x8, addend: 0x0, symName: '+[DFSKeychain writeKey:withName:]', symObjAddr: 0x0, symBinAddr: 0x10D22, symSize: 0x17E }
+  - { offset: 0xA4A35, size: 0x8, addend: 0x0, symName: '+[DFSKeychain readKeyWithName:]', symObjAddr: 0x17E, symBinAddr: 0x10EA0, symSize: 0xF7 }
+  - { offset: 0xA4B76, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithPixelBufferOS9:]', symObjAddr: 0x0, symBinAddr: 0x10F98, symSize: 0x65 }
+  - { offset: 0xA4B9F, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithPixelBufferOS9:]', symObjAddr: 0x0, symBinAddr: 0x10F98, symSize: 0x65 }
+  - { offset: 0xA4CB8, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithPixelBuffer:]', symObjAddr: 0x65, symBinAddr: 0x10FFD, symSize: 0x128 }
+  - { offset: 0xA4E00, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithData:imageSize:]', symObjAddr: 0x18D, symBinAddr: 0x11125, symSize: 0x1CE }
+  - { offset: 0xA4FE5, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithCIImage:]', symObjAddr: 0x35B, symBinAddr: 0x112F3, symSize: 0xFE }
+  - { offset: 0xA50E8, size: 0x8, addend: 0x0, symName: '+[DFSImageTools createPixelBufferWithImage:]', symObjAddr: 0x459, symBinAddr: 0x113F1, symSize: 0x190 }
+  - { offset: 0xA51BD, size: 0x8, addend: 0x0, symName: '+[DFSImageTools createDuplicatePixelBuffer:]', symObjAddr: 0x5E9, symBinAddr: 0x11581, symSize: 0xEF }
+  - { offset: 0xA5359, size: 0x8, addend: 0x0, symName: '+[DFSImageTools createEightBitDataFromImage:channel:]', symObjAddr: 0x6D8, symBinAddr: 0x11670, symSize: 0x12F }
+  - { offset: 0xA5524, size: 0x8, addend: 0x0, symName: '+[DFSImageTools hasAlpha:]', symObjAddr: 0x807, symBinAddr: 0x1179F, symSize: 0x2E }
+  - { offset: 0xA55A4, size: 0x8, addend: 0x0, symName: '+[DFSImageTools RGBDataWithImage:]', symObjAddr: 0x835, symBinAddr: 0x117CD, symSize: 0x128 }
+  - { offset: 0xA5763, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithEightBitGrayscaleData:length:imageSize:]', symObjAddr: 0x95D, symBinAddr: 0x118F5, symSize: 0x10D }
+  - { offset: 0xA5946, size: 0x8, addend: 0x0, symName: _freeRawData, symObjAddr: 0xA6A, symBinAddr: 0x11A02, symSize: 0xD }
+  - { offset: 0xA5997, size: 0x8, addend: 0x0, symName: '+[DFSImageTools imageWithRGBData:length:imageSize:]', symObjAddr: 0xA77, symBinAddr: 0x11A0F, symSize: 0x10D }
+  - { offset: 0xA5AF2, size: 0x8, addend: 0x0, symName: '+[DFSImageTools removeTransparency:]', symObjAddr: 0xB84, symBinAddr: 0x11B1C, symSize: 0x59 }
+  - { offset: 0xA5B90, size: 0x8, addend: 0x0, symName: '+[DFSImageTools maskImage:withMask:]', symObjAddr: 0xBDD, symBinAddr: 0x11B75, symSize: 0x1C2 }
+  - { offset: 0xA5DC3, size: 0x8, addend: 0x0, symName: '+[DFSImageTools cropImage:toRect:]', symObjAddr: 0xD9F, symBinAddr: 0x11D37, symSize: 0x17F }
+  - { offset: 0xA5EF1, size: 0x8, addend: 0x0, symName: '+[DFSImageTools grayscaleImage:]', symObjAddr: 0xF1E, symBinAddr: 0x11EB6, symSize: 0xD7 }
+  - { offset: 0xA5FA8, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotateImage:degrees:]', symObjAddr: 0xFF5, symBinAddr: 0x11F8D, symSize: 0x279 }
+  - { offset: 0xA6247, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotateImage:toOrientation:]', symObjAddr: 0x126E, symBinAddr: 0x12206, symSize: 0x46E }
+  - { offset: 0xA64F0, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotateImage:toOrientation:].cold.1', symObjAddr: 0x1F88, symBinAddr: 0x12F20, symSize: 0x23 }
+  - { offset: 0xA6531, size: 0x8, addend: 0x0, symName: '+[DFSImageTools scaleImage:size:]', symObjAddr: 0x16DC, symBinAddr: 0x12674, symSize: 0x1A5 }
+  - { offset: 0xA66EC, size: 0x8, addend: 0x0, symName: '+[DFSImageTools isImage:correctSize:]', symObjAddr: 0x1881, symBinAddr: 0x12819, symSize: 0x77 }
+  - { offset: 0xA6783, size: 0x8, addend: 0x0, symName: '+[DFSImageTools isPixelBuffer:correctSize:]', symObjAddr: 0x18F8, symBinAddr: 0x12890, symSize: 0x83 }
+  - { offset: 0xA6837, size: 0x8, addend: 0x0, symName: '+[DFSImageTools rotationDegreesForOrientation:]', symObjAddr: 0x197B, symBinAddr: 0x12913, symSize: 0x20 }
+  - { offset: 0xA687A, size: 0x8, addend: 0x0, symName: '+[DFSImageTools splitImage:padding:]', symObjAddr: 0x199B, symBinAddr: 0x12933, symSize: 0x3E9 }
+  - { offset: 0xA6AF1, size: 0x8, addend: 0x0, symName: '+[DFSImageTools adjustImage:]', symObjAddr: 0x1D84, symBinAddr: 0x12D1C, symSize: 0x204 }
 ...

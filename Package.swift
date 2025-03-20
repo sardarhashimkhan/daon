@@ -68,12 +68,12 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonFaceMatcher",
-            url: "https://github.com/sardarhashimkhan/daon/releases/download/13.0.0/DaonFaceDetector.xcframework.zip",
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/13.0.0/DaonFaceMatcher.xcframework.zip",
             checksum: "45fa53158c552b0ece62ed3d23a7c2c989fd59d239ae05e3fbddef71c150f9db"
         ),
         .binaryTarget(
             name: "DaonFaceQuality",
-            url: "https://github.com/sardarhashimkhan/daon/releases/download/13.0.0/DaonFaceDetector.xcframework.zip",
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/13.0.0/DaonFaceQuality.xcframework.zip",
             checksum: "ae9fd9c11efbcdd240c3e3211d7c456dcd3170dd20a262ed37f8741dae420287"
         ),
         .binaryTarget(

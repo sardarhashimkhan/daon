@@ -6,11 +6,11 @@
 	<dict>
 		<key>ios-arm64/DaonFaceSDK.framework/DaonFaceSDK</key>
 		<data>
-		SRuTKGsw66A9jZd9tQ8yy6Vm4yI=
+		+4a/PLCIBWG9j3Sedy5B4V0lMYg=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSAnalysisDelegate.h</key>
 		<data>
-		wMUHW7aHLvCQwprjgiLgS195Kdw=
+		VtYLVaEE1W6mHeqgcJ9tb2ut524=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSAnalyzerProtocol.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSEnrollDelegate.h</key>
 		<data>
-		i7uR+kxjVAftP3qblcTJa8I2EdI=
+		iiKgmWJstMtK379ooBbrA6FTHHk=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSFace.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSLivenessResult.h</key>
 		<data>
-		wNYBtbr5J0bH0L4hp3VD4MvkuL4=
+		Q6O1H554HhXLI/HMz7j7cSnPPuw=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSModule.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSModuleProtocol.h</key>
 		<data>
-		cSMVkF+AYs/OeFMLhqwgGti67DA=
+		65LYITVOn7YSbUk9fEznEvzWkps=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSPositionAnalyzer.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSRecognitionResult.h</key>
 		<data>
-		+Kyhr8OH4oEsC+DWucfQ5EQ9T6A=
+		DenLdZmYsvvnrynCDQNfaHSeaTg=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSRecognizerAnalyzer.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSResult.h</key>
 		<data>
-		3i+MioNXVVpNZDYTKc9jHLbfNWY=
+		dchdJitG42E/ZjzQal3/spKjOdY=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSScoreBuffer.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DaonFace.h</key>
 		<data>
-		PogtwfnDQ8XPy5rusQXXN1gM/sY=
+		Ou4uaKeFIubsqOsJAWMPaNh/8FM=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DaonFaceSDK.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Info.plist</key>
 		<data>
-		1k48LvW70fdKZ6azbFciIZqBumY=
+		BFzOLJp+N+eXPAnsDVI5QaNXTUg=
 		</data>
 		<key>ios-arm64/DaonFaceSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -130,23 +130,23 @@
 		</data>
 		<key>ios-arm64/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		TB59oPq3/x9WUwF9pJ7sqbjAq8k=
+		HGxX4OaBpNMoiOnx4CUC8A9bd2I=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/DWARF/DaonFaceSDK</key>
 		<data>
-		+/bKs7L12MkvnYGXmWHq1jxiX2g=
+		yYSLQTRb5wrz8SzMnj18Vpy5TmY=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceSDK.yml</key>
 		<data>
-		7P3jjifzRYsRH4e5xTUHBrg7qlg=
+		3Rekl8/LUK/rpi5VLaqTDDiTS4I=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/DaonFaceSDK</key>
 		<data>
-		/GlbvXZ8tRkI3hLr8ahX2heOYjA=
+		7HNehQSwy+cyubVAppYCG8UsHI8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSAnalysisDelegate.h</key>
 		<data>
-		wMUHW7aHLvCQwprjgiLgS195Kdw=
+		VtYLVaEE1W6mHeqgcJ9tb2ut524=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSAnalyzerProtocol.h</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSEnrollDelegate.h</key>
 		<data>
-		i7uR+kxjVAftP3qblcTJa8I2EdI=
+		iiKgmWJstMtK379ooBbrA6FTHHk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSFace.h</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSLivenessResult.h</key>
 		<data>
-		wNYBtbr5J0bH0L4hp3VD4MvkuL4=
+		Q6O1H554HhXLI/HMz7j7cSnPPuw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSModule.h</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSModuleProtocol.h</key>
 		<data>
-		cSMVkF+AYs/OeFMLhqwgGti67DA=
+		65LYITVOn7YSbUk9fEznEvzWkps=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSPositionAnalyzer.h</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSRecognitionResult.h</key>
 		<data>
-		+Kyhr8OH4oEsC+DWucfQ5EQ9T6A=
+		DenLdZmYsvvnrynCDQNfaHSeaTg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSRecognizerAnalyzer.h</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSResult.h</key>
 		<data>
-		3i+MioNXVVpNZDYTKc9jHLbfNWY=
+		dchdJitG42E/ZjzQal3/spKjOdY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSScoreBuffer.h</key>
 		<data>
@@ -242,7 +242,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DaonFace.h</key>
 		<data>
-		PogtwfnDQ8XPy5rusQXXN1gM/sY=
+		Ou4uaKeFIubsqOsJAWMPaNh/8FM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DaonFaceSDK.h</key>
 		<data>
@@ -254,7 +254,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Info.plist</key>
 		<data>
-		sHpxbiOSiTyJR0NmVNq313wPUi4=
+		demWvXNjxVp9LMwlVbB9k/6llrw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -266,23 +266,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		qgktCEPb+SdoMQgMBmWinVOjlsg=
+		TSsVci7SSQXPcrinbSy9uW/M7i4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		TB59oPq3/x9WUwF9pJ7sqbjAq8k=
+		HGxX4OaBpNMoiOnx4CUC8A9bd2I=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/DWARF/DaonFaceSDK</key>
 		<data>
-		EPNi/eJB1Zbd3ROUzRo8Pbh2KVk=
+		p+gXo/gWLcuMrdJYz9kF+lAR3sw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceSDK.yml</key>
 		<data>
-		6bSdIuWo8J6HVZ6YTZIDAYJVXLk=
+		HqQsQCoguhfPwzG5+P8HOp2C15s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonFaceSDK.yml</key>
 		<data>
-		kDK51q/h/KYQV/nC6VawRVWKxGk=
+		m2KDVQF4a7By3Jinr93jfbA1rvo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -291,22 +291,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SRuTKGsw66A9jZd9tQ8yy6Vm4yI=
+			+4a/PLCIBWG9j3Sedy5B4V0lMYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			tLqOX9cRnmqzgz9ulaJ2+DkNiVO1mnpNAfOqENddaPA=
+			aOVRo2WMm/IOGHm8GfKP2F2xxsvIRkA2O8OuTO+CVhU=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSAnalysisDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wMUHW7aHLvCQwprjgiLgS195Kdw=
+			VtYLVaEE1W6mHeqgcJ9tb2ut524=
 			</data>
 			<key>hash2</key>
 			<data>
-			PEgWdNNoGlfWi79FgRwNHk5eCpvojAD8StxRupHSw8Y=
+			aDZ9yRduor+YanOXn8N3b8YgkDGDlpvXhvBCmBqQMtY=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSAnalyzerProtocol.h</key>
@@ -346,11 +346,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i7uR+kxjVAftP3qblcTJa8I2EdI=
+			iiKgmWJstMtK379ooBbrA6FTHHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			gaXLdci6LzlOkJAemIO/9t24x4X9xrQc+Cc/6GPYcBE=
+			Pi+z0J2yLkVuNMrHV60Rdm3IkQ8ETtOav44ZwViEHWw=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSFace.h</key>
@@ -434,11 +434,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wNYBtbr5J0bH0L4hp3VD4MvkuL4=
+			Q6O1H554HhXLI/HMz7j7cSnPPuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7PbCGaAGphopx76jOTrJ4SEfiewbGE/myj0purn5Cn4=
+			LbBx2OAQYMsdQb4MYEqloVDGVesz7m9OuRucc+pTCa4=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSModule.h</key>
@@ -456,11 +456,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cSMVkF+AYs/OeFMLhqwgGti67DA=
+			65LYITVOn7YSbUk9fEznEvzWkps=
 			</data>
 			<key>hash2</key>
 			<data>
-			nZXuKTy895AubrA8ySRNh9L2Mbvjma6ol7LxzSa/BWs=
+			tONbJFvZYmDxZuogTx7n5bMyuoeWthPPuSJG/nT+MYg=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSPositionAnalyzer.h</key>
@@ -511,11 +511,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Kyhr8OH4oEsC+DWucfQ5EQ9T6A=
+			DenLdZmYsvvnrynCDQNfaHSeaTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			8uaiinm9Jlsf0KfIg7hJqee8bjN5JTCCgPMGRmql0mo=
+			FsdWcWtED10opNAd2zhCIhSG7grBDY2aSGvEnrNRQ2Y=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSRecognizerAnalyzer.h</key>
@@ -544,11 +544,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3i+MioNXVVpNZDYTKc9jHLbfNWY=
+			dchdJitG42E/ZjzQal3/spKjOdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			bJg9jnhvojYWDQYaBTvttDQ/C/x8xxdoSnBjpsI5dLE=
+			1EiY75vLDL2OIL9FuNhtpwriVC8nVG6ZjW8EAAlhgD4=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DFSScoreBuffer.h</key>
@@ -566,11 +566,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PogtwfnDQ8XPy5rusQXXN1gM/sY=
+			Ou4uaKeFIubsqOsJAWMPaNh/8FM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VaamasJdnzgxtg4WOzg+xCIrC6++rwlEb9q4eDX2weg=
+			LBh/vAPzbFfp1o7Z+kV034qZXhFJn2CecRUeckBgvro=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Headers/DaonFaceSDK.h</key>
@@ -599,11 +599,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1k48LvW70fdKZ6azbFciIZqBumY=
+			BFzOLJp+N+eXPAnsDVI5QaNXTUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OmwHhIT2zq1MDlYngLbigFS89p1O8awfEY80WlKYEas=
+			Ku9D5kbYnYqvvXi+pd4J0TalVO/y6unPI910cO7FpuM=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceSDK.framework/Modules/module.modulemap</key>
@@ -632,55 +632,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TB59oPq3/x9WUwF9pJ7sqbjAq8k=
+			HGxX4OaBpNMoiOnx4CUC8A9bd2I=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Oi0UEze3aKYDSGYITPFedPiNig/nV4mvh4KakDQ6jU=
+			e9GG7pOb6HArA5FnRHv4N9Wlvhoiv9ifOtjOtrwUJSs=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/DWARF/DaonFaceSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+/bKs7L12MkvnYGXmWHq1jxiX2g=
+			yYSLQTRb5wrz8SzMnj18Vpy5TmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0BdlV7piRUTwjMCcgoFmUkrFsrWtYTcRAhD6b5FDVE0=
+			Luil0sTlke6pNzgRnU2C0qIvPDN+Okb8XYr3fk8wIuA=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7P3jjifzRYsRH4e5xTUHBrg7qlg=
+			3Rekl8/LUK/rpi5VLaqTDDiTS4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			DqIJfiQ65xaKTHmGNPg/q/tKQnHt7GRSIZapaE299vg=
+			HsX2TB+g3iOvKPuDNhN+mFyvgX4IyEmOVzAvDdkrSdE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/DaonFaceSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/GlbvXZ8tRkI3hLr8ahX2heOYjA=
+			7HNehQSwy+cyubVAppYCG8UsHI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			GpVghfci3EWU7zCJifYVw/JbVDY/WZR5Ybh+oJaui0c=
+			Um2hHpfnkiJ/PXydG+8opU9IxVTURGrSR2Fm0N9N6eg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSAnalysisDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wMUHW7aHLvCQwprjgiLgS195Kdw=
+			VtYLVaEE1W6mHeqgcJ9tb2ut524=
 			</data>
 			<key>hash2</key>
 			<data>
-			PEgWdNNoGlfWi79FgRwNHk5eCpvojAD8StxRupHSw8Y=
+			aDZ9yRduor+YanOXn8N3b8YgkDGDlpvXhvBCmBqQMtY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSAnalyzerProtocol.h</key>
@@ -720,11 +720,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i7uR+kxjVAftP3qblcTJa8I2EdI=
+			iiKgmWJstMtK379ooBbrA6FTHHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			gaXLdci6LzlOkJAemIO/9t24x4X9xrQc+Cc/6GPYcBE=
+			Pi+z0J2yLkVuNMrHV60Rdm3IkQ8ETtOav44ZwViEHWw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSFace.h</key>
@@ -808,11 +808,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wNYBtbr5J0bH0L4hp3VD4MvkuL4=
+			Q6O1H554HhXLI/HMz7j7cSnPPuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7PbCGaAGphopx76jOTrJ4SEfiewbGE/myj0purn5Cn4=
+			LbBx2OAQYMsdQb4MYEqloVDGVesz7m9OuRucc+pTCa4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSModule.h</key>
@@ -830,11 +830,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cSMVkF+AYs/OeFMLhqwgGti67DA=
+			65LYITVOn7YSbUk9fEznEvzWkps=
 			</data>
 			<key>hash2</key>
 			<data>
-			nZXuKTy895AubrA8ySRNh9L2Mbvjma6ol7LxzSa/BWs=
+			tONbJFvZYmDxZuogTx7n5bMyuoeWthPPuSJG/nT+MYg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSPositionAnalyzer.h</key>
@@ -885,11 +885,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Kyhr8OH4oEsC+DWucfQ5EQ9T6A=
+			DenLdZmYsvvnrynCDQNfaHSeaTg=
 			</data>
 			<key>hash2</key>
 			<data>
-			8uaiinm9Jlsf0KfIg7hJqee8bjN5JTCCgPMGRmql0mo=
+			FsdWcWtED10opNAd2zhCIhSG7grBDY2aSGvEnrNRQ2Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSRecognizerAnalyzer.h</key>
@@ -918,11 +918,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3i+MioNXVVpNZDYTKc9jHLbfNWY=
+			dchdJitG42E/ZjzQal3/spKjOdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			bJg9jnhvojYWDQYaBTvttDQ/C/x8xxdoSnBjpsI5dLE=
+			1EiY75vLDL2OIL9FuNhtpwriVC8nVG6ZjW8EAAlhgD4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DFSScoreBuffer.h</key>
@@ -940,11 +940,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PogtwfnDQ8XPy5rusQXXN1gM/sY=
+			Ou4uaKeFIubsqOsJAWMPaNh/8FM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VaamasJdnzgxtg4WOzg+xCIrC6++rwlEb9q4eDX2weg=
+			LBh/vAPzbFfp1o7Z+kV034qZXhFJn2CecRUeckBgvro=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Headers/DaonFaceSDK.h</key>
@@ -973,11 +973,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sHpxbiOSiTyJR0NmVNq313wPUi4=
+			demWvXNjxVp9LMwlVbB9k/6llrw=
 			</data>
 			<key>hash2</key>
 			<data>
-			O5HjrezYlhiYsRAlPTGkZfGukZN8cQxnzAwDLLdVFGI=
+			OJdZ2l3l/ulVLbSRZCcsGhzKhjadYCqBbnVhwBqpL6A=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceSDK.framework/Modules/module.modulemap</key>
@@ -1006,55 +1006,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qgktCEPb+SdoMQgMBmWinVOjlsg=
+			TSsVci7SSQXPcrinbSy9uW/M7i4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ubILqGpiD8ctFfPSSlTGGvGyUTZUpKjaofspQhIXuwE=
+			NwEWEIX+rzI7MucKNhViQdG2QMW0mpS+s8hc2+esIec=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TB59oPq3/x9WUwF9pJ7sqbjAq8k=
+			HGxX4OaBpNMoiOnx4CUC8A9bd2I=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Oi0UEze3aKYDSGYITPFedPiNig/nV4mvh4KakDQ6jU=
+			e9GG7pOb6HArA5FnRHv4N9Wlvhoiv9ifOtjOtrwUJSs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/DWARF/DaonFaceSDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EPNi/eJB1Zbd3ROUzRo8Pbh2KVk=
+			p+gXo/gWLcuMrdJYz9kF+lAR3sw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xlg1Sy397/g/xOTvmtJlM5gEpZ5UJWrHwRbOHprzEt0=
+			Qa0wbk2R/3NLyXxvPy1sjb2gqFQsHu45XdJixMoa4gE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6bSdIuWo8J6HVZ6YTZIDAYJVXLk=
+			HqQsQCoguhfPwzG5+P8HOp2C15s=
 			</data>
 			<key>hash2</key>
 			<data>
-			D7/6c11mTkNDG9bs2LWpr3duHLgKyq3bFhvuqIrR1Dw=
+			Un9/dKmsq0PVb5U1cAq96c+v12tTZqjjCMkQuFeIXL4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceSDK.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonFaceSDK.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kDK51q/h/KYQV/nC6VawRVWKxGk=
+			m2KDVQF4a7By3Jinr93jfbA1rvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			zVtsAvg3LBl+z2QTzpR/Hw0inkSu/aU8KPsMg+GijPE=
+			8TMyaNe9HhtZuKcTZ5Q+xttXWM+M6qeDSfa+hmL7kKQ=
 			</data>
 		</dict>
 	</dict>

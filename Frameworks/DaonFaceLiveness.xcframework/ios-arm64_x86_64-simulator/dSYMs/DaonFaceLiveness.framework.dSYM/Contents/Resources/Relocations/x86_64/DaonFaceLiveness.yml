@@ -1,22 +1,20 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/runner/Library/Developer/Xcode/DerivedData/DaonFaceSDK-azgnabzkmyhgjzfdbmpxfkylvstb/Build/Intermediates.noindex/ArchiveIntermediates/Simulator/InstallationBuildProductsLocation/Library/Frameworks/DaonFaceLiveness.framework/DaonFaceLiveness'
+binary-path:     '/Users/jonny/Library/Developer/Xcode/DerivedData/DaonFaceSDK-dcliodcvztshbodwawznybqyteid/Build/Intermediates.noindex/ArchiveIntermediates/Simulator/InstallationBuildProductsLocation/Library/Frameworks/DaonFaceLiveness.framework/DaonFaceLiveness'
 relocations:
-  - { offset: 0x33, size: 0x8, addend: 0x0, symName: _DaonFaceLivenessVersionString, symObjAddr: 0x0, symBinAddr: 0x26F0, symSize: 0x0 }
-  - { offset: 0x67, size: 0x8, addend: 0x0, symName: _DaonFaceLivenessVersionNumber, symObjAddr: 0x40, symBinAddr: 0x2730, symSize: 0x0 }
-  - { offset: 0xA3, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x1D43, symSize: 0x7B }
-  - { offset: 0x2DF, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x1D43, symSize: 0x7B }
-  - { offset: 0x353, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer didReset]', symObjAddr: 0x7B, symBinAddr: 0x1DBE, symSize: 0x12 }
-  - { offset: 0x38C, size: 0x8, addend: 0x0, symName: '+[DFSLivenessAnalyzer module]', symObjAddr: 0x8D, symBinAddr: 0x1DD0, symSize: 0xD }
-  - { offset: 0x3BC, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer name]', symObjAddr: 0x9A, symBinAddr: 0x1DDD, symSize: 0x19 }
-  - { offset: 0x3F7, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer didChangeImageSize:]', symObjAddr: 0xB3, symBinAddr: 0x1DF6, symSize: 0x38 }
-  - { offset: 0x43F, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer stop]', symObjAddr: 0xEB, symBinAddr: 0x1E2E, symSize: 0x3B }
-  - { offset: 0x485, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer didChangeConfiguration:]', symObjAddr: 0x126, symBinAddr: 0x1E69, symSize: 0x1B3 }
-  - { offset: 0x5D4, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer currentTimeMilliseconds]', symObjAddr: 0x2D9, symBinAddr: 0x201C, symSize: 0x42 }
-  - { offset: 0x67E, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer analyzeData:]', symObjAddr: 0x31B, symBinAddr: 0x205E, symSize: 0x14 }
-  - { offset: 0x6B9, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer analyzeData:timestamp:]', symObjAddr: 0x32F, symBinAddr: 0x2072, symSize: 0x27 }
-  - { offset: 0x716, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer detect:format:timestamp:]', symObjAddr: 0x356, symBinAddr: 0x2099, symSize: 0x8 }
-  - { offset: 0x767, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer noResult]', symObjAddr: 0x35E, symBinAddr: 0x20A1, symSize: 0x1AE }
-  - { offset: 0x872, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer determineModelLocations]', symObjAddr: 0x50C, symBinAddr: 0x224F, symSize: 0x3AE }
-  - { offset: 0xA81, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer .cxx_destruct]', symObjAddr: 0x8BA, symBinAddr: 0x25FD, symSize: 0x33 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _DaonFaceLivenessVersionString, symObjAddr: 0x0, symBinAddr: 0x3780, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x67, size: 0x8, addend: 0x0, symName: _DaonFaceLivenessVersionNumber, symObjAddr: 0x40, symBinAddr: 0x37C0, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0xA3, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x2E5A, symSize: 0x7B }
+  - { offsetInCU: 0x1711, offset: 0x178D, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer init]', symObjAddr: 0x0, symBinAddr: 0x2E5A, symSize: 0x7B }
+  - { offsetInCU: 0x1780, offset: 0x17FC, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer didReset]', symObjAddr: 0x7B, symBinAddr: 0x2ED5, symSize: 0x12 }
+  - { offsetInCU: 0x17B9, offset: 0x1835, size: 0x8, addend: 0x0, symName: '+[DFSLivenessAnalyzer module]', symObjAddr: 0x8D, symBinAddr: 0x2EE7, symSize: 0xD }
+  - { offsetInCU: 0x17E9, offset: 0x1865, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer name]', symObjAddr: 0x9A, symBinAddr: 0x2EF4, symSize: 0x19 }
+  - { offsetInCU: 0x1824, offset: 0x18A0, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer didChangeImageSize:]', symObjAddr: 0xB3, symBinAddr: 0x2F0D, symSize: 0x38 }
+  - { offsetInCU: 0x186C, offset: 0x18E8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer stop]', symObjAddr: 0xEB, symBinAddr: 0x2F45, symSize: 0x3B }
+  - { offsetInCU: 0x18B2, offset: 0x192E, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer didChangeConfiguration:]', symObjAddr: 0x126, symBinAddr: 0x2F80, symSize: 0x1C3 }
+  - { offsetInCU: 0x19FD, offset: 0x1A79, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer analyzeData:]', symObjAddr: 0x2E9, symBinAddr: 0x3143, symSize: 0x14 }
+  - { offsetInCU: 0x1A38, offset: 0x1AB4, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer analyzeData:timestamp:]', symObjAddr: 0x2FD, symBinAddr: 0x3157, symSize: 0x8 }
+  - { offsetInCU: 0x1A7E, offset: 0x1AFA, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer noResult]', symObjAddr: 0x305, symBinAddr: 0x315F, symSize: 0x1AE }
+  - { offsetInCU: 0x1B85, offset: 0x1C01, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer determineModelLocations]', symObjAddr: 0x4B3, symBinAddr: 0x330D, symSize: 0x390 }
+  - { offsetInCU: 0x1D5C, offset: 0x1DD8, size: 0x8, addend: 0x0, symName: '-[DFSLivenessAnalyzer .cxx_destruct]', symObjAddr: 0x843, symBinAddr: 0x369D, symSize: 0x33 }
 ...

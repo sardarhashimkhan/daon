@@ -6,11 +6,11 @@
 	<dict>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/Assets.car</key>
 		<data>
-		isHZii++nRR9/ClVl9W+KiSzyy0=
+		wqnz3OPmw4Y5JV6XARQc4OiQ/iY=
 		</data>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/DaonAuthenticatorFace</key>
 		<data>
-		Xl0BZ9MDTdAP8vByq8UmQj62YZU=
+		gTJNJ8wW6pnsiwANF9lK237zC80=
 		</data>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/Headers/DASFaceAuthenticatorFactory.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/Info.plist</key>
 		<data>
-		do1VHdP1IGW9Yw7R1ML5paaH0TY=
+		bqHBmGtV5tSB6LusQhIwPbJjMjY=
 		</data>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,27 +50,27 @@
 		</data>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		Fo7sebV/R02g8kqyPtqICO8eVyI=
+		FG2MSw0OiG7j9NkX3W6wI5or3xw=
 		</data>
 		<key>ios-arm64/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		bh0/QzVafytiL5Y9Fj9FxIBrfw0=
+		rSVnfzlU8/V3dcip6fPJWTeabKo=
 		</data>
 		<key>ios-arm64/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/DWARF/DaonAuthenticatorFace</key>
 		<data>
-		cLqLQqe6fiCyxpp28+e2C0RuFHY=
+		BcF0A02L6A7jjtx/8TauBnGNNQc=
 		</data>
 		<key>ios-arm64/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonAuthenticatorFace.yml</key>
 		<data>
-		Xn3mGhR3gfpVAmHw31Hkfc8oHog=
+		EL47TZW6cThYOTco1yc6AhunqeM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Assets.car</key>
 		<data>
-		isHZii++nRR9/ClVl9W+KiSzyy0=
+		wqnz3OPmw4Y5JV6XARQc4OiQ/iY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/DaonAuthenticatorFace</key>
 		<data>
-		QHZwj1QOFTfCWsofJiFiw5gIBfg=
+		JtdXEa1FWkyiqEHNf2S05Aoy4TI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Headers/DASFaceAuthenticatorFactory.h</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Info.plist</key>
 		<data>
-		yisN4sx5kiJ+/vMPUH+hed+FW/s=
+		mVq8P3s3ZJKVQAhdQjEJfZt3tSQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Modules/module.modulemap</key>
 		<data>
@@ -110,27 +110,27 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		Fo7sebV/R02g8kqyPtqICO8eVyI=
+		FG2MSw0OiG7j9NkX3W6wI5or3xw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Or1BPwMs/VcBJDKzf/wV+vZhWDc=
+		Ie29DZLprLcpLzBkDfGyiFndg4w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		bh0/QzVafytiL5Y9Fj9FxIBrfw0=
+		rSVnfzlU8/V3dcip6fPJWTeabKo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/DWARF/DaonAuthenticatorFace</key>
 		<data>
-		/qejOifbRNyWF0Lz0RP255ZFGA0=
+		jz/6wn5e84uZuzKqcPiw22ka69k=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonAuthenticatorFace.yml</key>
 		<data>
-		nfnqek7ltzeFBu2B4v5AFWzoxh4=
+		EwKMSUeBAQcUhaluGx4Tl2A/NA4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonAuthenticatorFace.yml</key>
 		<data>
-		fv8if/yNgSUFVAQTvldwipJIocA=
+		l0rXG1GHjQv1w9aOinQm4hcv8qk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -139,22 +139,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			isHZii++nRR9/ClVl9W+KiSzyy0=
+			wqnz3OPmw4Y5JV6XARQc4OiQ/iY=
 			</data>
 			<key>hash2</key>
 			<data>
-			R6sw1thDO34l+zsJzI3DO3a74pMB/6B8MRxu3c9tj7I=
+			04KdDegItdhL+2iCBWiJOlIOlk5i/Lo9fdYXcmoU9FI=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/DaonAuthenticatorFace</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xl0BZ9MDTdAP8vByq8UmQj62YZU=
+			gTJNJ8wW6pnsiwANF9lK237zC80=
 			</data>
 			<key>hash2</key>
 			<data>
-			VZBPNqQ3V3u+G9v2zkHHLI0ewz5P0/N91WmEstlolXY=
+			Y3rEguwtMg+Ie7vNMEGkPPSzuMw+jIXhqA+l6hIO7Ko=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/Headers/DASFaceAuthenticatorFactory.h</key>
@@ -238,11 +238,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			do1VHdP1IGW9Yw7R1ML5paaH0TY=
+			bqHBmGtV5tSB6LusQhIwPbJjMjY=
 			</data>
 			<key>hash2</key>
 			<data>
-			c+ANH13Fpj1r6F+RQ2lPTjLw9565/BEeZMLD8mUezDk=
+			+vsLj4lXS+SFjYBHdPKttkM5qaf/bbxg5jiB/xZfEro=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonAuthenticatorFace.framework/Modules/module.modulemap</key>
@@ -260,66 +260,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Fo7sebV/R02g8kqyPtqICO8eVyI=
+			FG2MSw0OiG7j9NkX3W6wI5or3xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZFIpWmrSklTJLGaAOPLGos/UQMB82oH4FOmWrCFbhBU=
+			cU5Vd99PFcNq9hQdktGuVmhRStVXxoVn9gLZxeSfUbU=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bh0/QzVafytiL5Y9Fj9FxIBrfw0=
+			rSVnfzlU8/V3dcip6fPJWTeabKo=
 			</data>
 			<key>hash2</key>
 			<data>
-			dG1yHe3y/XRr3MkabUKxsZIJmLYbLqqqLM29Axdrcr4=
+			i3lwG4usLRpL7uxY8jE+hlQpM/PnnGPLgE7TLjsJzCk=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/DWARF/DaonAuthenticatorFace</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cLqLQqe6fiCyxpp28+e2C0RuFHY=
+			BcF0A02L6A7jjtx/8TauBnGNNQc=
 			</data>
 			<key>hash2</key>
 			<data>
-			av9dTvE5w5hGoJ1jGVaDPHzjEbQa8t+8CAG4NUZwLGk=
+			/J4GiQdYTlsZEXq1OtePQUpxiE/oKNFfVp7yX0OUTyQ=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonAuthenticatorFace.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xn3mGhR3gfpVAmHw31Hkfc8oHog=
+			EL47TZW6cThYOTco1yc6AhunqeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZQWklorCflGNlKIbIaIKfA2BUNhOpjZLXw8G3FJnuEc=
+			6jX+9HaRLBSxMI5XdeOHqE36RFlt6abjW5lqhDIokqg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			isHZii++nRR9/ClVl9W+KiSzyy0=
+			wqnz3OPmw4Y5JV6XARQc4OiQ/iY=
 			</data>
 			<key>hash2</key>
 			<data>
-			R6sw1thDO34l+zsJzI3DO3a74pMB/6B8MRxu3c9tj7I=
+			04KdDegItdhL+2iCBWiJOlIOlk5i/Lo9fdYXcmoU9FI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/DaonAuthenticatorFace</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QHZwj1QOFTfCWsofJiFiw5gIBfg=
+			JtdXEa1FWkyiqEHNf2S05Aoy4TI=
 			</data>
 			<key>hash2</key>
 			<data>
-			R2OPE1HpnW8Mdy1zEgcKRxF1Vbv8pFc+SfAkFfMirwo=
+			sGrbh+0izfRemS0qaFihzXSdPz1sJPMI7TxswFC1wAg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Headers/DASFaceAuthenticatorFactory.h</key>
@@ -403,11 +403,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yisN4sx5kiJ+/vMPUH+hed+FW/s=
+			mVq8P3s3ZJKVQAhdQjEJfZt3tSQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SP8QzXr2MomkWoZ9WxLBZBoWQQ3hwjN7CDH/bNO0j8w=
+			OLPb15Jz4oVpecbHP71rNDgqS9ZWmcBuWg2LFpXbs2o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/Modules/module.modulemap</key>
@@ -425,66 +425,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Fo7sebV/R02g8kqyPtqICO8eVyI=
+			FG2MSw0OiG7j9NkX3W6wI5or3xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZFIpWmrSklTJLGaAOPLGos/UQMB82oH4FOmWrCFbhBU=
+			cU5Vd99PFcNq9hQdktGuVmhRStVXxoVn9gLZxeSfUbU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonAuthenticatorFace.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Or1BPwMs/VcBJDKzf/wV+vZhWDc=
+			Ie29DZLprLcpLzBkDfGyiFndg4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			uEDDBp4ddlO9wt/rWbbnV8JbgQSLZjHc2RbmpuArkpQ=
+			85k5LJIOZ2yZCaQWp6vGzN/PrqejLtvriXv4bPLGbvU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bh0/QzVafytiL5Y9Fj9FxIBrfw0=
+			rSVnfzlU8/V3dcip6fPJWTeabKo=
 			</data>
 			<key>hash2</key>
 			<data>
-			dG1yHe3y/XRr3MkabUKxsZIJmLYbLqqqLM29Axdrcr4=
+			i3lwG4usLRpL7uxY8jE+hlQpM/PnnGPLgE7TLjsJzCk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/DWARF/DaonAuthenticatorFace</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/qejOifbRNyWF0Lz0RP255ZFGA0=
+			jz/6wn5e84uZuzKqcPiw22ka69k=
 			</data>
 			<key>hash2</key>
 			<data>
-			ktXfD3+vohNdVsMbPxRz9lQYqZMrdzLOGkg119lvmtQ=
+			QWQKzfC56IohAnnYHsd2RTs5yyzxg/CqkMHO/VY0l1Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonAuthenticatorFace.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nfnqek7ltzeFBu2B4v5AFWzoxh4=
+			EwKMSUeBAQcUhaluGx4Tl2A/NA4=
 			</data>
 			<key>hash2</key>
 			<data>
-			RitgpS8cxUJO/8a15WyISrHlkgTbm90S5crzFY3YCOM=
+			QxzqR8iHBf2ryHcNrT7P93mt0PS8T4lxNYMmm8admDU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonAuthenticatorFace.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonAuthenticatorFace.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fv8if/yNgSUFVAQTvldwipJIocA=
+			l0rXG1GHjQv1w9aOinQm4hcv8qk=
 			</data>
 			<key>hash2</key>
 			<data>
-			MhD+gXfxb+SpXFx4JSPaxP9lIIDfADKvyObMyfS5qBo=
+			sMOfcDI9KEzm+G3bzqzQDhmXUsKAh2bLltbz21hhkis=
 			</data>
 		</dict>
 	</dict>

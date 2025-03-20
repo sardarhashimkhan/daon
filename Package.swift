@@ -13,19 +13,19 @@ let package = Package(
                       "DaonAuthenticatorFace",
                       "DaonAuthenticatorSDK",
                       "DaonDocument",
-                      "DaonFaceDetector",
-                      "DaonFaceMatcher",
-                      "DaonFaceQuality",
+                      "DaonFaceLiveness",
                       "DaonFaceSDK",
-                      "DaonIDCapture"]
+                      "DaonIDCapture",
+                      "DaonFIDOSDK",
+                      "DaonCryptoSDK",
+                      "DaonAuthenticatorSDK",]
         ),
         .library(
-            name: "DaonFIDOSDK",
+            name: "DaonFaceSupport",
             targets: [
-                "DaonFIDOSDK",
-                "DaonCryptoSDK",
-                "DaonAuthenticatorSDK",
-                "DaonFaceLiveness"
+                "DaonFaceMatcher",
+                "DaonFaceDetector",
+                "DaonFaceQuality",
             ]
         ),
     ],
@@ -41,13 +41,11 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonAuthenticatorSDK",
-            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonAuthenticatorSDK.xcframework.zip",
-            checksum: "9c5e5e94c6985a6b93682cfa840c94b43070e00ce9c58188edd75feea71670ce"
+            path: "Frameworks/DaonAuthenticatorSDK.xcframework"
         ),
         .binaryTarget(
             name: "DaonCryptoSDK",
-            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonCryptoSDK.xcframework.zip",
-            checksum: "46b7af75e6e3884b0a807ed29ab8f002efde4328ff2ea7a2b5b3b54448f87288"
+            path: "Frameworks/DaonCryptoSDK.xcframework"
         ),
         .binaryTarget(
             name: "DaonDocument",
@@ -55,20 +53,22 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonFaceDetector",
-            path: "Frameworks/DaonFaceDetector.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/18.0.0/DaonFaceDetector.xcframework.zip",
+            checksum: "91264d07cb5d70d3a97c9e604d28bcf6f03e601a6b742c710c7ea4583979baf5"
         ),
         .binaryTarget(
             name: "DaonFaceLiveness",
-            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonFaceLiveness.xcframework.zip",
-            checksum: "9ad9b4b7bd06196d91d4575e47d8bed62ecd735ed7c7e61ebee0588168b3ca98"
+            path: "Frameworks/DaonFaceLiveness.xcframework"
         ),
         .binaryTarget(
             name: "DaonFaceMatcher",
-            path: "Frameworks/DaonFaceMatcher.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/18.0.0/DaonFaceMatcher.xcframework.zip",
+            checksum: "45fa53158c552b0ece62ed3d23a7c2c989fd59d239ae05e3fbddef71c150f9db"
         ),
         .binaryTarget(
             name: "DaonFaceQuality",
-            path: "Frameworks/DaonFaceQuality.xcframework"
+            url: "https://github.com/sardarhashimkhan/daon/releases/download/18.0.0/DaonFaceQuality.xcframework.zip",
+            checksum: "ae9fd9c11efbcdd240c3e3211d7c456dcd3170dd20a262ed37f8741dae420287"
         ),
         .binaryTarget(
             name: "DaonFaceSDK",
@@ -76,8 +76,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonFIDOSDK",
-            url: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonFIDOSDK.xcframework.zip",
-            checksum: "8aff6ddf32c5e342d6d0d44a828ef5da9670223ad8b837e8d75533575dae6e8f"
+            path: "Frameworks/DaonFIDOSDK.xcframework"
         ),
         .binaryTarget(
             name: "DaonIDCapture",

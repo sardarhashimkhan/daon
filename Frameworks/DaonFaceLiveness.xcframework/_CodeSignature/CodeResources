@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/DaonFaceLiveness.framework/DaonFaceLiveness</key>
 		<data>
-		9dccb5aQbubDYbehzAlOnlhExjU=
+		aP2Ox5czem9uarxlUJONobmGvFs=
 		</data>
 		<key>ios-arm64/DaonFaceLiveness.framework/Headers/DFSLivenessAnalyzer.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/DaonFaceLiveness.framework/Info.plist</key>
 		<data>
-		4Mwv/CtUrWVhEcSiDOfyhlckRCA=
+		NpW5kE3d81xANUo7Sz8bUyvk5E4=
 		</data>
 		<key>ios-arm64/DaonFaceLiveness.framework/Models/face-liveness/depth_detect_nn-1.0.1.sml</key>
 		<data>
@@ -66,23 +66,23 @@
 		</data>
 		<key>ios-arm64/DaonFaceLiveness.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		l8pznCoZGZZmSjW2XzNb+qEu6hE=
+		FG2MSw0OiG7j9NkX3W6wI5or3xw=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		3ShKCPSpycQd0V8MUlU5YiP/phI=
+		uhVOPfNcz2I5e7bxmKpmhRpTzqE=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/DWARF/DaonFaceLiveness</key>
 		<data>
-		rIuHTFmHddIWguUt1cBJlH2t4K8=
+		BUnOcFAk/quIly/QYuhsVTiStds=
 		</data>
 		<key>ios-arm64/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceLiveness.yml</key>
 		<data>
-		JqGDvPNjc582lFqhc5i4Bapml/w=
+		Nl51DC/TvDm2KQGMQ4jF6WL7ar4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/DaonFaceLiveness</key>
 		<data>
-		drX3vgLhtLVrSN393/VlIT3bL5k=
+		LBZ8pqebG930UvzJjFH6mhIifTA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/Headers/DFSLivenessAnalyzer.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/Info.plist</key>
 		<data>
-		j+yOzWeJ9UcoshSRFANFSxXxkng=
+		9rgQRKYDxDNwR4eSWRdWdNVW2wI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/Models/face-liveness/depth_detect_nn-1.0.1.sml</key>
 		<data>
@@ -142,27 +142,27 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		l8pznCoZGZZmSjW2XzNb+qEu6hE=
+		FG2MSw0OiG7j9NkX3W6wI5or3xw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/_CodeSignature/CodeResources</key>
 		<data>
-		JX/OowTjh8EUnXFyVIscZu3o8Nk=
+		8ZQ0gONEhSaHytLsvf7yY8V9PGQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		3ShKCPSpycQd0V8MUlU5YiP/phI=
+		uhVOPfNcz2I5e7bxmKpmhRpTzqE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/DWARF/DaonFaceLiveness</key>
 		<data>
-		sA8nQY4m3FUdww0pTxL8A9r0Xm8=
+		3ZvdmM18b0JRl1Tl/B0SVyq6h38=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceLiveness.yml</key>
 		<data>
-		8Wj8EP1ae7j2KwlLlUVcOyGFWzw=
+		zhQwt9IDWmgVnjdS0CESf/Bty9w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonFaceLiveness.yml</key>
 		<data>
-		HP6J0UDnD8X4AVpdj15iashDCn8=
+		mdQN4JLDV+ro55+TXSulGAQXyYg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -171,11 +171,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9dccb5aQbubDYbehzAlOnlhExjU=
+			aP2Ox5czem9uarxlUJONobmGvFs=
 			</data>
 			<key>hash2</key>
 			<data>
-			6EM3224dwiiOdJ++mThddSeZcqGLHEy+18L0vGFPJe4=
+			jcQMZLWvNeaVxuSE4C3HmUf99QSJ6QQmxD467Ynaj20=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceLiveness.framework/Headers/DFSLivenessAnalyzer.h</key>
@@ -204,11 +204,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4Mwv/CtUrWVhEcSiDOfyhlckRCA=
+			NpW5kE3d81xANUo7Sz8bUyvk5E4=
 			</data>
 			<key>hash2</key>
 			<data>
-			lbZ5RDQBNMvOQ9JWNjQPaVtHLz3mqZqsglgnarkffQk=
+			lLHp+r+pnTNWRRE0IIT3exmbfsrE6hFb+Ow79r6mopU=
 			</data>
 		</dict>
 		<key>ios-arm64/DaonFaceLiveness.framework/Models/face-liveness/depth_detect_nn-1.0.1.sml</key>
@@ -336,55 +336,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l8pznCoZGZZmSjW2XzNb+qEu6hE=
+			FG2MSw0OiG7j9NkX3W6wI5or3xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cGJ69HZIjEhBPIq+xzqKt+XBagZuFKLjiOdZkBNC2PI=
+			cU5Vd99PFcNq9hQdktGuVmhRStVXxoVn9gLZxeSfUbU=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3ShKCPSpycQd0V8MUlU5YiP/phI=
+			uhVOPfNcz2I5e7bxmKpmhRpTzqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			zkvnODXkK/HEODwM+XZv1MzGko656jGSMkUFwhIEr24=
+			8Hr6hRqqtF9bllDoSMDRukTbzmJyaGPL/ORPYY4UNOw=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/DWARF/DaonFaceLiveness</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rIuHTFmHddIWguUt1cBJlH2t4K8=
+			BUnOcFAk/quIly/QYuhsVTiStds=
 			</data>
 			<key>hash2</key>
 			<data>
-			m1uacRbHlVE/V78L+JcQ2goI1DmZJnjY/xqdGBaEItg=
+			fSkRSC/mFkS/jRhrUx0PkL293+AO/FutcWVLjzumWTQ=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceLiveness.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JqGDvPNjc582lFqhc5i4Bapml/w=
+			Nl51DC/TvDm2KQGMQ4jF6WL7ar4=
 			</data>
 			<key>hash2</key>
 			<data>
-			zTL4K/SaMyAkbMdlsOCyVfzFnRzzlqUO+W+vu/9h6uU=
+			FtnOYRBnkGpJxjlhWQRbwt2sZiUMtFWY3u56aJrFiDM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/DaonFaceLiveness</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			drX3vgLhtLVrSN393/VlIT3bL5k=
+			LBZ8pqebG930UvzJjFH6mhIifTA=
 			</data>
 			<key>hash2</key>
 			<data>
-			xP05cRT4W014l7d2YB7KgPLbZ05p9vHWz0Wd6gGWae8=
+			8n3TE43lGUNoG7aBeRqlWBA3CinI9aDlSNYZCuBvHAI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/Headers/DFSLivenessAnalyzer.h</key>
@@ -413,11 +413,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j+yOzWeJ9UcoshSRFANFSxXxkng=
+			9rgQRKYDxDNwR4eSWRdWdNVW2wI=
 			</data>
 			<key>hash2</key>
 			<data>
-			4WT2Ls01vPvU9YWP3yMcXzQwWHb/8Of+pYQBizm+zCw=
+			s+hK/Uytb49JmOhQtBQu/oeRfaCe7i92IkWPkVKbfTQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/Models/face-liveness/depth_detect_nn-1.0.1.sml</key>
@@ -545,66 +545,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l8pznCoZGZZmSjW2XzNb+qEu6hE=
+			FG2MSw0OiG7j9NkX3W6wI5or3xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cGJ69HZIjEhBPIq+xzqKt+XBagZuFKLjiOdZkBNC2PI=
+			cU5Vd99PFcNq9hQdktGuVmhRStVXxoVn9gLZxeSfUbU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DaonFaceLiveness.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JX/OowTjh8EUnXFyVIscZu3o8Nk=
+			8ZQ0gONEhSaHytLsvf7yY8V9PGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZsvjw0xzxrH0aROKSBFJJ3UFzGU2ueAJEeDMZJUWuw=
+			yqxjAY85Iw0AhBBJrMISfU1XFM6CFaorIoFD1xXVzqo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3ShKCPSpycQd0V8MUlU5YiP/phI=
+			uhVOPfNcz2I5e7bxmKpmhRpTzqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			zkvnODXkK/HEODwM+XZv1MzGko656jGSMkUFwhIEr24=
+			8Hr6hRqqtF9bllDoSMDRukTbzmJyaGPL/ORPYY4UNOw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/DWARF/DaonFaceLiveness</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sA8nQY4m3FUdww0pTxL8A9r0Xm8=
+			3ZvdmM18b0JRl1Tl/B0SVyq6h38=
 			</data>
 			<key>hash2</key>
 			<data>
-			Dj44SdKnHH2QsTTr3aGlXlh2Wp83QD8n05SU8mkMWBg=
+			t9Kac4a9e+P6wUNSZ7v/YHlNl/f1pJ6dctpixdGJIR4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/Relocations/aarch64/DaonFaceLiveness.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Wj8EP1ae7j2KwlLlUVcOyGFWzw=
+			zhQwt9IDWmgVnjdS0CESf/Bty9w=
 			</data>
 			<key>hash2</key>
 			<data>
-			SPiXrEvoe1MvBhGYaiqp8mlHbChFqiE3Rhx00qDEDdw=
+			mgDy7PUuSMJviMK9+z8LQLSci5UqgXK8/P8aUk3oSME=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/DaonFaceLiveness.framework.dSYM/Contents/Resources/Relocations/x86_64/DaonFaceLiveness.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HP6J0UDnD8X4AVpdj15iashDCn8=
+			mdQN4JLDV+ro55+TXSulGAQXyYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			t8I7xGP4VSqs0OZTX2MhbK54Lmgskx0S8TCyz9dCCLI=
+			zH+49T6tFHNmCOEYvdvw81LY59o9CXqVikXrtNqRqTU=
 			</data>
 		</dict>
 	</dict>

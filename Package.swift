@@ -9,29 +9,28 @@ let package = Package(
     products: [
         .library(
             name: "DaonFrameworks",
-            targets: ["DaonFrameworks"]
+            targets: ["BlinkID",
+                      "DaonAuthenticatorFace",
+                      "DaonAuthenticatorSDK",
+                      "DaonDocument",
+                      "DaonFaceDetector",
+                      "DaonFaceLiveness",
+                      "DaonFaceMatcher",
+                      "DaonFaceQuality",
+                      "DaonFaceSDK",
+                      "DaonIDCapture"]
+        ),
+        .library(
+            name: "DaonFIDOSDK",
+            targets: [
+                "DaonFIDOSDK",
+                "DaonCryptoSDK",
+                "DaonAuthenticatorSDK"
+            ]
         ),
     ],
     dependencies: [],
     targets: [
-        .target(
-            name: "DaonFrameworks",
-            dependencies: [
-                            "BlinkID",
-                            "DaonAuthenticatorFace",
-                            "DaonAuthenticatorSDK",
-                            "DaonCryptoSDK",
-                            "DaonDocument",
-                            "DaonFaceDetector",
-                            "DaonFaceLiveness",
-                            "DaonFaceMatcher",
-                            "DaonFaceQuality",
-                            "DaonFaceSDK",
-                            "DaonFIDOSDK",
-                            "DaonIDCapture",
-                            "nc7000_3a_fs_matcher"
-                        ]
-        ),
         .binaryTarget(
             name: "BlinkID",
             path: "Frameworks/BlinkID.xcframework"
@@ -42,7 +41,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DaonAuthenticatorSDK",
-            path: "Frameworks/DaonAuthenticatorSDK.xcframework"
+            path: "https://github.com/daoninc/fido-sdk-ios/releases/download/4.9.177/DaonAuthenticatorSDK.xcframework.zip"
         ),
         .binaryTarget(
             name: "DaonCryptoSDK",
@@ -81,10 +80,6 @@ let package = Package(
         .binaryTarget(
             name: "DaonIDCapture",
             path: "Frameworks/DaonIDCapture.xcframework"
-        ),
-        .binaryTarget(
-            name: "nc7000_3a_fs_matcher",
-            path: "Frameworks/nc7000_3a_fs_matcher.xcframework"
         ),
         
     ]

@@ -31,6 +31,22 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
+        .target(
+            name: "DaonFrameworks",
+            dependencies: [
+                            "BlinkID",
+                            "DaonAuthenticatorFace",
+                            "DaonAuthenticatorSDK",
+                            "DaonDocument",
+                            "DaonFaceDetector",
+                            "DaonFaceLiveness",
+                            "DaonFaceMatcher",
+                            "DaonFaceQuality",
+                            "DaonFaceSDK",
+                            "DaonIDCapture",
+                            "nc7000_3a_fs_matcher"
+                        ]
+        ),
         .binaryTarget(
             name: "BlinkID",
             path: "Frameworks/BlinkID.xcframework"

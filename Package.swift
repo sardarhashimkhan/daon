@@ -44,7 +44,6 @@ let package = Package(
                             "DaonFaceQuality",
                             "DaonFaceSDK",
                             "DaonIDCapture",
-                            "nc7000_3a_fs_matcher"
                         ]
         ),
         .binaryTarget(

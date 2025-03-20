@@ -1,6 +1,0 @@
-framework module DaonCryptoSDK {
-  umbrella header "DaonCryptoSDK.h"
-  export *
-
-  module * { export * }
-}
